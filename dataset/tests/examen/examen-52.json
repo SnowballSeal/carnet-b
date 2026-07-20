@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 52,
+  "nombre": "Test de examen 52",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En una autopista con tres carriles para cada sentido, ¿qué distancia de seguridad debe dejar un turismo con el vehículo que circula delante?",
+      "imagen": "examen-52_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "La que permita detener el vehículo en caso de frenado brusco y permita que los demás adelanten con seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "La que permita detener el vehículo en caso de frenado brusco del que va delante sin colisionar con él."
+        }
+      ],
+      "ayuda": "Respecto a la separación frontal a mantener con el vehículo que circula delante, bastará con dejar un espacio suficiente que permita detener el vehículo en caso de frenado brusco del que va delante sin colisionar con él, en donde hubiere más de un carril destinado a la circulación en un mismo sentido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "En vías interurbanas y en calzadas con más de un carril para el mismo sentido de marcha, ¿por dónde circulará normalmente un automóvil?",
+      "imagen": "examen-52_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el carril central."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el carril derecho."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el que más convenga a su destino."
+        }
+      ],
+      "ayuda": "Como norma general, los vehículos circularán por el carril situado más a la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Para evitar la fatiga en la conducción, conviene descansar...",
+      "imagen": "examen-52_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cada 3 horas o cada 400 kilómetros."
+        },
+        {
+          "letra": "B",
+          "texto": "cuando el conductor compruebe que ha perdido totalmente la capacidad de reaccionar."
+        },
+        {
+          "letra": "C",
+          "texto": "cada 2 horas o cada 200 kilómetros."
+        }
+      ],
+      "ayuda": "Para evitar la fatiga en la conducción, conviene descansar cada 2 horas de conducción, o cada 200 kilómetros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En un turismo, ¿quiénes están obligados a llevar puesto el cinturón de seguridad?",
+      "imagen": "examen-52_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo los que van en los asientos delanteros."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo los que van en los asientos traseros."
+        },
+        {
+          "letra": "C",
+          "texto": "Todos los ocupantes del vehículo."
+        }
+      ],
+      "ayuda": "Como norma general, y salvo las excepciones previstas reglamentariamente, todos los ocupantes de un turismo, están obligados a llevar colocado el cinturón de seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Como norma general, ¿puede llevar a un niño en su vehículo sin un dispositivo de retención adecuado?",
+      "imagen": "examen-52_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en trayectos cortos en vías urbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si lo lleva una persona adulta en brazos, firmemente agarrado."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Como norma general, y salvo las excepciones previstas reglamentariamente, los niños, no podrán viajar sin utilizar un dispositivo de retención adecuado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿De cuántos puntos dispone un conductor novel?",
+      "imagen": "examen-52_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De 16 puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "De 8 puntos."
+        },
+        {
+          "letra": "C",
+          "texto": "De 12 puntos."
+        }
+      ],
+      "ayuda": "La asignación inicial de puntos, para conductores que obtienen por primera vez un permiso, o que lo recuperan después de haberlo perdido por la pérdida total de puntos, será de 8 puntos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Una de las consecuencias de la velocidad, es que según aumenta ésta...",
+      "imagen": "examen-52_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se reduce el tiempo de reacción."
+        },
+        {
+          "letra": "B",
+          "texto": "mayor es la gravedad de las lesiones en un accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "se pierde coordinación de movimientos."
+        }
+      ],
+      "ayuda": "La velocidad es un factor determinante en los accidentes. A velocidades elevadas, no sólo es más probable sufrir un accidente, sino que además, las consecuencias del mismo serán mucho más graves.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "La pérdida de vidas, de capacidad productiva y el sufrimiento físico y psicológico, ¿cómo se llaman?",
+      "imagen": "examen-52_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Costes sanitarios."
+        },
+        {
+          "letra": "B",
+          "texto": "Costes humanos."
+        },
+        {
+          "letra": "C",
+          "texto": "Costes materiales."
+        }
+      ],
+      "ayuda": "En relación con los accidentes de tráfico, al hablar de costes humanos, se hace referencia a la pérdida de vidas, a la falta de productividad laboral, a los años potenciales de vida perdidos y al sufrimiento físico y psíquico de las víctimas y de sus familiares y amigos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Cuando se incorporen a la circulación, es obligatorio facilitar la maniobra a...",
+      "imagen": "examen-52_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los taxis, pero únicamente en poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "todos los vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "los vehículos de transporte público de viajeros, únicamente."
+        }
+      ],
+      "ayuda": "Como norma general, es obligatorio facilitar la incorporación, en la medida de lo posible, de todos los vehículos que se incorporen a la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "El semáforo cuadrado de cada carril obliga...",
+      "imagen": "examen-52_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a los vehículos de tres y cuatro ruedas solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "a los vehículos que circulan por el carril donde está el semáforo."
+        },
+        {
+          "letra": "C",
+          "texto": "a todos los vehículos que circulan por la calzada."
+        }
+      ],
+      "ayuda": "Las indicaciones de los semáforos cuadrados o de carril, afectan exclusivamente a los vehículos que circulen por el carril donde esté situado el semáforo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Cuál es la tasa máxima de alcohol permitida para un conductor de un vehículo de transporte escolar?",
+      "imagen": "examen-52_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0.15 miligramos por litro de aire espirado."
+        },
+        {
+          "letra": "B",
+          "texto": "0.30 miligramos por litro de aire espirado."
+        },
+        {
+          "letra": "C",
+          "texto": "0.25 miligramos por litro de aire espirado."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos de transporte escolar o de menores, no podrán circular con una tasa de alcohol en sangre superior a 0.3 gramos por litro de sangre, o 0.15 miligramos por litro de aire espirado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Cuáles son los principales grupos vulnerables en el tráfico?",
+      "imagen": "examen-52_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los ciclistas."
+        },
+        {
+          "letra": "B",
+          "texto": "Los niños, los jóvenes y las personas mayores."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo los niños y las personas mayores."
+        }
+      ],
+      "ayuda": "Los niños, los jóvenes y las personas mayores, forman parte de los principales grupos vulnerables en el entorno del tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Hay mucha niebla. ¿Qué luces deben llevar encendidas los vehículos?",
+      "imagen": "examen-52_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las luces antiniebla junto con las luces cortas."
+        },
+        {
+          "letra": "B",
+          "texto": "Las luces antiniebla junto con las luces de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Las luces de posición, únicamente."
+        }
+      ],
+      "ayuda": "Cuando exista niebla densa, los vehículos deberán utilizar los dispositivos antiniebla, conjuntamente con las luces de corto alcance o cruce. También podrá utilizarse el alumbrado de carretera, aunque no es aconsejable.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "En el borde izquierdo de una calzada, ¿se puede parar como norma general?",
+      "imagen": "examen-52_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que no obstaculice la circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en vías urbanas de sentido único."
+        }
+      ],
+      "ayuda": "Las maniobras de parada y estacionamiento en el lado izquierdo, sólo podrán realizarse en vías urbanas de sentido único.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Estas señales, sobre una carretera convencional, indican salida inmediata hacia...",
+      "imagen": "examen-52_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "una autovía."
+        },
+        {
+          "letra": "B",
+          "texto": "una autopista."
+        },
+        {
+          "letra": "C",
+          "texto": "carretera convencional o carretera multicarril."
+        }
+      ],
+      "ayuda": "Las señales que se observan, situadas sobre la calzada, indican que el conductor circula por una carretera convencional o carretera multicarril (dirección propia) y que la salida señalizada conduce hacia otra carretera convencional o carretera multicarril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "En las glorietas, ¿está prohibido adelantar?",
+      "imagen": "examen-52_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque son intersecciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en vías interurbanas solamente."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En las glorietas, como norma general, no está prohibido adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Un conductor, ¿se puede distraer si come o bebe mientras conduce?",
+      "imagen": "examen-52_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Comer sí puede provocar que el conductor se distraiga, pero beber no."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Realizar otra tarea como comer, beber o fumar durante la conducción, es una causa importante de distracciones. Este tipo de distracciones suele estar relacionada con un importante número de accidentes de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Cuántos espejos retrovisores llevará como máximo un turismo?",
+      "imagen": "examen-52_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "2."
+        },
+        {
+          "letra": "B",
+          "texto": "4."
+        },
+        {
+          "letra": "C",
+          "texto": "3."
+        }
+      ],
+      "ayuda": "Los turismos, como norma general, deben llevar un mínimo de dos espejos retrovisores, y un máximo de tres. En condiciones normales, son obligatorios los espejos exterior izquierdo e interior, siendo opcional el exterior derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Un niño de trece años que mide 150 centímetros de alto, ¿qué asientos puede ocupar en un turismo?",
+      "imagen": "examen-52_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tanto el delantero como los traseros."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo los traseros."
+        },
+        {
+          "letra": "C",
+          "texto": "El delantero, preferentemente."
+        }
+      ],
+      "ayuda": "Los menores de edad de estatura igual o inferior a 135 centímetros deberán utilizar sistemas de retención infantil homologados adaptados a su talla y peso. Además, deberán situarse, como norma general, en los asientos traseros del vehículo.\n\nLa obligación de ocupar los asientos traseros del vehículo, y de utilizar sistemas de retención infantil homologados adaptados a su talla y peso, afecta a los menores de edad de estatura igual o inferior a 135 centímetros. Por lo tanto, un menor de edad que supere dicha estatura puede ocupar el asiento delantero haciendo uso del cinturón de seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Entre la puesta y la salida del sol, ¿está permitido conducir una motocicleta que arrastra un remolque?",
+      "imagen": "examen-52_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si se hace a una velocidad un 10 por ciento por debajo de la genérica de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, como a cualquier otra hora del día."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Las motocicletas, los vehículos de tres ruedas, y los ciclomotores, podrán arrastrar, bajo determinadas condiciones, un remolque o semirremolque.\nCondiciones:\n-El remolque o semirremolque no podrá superar el cincuenta por ciento de la masa en vacío del vehículo tractor.\n-Sólo podrán circular de día y en condiciones que no disminuyan la visibilidad.\n-La velocidad deberá reducirse en un diez por ciento respecto a las velocidades genéricas para estos vehículos fuera de poblado.\n-No se puede transportar personas en el vehículo remolcado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "El efecto submarino se produce especialmente por...",
+      "imagen": "examen-52_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un mal uso del cinturón o del asiento del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "una incorrecta presión de los neumáticos."
+        },
+        {
+          "letra": "C",
+          "texto": "el consumo de alcohol y drogas."
+        }
+      ],
+      "ayuda": "Si el cinturón de seguridad no se coloca correctamente, se puede dar el fenómeno conocido como efecto submarino, el cual consiste en que el cuerpo, si no está bien sujeto por el cinturón, se desliza por debajo de la banda abdominal del mismo. Este efecto constituye uno de los riesgos más graves asociados al uso incorrecto del cinturón, y es evitable si se toman las siguientes medidas:\n-Colocar correctamente el cinturón (especialmente la banda abdominal).\n-Evitar las holguras del mismo, ya que el efecto submarino suele aparecer cuando el cinturón no está bien ceñido. Por ello, no se debe conducir con ropa voluminosa (chaquetas, abrigos,\netc.), ni usar pinzas o cojines a fin de darle holgura al cinturón.\n-Adoptar una postura adecuada y evitar colocar sobre el asiento elementos inapropiados.\n-Conducir con el asiento muy inclinado puede favorecer el deslizamiento del cuerpo así como llevar toallas, cojines, fundas, etc., sobre el asiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Un peatón que empuja a un vehículo de dos ruedas, ¿por dónde está obligado a circular?",
+      "imagen": "examen-52_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la derecha, por la calzada o por el arcén, según su sentido de la marcha."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la izquierda, por la calzada o el arcén, según su sentido de la marcha."
+        },
+        {
+          "letra": "C",
+          "texto": "Por la derecha o por la izquierda indistintamente."
+        }
+      ],
+      "ayuda": "Como norma general, en todas las vías fuera de poblado y travesías, que no disponga de zona peatonal, los peatones circularán por la izquierda.\n\nComo excepción, circularán siempre por la derecha, tanto dentro como fuera de poblado, los siguientes peatones:\n\nLos que empujen o arrastren un ciclo o ciclomotor de dos ruedas.\nCarros de mano o aparatos similares.\nGrupos de personas dirigidos o que formen cortejo.\nLas personas de movilidad reducida que se desplacen en silla de ruedas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Qué usuarios de la vía deben obedecer este semáforo?",
+      "imagen": "examen-52_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Peatones y bicicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "Ciclos."
+        },
+        {
+          "letra": "C",
+          "texto": "Motocicletas."
+        }
+      ],
+      "ayuda": "Cuando las luces de los semáforos presentan la silueta iluminada de un ciclo, sus indicaciones se refieren exclusivamente a ellos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Las luces adaptativas...",
+      "imagen": "examen-52_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "adaptan su luminosidad a la visibilidad existente."
+        },
+        {
+          "letra": "B",
+          "texto": "mejoran la visibilidad en determinadas situaciones, como una curva o una intersección."
+        },
+        {
+          "letra": "C",
+          "texto": "emiten más luz que las luces convencionales."
+        }
+      ],
+      "ayuda": "Luces adaptativas. Adaptan la zona iluminada por los faros a las necesidades del conductor, mejorando la visibilidad en intersecciones, curvas, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Bajo los efectos del estrés la conducción se vuelve...",
+      "imagen": "examen-52_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "más segura."
+        },
+        {
+          "letra": "B",
+          "texto": "menos temeraria."
+        },
+        {
+          "letra": "C",
+          "texto": "más temeraria."
+        }
+      ],
+      "ayuda": "El estrés, provoca un aumento de las conductas inseguras. Los conductores estresados aceptan y asumen mayores riesgos al volante, volviéndose más temerarios e imprudentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Se puede circular por la izquierda de una línea continua?",
+      "imagen": "examen-52_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si la vía es de sentido único."
+        }
+      ],
+      "ayuda": "Cuando la calzada por la se circula es de sentido único, se podrá circular por la izquierda de una línea continua, estando prohibidos, como norma general, los desplazamientos laterales que impliquen el rebasamiento de dicha línea (no se puede volver al carril derecho atravesando la línea).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Es posible tener un accidente debido al sueño sin haberse quedado totalmente dormido?",
+      "imagen": "examen-52_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero sólo por la noche."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, los primeros síntomas de somnolencia ya afectan a la conducción."
+        }
+      ],
+      "ayuda": "Los accidentes en los que el sueño aparece como causa se producen a cualquier hora del día, y no solamente durante la noche. No es necesario quedarse dormido al volante para tener un accidente por esta causa, la somnolencia o estado de necesidad de dormir previo al sueño, disminuye sensiblemente las capacidades para conducir en condiciones de seguridad adecuadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Qué debe hacer cuando encuentre las señales?",
+      "imagen": "examen-52_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "obedecer la señal más restrictiva."
+        },
+        {
+          "letra": "B",
+          "texto": "pasar obligatoriamente por el lado que indica la flecha, porque hacia el lado izquierdo la entrada está prohibida."
+        },
+        {
+          "letra": "C",
+          "texto": "circular por el lado que indica la flecha, pudiendo pasar por el lado izquierdo si observa que no se aproxima ningún vehículo en sentido contrario."
+        }
+      ],
+      "ayuda": "La señal de la derecha (flecha azul) señala el lado por el que los vehículos deben pasar obligatoriamente, mientras que la señal de la izquierda (orla roja) prohíbe la circulación de toda clase de vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Como norma general, ¿está permitido adelantar en los pasos a nivel?",
+      "imagen": "examen-52_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando se haga a una velocidad que permita detener el vehículo a tiempo."
+        }
+      ],
+      "ayuda": "Como norma general, y salvo determinadas excepciones previstas reglamentariamente, en los está prohibido adelantar en los pasos a nivel y en sus proximidades.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Según las estadísticas, la antigüedad media de las furgonetas implicadas en accidentes mortales de tráfico es de...",
+      "imagen": "examen-52_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "uno o dos años."
+        },
+        {
+          "letra": "B",
+          "texto": "cuatro a cinco años."
+        },
+        {
+          "letra": "C",
+          "texto": "once años aproximadamente."
+        }
+      ],
+      "ayuda": "La antigüedad de las furgonetas implicadas en accidentes mortales en vías interurbanas fue 10,1 y en vías urbanas 11,8.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

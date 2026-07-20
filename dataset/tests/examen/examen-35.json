@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 35,
+  "nombre": "Test de examen 35",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Qué sistema avanzado de ayuda a la conducción detecta y avisa al conductor sobre el riesgo de colisión con otros vehículos, peatones y ciclistas?",
+      "imagen": "examen-35_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El sistema de aviso de colisión frontal con detección de peatones y ciclistas (FCW+P+C)"
+        },
+        {
+          "letra": "B",
+          "texto": "El AEB o frenado de emergencia urbano e interurbano."
+        },
+        {
+          "letra": "C",
+          "texto": "El DDR o sistema de advertencia de somnolencia y distracciones."
+        }
+      ],
+      "ayuda": "Sistema ADAS FCW - forward collision warning.\nSistema de alerta para situaciones en las que se produzca riesgo de colisión con otros vehículos que se encuentren delante del propio vehículo. Además, pueden incluir la detección de peatones y ciclistas (+P +C) para enviar una alerta visual y sonora ante una colisión inminente con un peatón o ciclista. Se conoce también como \"Advertencia de colisión con peatones y ciclistas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "El turismo blanco está adelantando incorrectamente. ¿Qué puede hacer el conductor del vehículo verde para facilitar el adelantamiento? ",
+      "imagen": "examen-35_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No debe hacer nada."
+        },
+        {
+          "letra": "B",
+          "texto": "Levantar el pie del acelerador o pisar un poco el freno."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular por el arcén."
+        }
+      ],
+      "ayuda": "El conductor del vehículo adelantado estará obligado a disminuir la velocidad de su vehículo cuando, una vez iniciada la maniobra de adelantamiento, se produzca alguna situación que entrañe peligro para su propio vehículo, para el vehículo que la está efectuando, para los que circulan en sentido contrario o para cualquier otro usuario de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "La señal de velocidad máxima pintada sobre un carril, ¿qué indica?",
+      "imagen": "examen-35_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prohibido circular a más de 60 kilómetros por hora en todos los carriles."
+        },
+        {
+          "letra": "B",
+          "texto": "Prohibido circular a más de 60 kilómetros por hora en ese carril."
+        },
+        {
+          "letra": "C",
+          "texto": "Prohibido circular a más de 60 kilómetros por hora para los vehículos que van a girar a la derecha."
+        }
+      ],
+      "ayuda": "La marca vial que consiste en una señal de velocidad máxima pintada sobre un carril significa que está prohibido circular a más de 60 kilómetros por hora en el carril donde está situada. En este caso, los vehículos que circulen sobre dicho carril tienen prohibido hacerlo por encima de 60 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Qué vehículos podrán llevar la señal de advertencia de peligro de ángulos muertos para vehículos de transporte de pasajeros y mercancías?",
+      "imagen": "examen-35_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "todos los vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "los turismos y las motocicletas."
+        },
+        {
+          "letra": "C",
+          "texto": "los vehículos de reparto, de distribución de mercancías, los autobuses urbanos y de escolares y los camiones pesados."
+        }
+      ],
+      "ayuda": "La señal de advertencia de peligro de ángulos muertos para vehículos de transporte de pasajeros y mercancías la podrán llevar los vehículos de reparto, distribución de mercancías, autobuses urbanos, escolares y camiones pesados. El objetivo es indicar a los usuarios vulnerables en zonas urbanas, la importancia de situarse fuera de las zonas no visibles para los conductores de estos vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Cuando no se puede circular hacia adelante ni cambiar de dirección o sentido de la marcha, ¿se permite circular marcha atrás?",
+      "imagen": "examen-35_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo con el recorrido mínimo indispensable."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero el recorrido hacia atrás no puede ser superior a 15 metros ni se puede invadir un cruce de vías."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Cuando no sea posible marchar hacia adelante ni cambiar de dirección o sentido de marcha, se podrá circular marcha atrás pero siempre con el recorrido mínimo indispensable.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Esta señal indica...",
+      "imagen": "examen-35_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la situación de un surtidor o estación de servicio de carburantes con disponibilidad de gas licuado de petróleo (GLP) o autogás y estación de recarga eléctrica."
+        },
+        {
+          "letra": "B",
+          "texto": "la situación de una estación de servicio solo para vehículos eléctricos."
+        },
+        {
+          "letra": "C",
+          "texto": "la proximidad de una área de servicios para vehículos eléctricos. "
+        }
+      ],
+      "ayuda": "Señal de Surtidor de carburante, GLP y estación de recarga eléctrica.\nIndica la situación de un surtidor o estación de servicio de carburantes con disponibilidad de gas licuado de petróleo (GLP) o autogás y estación de recarga eléctrica.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Conducir bajo los efectos del alcohol o de las drogas, ¿está considerado como delito en el Código Penal?",
+      "imagen": "examen-35_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, las sanciones son exclusivamente económicas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo cuando el conductor sea responsable de un accidente con víctimas mortales."
+        }
+      ],
+      "ayuda": "La conducción bajo los efectos de drogas tóxicas, estupefacientes, sustancias psicotrópicas o de bebidas alcohólicas, o bien presentando determinados niveles de alcoholemia, constituye un delito castigado por el Código Penal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Si presencia un accidente en el que ni está implicado, ni, de forma manifiesta, es necesaria su colaboración, ¿debe detenerse?",
+      "imagen": "examen-35_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, hay que detenerse y colaborar siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "No, se debe continuar."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si se produce fuera de poblado y no hay cerca ningún poste SOS."
+        }
+      ],
+      "ayuda": "Con carácter general los usuarios de las vías que se vean implicados en un accidente de tráfico, lo presencien o tengan conocimiento de él estarán obligados a auxiliar o solicitar auxilio para atender a las víctimas, si las hubiera y prestar su colaboración. No obstante, en los casos en que no se esté implicado en el accidente y, manifiestamente, no sea necesaria nuestra colaboración por estar la ayuda ya organizada, se debe continuar circulando y evitar ser un obstáculo para la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Qué debe hacer para que el vehículo tenga un mejor agarre sobre la calzada?",
+      "imagen": "examen-35_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Inflar los neumáticos por encima de la presión recomendada por el fabricante."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuidar que la profundidad del dibujo del neumático nunca sea inferior a 1,6 mm."
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizar neumáticos radiales en las ruedas delanteras y diagonales en las traseras."
+        }
+      ],
+      "ayuda": "Es muy importante para la seguridad y para garantizar unas adecuadas condiciones de adherencia, que la banda de rodadura de los neumáticos conserve en buen estado el dibujo y que la profundidad de las hendiduras del mismo en ningún caso sea inferior a 1,6 mm.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "La tecnología e-Call:",
+      "imagen": "examen-35_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "avisa al conductor cuando detecta un obstáculo en la carretera con el que se impactará si el vehículo sigue su trayectoria y no se detiene."
+        },
+        {
+          "letra": "B",
+          "texto": "permite que se efectúe una llamada automática de socorro en caso de accidente del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "no permite conocer la ubicación del vehículo para proteger la privacidad de sus ocupantes."
+        }
+      ],
+      "ayuda": "El sistema eCall o sistema de aviso de emergencia en caso de accidente, es un dispositivo que se pone en marcha cuando saltan los airbags del vehículo tras un accidente, estableciéndose una comunicación con el centro de emergencias 112. Este sistema también puede activarse de manera manual pulsando el botón SOS que llevan los vehículos equipados con este sistema.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "El alcohol desaparece de la sangre...",
+      "imagen": "examen-35_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "rápidamente, eliminándose por completo una hora después de su consumo."
+        },
+        {
+          "letra": "B",
+          "texto": "inmediatamente después de su consumo a través del sudor y de la orina."
+        },
+        {
+          "letra": "C",
+          "texto": "muy lentamente, eliminándose por completo varias horas después de su consumo."
+        }
+      ],
+      "ayuda": "Cuando se ha consumido alcohol, el posterior proceso de eliminación del mismo del organismo se produce muy lentamente, eliminándose por completo varias horas después de su consumo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Como norma general, los clientes de un taxi que se encuentre prestando servicio público de viajeros, ¿pueden viajar sin ponerse el cinturón de seguridad?",
+      "imagen": "examen-35_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo cuando circulen por vías urbanas o travesías."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Con carácter general la utilización del cinturón de seguridad es obligatoria, por lo que lo pasajeros de un taxi NO están exentos y, por lo tanto, no pueden viajar sin abrocharse debidamente dicho elemento de seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Si ha instalado en su vehículo neumáticos de invierno, ¿es conveniente sustituirlos cuando las temperaturas comiencen a ser más cálidas?",
+      "imagen": "examen-35_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque cuando la temperatura es más cálida se desgastan con más rapidez."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque se adaptan progresivamente a los cambios de temperatura."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque en tiempo cálido disminuye considerablemente la distancia de frenado."
+        }
+      ],
+      "ayuda": "Los neumáticos de invierno son especiales para utilizar en temperaturas bajas. Las condiciones ideales para utilizarlos son aquellas en las que la temperatura ambiente se sitúa por debajo de los 7 grados centígrados aproximadamente. En épocas del año en las que las temperaturas son más cálidas, es mejor sustituirlos para evitar que se desgasten prematuramente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Durante el día y con tiempo soleado, deberá llevar encendida la luz de corto alcance cuando...",
+      "imagen": "examen-35_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circule a una velocidad inferior a 40 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "circule en tramos de vías estrechas con muchas curvas."
+        },
+        {
+          "letra": "C",
+          "texto": "circule por un carril reversible."
+        }
+      ],
+      "ayuda": "Los conductores que circulen por un carril reversible deberán llevar encendida, al menos, la luz de corto alcance o de cruce en sus vehículos tanto de día como de noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "El vehículo derivado de turismo está destinado a...",
+      "imagen": "examen-35_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "servicios o a transporte exclusivo de mercancías."
+        },
+        {
+          "letra": "B",
+          "texto": "transporte de personas."
+        },
+        {
+          "letra": "C",
+          "texto": "transporte, simultáneo o no, de personas y mercancías."
+        }
+      ],
+      "ayuda": "Derivado de turismo: automóvil destinado a servicios o a transporte exclusivo de mercancías, derivado de un turismo del cual conserva la carrocería y dispone únicamente de una fila de asientos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "La altura máxima permitida para los vehículos grúa destinados a la retirada de vehículos accidentados o averiados es de:",
+      "imagen": "examen-35_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "4,50 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "4,60 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "4 metros."
+        }
+      ],
+      "ayuda": "Si bien con carácter general la altura máxima de los vehículos incluida la carga, es de 4 metros, existen algunas excepciones para determinados vehículos. En el caso de los vehículos grúa destinados a la retirada de vehículos accidentados o averiados, la altura máxima permitida es de 4,50 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Qué sistema de retención infantil asegura un montaje correcto y más sencillo, además de una sujeción más firme?",
+      "imagen": "examen-35_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El sistema ISOFIX."
+        },
+        {
+          "letra": "B",
+          "texto": "El sistema de anclaje por cinturón de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "El sistema de correas de sujeción."
+        }
+      ],
+      "ayuda": "El sistema Isofix permite un montaje más sencillo y correcto de la sillita, además de dotarla de una sujeción más firme.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Un camión o furgón que transporte mercancías peligrosas, ¿qué velocidad podrá alcanzar como máximo cuando circula por una autopista o una autovía?\n",
+      "imagen": "examen-35_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "70 kilómetros por hora.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "90 kilómetros por hora.\n"
+        },
+        {
+          "letra": "C",
+          "texto": "80 kilómetros por hora."
+        }
+      ],
+      "ayuda": "La velocidad máxima para los vehículos que transportan mercancías peligrosas es 10 km/h inferior a la máxima fijada en función del tipo de vehículo y de la vía por la que circula. Como la velocidad máxima para los camiones en autopista o autovía es de 90 km/h, cuando transporten mercancías peligrosas no podrán superar los 80 km/h. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Qué indica la señal?",
+      "imagen": "examen-35_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La existencia de un coto de caza o de pesca. "
+        },
+        {
+          "letra": "B",
+          "texto": "La situación de un parque natural."
+        },
+        {
+          "letra": "C",
+          "texto": "Punto de partida para excursiones a pie."
+        }
+      ],
+      "ayuda": "Parque o espacio natural.\nIndica la situación de un parque o espacio natural. Su nombre podrá figurar inscrito en la señal. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Los vehículos de movilidad personal (VMP), como los patinetes eléctricos, ¿están obligados a llevar luces?",
+      "imagen": "examen-35_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, tanto delante como detrás y deberán incluir la función de luz de freno."
+        },
+        {
+          "letra": "B",
+          "texto": "No, solo están obligados a llevar un dispositivo de advertencia acústica (timbre) y dispositivos reflectantes."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, deben llevar luces de posición y de cruce."
+        }
+      ],
+      "ayuda": "Los vehículos de movilidad personal han de equipar un sistema de iluminación en la parte delantera (blanca) y trasera (roja) e incluir la función de luz de freno diferenciada o combinada con la luz trasera. Además, deben estar equipados de catadióptricos frontales, traseros y laterales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "El sistema ADAS de “Alerta de tráfico cruzado o RCTA” ¿A qué velocidad interviene en los frenos del vehículo en caso de colisión inminente?",
+      "imagen": "examen-35_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A una velocidad inferior a 15 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "A una velocidad inferior o igual a 30 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A cualquier velocidad, pero solo cuando se circule marcha atrás."
+        }
+      ],
+      "ayuda": "El sistema de alerta de tráfico cruzado (RCTA) supervisa el tráfico trasero en sentido transversal al salir marcha atrás desde un aparcamiento en oblicuo o batería. Si se detecta un vehículo emitirá un aviso sonoro y/o visual. Algunos fabricantes han habilitado en sus modelos la intervención en los frenos con la máxima fuerza en caso de colisión inminente si el conductor no reacciona ante el aviso y siempre que se circule a una velocidad inferior a 15 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "El conductor de una autocaravana con MMA superior a 3.500 kg, ¿por dónde circulará, fuera de poblado, en una calzada con más de un carril reservado para su sentido de marcha? ",
+      "imagen": "examen-35_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circulará siempre por el carril situado a su derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el carril que mejor convenga a su destino, siempre que los carriles estén delimitados por marcas longitudinales."
+        },
+        {
+          "letra": "C",
+          "texto": "Circulará normalmente por el situado más a su derecha, si bien podrá utilizar el resto de los de dicho sentido cuando las circunstancias del tráfico o de la vía lo aconsejen, a condición de que no entorpezca la marcha de otro vehículo que le siga.\n"
+        }
+      ],
+      "ayuda": "Como norma general, los automóviles (incluidas las autocaravanas independientemente de su masa máxima autorizada), en calzadas fuera de poblado con más de un carril reservado para su sentido de marcha, deben circular normalmente por el carril situado más a su derecha.\n\nNo obstante, podrán utilizar el resto de los carriles de dicho sentido cuando las circunstancias del tráfico o de la vía lo aconsejen, a condición de que no entorpezcan la marcha de otro vehículo que le siga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Los conductores de turismos, ¿están obligados a llevar en su vehículo una rueda de uso temporal y las herramientas indispensables para su cambio?",
+      "imagen": "examen-35_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, ya que puede sustituirse por un sistema alternativo que permita la movilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Es obligatorio llevar una rueda de uso temporal, pero no las herramientas para su cambio."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí es un repuesto obligatorio e insustituible que deben llevar todos los turismos."
+        }
+      ],
+      "ayuda": "Los turismos, deberán llevar una rueda completa de repuesto o una rueda de uso temporal, con las herramientas necesarias para el cambio de ruedas, o un sistema alternativo al cambio de las mismas que ofrezca suficientes garantías para la movilidad del vehículo. En estos casos se circulará respetando las limitaciones propias de cada alternativa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "Además de estar regulado a la altura idónea, ¿qué separación debe existir entre el reposacabezas y la cabeza para que sea eficaz?",
+      "imagen": "examen-35_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La mínima posible y nunca superior a 4 centímetros."
+        },
+        {
+          "letra": "B",
+          "texto": "La máxima posible y nunca inferior a 5 centímetros."
+        },
+        {
+          "letra": "C",
+          "texto": "Superior a 10 centímetros."
+        }
+      ],
+      "ayuda": "Para que el reposacabezas cumpla su función correctamente, debe regularse de modo que el borde del mismo quede situado entre los ojos y la parte superior de la cabeza, y la distancia entre aquél y la cabeza nunca sea superior a 4 cm.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Los accidentes de tráfico en los que el sueño es el principal factor de riesgo, ¿pueden suceder durante las horas diurnas?",
+      "imagen": "examen-35_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, especialmente entre las dos y las cuatro de la tarde."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, aunque es un tipo de accidente que solo sufren los conductores profesionales."
+        },
+        {
+          "letra": "C",
+          "texto": "No, solo suceden durante las horas nocturnas."
+        }
+      ],
+      "ayuda": "Existen periodos a lo largo del día en que el sueño aparece con mayor facilidad. Entre las 3 y las 5 de la madrugada, y entre las 14 y las 16 horas, la aparición de la somnolencia se hace más probable, incluso cuando se ha dormido correctamente la noche anterior.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "Los conductores, ¿pueden llevar en los oídos cascos o auriculares conectados a un teléfono móvil mientras conducen?",
+      "imagen": "examen-35_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, excepto los conductores de bicicletas y los de vehículo de movilidad personal."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que los auriculares sean inalámbricos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido como norma general."
+        }
+      ],
+      "ayuda": "Con carácter general, está prohibido llevar en los oídos cascos o auriculares conectados a aparatos receptores o reproductores de sonido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "En caso de detención por emergencia, ¿cómo debe colocar el dispositivo de preseñalización de peligro?",
+      "imagen": "examen-35_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 50 metros del vehículo inmovilizado."
+        },
+        {
+          "letra": "B",
+          "texto": "A 100 metros del vehículo inmovilizado."
+        },
+        {
+          "letra": "C",
+          "texto": "En la parte más alta posible del vehículo inmovilizado, garantizando su máxima visibilidad."
+        }
+      ],
+      "ayuda": "El dispositivo de preseñalización de peligro se utiliza para indicar que el vehículo ha quedado inmovilizado en la calzada o que su carga se encuentra caída sobre la misma. Se colocará en la parte más alta posible del vehículo inmovilizado garantizando su máxima visibilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "En una carretera convencional con separación física de los dos sentidos de circulación, en la que se ha fijado un límite máximo de velocidad de 100 km/h, ¿a qué velocidad máxima podrá circular una autocaravana de MMA inferior a 3.500 kilogramos?",
+      "imagen": "examen-35_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 90 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "A 100 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A 80 km/h."
+        }
+      ],
+      "ayuda": "En carreteras convencionales con separación física de los dos sentidos de circulación, el titular de la vía podrá fijar un límite máximo de 100 km/h para turismos, motocicletas y autocaravanas con masa máxima autorizada igual o inferior a 3.500 kg.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Puede un vehículo de movilidad personal circular por vías interurbanas?",
+      "imagen": "examen-35_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que circule por el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "No, solo puede circular por vías urbanas y travesías."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Los vehículos de movilidad personal (VMP) tienen prohibido circular por travesías, vías interurbanas y autopistas y autovías que transcurren dentro de poblado, así como en túneles urbanos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "En una carretera convencional sin separación física de los dos sentidos de circulación, un turismo, ¿puede superar la velocidad máxima genérica para adelantar a un vehículo que circula a 90 km/h?",
+      "imagen": "examen-35_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque el otro vehículo circula a la velocidad máxima permitida."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque circula a una velocidad máxima de 100 km/h para adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque circula a una velocidad máxima de 110 km/h para adelantar.\n"
+        }
+      ],
+      "ayuda": "No está permitido adelantar si para ello es necesario rebasar el límite de velocidad máxima establecido para la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "categoria_id": 2,
+  "test_id": 19,
+  "nombre": "Serie fácil 19",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "La marca vial compuesta por las letras P y N, una a cada lado de un aspa, indican...",
+      "imagen": "serie-facil-19_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la proximidad de un paso a nivel."
+        },
+        {
+          "letra": "B",
+          "texto": "la proximidad de un paso a nivel, siempre con barreras."
+        }
+      ],
+      "ayuda": "Las marcas viales que se observan, indican un paso a nivel, el cual puede ser con barreras o sin barreras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Es recomendable llevar objetos sueltos en los asientos del vehículo?",
+      "imagen": "serie-facil-19_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No es recomendable, ya que puede ocasionar graves riesgos a los ocupantes al salir proyectados en caso de choque."
+        }
+      ],
+      "ayuda": "No es recomendable llevar objetos sueltos en los asientos del vehículo, ya que pueden ocasionar graves riesgos a los ocupantes al salir proyectados en caso de choque.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "La presión de inflado, debe comprobarse con los neumáticos...",
+      "imagen": "serie-facil-19_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "calientes."
+        },
+        {
+          "letra": "B",
+          "texto": "fríos."
+        },
+        {
+          "letra": "C",
+          "texto": "fríos o calientes, es indiferente."
+        }
+      ],
+      "ayuda": "La presión de inflado se debe comprobar con los neumáticos fríos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Por obras en la calzada se ha abierto un carril en sentido contrario al normal. ¿Puede circular por él un turismo con remolque?",
+      "imagen": "serie-facil-19_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando no lo prohíban otras señales."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando el remolque es ligero."
+        }
+      ],
+      "ayuda": "Por los carriles habilitados en sentido contrario al habitual por razones de obras en la calzada, podrán circular todos los vehículos, salvo prohibición expresa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Para atender a un accidentado de tráfico se debe...",
+      "imagen": "serie-facil-19_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "hacer que se mueva para comprobar si tiene fracturas."
+        },
+        {
+          "letra": "B",
+          "texto": "administrar, lo más rápido posible un calmante."
+        },
+        {
+          "letra": "C",
+          "texto": "evitar movimientos de su cuello para no dañar la columna vertebral."
+        }
+      ],
+      "ayuda": "Para atender correctamente a un accidentado de tráfico, se deben evitar movimientos de cuello para no dañar la columna vertebral.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Entre los distintos tipos de señales, ¿cuál es el orden de prioridad?",
+      "imagen": "serie-facil-19_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Agentes, semáforos y señales verticales."
+        },
+        {
+          "letra": "B",
+          "texto": "Señales verticales, semáforos y agentes."
+        }
+      ],
+      "ayuda": "El orden de prioridad entre los distintos tipos de señales es el siguiente:\n1º Agentes, 2º señales de balizamiento, 3º semáforos, 4º señales verticales y 5º marcas viales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Durmiendo un poco, ¿se elimina más rápidamente el alcohol?",
+      "imagen": "serie-facil-19_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Durmiendo no se elimina antes el alcohol.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Está permitido circular sobre una marca longitudinal discontinua si circula por una calzada con carriles de menos de 3 metros de anchura?",
+      "imagen": "serie-facil-19_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que sea necesario y la seguridad de la circulación lo permita."
+        },
+        {
+          "letra": "B",
+          "texto": "No, nunca"
+        }
+      ],
+      "ayuda": "En carriles estrechos (menos de 3 metros de anchura), se podrá circular sobre las marcas longitudinales discontinuas cuando sea necesario y la seguridad de la circulación lo permita.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "Según un estudio realizado en España, los conductores fumadores...",
+      "imagen": "serie-facil-19_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se ven implicados en el doble de accidentes que los no fumadores."
+        },
+        {
+          "letra": "B",
+          "texto": "se ven implicados en el mismo número de accidentes que los no fumadores."
+        }
+      ],
+      "ayuda": "Según estudios realizados, se ha demostrado que los conductores fumadores se ven implicados en el doble de accidentes que los no fumadores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "La distancia de frenado está determinada por...",
+      "imagen": "serie-facil-19_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la velocidad a la que se circula y por otros factores, como el estado de la vía y el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "solo por el estado del vehículo."
+        }
+      ],
+      "ayuda": "La distancia de frenado depende de la velocidad, del estado de la vía, del vehículo y del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Después de un accidente, ¿debe revisar los cinturones de seguridad?",
+      "imagen": "serie-facil-19_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Después de un accidente es recomendable revisar los cinturones de seguridad, y cambiarlos por unos nuevos si han sufrido daños.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Esta señalización, en un tramo de vía indica...",
+      "imagen": "serie-facil-19_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un área de descanso."
+        },
+        {
+          "letra": "B",
+          "texto": "una zona reservada para camiones."
+        },
+        {
+          "letra": "C",
+          "texto": "una zona de frenado de emergencia."
+        }
+      ],
+      "ayuda": "Las marcas blancas y rojas que se observan, indican una zona de frenado de emergencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "En esta intersección sin señalizar la preferencia, el conductor del vehículo blanco, ¿debe dar prioridad a los ciclistas?",
+      "imagen": "serie-facil-19_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, se aplica la norma general de prioridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, los ciclistas siempre tienen prioridad."
+        }
+      ],
+      "ayuda": "En las intersecciones sin señalizar se les debe ceder el paso solo a los vehículos que se aproximen por la derecha, incluyendo las bicicletas y los vehículos de tracción animal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Cuando tenga que bajar del vehículo para descargar equipaje, ¿debe apagar el motor?",
+      "imagen": "serie-facil-19_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, solo debe dejar accionado el freno de mano."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, y además debe desconectar el sistema de arranque o contacto."
+        }
+      ],
+      "ayuda": "Siempre que el conductor tenga que abandonar su asiento, debe parar el funcionamiento del motor, desconectar el sistema de arranque y dejar accionado el freno de mano.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Con nieve sobre la calzada, ¿cómo se debe iniciar la marcha?",
+      "imagen": "serie-facil-19_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Utilizando la segunda o tercera velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Con la marcha más corta posible."
+        },
+        {
+          "letra": "C",
+          "texto": "Pisando a fondo el embrague."
+        }
+      ],
+      "ayuda": "Para iniciar la marcha en una calzada con nieve, se debe utilizar, generalmente, la segunda o tercera velocidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Cuando señaliza un cambio de carril, ¿tiene preferencia sobre los vehículos que ya circulan por ese carril?",
+      "imagen": "serie-facil-19_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "El simple hecho de poner el intermitente no nos da preferencia de paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "El vehículo que va delante circula lentamente. ¿Cómo debe actuar?",
+      "imagen": "serie-facil-19_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Me acercaré lo máximo posible para que acelere o se aparte."
+        },
+        {
+          "letra": "B",
+          "texto": "Haré señales insistentemente con las luces y el claxon para que acelere."
+        },
+        {
+          "letra": "C",
+          "texto": "Circularé detrás, respetando la distancia de seguridad, hasta que pueda adelantar."
+        }
+      ],
+      "ayuda": "Atendiendo a la fotografía, si el vehículo que va delante circula lentamente, se debe respetar la distancia de seguridad hasta que se pueda adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "El conductor de una motocicleta, antes de cambiar de carril, ¿qué debe tener en cuenta?",
+      "imagen": "serie-facil-19_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que señalizar la maniobra siempre da prioridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Que a ciertas velocidades puede ser difícil que sea percibido por los demás usuarios."
+        }
+      ],
+      "ayuda": "El conductor de una motocicleta que pretenda cambiar de carril, debe saber que a ciertas velocidades puede ser difícil que sea percibido por los demás usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "En una vía de doble sentido un vehículo va a girar a la izquierda, ¿debe facilitar el adelantamiento por la derecha a los demás vehículos?",
+      "imagen": "serie-facil-19_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, arrimándose a la izquierda de su carril todo lo posible, pero sin obstaculizar a los vehículos que circulen en sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, arrimándose todo lo posible al borde izquierdo de la calzada."
+        }
+      ],
+      "ayuda": "Todo conductor que pretenda cambiar de dirección a la izquierda en una calzada de doble sentido de circulación, se colocará a la izquierda de su carril sin invadir el sentido contrario para permitir que le adelanten por la derecha y sin obstaculizar la circulación de los vehículos que se aproximen en sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "La parte central del reposacabezas, ¿a qué altura debe quedar?",
+      "imagen": "serie-facil-19_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A la altura de los ojos."
+        },
+        {
+          "letra": "B",
+          "texto": "A la altura del cuello."
+        }
+      ],
+      "ayuda": "La parte central de reposacabezas debe quedar a la altura de los ojos y a una distancia máxima de la cabeza de 4 centímetros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Un vehículo especial que carece de señalización de frenado no debe rebasar la velocidad máxima de...",
+      "imagen": "serie-facil-19_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "70 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "25 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima permitida para un vehículo especial que carezca de luces de frenado, es de 25 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Si tiene que empujar a pie un ciclomotor de dos ruedas por una vía interurbana sin arcén, ¿por dónde circulará?",
+      "imagen": "serie-facil-19_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el lado derecho de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "En este caso no se puede circular."
+        }
+      ],
+      "ayuda": "Los que empujen a un ciclomotor de dos ruedas, deben circular por la derecha en todas las vías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Si una motocicleta acaba de pasar su primera revisión ITV, debe pasar la siguiente dentro de...",
+      "imagen": "serie-facil-19_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "2 años."
+        },
+        {
+          "letra": "B",
+          "texto": "7 años."
+        },
+        {
+          "letra": "C",
+          "texto": "6 meses."
+        }
+      ],
+      "ayuda": "Si una motocicleta acaba de pasar su primera inspección técnica periódica, la segunda la pasará a los dos años.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "La alcoholemia suele alcanzar su grado o nivel máximo...",
+      "imagen": "serie-facil-19_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "inmediatamente después de la ingesta."
+        },
+        {
+          "letra": "B",
+          "texto": "una hora después de haber bebido."
+        }
+      ],
+      "ayuda": "La alcoholemia suele alcanzar su nivel máximo a la hora siguiente después de haber bebido la última copa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "La carga de su turismo sobresale por detrás. ¿Qué debe hacer?",
+      "imagen": "serie-facil-19_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Señalizarla con paneles de franjas rojas y blancas."
+        },
+        {
+          "letra": "B",
+          "texto": "No es obligatorio señalizarla."
+        },
+        {
+          "letra": "C",
+          "texto": "Señalizarla con tela de color."
+        }
+      ],
+      "ayuda": "La carga que sobresalga por la parte posterior de un turismo, se debe señalizar con un panel cuadrado con franjas alternas blancas y rojas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿En qué caso puede el conductor de una motocicleta circular sin casco?",
+      "imagen": "serie-facil-19_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En ningún caso, el casco es siempre obligatorio."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando la motocicleta cuente con estructura de autoprotección, cinturón de seguridad y así conste en su tarjeta I.T.V."
+        }
+      ],
+      "ayuda": "Si la motocicleta dispone de estructura de autoprotección, cinturones de seguridad y así consta en su tarjeta de I.T.V., el conductor y pasajero no estarán obligados a utilizar el casco de protección, pero sí estarán obligados a utilizar los cinturones de seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Puede un turismo transportar más personas que plazas tenga autorizadas?",
+      "imagen": "serie-facil-19_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Un turismo no puede transportar más personas que plazas tenga autorizadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Está permitido cambiar el sentido de la marcha en una glorieta?",
+      "imagen": "serie-facil-19_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, dejando la glorieta a la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque está prohibido."
+        }
+      ],
+      "ayuda": "Las glorietas se pueden aprovechar para cambiar el sentido de la marcha. Por tanto, se permite cambiar el sentido de la marcha en las glorietas dejando a la izquierda el centro de las mismas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Es obligatorio utilizar el cinturón de seguridad si el vehículo lleva instalado airbag?",
+      "imagen": "serie-facil-19_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque el airbag es un elemento de seguridad más eficaz que el cinturón de seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero sólo por los ocupantes de los asientos traseros del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque el airbag complementa la eficacia del cinturón de seguridad, pero no lo sustituye."
+        }
+      ],
+      "ayuda": "El airbag es un elemento de seguridad pasiva que complementa a los cinturones de seguridad. No está permitido circular sin el cinturón de seguridad abrochado porque el vehículo lleve airbag.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Qué indica este semáforo? ",
+      "imagen": "serie-facil-19_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prohíbe el paso a los autobuses y tranvías."
+        },
+        {
+          "letra": "B",
+          "texto": "Permite el paso a los autobuses y tranvías."
+        },
+        {
+          "letra": "C",
+          "texto": "Permite cambiar de dirección."
+        }
+      ],
+      "ayuda": "Una franja blanca horizontal iluminada prohíbe, a los tranvías y autobuses de líneas regulares, el paso, en las mismas condiciones que la luz roja no intermitente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

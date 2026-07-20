@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 27,
+  "nombre": "Test de examen 27",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Cuál es el número máximo de plazas autorizadas, incluida la del conductor, que puede tener una furgoneta para poder circular? ",
+      "imagen": "examen-27_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "9 plazas."
+        },
+        {
+          "letra": "B",
+          "texto": "3 plazas."
+        },
+        {
+          "letra": "C",
+          "texto": "5 plazas."
+        }
+      ],
+      "ayuda": "De acuerdo con su propia definición, un furgón o furgoneta puede tener hasta un máximo de 9 plazas, incluida la del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "En vías fuera de poblado que no dispongan de espacio especialmente reservado para ellos, ¿qué peatones deben circular por su derecha y obedecer las señales dirigidas a los conductores? ",
+      "imagen": "examen-27_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los que conduzcan un rebaño de animales."
+        },
+        {
+          "letra": "B",
+          "texto": "Los que empujen o arrastren una motocicleta de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "Los discapacitados que se desplacen en silla de ruedas."
+        }
+      ],
+      "ayuda": "Deberán circular siempre por su derecha, aquellos peatones que empujen o arrastren un ciclo o ciclomotor de dos ruedas, carros de mano o aparatos similares, todo grupo de peatones dirigido por una persona o que forme cortejo y los impedidos que se desplacen en silla de ruedas, todos los cuales habrán de obedecer las señales dirigidas a los conductores de vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Para realizar una conducción eficiente y reducir el consumo de carburante, ¿qué debe hacer?",
+      "imagen": "examen-27_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Realizar el mayor número de cambios de marchas posibles, evitando saltarse una marcha."
+        },
+        {
+          "letra": "B",
+          "texto": "Pisar el pedal del acelerador al arrancar el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Usar la relación de marchas más adecuada en cada momento."
+        }
+      ],
+      "ayuda": "Para realizar una conducción eficiente y reducir el consumo de carburante, entre otras medidas, se deben evitar las detenciones innecesarias y circular utilizando la relación de marchas adecuada en cada momento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En una vía urbana con dos carriles de circulación, delimitados por marcas longitudinales, para el mismo sentido de la marcha, ¿le está permitido a un ciclista adelantar por la derecha a un turismo? ",
+      "imagen": "examen-27_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que no exista peligro para los demás usuarios."
+        },
+        {
+          "letra": "B",
+          "texto": "No, deberá adelantarle por la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si el turismo se encuentra detenido o en caso de retención."
+        }
+      ],
+      "ayuda": "Dentro de poblado, en las calzadas que tengan, por lo menos, dos carriles reservados a la circulación en el mismo sentido de marcha, delimitados por marcas longitudinales, se permite el adelantamiento por la derecha a condición de que el conductor del vehículo que lo efectúe se cerciore previamente de que puede hacerlo sin peligro para los demás usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Los ocupantes de un ciclomotor que disponga de cinturones de seguridad, están obligados a utilizarlos...",
+      "imagen": "examen-27_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "únicamente cuando circulen por vías que no dispongan de arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "tanto en vías urbanas como interurbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "solo cuando circulen por vías interurbanas."
+        }
+      ],
+      "ayuda": "Si un ciclomotor dispone de cinturones de seguridad, deben utilizarlos tanto el conductor como, en su caso, el acompañante, independientemente de la clase de vía por la que circule.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Siempre que el recorrido hacia atrás no supere los 15 metros ni invada un cruce de vías, podrá circular marcha atrás... ",
+      "imagen": "examen-27_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "como maniobra complementaria de la parada."
+        },
+        {
+          "letra": "B",
+          "texto": "en autovías y autopistas que discurran por poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "cuando no sea posible cambiar de dirección o sentido de la marcha."
+        }
+      ],
+      "ayuda": "Como maniobra complementaria de la parada o el estacionamiento, se permite circular en marcha atrás hasta un máximo de 15 metros y siempre que no se invada un cruce de vías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "El alcohol puede detectarse en la sangre a partir de los 5 minutos de haberlo consumido, pero, ¿cuándo alcanza su máximo nivel (pico de alcoholemia)? ",
+      "imagen": "examen-27_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Entre los 30 y los 90 minutos después de haberlo consumido."
+        },
+        {
+          "letra": "B",
+          "texto": "Entre los 120 y los 130 minutos después de haberlo consumido."
+        },
+        {
+          "letra": "C",
+          "texto": "Entre las tres y las cuatro horas después de haberlo consumido."
+        }
+      ],
+      "ayuda": "La detección del alcohol puede realizarse a partir de los 5 minutos después de ingerirlo. La alcoholemia aumenta rápidamente hasta alcanzar su pico más alto entre 30 y 90 minutos después de la ingesta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Buscar una emisora de radio o manipular el reproductor de música, ¿pueden distraer el conductor? ",
+      "imagen": "examen-27_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si las emisoras de radio no están guardadas en memoria."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, aumentando el riesgo de accidente."
+        }
+      ],
+      "ayuda": "Las distracciones son una de las principales causas de accidentes.\n\nManipular la radio para buscar una emisora o usar reproductores de música, puede distraer al conductor aumentando el riesgo de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "En un control preventivo, ¿quiénes están obligados a someterse a las pruebas que se establezcan para la detección de alcoholemia? ",
+      "imagen": "examen-27_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente los conductores de vehículos a motor."
+        },
+        {
+          "letra": "B",
+          "texto": "Los conductores de bicicletas."
+        },
+        {
+          "letra": "C",
+          "texto": "Todos los usuarios de la vía."
+        }
+      ],
+      "ayuda": "Están obligados a someterse a las pruebas de alcoholemia, en un control preventivo, todos los conductores de vehículos, incluyendo a los conductores de bicicletas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "El vehículo blanco se quiere incorporar a la circulación proveniente del garaje particular de una vivienda; ¿debe cederle el paso?",
+      "imagen": "examen-27_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si el vehículo blanco está destinado al servicio público."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque se incorpora por la derecha."
+        }
+      ],
+      "ayuda": "Los vehículos que pretendan incorporarse al tráfico, desde cualquier lugar, deben ceder el paso a los vehículos que ya estén incorporados. Por tanto, en este caso, al vehículo blanco que pretende incorporarse a la circulación, no estamos obligados a cederle el paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Los efectos secundarios de los medicamentos que alteran la capacidad de conducción, ¿se manifiestan de la misma manera en todas las personas? ",
+      "imagen": "examen-27_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, sus efectos son idénticos para todas las personas."
+        },
+        {
+          "letra": "B",
+          "texto": "No, pueden variar por diversos factores, como el hábito de consumo o el estado físico del conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si el tratamiento médico se prolonga en el tiempo."
+        }
+      ],
+      "ayuda": "El consumo de medicamentos no provoca los mismos efectos en todas las personas, ya que dependen de cada consumidor y de sus condiciones físicas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "El uso del cinturón de seguridad, ¿reduce el riesgo de fallecimiento en un accidente de tráfico? ",
+      "imagen": "examen-27_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, al contrario, aumenta al doble la posibilidad de resultar muerto."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, reduce a la mitad el riesgo de muerte o de sufrir heridas graves."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo reduce el riesgo en los asientos delanteros pero no en las plazas traseras."
+        }
+      ],
+      "ayuda": "Cabe recordar que cuando no se utiliza el cinturón de seguridad, en caso de accidente, la probabilidad de fallecer es del doble que si se lleva puesto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Un vehículo de dos ruedas provisto de un motor de combustión interna podrá ser catalogado como motocicleta siempre que...",
+      "imagen": "examen-27_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "su cilindrada sea superior a 50 centímetros cúbicos."
+        },
+        {
+          "letra": "B",
+          "texto": "pueda alcanzar una velocidad máxima superior a 40 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "disponga de al menos dos plazas, incluida la del conductor."
+        }
+      ],
+      "ayuda": "Una motocicleta sin sidecar es un vehículo de dos ruedas provisto de un motor de cilindrada superior a 50 centímetros cúbicos si es de combustión interna y/o con una velocidad máxima por construcción superior a 45 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Qué precaución debe adoptar todo conductor para reducir el riesgo de atropello a peatones?",
+      "imagen": "examen-27_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular lo más cerca posible de la acera o de los vehículos estacionados."
+        },
+        {
+          "letra": "B",
+          "texto": "Moderar la velocidad en zonas donde puede haber aglomeración de personas."
+        },
+        {
+          "letra": "C",
+          "texto": "Indicarles que crucen la calzada en vías con varios carriles."
+        }
+      ],
+      "ayuda": "Entre otros casos, para reducir el riesgo de atropello a peatones, se debe moderar la velocidad en zonas donde puede haber aglomeraciones de peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Un conductor que señaliza un cambio de carril, ¿tiene preferencia sobre los conductores de los vehículos que circulan por el carril al que se pretende desplazar? ",
+      "imagen": "examen-27_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si va a adelantar a un vehículo de grandes dimensiones."
+        }
+      ],
+      "ayuda": "El simple hecho de advertir una maniobra no nos da preferencia de paso. Por tanto, si se pretende cambiar de carril, se debe ceder el paso a los vehículos que circulen por el carril que se pretende ocupar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Un turismo que lleve esta señal de minusválido, ¿puede circular por un carril VAO?",
+      "imagen": "examen-27_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, salvo que tenga una autorización especial del titular de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo si está ocupado por dos o más personas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, aun cuando solo lo ocupe su conductor."
+        }
+      ],
+      "ayuda": "Un turismo que lleve la señal V-15 (minusválido), podrá circular por un carril VAO, aun cuando solo lo ocupe su conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Se debe desactivar el airbag frontal cuando en el asiento correspondiente al copiloto... ",
+      "imagen": "examen-27_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se instale un dispositivo de retención infantil orientado hacia delante."
+        },
+        {
+          "letra": "B",
+          "texto": "viaje una mujer embarazada."
+        },
+        {
+          "letra": "C",
+          "texto": "se instale un dispositivo de retención infantil orientado hacia atrás."
+        }
+      ],
+      "ayuda": "En el caso de que un menor de edad ocupe los asientos delanteros y el vehículo disponga de airbag, únicamente podrán utilizar sistema de retención orientados hacia atrás si el airbag ha sido desactivado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "En general, bajo los efectos del alcohol los conductores... ",
+      "imagen": "examen-27_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "perciben peor las señales de tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "perciben mejor las luces de los semáforos."
+        },
+        {
+          "letra": "C",
+          "texto": "distinguen mejor las luces de los vehículos."
+        }
+      ],
+      "ayuda": "Entro otros efectos negativos que produce la ingesta de alcohol, los conductores perciben peor las señales de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Por qué, en caso de accidente, es importante que entre la parte más cercana del cuerpo y el volante haya una distancia mínima de 10 centímetros? ",
+      "imagen": "examen-27_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para evitar un impacto directo y fuerte del airbag en la cara."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque el impacto rompería los anclajes del cinturón de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque el reposacabezas, aunque esté a la altura correcta no es eficaz."
+        }
+      ],
+      "ayuda": "Para obtener la mayor efectividad del airbag, el conductor no debe prescindir del uso del cinturón de seguridad y debe situarse a no menos de 10 cm del volante para evitar un impacto directo y fuerte del airbag en la cara.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "El conductor de una motocicleta que lleva a un pasajero en el asiento de atrás, ¿está obligado a utilizar el casco? ",
+      "imagen": "examen-27_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, pero no es el responsable si el pasajero no lo utiliza."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, y es responsable si el pasajero no lo utiliza."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero no es responsable si el pasajero no lo utiliza."
+        }
+      ],
+      "ayuda": "El conductor de cualquier vehículo para el que se exija el uso de casco por conductor y pasajero será responsable por la no utilización del casco de protección por el pasajero, así como por transportar pasajeros que no cuenten con la edad mínima exigida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Está permitido estacionar en una zona de estancia y juego?",
+      "imagen": "examen-27_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, excepto en los lugares designados."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en cualquier lugar de la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "No, excepto en horas nocturnas."
+        }
+      ],
+      "ayuda": "En las zonas de estancia y juego, los vehículos pueden estacionarse únicamente en los lugares designados por señales o por marcas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Cuándo está prohibido hacer un cambio de sentido?",
+      "imagen": "examen-27_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando no haya un lugar adecuado para hacer la maniobra."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando se circule por una vía sin prioridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando los sentidos de circulación estén delimitados por una línea blanca discontinua."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido cambiar el sentido de la marcha cuando no haya un lugar adecuado para realizar la maniobra sin peligro para los demás usuarios de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Si una persona consume habitualmente drogas de abuso antes de conducir, la probabilidad de sufrir un accidente es...",
+      "imagen": "examen-27_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "menor que si no toma drogas de abuso."
+        },
+        {
+          "letra": "B",
+          "texto": "igual que si no toma drogas de abuso."
+        },
+        {
+          "letra": "C",
+          "texto": "mayor que si no toma drogas de abuso."
+        }
+      ],
+      "ayuda": "Un conductor que haya consumido drogas de abuso antes de conducir, tiene una probabilidad de sufrir un accidente mayor que si no hubiese consumido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "En un accidente con heridos graves, si la ayuda no está organizada y no han llegado al lugar los agentes de la autoridad, ¿está obligado a ayudar? ",
+      "imagen": "examen-27_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, esté o no esté implicado en el accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solo si está implicado en el accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "No, aunque esté implicado en el accidente."
+        }
+      ],
+      "ayuda": "Todos los usuarios de la vía que se vean implicados en un accidente de tráfico, lo presencien o tengan conocimiento del mismo, estarán obligados a auxiliar o solicitar auxilio para atender a las víctimas si las hubiera, salvo que la ayuda esté organizada, en cuyo caso se debe continuar la marcha para no dificultar la circulación y las medidas de auxilio.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "En esta intersección, ¿qué turismo pasará primero? ",
+      "imagen": "examen-27_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El azul."
+        },
+        {
+          "letra": "B",
+          "texto": "El rojo."
+        },
+        {
+          "letra": "C",
+          "texto": "El amarillo."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo que se aproxime a una intersección en la que no existe ninguna señal que regule la prioridad, deberá ceder el paso a los vehículos que se aproximen por la derecha. Por tanto, en esta intersección, deberá pasar primero el vehículo rojo, porque él no tiene que ceder el paso a ningún vehículo (tiene libre su derecha).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Si un conductor ve esta señal, debe saber que en la próxima intersección...",
+      "imagen": "examen-27_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "debe ceder el paso a los vehículos que se acerquen tanto por la derecha como por la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "se aplica la norma general de prioridad de paso."
+        },
+        {
+          "letra": "C",
+          "texto": "tiene prioridad sobre los vehículos que se acerquen tanto por la derecha como por la izquierda."
+        }
+      ],
+      "ayuda": "Esta señal indica que, en la próxima intersección, rige la regla general de prioridad de paso (ceder el paso a la derecha).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Este ciclista... ",
+      "imagen": "examen-27_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circula correctamente."
+        },
+        {
+          "letra": "B",
+          "texto": "no debería circular por esta vía ya que no tiene arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "debería circular lo más próximo posible al eje central de la calzada."
+        }
+      ],
+      "ayuda": "Las bicicletas deben circular por el arcén de la derecha, salvo que no exista, en cuyo caso deben circular por la parte derecha de la calzada. Por tanto, el ciclista circula correctamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Qué indica esta señal? ",
+      "imagen": "examen-27_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prohíbe la entrada a los vehículos que transporten mercancías peligrosas."
+        },
+        {
+          "letra": "B",
+          "texto": "Prohíbe la entrada a toda clase de camiones cisterna."
+        },
+        {
+          "letra": "C",
+          "texto": "Permite la entrada a los vehículos que transporten mercancías peligrosas."
+        }
+      ],
+      "ayuda": "La señal indica prohibición de acceso a toda clase de vehículos que transporten mercancías peligrosas y que deban circular de acuerdo con su normativa específica.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "En este cruce, ¿puede pasar con su vehículo cuando se encienda la luz verde?",
+      "imagen": "examen-27_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, aunque se quede en medio del cruce."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero debe esperar hasta que pueda pasar sin bloquear el cruce."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si va a girar a la izquierda."
+        }
+      ],
+      "ayuda": "Aun cuando goce de prioridad de paso, ningún conductor deberá penetrar con su vehículo en una intersección o en un paso para peatones o para ciclistas si la situación de la circulación es tal que, previsiblemente, pueda quedar detenido de forma que impida u obstruya la circulación transversal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Esta señal indica entrada prohibida a... ",
+      "imagen": "examen-27_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "ciclos y automóviles."
+        },
+        {
+          "letra": "B",
+          "texto": "turismos, únicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "vehículos de motor, salvo motocicletas de dos ruedas."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen, prohibe la entrada a vehículos de motor, excepto a las motocicletas de dos ruedas y vehículos de tres ruedas asimilados a motocicletas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

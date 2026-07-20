@@ -1,0 +1,689 @@
+{
+  "categoria_id": 1,
+  "test_id": 29,
+  "nombre": "Test de examen 29",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En esta intersección, en la que los dos vehículos tienen de frente una señal de ceda el paso, ¿quién pasará primero?",
+      "imagen": "examen-29_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El conductor del vehículo rojo."
+        },
+        {
+          "letra": "B",
+          "texto": "El conductor del autobús porque tiene mayor dificultad de maniobra."
+        },
+        {
+          "letra": "C",
+          "texto": "El conductor del autobús porque se aplica la regla general de prioridad de paso."
+        }
+      ],
+      "ayuda": "En la situación que se representa en el gráfico pasará primero el turismo rojo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "A la entrada y salida del colegio, para evitar riesgos, ¿qué precauciones deberá tomar cuando los niños desciendan del vehículo, además de la previa vigilancia del entorno?",
+      "imagen": "examen-29_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No deberán abrir las puertas ni apearse antes de la completa inmovilización del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Para mayor seguridad lo harán siempre por la puerta del conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "Deberán bajar del vehículo por la puerta más alejada del borde de la vía."
+        }
+      ],
+      "ayuda": "En los momentos de entrada y salida de los colegios y centros de estudio se requieren especiales precauciones para evitar accidentes. En ningún caso se deben abrir las puertas ni apearse hasta la completa inmovilización del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Queda prohibido parar en:",
+      "imagen": "examen-29_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tramos de vías afectados por la señal Túnel."
+        },
+        {
+          "letra": "B",
+          "texto": "Curvas y cambios de rasante."
+        },
+        {
+          "letra": "C",
+          "texto": "Todas las vías interurbanas."
+        }
+      ],
+      "ayuda": "Con carácter general y entre otros supuestos, queda prohibido parar en las curvas y cambios de rasante de visibilidad reducida, en sus proximidades y en los túneles, pasos inferiores y tramos de vías afectados por la señal Túnel.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Cuando una señal imponga la obligación de detenerse, ¿hasta cuándo no se podrá reanudar la marcha? ",
+      "imagen": "examen-29_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hasta que no se cumpla la obligación establecida por la señal."
+        },
+        {
+          "letra": "B",
+          "texto": "Hasta pasado un tiempo prudencial, que no será inferior a diez segundos."
+        },
+        {
+          "letra": "C",
+          "texto": "Hasta que no estén detenidos los vehículos que se acerquen por detrás."
+        }
+      ],
+      "ayuda": "Cuando una señal imponga la obligación de detenerse, se podrá reanudar la marcha cuando se cumpla la obligación establecida por la misma.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "En un vehículo con motor diesel, una vez puesto en marcha el motor es conveniente...",
+      "imagen": "examen-29_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "iniciar la marcha inmediatamente."
+        },
+        {
+          "letra": "B",
+          "texto": "esperar unos segundos antes de iniciar la marcha."
+        },
+        {
+          "letra": "C",
+          "texto": " acelerar en punto muerto para que el motor se caliente."
+        }
+      ],
+      "ayuda": "En los vehículos con motor diesel o de gasoil, es conveniente esperar unos segundos después de poner en marcha el motor para iniciar la marcha, de modo que el aceite llegue a las partes móviles que necesitan engrase.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Tiene prioridad de paso una ambulancia que circule con las señales luminosas apagadas? ",
+      "imagen": "examen-29_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo tiene preferencia en las vías urbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, tiene preferencia en todo tipo de vías."
+        }
+      ],
+      "ayuda": "Tendrán el carácter de prioritarios los vehículos de los servicios de policía, extinción de incendios, protección civil y salvamento, y de asistencia sanitaria, pública o privada, que circulen en servicio urgente y cuyos conductores adviertan de su presencia mediante la utilización simultánea de la señal luminosa. Por lo tanto, si uno de los vehículos mencionados circula con las señales luminosas apagadas, no tendrá prioridad de paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Es seguro conducir después de haber consumido anfetaminas?",
+      "imagen": "examen-29_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque son relajantes y retrasan la aparición de sueño."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si se consumen acompañados de alguna bebida alcohólica."
+        }
+      ],
+      "ayuda": "\tNo es seguro conducir después de haber consumido anfetaminas. Estas sustancias, como todas las drogas de uso recreativo, provocan una importante alteración de las capacidades psico-físicas para conducir, estimándose que un 10% de los accidentes de tráfico de mayor gravedad están relacionados directa o indirectamente con el consumo de estas sustancias. \n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Los vehículos que circulan por la autovía, ¿facilitarán el paso a los vehículos que se incorporan desde el carril de aceleración?",
+      "imagen": "examen-29_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, a cualquier vehículo que se incorpore, en la medida de lo posible."
+        },
+        {
+          "letra": "B",
+          "texto": "No, salvo que se trate de vehículos de transporte colectivo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero sólo a los vehículos que se incorporen por su lado derecho."
+        }
+      ],
+      "ayuda": "Si circula por una autopista o autovía y observa que un vehículo pretende incorporarse por el carril de aceleración, debe facilitarle la incorporación en la medida de lo posible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Por qué es aconsejable cambiar periódicamente el aceite lubricante? ",
+      "imagen": "examen-29_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque, estando en buenas condiciones, mantiene el buen estado del motor más tiempo y el desgaste de las piezas es menor. "
+        },
+        {
+          "letra": "B",
+          "texto": "Porque el aceite con el tiempo se vuelve más viscoso y no fluye correctamente entre las piezas."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque el aceite con el uso y pasado un tiempo pierde excesiva cantidad de volumen y hay que reponerlo."
+        }
+      ],
+      "ayuda": "El aceite lubricante es fundamental para mantener el buen estado del motor durante más tiempo y reducir el desgaste de sus piezas. Para que cumpla con su función, el lubricante debe estar en perfectas condiciones y sustituirse con la frecuencia y de la forma que indique el fabricante del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "Esta señal, ¿prohíbe la entrada a los camiones? ",
+      "imagen": "examen-29_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si la masa máxima del camión no supera las 2 toneladas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en cualquier caso."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La señal indica entrada prohibida a vehículos de motor con remolque que no sea un remolque de un solo eje.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Cuándo se deben cambiar las escobillas del limpiaparabrisas? ",
+      "imagen": "examen-29_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cada dos años obligatoriamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando las gomas estén dañadas."
+        },
+        {
+          "letra": "C",
+          "texto": "Siempre antes de pasar la inspección técnica del vehículo."
+        }
+      ],
+      "ayuda": "Las escobillas del limpiaparabrisas son vitales para mantener una buena visibilidad en condiciones adversas y forman parte de la seguridad activa del vehículo. Para asegurar un correcto funcionamiento, se deben cambiar inmediatamente cuando las gomas estén dañadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Para evitar un accidente, un conductor con fatiga al volante debe parar a descansar de forma adecuada cuanto antes porque...\n",
+      "imagen": "examen-29_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el sueño puede aparecer de un momento a otro."
+        },
+        {
+          "letra": "B",
+          "texto": "la agudeza visual aumenta y se ven los objetos borrosos."
+        },
+        {
+          "letra": "C",
+          "texto": "los efectos de la fatiga hacen que el conductor dé positivo en un control de alcoholemia."
+        }
+      ],
+      "ayuda": "Para evitar un accidente, un conductor con fatiga al volante debe parar a descansar de forma adecuada y cuanto antes, porque el sueño puede aparecer de un momento a otro y de forma inesperada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Si no pretende adelantar, ¿cuándo deberá mantener una distancia de seguridad de, al menos, 100 metros, con el vehículo que circule delante? ",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando circule por un paso elevado."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando circule por un túnel."
+        },
+        {
+          "letra": "C",
+          "texto": "Al llegar a un paso nivel."
+        }
+      ],
+      "ayuda": "Al circular por túneles o pasos inferiores, cuando no se pretenda adelantar, deberá mantenerse en todo momento una distancia de seguridad con el vehículo precedente de, al menos, 100 metros o un intervalo mínimo de cuatro segundos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "En los lugares donde se impida la visibilidad de la señalización a los usuarios a quienes les afecta está prohibido...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "estacionar, pero está permitido parar."
+        },
+        {
+          "letra": "B",
+          "texto": "parar, pero está permitido estacionar."
+        },
+        {
+          "letra": "C",
+          "texto": "parar y estacionar."
+        }
+      ],
+      "ayuda": "En los lugares donde se impida la visibilidad de la señalización a los usuarios a quienes les afecta está prohibido parar y estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿A qué vehículos de transporte de mercancías prohíbe pasar esta señal? ",
+      "imagen": "examen-29_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los de más de 3.500 kg de MMA solo cuando llevan carga."
+        },
+        {
+          "letra": "B",
+          "texto": "A los de menos de 3.500 kg de MMA."
+        },
+        {
+          "letra": "C",
+          "texto": "A los de más de 3.500 kg de MMA con carga o sin carga."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen, prohíbe la entrada a vehículos destinados al transporte de mercancías con mayor masa autorizada que la indicada (mayor a 3.500 kilogramos en este caso) entendiéndose como tales los camiones, tractocamiones y furgones o furgonetas.\nEsta señal prohíbe el acceso de los mencionados vehículos aunque circulen vacíos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "En relación con los menores de 24 años, ¿cuáles de los siguientes constituyen un grupo de riesgo, según las últimas cifras de mortalidad?",
+      "imagen": "examen-29_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hombres."
+        },
+        {
+          "letra": "B",
+          "texto": "Mujeres."
+        },
+        {
+          "letra": "C",
+          "texto": "Conductores de vehículos de dos ruedas."
+        }
+      ],
+      "ayuda": "\tLos grupos de riesgo o grupos vulnerables en el tráfico son aquellos colectivos de usuarios que por diferentes circunstancias tienen mayor probabilidad de verse implicados en un accidente de tráfico o de resultar muertos o heridos como consecuencia del mismo.\n\t \n\tSegún los índices de siniestralidad y mortalidad, los grupos de riesgo estarían formados por:\n\t \n\t· Niños.\n\t· Jóvenes hasta 24 años.\n\t· Personas mayores.\n\t· Peatones.\n\t· Ciclistas y demás conductores de vehículos de dos ruedas.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Los vehículos destinados a obras y servicios, ¿cómo advertirán de su presencia cuando estén realizando obras de reparación en la calzada? ",
+      "imagen": "examen-29_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mediante un dispositivo luminoso con una luz rotativa de color azul o rojo."
+        },
+        {
+          "letra": "B",
+          "texto": "Mediante un dispositivo luminoso con una o varias luces de color amarillo auto."
+        },
+        {
+          "letra": "C",
+          "texto": "Mediante un dispositivo luminoso con una o varias luces de color azul."
+        }
+      ],
+      "ayuda": "Durante los trabajos, los conductores de vehículos destinados a obras o servicios utilizarán la señal luminosa V-2 consistente en un dispositivo luminoso con una o varias luces de color amarillo auto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "En una carretera cuya velocidad genérica es de 90 km/h, ¿qué velocidad se considera anormalmente reducida para un turismo? ",
+      "imagen": "examen-29_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La inferior a 55 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "La inferior a 60 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "La inferior a 45 km/h."
+        }
+      ],
+      "ayuda": "La velocidad anormalmente reducida es aquella que se encuentra por debajo de la velocidad mínima fijada para el vehículo y la vía.\n\nCon carácter general, en carreteras convencionales, la velocidad mínima corresponde a la mitad de la velocidad máxima genérica señalada para cada categoría de vehículos. Por lo tanto, si la velocidad genérica para un turismo en este tipo de vías, para un turismo, es de 90 kilómetros por hora, la velocidad mínima será de 45 kilómetros por hora.\n\nEn consecuencia, se considerará velocidad anormalmente reducida, en este caso, a aquella que sea inferior a 45 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Durante la conducción, la fatiga...",
+      "imagen": "examen-29_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "hace que aumenten los errores de forma considerable."
+        },
+        {
+          "letra": "B",
+          "texto": "facilita la percepción de las señales de tráfico."
+        },
+        {
+          "letra": "C",
+          "texto": "hace que disminuyan los errores de forma considerable."
+        }
+      ],
+      "ayuda": "La fatiga disminuye sensiblemente la capacidad para conducir con seguridad. Entre otros efectos, la fatiga provoca que aumenten los errores de forma considerable.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "La señal que se observa en la imagen prohíbe el adelantamiento, salvo excepciones, a los conductores de...",
+      "imagen": "examen-29_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "camiones cuya masa máxima autorizada exceda de 3.500 kilogramos."
+        },
+        {
+          "letra": "B",
+          "texto": "cualquier vehículo, cuando adelanten a camiones."
+        },
+        {
+          "letra": "C",
+          "texto": "todos los camiones."
+        }
+      ],
+      "ayuda": "La señal de adelantamiento prohibido para camiones, es aplicable solamente a los camiones cuya masa máxima autorizada exceda de 3.500 kilogramos.  ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Esta señal indica:",
+      "imagen": "examen-29_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "una vía reservada exclusivamente para ciclos."
+        },
+        {
+          "letra": "B",
+          "texto": "una vía reservada para peatones y ciclos."
+        },
+        {
+          "letra": "C",
+          "texto": "la prohibición a las bicicletas de circular por la vía donde está situada."
+        }
+      ],
+      "ayuda": "Señal de Senda ciclopeatonal\nIndica la existencia de una vía para peatones, ciclos y, en su caso, VMP, segregada del tráfico motorizado, y que discurre habitualmente por espacios abiertos, parques, jardines o bosques, si bien fuera de poblado puede discurrir también paralela a la carretera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "En una vía señalizada con esta señal, la velocidad máxima de los vehículos que circulen por ella está fijada en...",
+      "imagen": "examen-29_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "30 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "10 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "40 kilómetros por hora."
+        }
+      ],
+      "ayuda": "Señal dezona de estancia y juego\nIndica las zonas de circulación especialmente acondicionadas que están destinadas en primer lugar a los peatones y en la que la velocidad máxima de los vehículos está fijada en 10 kilómetros por hora.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Excepcionalmente, para advertir el propósito de adelantar, incluso en poblado, se podrán utilizar:",
+      "imagen": "examen-29_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "advertencias luminosas, utilizando en forma intermitente los alumbrados de corto o de largo alcance, o ambos alternativamente, a intervalos muy cortos y de modo que se evite el deslumbramiento."
+        },
+        {
+          "letra": "B",
+          "texto": "advertencias luminosas, dejando activado el alumbrado de largo alcance hasta que el conductor del vehículo que se pretende adelantar disminuya la velocidad."
+        }
+      ],
+      "ayuda": "Podrán efectuarse advertencias luminosas, incluso en poblado, utilizando en forma intermitente los alumbrados de corto o de largo alcance, o ambos alternativamente, a intervalos muy cortos y de modo que se evite el deslumbramiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "Para incorporarse a la vía principal, un turismo tiene que atravesar un carril bici debidamente señalizado; ¿deberá ceder el paso a los ciclistas que circulan por el mismo?",
+      "imagen": "examen-29_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, los ciclistas tienen prioridad de paso."
+        },
+        {
+          "letra": "B",
+          "texto": "No, el turismo tiene prioridad de paso."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo cuando los ciclistas circulen en grupo."
+        }
+      ],
+      "ayuda": "El conductor de una bicicleta tiene preferencia de paso respecto a otros vehículos, entre otros casos, cuando circule por un carril-bici, paso para ciclistas o arcén debidamente autorizado para uso exclusivo de conductores de bicicletas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "En caso de lluvia, ¿es aconsejable aumentar la distancia de seguridad con el vehículo que circula delante?",
+      "imagen": "examen-29_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque la distancia de frenado aumenta."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque la distancia de frenado disminuye."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo en vías rápidas, pero no en vías urbanas ni en carreteras convencionales."
+        }
+      ],
+      "ayuda": "La lluvia puede suponer una importante disminución de las condiciones de adherencia de la calzada. Cuando está lloviendo, la distancia de frenado aumenta por lo que es aconsejable aumentar la distancia de seguridad respecto del vehículo que circula delante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "En las intersecciones y sus proximidades ¿está permitido adelantar? ",
+      "imagen": "examen-29_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, nunca."
+        },
+        {
+          "letra": "B",
+          "texto": "No, como norma general."
+        },
+        {
+          "letra": "C",
+          "texto": "En las intersecciones no, pero sí está permitido adelantar en sus proximidades."
+        }
+      ],
+      "ayuda": "Como norma general, y salvo las excepciones previstas reglamentariamente, en las intersecciones y en sus proximidades está prohibido adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Un conductor ha dado positivo en una prueba de estupefacientes, ¿se puede repetir la prueba?",
+      "imagen": "examen-29_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si el conductor lo solicita o lo ordena el juez."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si ha dado positivo a más de una sustancia."
+        }
+      ],
+      "ayuda": "A petición del interesado o por orden de la autoridad judicial, se podrán repetir las pruebas a efectos de contraste, que podrán consistir en análisis de sangre, orina u otros análogos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Los distintivos ambientales clasifican a los vehículos en función de...",
+      "imagen": "examen-29_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "su contaminación acústica."
+        },
+        {
+          "letra": "B",
+          "texto": "su potencial contaminante."
+        },
+        {
+          "letra": "C",
+          "texto": "su ahorro energético."
+        }
+      ],
+      "ayuda": "Todo vehículo matriculado en el Registro de Vehículos se clasifica, en relación a su nivel de emisiones y combustible empleado, por su potencial contaminante conforme a las categorías existentes en el reglamento de vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "En un estrechamiento situado en un tramo de gran pendiente ¿Quién tiene que ceder el paso?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El vehículo más ligero."
+        },
+        {
+          "letra": "B",
+          "texto": "El que llegue antes a un ensanchamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Siempre el que circula en sentido ascendente."
+        }
+      ],
+      "ayuda": "Prioridad de paso en estrechamientos sin señalizar.\nEn los tramos de gran pendiente, la preferencia de paso la tendrá el vehículo que circule en sentido ascendente, salvo si éste pudiera llegar antes a un apartadero establecido al efecto. Se entiende por tramos de gran pendiente los que tienen una inclinación mínima del 7 por ciento. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Queda atascado con su turismo en una zona de barro donde patinan las ruedas motrices. ¿Cuál es la forma más adecuada de actuar para seguir circulando? ",
+      "imagen": "examen-29_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pisar a fondo el pedal acelerador para conseguir mayor tracción en las ruedas y así lograr mayor adherencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Preparar un terreno estable colocando el material adecuado cerca de las ruedas motrices para que estas tengan la adherencia suficiente."
+        }
+      ],
+      "ayuda": "En caso de quedar atascado con un turismo en una zona en la que el barro provoca que las ruedas motrices patinen, se debe buscar mejorar las condiciones de adherencia, preparando una superficie estable mediante la colocación de materiales o elementos adecuados que permitan que las ruedan puedan ejercer la tracción necesaria para poner el vehículo en movimiento.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

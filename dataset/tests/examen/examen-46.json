@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 46,
+  "nombre": "Test de examen 46",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Si conduce una motocicleta y hay niebla ligera, ¿qué luces debe utilizar además de las luces de posición?",
+      "imagen": "examen-46_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las luces antiniebla delanteras, si dispone de ellas, o las luces de corto o largo alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "Las luces antiniebla delanteras y traseras y las luces de corto alcance."
+        },
+        {
+          "letra": "C",
+          "texto": "Las luces antiniebla traseras y las luces de largo alcance."
+        }
+      ],
+      "ayuda": "Entre otros casos, será obligatorio utilizar el alumbrado cuando existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, como en caso de niebla, lluvia intensa, nevada, nubes de humo o de polvo o cualquier otra circunstancia análoga. En los casos mencionados deberá utilizarse la luz antiniebla delantera o la luz de corto o largo alcance.\n\nLa luz antiniebla trasera solamente deberá llevarse encendida cuando las condiciones meteorológicas o ambientales sean especialmente desfavorables, como en caso de niebla espesa, lluvia muy intensa, fuerte nevada o nubes densas de polvo o humo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Un conductor que circula por una glorieta con tres carriles de circulación, ¿en qué carril debe situarse para salir de ella?",
+      "imagen": "examen-46_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el carril derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "En cualquier carril, aunque pueda cortar la trayectoria a otros conductores."
+        },
+        {
+          "letra": "C",
+          "texto": "En el carril central."
+        }
+      ],
+      "ayuda": "Como norma general, la salida de una glorieta siempre debe realizarse situándose previamente en el carril derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Con el permiso de la clase B, ¿se pueden conducir, por el territorio nacional, motocicletas de las que autoriza a conducir el permiso de la clase A1?",
+      "imagen": "examen-46_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando la antigüedad del permiso es superior a 2 años."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando la antigüedad del permiso es superior a 3 años."
+        },
+        {
+          "letra": "C",
+          "texto": "No; autoriza a conducir motocicletas de hasta 250 centímetros cúbicos a partir del primer año de antigüedad."
+        }
+      ],
+      "ayuda": "Se podrán conducir dentro del territorio nacional con el permiso de la clase B, con una antigüedad superior a tres años, las motocicletas cuya conducción autoriza el permiso de la clase A1.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Si tiene un accidente y no lleva puesto el cinturón de seguridad, las posibilidades de morir son casi el doble en...",
+      "imagen": "examen-46_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "todas las plazas del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "la plaza del conductor, solamente."
+        },
+        {
+          "letra": "C",
+          "texto": "las plazas delanteras, solamente."
+        }
+      ],
+      "ayuda": "En caso de accidente, el cinturón de seguridad protege a los ocupantes de todas las plazas del vehículo. Si este elemento de seguridad no se lleva correctamente colocado, las posibilidades de morir en el siniestro son casi del doble que cuando se lleva puesto.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Si en un tramo de autopista el titular de la vía ha fijado mediante señales un límite de 100 km/h, ¿a qué velocidad máxima podrá circular una autocaravana de masa máxima autorizada inferior a 3.500 kg?",
+      "imagen": "examen-46_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "90 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "100 km/h."
+        }
+      ],
+      "ayuda": "Los límites específicos de velocidad, fijados mediante señalización, prevalecen sobre los límites genéricos establecidos para la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Cuál es la velocidad máxima permitida en una vía urbana que dispone de plataforma única de calzada y acera?",
+      "imagen": "examen-46_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "20 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "50 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "30 kilómetros por hora."
+        }
+      ],
+      "ayuda": "La velocidad máxima establecida para vías urbanas que dispongan de plataforma única de calzada y acera (cota cero), es de 20 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Por qué la decisión de circular sin hacer uso de un sistema de retención adecuado no es solo una decisión personal, sino que afecta a toda la sociedad?",
+      "imagen": "examen-46_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque el dinero de las multas por no hacer uso del cinturón se envía a la Unión Europea."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque, en caso de accidente, los costos los paga toda la sociedad."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque, en caso de accidente, los agentes de tráfico pondrán una multa."
+        }
+      ],
+      "ayuda": "El uso correcto de los sistemas de seguridad de los vehículos es un acto de responsabilidad que va más allá de lo meramente personal. El elevado coste de los accidentes de tráfico y sus consecuencias lo terminan asumiendo, directa o indirectamente, todos los ciudadanos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "En un cuatriciclo ligero, ¿es obligatorio llevar un chaleco reflectante de alta visibilidad?",
+      "imagen": "examen-46_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, además de una rueda de repuesto."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "A diferencia de los turismos, en los ciclomotores, incluidos los cuatriclos ligeros, no es obligatorio llevar un chaleco reflectante de alta visibilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Está permitido circular con un vehículo cuyas placas de matrícula presentan obstáculos que impiden o dificultan su lectura e identificación?",
+      "imagen": "examen-46_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No; el conductor debe verificar que las placas de matrícula se pueden leer correctamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que la placa de matrícula delantera se pueda leer correctamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que el vehículo solo circule por vías urbanas y travesías."
+        }
+      ],
+      "ayuda": "No está permitido circular con un vehículo cuyas placas de matrícula presentan obstáculos que impiden o dificultan su lectura e identificación. Es responsabilidad del conductor verificar que las placas de matrícula se puedan leer correctamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Qué alumbrado deberá dejar encendido, como norma general, el conductor de un vehículo inmovilizado entre la puesta y la salida del sol en el arcén de una travesía insuficientemente iluminada?",
+      "imagen": "examen-46_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ninguno."
+        },
+        {
+          "letra": "B",
+          "texto": "Las luces de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Las luces de posición."
+        }
+      ],
+      "ayuda": "Todo vehículo inmovilizado entre la puesta y la salida del sol en calzada o arcén de una travesía insuficientemente iluminada deberá tener encendidas las luces de posición, que podrá sustituir por las de estacionamiento, o por las dos de posición del lado correspondiente a la calzada, cuando se halle estacionado en línea.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Con qué dos factores suelen relacionarse muchos de los accidentes más graves que sufren los jóvenes conductores?",
+      "imagen": "examen-46_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con el consumo de alcohol y drogas y una actitud prudente al volante."
+        },
+        {
+          "letra": "B",
+          "texto": "Con la falta de experiencia al volante y el consumo de alcohol y drogas."
+        },
+        {
+          "letra": "C",
+          "texto": "Con la velocidad excesiva y una adecuada percepción del riesgo."
+        }
+      ],
+      "ayuda": "La falta de experiencia al volante y el consumo de alcohol y drogas son dos factores con los que suelen relacionarse muchos de los accidentes más graves que sufren los jóvenes conductores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Para mantener la seguridad, ¿qué elementos se deben revisar periódicamente y con mayor frecuencia que el resto de componentes del vehículo?",
+      "imagen": "examen-46_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los neumáticos, el sistema de frenado y los amortiguadores."
+        },
+        {
+          "letra": "B",
+          "texto": "Las luces, la batería y las llantas."
+        },
+        {
+          "letra": "C",
+          "texto": "El filtro del aire, la dirección y los retrovisores."
+        }
+      ],
+      "ayuda": "El mantenimiento de los vehículos es vital para evitar accidentes. Los elementos que deben revisarse periódicamente y con mayor frecuencia son los neumáticos, el sistema de frenado y los amortiguadores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Dónde deberá colocarse el conductor que pretenda realizar un cambio de dirección a la izquierda en una calzada de doble sentido de circulación con un carril por cada sentido?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Deberá ceñirse al borde derecho de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Deberá ceñirse al borde izquierdo de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Deberá ceñirse a la marca longitudinal de separación entre sentidos o, si ésta no existiera, al eje de la calzada."
+        }
+      ],
+      "ayuda": "En los cambios de dirección a la izquierda, cuando la calzada por la que se circula sea de doble sentido de circulación, el conductor se ceñirá a la marca longitudinal de separación entre sentidos o, si ésta no existiera, al eje de la calzada, sin invadir la zona destinada al sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "El conductor de un vehículo que vaya a ser adelantado, tiene prohibido...",
+      "imagen": "examen-46_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aumentar la velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "disminuir la velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "situarse cerca del borde derecho de la calzada."
+        }
+      ],
+      "ayuda": "Se prohíbe al conductor del vehículo que va a ser adelantado aumentar la velocidad o efectuar maniobras que impidan o dificulten el adelantamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "Si ha dormido mal o no ha dormido lo suficiente debe tener en cuenta que...",
+      "imagen": "examen-46_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "conducir por una autovía durante horas impide la aparición del sueño."
+        },
+        {
+          "letra": "B",
+          "texto": "no se encuentra en perfectas condiciones para conducir."
+        },
+        {
+          "letra": "C",
+          "texto": "una taza de café elimina la fatiga y le ayuda a concentrarse."
+        }
+      ],
+      "ayuda": "La falta de sueño es un factor de riesgo que interviene en muchos accidentes de tráfico. Si una persona ha dormido mal o no ha dormido lo suficiente, debe tener en cuenta que no se encontrará en perfectas condiciones para conducir.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Puede circular cualquier vehículo por esta calzada?",
+      "imagen": "examen-46_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque es una vía reservada para automóviles."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, excepto motocicletas de dos ruedas sin sidecar."
+        }
+      ],
+      "ayuda": "La señal indica el principio de una vía reservada a la circulación de automóviles.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "La carrocería de los vehículos, ¿es un elemento de seguridad?",
+      "imagen": "examen-46_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, es un sistema de seguridad activa, terciaria y no pasiva."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, es un elemento de seguridad pasiva y activa."
+        }
+      ],
+      "ayuda": "La carrocería es un elemento fundamental del sistema de seguridad del vehículo.\nConstituye un elemento de seguridad activa porque su diseño, reparto de masas, aeródinamica, etc., determinan el comportamiento del vehículo evitando situaciones de pérdida de control, salidas de la vía, etc. También es un importantísimo elemento de seguridad pasiva porque protege, en caso de accidente, la integridad física de los ocupantes. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Un vehículo mixto adaptable, ¿qué tiene que llevar en todo caso entre su dotación de accesorios, repuestos y herramientas?",
+      "imagen": "examen-46_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un extintor."
+        },
+        {
+          "letra": "B",
+          "texto": "un chaleco reflectante."
+        },
+        {
+          "letra": "C",
+          "texto": "una rueda de repuesto."
+        }
+      ],
+      "ayuda": "Los vehículos mixtos deberán llevar en todo caso entre su dotación de accesorios, repuestos y herramientas, un chaleco reflectante de alta visibilidad y un dispositivo reglamentario de preseñalización de peligro (V-16).\n\nCuando no sobrepasen los 3.500 kg. de masa máxima autorizada, llevarán además una rueda completa de repuesto o una rueda de uso temporal, con las herramientas necesarias para el cambio de ruedas, o un sistema alternativo al cambio de las mismas que ofrezca suficientes garantías para la movilidad del vehículo.\n\nSi sobrepasan los 3.500 kg. de MMA, no estarán obligados a llevar la rueda de respuesta, pero sí un equipo homologado de extinción de incendios, adecuado y en condiciones de uso. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Es obligatorio el alumbrado antiniebla en las motocicletas?",
+      "imagen": "examen-46_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, tanto el delantero como el trasero."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solo el trasero."
+        },
+        {
+          "letra": "C",
+          "texto": "No, tanto el delantero como el trasero son opcionales."
+        }
+      ],
+      "ayuda": "Aunque no resulta obligatorio, las motocicletas pueden llevar alumbrado antiniebla, tanto delantero como trasero.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Qué vehículos tienen prohibido circular por la calzada de una vía para automóviles?",
+      "imagen": "examen-46_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "Las motocicletas con sidecar."
+        },
+        {
+          "letra": "C",
+          "texto": "Los camiones pesados."
+        }
+      ],
+      "ayuda": "Las vías para automóviles son carreteras reservadas exclusivamente a la circulación de automóviles (los ciclomotores no tienen la consideración de automóviles).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Cuál de las siguientes razones puede explicar que el vehículo sea el factor de riesgo que aparece en un grado menor como causa principal de los accidentes de tráfico?",
+      "imagen": "examen-46_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A las importantes mejoras técnicas introducidas en su diseño y construcción."
+        },
+        {
+          "letra": "B",
+          "texto": "A que la edad media de los vehículos es cada vez mayor."
+        },
+        {
+          "letra": "C",
+          "texto": "A que en los últimos 20 años, los kilómetros recorridos han disminuido año tras año."
+        }
+      ],
+      "ayuda": "Las importantes mejoras técnicas introducidas en el diseño y construcción de los vehículos, es una de las razones por las que el “factor vehículo” es el que menor influencia tiene en la siniestralidad vial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Cuánto tiempo, como máximo, puede durar una detención? ",
+      "imagen": "examen-46_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Debe durar menos de un minuto."
+        },
+        {
+          "letra": "B",
+          "texto": "Un tiempo inferior a dos minutos, sin que el conductor pueda abandonarlo."
+        },
+        {
+          "letra": "C",
+          "texto": "No existe un límite específico, ya que depende de las circunstancias que motivaron la detención."
+        }
+      ],
+      "ayuda": "Una detención es la inmovilización de un vehículo por emergencia, por necesidades de la circulación o para cumplir algún precepto reglamentario.\nNo existe una duración determinada, ya que depende de las circunstancias que la motivaron. Por ejemplo, mientras que una detención ante una señal de STOP puede durar unos pocos segundos, en un atasco la duración de la inmovilización puede ser mucho mayor llegando incluso a durar varias horas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "En una carretera convencional con separación física de los dos sentidos de circulación, en la que el titular de la vía ha fijado un límite máximo de 100 km/h, ¿a qué velocidad máxima podrá circular una pick-up? ",
+      "imagen": "examen-46_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 90 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "A 100 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A 80 km/h."
+        }
+      ],
+      "ayuda": "En carreteras convencionales con separación física de los dos sentidos de circulación, el titular de la vía podrá fijar un límite máximo de 100 km/h para turismos, motocicletas y autocaravanas con masa máxima autorizada igual o inferior a 3.500 kg. El límite de velocidad para el resto de vehículos (incluyendo a las pick-up) es el correspondiente a las carreteras convencionales:",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "Por un carril VAO, ¿Puede circular un furgón?",
+      "imagen": "examen-46_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, independientemente del número de ocupantes."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando en el vehículo viaje el número de personas establecido en la señalización."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo cuando lleve la señal de minusválidos y viajen al menos dos personas."
+        }
+      ],
+      "ayuda": "Como norma general, la utilización del carril habilitado para VAO queda limitada a motocicletas, turismos y vehículos mixtos adaptables, que cumplan con las condiciones de ocupación establecidas en la señalización. Queda prohibida la circulación, por tanto, al resto de los vehículos y conjuntos de vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Cómo hacer un cambio de carril en una vía con mucho tráfico? ",
+      "imagen": "examen-46_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Usando el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "Cambiando rápido para no molestar."
+        },
+        {
+          "letra": "C",
+          "texto": "Avisando con tiempo suficiente."
+        }
+      ],
+      "ayuda": "Antes de cambiar de carril en una vía con mucho tráfico, debes asegurarte de que puedes hacerlo sin interrumpir la circulación. Además, es importante señalizarlo con suficiente antelación para que otros conductores puedan reaccionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿En qué caso pueden los agentes encargados de la vigilancia del tráfico inmovilizar una motocicleta?",
+      "imagen": "examen-46_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando el conductor no lleva puesto el casco de protección."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando la carga sobresale por la parte trasera más de 0,15 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "Siempre que el conductor sea menor de 18 años."
+        }
+      ],
+      "ayuda": "Los agentes de la autoridad encargados de la vigilancia del tráfico podrán proceder a la inmovilización del vehículo, entre otros casos, cuando el conductor o el pasajero no hagan uso del casco de protección o de los dispositivos de retención infantil, en los casos en que fuera obligatorio.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Puede un conductor que se automedica conducir un vehículo de manera segura?",
+      "imagen": "examen-46_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si el conductor conoce los efectos secundarios del medicamento y toma las precauciones necesarias."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo si toma medicamentos de venta libre, porque estos medicamentos nunca afectan a la capacidad para conducir."
+        },
+        {
+          "letra": "C",
+          "texto": "No; está siempre prohibido conducir bajo la influencia de medicamentos."
+        }
+      ],
+      "ayuda": "La automedicación con determinados medicamentos no siempre supone un impedimento para conducir con seguridad. En estos casos se puede conducir de forma segura si el conductor conoce los posibles efectos secundarios del medicamento y toma las precauciones necesarias.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "El mayor número de peatones fallecidos en accidentes de tráfico ocurre en...",
+      "imagen": "examen-46_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "carreteras convencionales."
+        },
+        {
+          "letra": "B",
+          "texto": "vías urbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "autopistas y vías de doble sentido."
+        }
+      ],
+      "ayuda": "El mayor número de peatones fallecidos en accidentes de tráfico ocurre en vías urbanas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Todo vehículo de motor y ciclomotor debe llevar encendido el alumbrado de corto alcance o de cruce al circular entre el ocaso y la salida del sol por vías interurbanas insuficientemente iluminadas, cuando concurra la siguiente circunstancia:",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No disponga de alumbrado de largo alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "Circule a velocidad superior a 40 kilómetros por hora y esté utilizando el alumbrado de largo alcance."
+        }
+      ],
+      "ayuda": "\tTodo vehículo de motor y ciclomotor debe llevar encendido el alumbrado de corto alcance o de cruce al circular entre el ocaso y la salida del sol por vías interurbanas insuficientemente iluminadas o a cualquier hora del día por túneles, pasos inferiores y demás tramos afectados por la señal de «Túnel» insuficientemente iluminados, cuando concurra alguna de las siguientes circunstancias:\n\ta) No disponer de alumbrado de largo alcance.\n\tb) Circular a velocidad no superior a 40 kilómetros por hora y no estar utilizando el alumbrado de largo alcance.\n\tc) Posibilidad de producir deslumbramiento a otros usuarios de la vía pública.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Fuera de poblado, ¿al adelantar a qué vehículo hay que dejar al menos un metro y medio de separación lateral?",
+      "imagen": "examen-46_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tractores agrícolas.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "Ciclomotores de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuatriciclos."
+        }
+      ],
+      "ayuda": "Cuando se adelante fuera de poblado a peatones, animales, a vehículos de dos ruedas o de tracción animal, a vehículos inmovilizados en la vía o a los vehículos de auxilio cuando estén realizando operaciones de auxilio y rescate, se deberá guardar; en todo caso, una separación lateral no inferior a 1,50 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

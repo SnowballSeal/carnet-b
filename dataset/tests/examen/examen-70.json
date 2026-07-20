@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 70,
+  "nombre": "Test de examen 70",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Si conduce una motocicleta con un pasajero, ¿qué debe tener en cuenta?",
+      "imagen": "examen-70_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que será más difícil que, al frenar, la rueda trasera se quede bloqueada."
+        },
+        {
+          "letra": "B",
+          "texto": "Que aumentará el tiempo de reacción."
+        },
+        {
+          "letra": "C",
+          "texto": "Que la distancia de frenado será menor."
+        }
+      ],
+      "ayuda": "Al conducir una motocicleta con un pasajero aumenta el peso sobre la rueda trasera y con ello la adherencia de la misma. Por lo tanto, en caso de frenar es más difícil que la rueda trasera se bloquee por falta de adherencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿La señal permite realizar la maniobra de adelantamiento?",
+      "imagen": "examen-70_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, salvo que no se invada la zona reservada al sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "No, salvo que se adelante a un turismo."
+        }
+      ],
+      "ayuda": "Adelantamiento prohibido.\nProhibición a todos los vehículos de adelantar a los vehículos a motor que circulen por la calzada cuando dicha maniobra implique invadir la zona reservada al sentido contrario de circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Esta señal, ¿qué indica?",
+      "imagen": "examen-70_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que hay una parada de autobús."
+        },
+        {
+          "letra": "B",
+          "texto": "Que hay un área de descanso."
+        },
+        {
+          "letra": "C",
+          "texto": "Que hay un hotel."
+        }
+      ],
+      "ayuda": "La señal de la imagen indica la situación de un área de descanso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Qué infracción de los conductores está relacionada con los atropellos a peatones?",
+      "imagen": "examen-70_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Parar en doble fila."
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionar en los pasos para peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "Deslumbrar."
+        }
+      ],
+      "ayuda": "Entre las causas de atropello a peatones se encuentran algunas infracciones cometidas por los conductores como, por ejemplo, no respetar un semáforo en rojo, estacionar en los pasos para peatones o sobre la acera, no respetar la prioridad de paso de aquellos, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Al adelantar a un turismo, ¿qué separación lateral debe respetar?",
+      "imagen": "examen-70_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una distancia proporcional a la velocidad y al tipo de calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Una distancia de 1,5 metros como mínimo."
+        },
+        {
+          "letra": "C",
+          "texto": "Una distancia proporcional a la anchura del turismo."
+        }
+      ],
+      "ayuda": "Como norma general, al realizar un adelantamiento se deberá dejar una distancia lateral de seguridad proporcional a la velocidad, y a la anchura y características de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Una fila escolar va a cruzar la calzada. ¿Es obligatorio cederle el paso?",
+      "imagen": "examen-70_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo si cruza por un paso para peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Entre otros casos, los conductores deberán ceder el paso a las tropas en formación, filas escolares o comitivas organizadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Los efectos del cannabis afectan a la conducción por una...",
+      "imagen": "examen-70_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "menor dificultad para calcular las distancias."
+        },
+        {
+          "letra": "B",
+          "texto": "conducta más agresiva."
+        },
+        {
+          "letra": "C",
+          "texto": "alteración de la percepción del entorno."
+        }
+      ],
+      "ayuda": "Uno de los efectos que produce el consumo de cannabis, y que resulta especialmente peligroso para la tarea de la conducción, es la alteración de la percepción del entorno.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Entre las causas principales de accidentes por utilizar el teléfono móvil están...",
+      "imagen": "examen-70_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la mejora de orientación del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "las desviaciones de trayectoria del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "la mejora de maniobrabilidad del vehículo."
+        }
+      ],
+      "ayuda": "Entre los efectos que produce el uso del teléfono móvil durante la conducción se encuentran las desviaciones de trayectoria del vehículo, las cuales pueden ser causa de accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Es importante colocar adecuadamente el reposacabezas?",
+      "imagen": "examen-70_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque es más un elemento de comodidad que de seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "No, ya que cumple su cometido en cualquier posición."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, para que pueda cumplir su función correctamente."
+        }
+      ],
+      "ayuda": "Para que el reposacabezas cumpla con su función debe regularse adecuadamente según las características físicas de cada ocupante del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Los chalecos reflectantes...",
+      "imagen": "examen-70_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "deben estar homologados."
+        },
+        {
+          "letra": "B",
+          "texto": "pueden no estar homologados, lo importante es llevar dos obligatoriamente."
+        },
+        {
+          "letra": "C",
+          "texto": "no son obligatorios, únicamente son aconsejables."
+        }
+      ],
+      "ayuda": "El chaleco reflectante de alta visibilidad, que deben llevar los turismos entre su dotación obligatoria, debe estar homologado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Cómo debe sentarse un pasajero en una motocicleta?",
+      "imagen": "examen-70_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A horcajadas y con los pies apoyados en los reposapiés laterales, tanto dentro como fuera de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "De cualquier forma, siempre que vaya cómodo."
+        },
+        {
+          "letra": "C",
+          "texto": "A horcajadas y con los pies apoyados en los reposapiés laterales, sólo cuando circule por vías urbanas."
+        }
+      ],
+      "ayuda": "Cuando se transporte a un pasajero en una motocicleta, éste deberá ir sentado detrás del conductor, a horcajadas, y con los pies debidamente apoyados en los reposapiés previstos al efecto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Como norma general, está prohibido cambiar el sentido de la marcha cuando...",
+      "imagen": "examen-70_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no se pueda marchar hacia adelante."
+        },
+        {
+          "letra": "B",
+          "texto": "está prohibido adelantar, salvo que el cambio de sentido esté autorizado."
+        },
+        {
+          "letra": "C",
+          "texto": "se aproxime a un paso a nivel."
+        }
+      ],
+      "ayuda": "Entre otros casos, está prohibido cambiar el sentido de la marcha en todos los tramos de vía en los que esté prohibido el adelantamiento, salvo que el cambio de sentido esté expresamente autorizado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Está obligado a circular cualquier automóvil por una calzada así señalizada?",
+      "imagen": "examen-70_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, excepto camiones y furgones."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, excepto motocicletas de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque es una vía exclusiva para automóviles."
+        }
+      ],
+      "ayuda": "Calzada obligatoria para automóviles, excepto motocicletas de dos ruedas.\nObligación para los conductores de automóviles, excepto motocicletas de dos ruedas y vehículos de tres ruedas asimilados a motocicletas, de circular por la calzada a cuya entrada esté situada. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Es necesario renovar el permiso de circulación?",
+      "imagen": "examen-70_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cada cuatro años."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando el vehículo cambie de titular."
+        },
+        {
+          "letra": "C",
+          "texto": "No, es un documento que nunca se renueva."
+        }
+      ],
+      "ayuda": "El permiso de circulación debe ser renovado cada vez que el vehículo cambie de titular.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Con un vehículo que emita niveles de ruido superiores a los permitidos...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "está permitido circular por carreteras pero no por travesías."
+        },
+        {
+          "letra": "B",
+          "texto": "no está permitido circular."
+        },
+        {
+          "letra": "C",
+          "texto": "únicamente está permitido circular por carretera."
+        }
+      ],
+      "ayuda": "Los vehículos no podrán circular por las vías públicas con niveles de emisión de ruido, gases o humos superiores a los límites establecidos legalmente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Qué vehículos deben obedecer al semáforo situado a la izquierda?",
+      "imagen": "examen-70_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los que continúen de frente únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Los que giren a la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Los que continúen de frente o giren a la izquierda."
+        }
+      ],
+      "ayuda": "Si en una intersección existen señales con indicaciones distintas en la derecha y en la izquierda, los vehículos que pretendan girar a la derecha deben obedecer a aquellas situadas a la derecha y quienes deseen continuar de frente o girar a la izquierda deben obedecer a las situadas a su izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Al auxiliar a una víctima de un accidente de tráfico, ¿debe darle alimentos o bebidas?",
+      "imagen": "examen-70_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Alimentos no, pero bebidas sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si lo piden."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Como norma general, a los heridos en accidente de tráfico no se les debe dar de comer ni de beber.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Un estado psicofísico indadecuado puede aumentar el tiempo de reacción, como si conducimos...",
+      "imagen": "examen-70_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "después de una fuerte discusión."
+        },
+        {
+          "letra": "B",
+          "texto": "después de una comida ligera."
+        },
+        {
+          "letra": "C",
+          "texto": "usando gafas graduadas."
+        }
+      ],
+      "ayuda": "Algunos de los factores que pueden ocasionar un aumento en el tiempo de reacción del conductor son: la ingesta de alcohol, el consumo de ciertos fármacos, el calor excesivo o las preocupaciones (problemas familiares, discusiones fuertes, etc.).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Con nieve en la calzada...",
+      "imagen": "examen-70_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se deben utilizar cadenas, que se colocarán siempre en la ruedas delanteras."
+        },
+        {
+          "letra": "B",
+          "texto": "la conducción debe ser suave, sin movimientos bruscos de la dirección ni cambios repentinos."
+        },
+        {
+          "letra": "C",
+          "texto": "se circulará lo más cerca posible del vehículo que va delante para aprovechar sus rodadas."
+        }
+      ],
+      "ayuda": "Por una calzada nevada se debe conducir con extrema suavidad, evitando los movimientos bruscos sobre todo al acelerar, frenar o girar el volante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Los conductores de motocicletas, ¿tienen permitido utilizar, durante la conducción, auriculares conectados a aparatos reproductores de música?",
+      "imagen": "examen-70_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Como norma general no."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si los llevan integrados en el casco."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque son dispositivos de manos libres."
+        }
+      ],
+      "ayuda": "Como norma general, los conductores de motocicletas tienen prohibido circular usando auriculares conectados a aparatos reproductores de sonido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Los accidentes de tráfico en España son la principal causa de muerte...",
+      "imagen": "examen-70_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "entre los 55 y los 65 años."
+        },
+        {
+          "letra": "B",
+          "texto": "entre los 18 y 29 años."
+        },
+        {
+          "letra": "C",
+          "texto": "a partir de los 29 años."
+        }
+      ],
+      "ayuda": "En España, la principal causa de muerte entre los jóvenes (de entre 18 y 29 años) son los accidentes de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "El carril reversible está abierto. ¿Puede atravesar la línea doble discontinua de la izquierda para adelantar?\n",
+      "imagen": "examen-70_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque la línea es discontinua."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque el carril de la izquierda está libre."
+        }
+      ],
+      "ayuda": "Al circular por un carril reversible no está permitido invadir la zona destinada al sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "En las calzadas con dos sentidos y tres carriles, cuando quiera girar a la izquierda, ¿dónde debe colocarse?",
+      "imagen": "examen-70_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el carril izquierdo."
+        },
+        {
+          "letra": "B",
+          "texto": "En el carril central."
+        },
+        {
+          "letra": "C",
+          "texto": "En el arcén derecho."
+        }
+      ],
+      "ayuda": "En calzadas con doble sentido de circulación y tres carriles se debe circular por el carril derecho y, en ningún caso, por el situado más a la izquierda. El carril central sólo se utilizará para efectuar los adelantamientos precisos y para cambiar de dirección a la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Los pasajeros menores de edad, de menos de 1,35 metros de altura, ¿qué dispositivos de seguridad deben llevar?",
+      "imagen": "examen-70_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El cinturón de seguridad normal."
+        },
+        {
+          "letra": "B",
+          "texto": "El cinturón de seguridad normal o un dispositivo adaptado a su talla y peso."
+        },
+        {
+          "letra": "C",
+          "texto": "Un dispositivo adaptado a su talla y peso."
+        }
+      ],
+      "ayuda": "Los pasajeros menores de edad, de menos de 1,35 metros de altura, deberán circular provistos de un dispositivo de seguridad adaptado a su talla y peso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Al aumentar la velocidad, la distancia de detención...",
+      "imagen": "examen-70_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "disminuye."
+        },
+        {
+          "letra": "B",
+          "texto": "no varía."
+        },
+        {
+          "letra": "C",
+          "texto": "aumenta."
+        }
+      ],
+      "ayuda": "A mayor velocidad, mayor es la distancia necesaria para detener un vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Debe identificarse a los servicios de emergencia cuando avise de un accidente?",
+      "imagen": "examen-70_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, con sus datos personales."
+        },
+        {
+          "letra": "B",
+          "texto": "No es necesario."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, con su número de matrícula."
+        }
+      ],
+      "ayuda": "Cuando se llama al teléfono de emergencias 112, entre la información que se debe facilitar, se encuentra el número de teléfono desde el cual se llama, así como nombre propio y el número de D.N.I.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "En las motocicletas, la postura del conductor ha de ser...",
+      "imagen": "examen-70_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un poco forzada, para evitar relajamientos."
+        },
+        {
+          "letra": "B",
+          "texto": "lo más aerodinámica posible, encorvando el cuerpo cuanto más mejor."
+        },
+        {
+          "letra": "C",
+          "texto": "suelta y no forzada, sin encorvar el cuerpo más de lo necesario."
+        }
+      ],
+      "ayuda": "Al circular, el conductor de una motocicleta debe adoptar una postura suelta y no forzada, sin encorvar el cuerpo más de lo necesario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Circular con las ventanillas bajadas ¿modifica la aerodinámica del vehículo?",
+      "imagen": "examen-70_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, reduciendo el consumo de combustible."
+        },
+        {
+          "letra": "B",
+          "texto": "No, y tampoco influye en el consumo de combustible."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, incrementando el consumo de combustible."
+        }
+      ],
+      "ayuda": "Circular con las ventanillas abiertas produce una mayor resistencia aerodinámica, lo cual ocasiona un incremento en el consumo de carburante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Cuál debe ser su comportamiento al ceder el paso?",
+      "imagen": "examen-70_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerse en las intersecciones si se acerca otro vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Parar y comprobar si otro usuario de la vía tiene prioridad."
+        },
+        {
+          "letra": "C",
+          "texto": "No obligar al vehículo que tiene prioridad a modificar bruscamente su trayectoria o velocidad."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo que deba ceder el paso a otro no iniciará ni continuará su marcha hasta haberse asegurado de que con ello no obliga al conductor del vehículo que tiene la prioridad a modificar bruscamente su trayectoria o velocidad. Además debe mostrar con suficiente antelación, por su forma de circular y especialmente con la reducción paulatina de la velocidad, que efectivamente va a ceder el paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "En un turismo de 9 plazas incluido el conductor, ¿pueden viajar 9 niños?",
+      "imagen": "examen-70_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando van al cargo de un adulto."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque se supera el número de plazas autorizado."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando los niños tienen edades comprendidas entre los 2 y los 12 años de edad."
+        }
+      ],
+      "ayuda": "El número de personas transportadas en un vehículo no podrá ser superior al de las plazas que tenga autorizadas Si el número máximo de plazas de un turismo es de 9 incluido el conductor, en dicho vehículo podrán viajar, como máximo, el conductor y ocho pasajeros más, independientemente de la edad de los mismos. Queda prohibido circular superando el número de plazas autorizadas de un vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

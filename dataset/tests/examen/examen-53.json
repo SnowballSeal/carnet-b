@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 53,
+  "nombre": "Test de examen 53",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Circula por una autopista a 120 km/h con las ventanillas abiertas. Si cierra las ventanillas y conecta el aire acondicionado, el consumo de combustible... ",
+      "imagen": "examen-53_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aumenta."
+        },
+        {
+          "letra": "B",
+          "texto": "disminuye."
+        },
+        {
+          "letra": "C",
+          "texto": "no varía."
+        }
+      ],
+      "ayuda": "Con carácter general, conducir con las ventanillas bajadas aumenta el consumo de combustible, porque afecta negativamente a la aerodinámica del vehículo.\n\nSe estima que a bajas velocidades, por ejemplo al circular dentro de poblado, conducir con las ventanillas bajadas no afecta significativamente al consumo de combustible. Sin embargo, a velocidades más elevadas, es más eficiente circular con el aire acondicionado conectado y con las ventanillas cerradas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Para prevenir la fatiga debe parar a descansar 20 ó 30 minutos...",
+      "imagen": "examen-53_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cada 2 horas o 200 kilómetros de conducción continuada."
+        },
+        {
+          "letra": "B",
+          "texto": "cada 4 horas o 400 kilómetros de conducción continuada."
+        },
+        {
+          "letra": "C",
+          "texto": "a mitad de recorrido."
+        }
+      ],
+      "ayuda": "Para prevenir la fatiga, es conveniente parar a descansar 20 ó 30 minutos cada 2 horas o 200 kilómetros de conducción continuada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Con el vehículo en movimiento, ¿puede el conductor poner en marcha el navegador GPS?",
+      "imagen": "examen-53_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, ya que es incompatible con la obligatoria atención a la conducción."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, mientras que no entorpezca el manejo del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, ya que no supone ningún peligro."
+        }
+      ],
+      "ayuda": "Durante la conducción, está prohibido utilizar manualmente dispositivos de telefonía móvil, navegadores y/o cualquier otro sistema de comunicación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Cuando se estropea el tubo de escape del vehículo, ¿qué sucede?",
+      "imagen": "examen-53_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El vehículo hace más ruido."
+        },
+        {
+          "letra": "B",
+          "texto": "Disminuye el ruido."
+        },
+        {
+          "letra": "C",
+          "texto": "El vehículo consume más combustible."
+        }
+      ],
+      "ayuda": "Con el tubo de escape deteriorado o en condiciones inadecuadas, los vehículos emiten mucho más ruido que en condiciones normales, produciendo contaminación acústica.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "En una vía que tiene tres calzadas separadas, ¿por qué calzada debe circular?",
+      "imagen": "examen-53_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo por la calzada de la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la calzada de la derecha y por la central cuando haya señales que así lo permitan."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo por la calzada central."
+        }
+      ],
+      "ayuda": "Cuando la vía disponga de tres calzadas, se circulará por la calzada de la derecha, y en su caso, por la central, siempre que así esté dispuesto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Cuando el titular de un permiso de conducir pierda parte de su asignación total de puntos, ¿podrá recuperarlos?",
+      "imagen": "examen-53_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, una vez perdido, ya no es posible recuperarlos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, obteniendo de nuevo el permiso de conducción."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, realizando un curso de sensibilización y reeducación vial."
+        }
+      ],
+      "ayuda": "El titular de una autorización, que haya perdido una parte del crédito inicial de puntos asignado, podrá optar a su recuperación parcial, hasta un máximo de cuatro puntos, por una sola vez cada dos años, realizando y superando con aprovechamiento un curso de sensibilización y reeducación vial, con la excepción de los conductores profesionales que podrán realizar el citado curso con frecuencia anual.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Expulsar un insecto del vehículo mientras se conduce, ¿puede ser peligroso?",
+      "imagen": "examen-53_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque puede distraer al conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "No, esto ocupa al conductor muy poco tiempo."
+        },
+        {
+          "letra": "C",
+          "texto": "No, si se circula a velocidad reducida."
+        }
+      ],
+      "ayuda": "Los insectos dentro del habitáculo pueden ser un peligroso distractor. En caso de ser necesario, se deberá detener el vehículo en lugar seguro para expulsar al insecto fuera del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Un vehículo especial que carece de señalización de frenado, no debe rebasar la velocidad máxima de...",
+      "imagen": "examen-53_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "70 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "40 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "25 kilómetros por hora."
+        }
+      ],
+      "ayuda": "La velocidad máxima fijada para los vehículos especiales que lleven remolque, o que carezcan de señalización de frenado (luz de freno), será de 25 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Cuál de las siguientes situaciones favorece las distracciones al conducir?",
+      "imagen": "examen-53_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una carretera excesivamente familiar."
+        },
+        {
+          "letra": "B",
+          "texto": "Una situación de tráfico compleja."
+        },
+        {
+          "letra": "C",
+          "texto": "Conducir durante la noche."
+        }
+      ],
+      "ayuda": "Circular por una carretera excesivamente familiar puede ocasionar un exceso de confianza y, por consiguiente, una disminución de los niveles de alerta necesarios para no distraerse durante la conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "Existe un riesgo mayor de somnolencia, cuando se circula por vías con...",
+      "imagen": "examen-53_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mucho tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "muchas curvas."
+        },
+        {
+          "letra": "C",
+          "texto": "trazado monótono."
+        }
+      ],
+      "ayuda": "La somnolencia aparece con mayor facilidad cuando se circula por vías de trazado monótono, ya que en este tipo de vías existen pocos estímulos que mantengan el nivel de alerta necesario en el conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Las señales acústicas deben ser...",
+      "imagen": "examen-53_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "de cualquier sonido."
+        },
+        {
+          "letra": "B",
+          "texto": "de sonido muy agudo."
+        },
+        {
+          "letra": "C",
+          "texto": "de sonido no estridente."
+        }
+      ],
+      "ayuda": "En determinados casos previstos reglamentariamente, podrán emplearse señales acústicas de sonido no estridente, quedando prohibido su uso inmotivado o exagerado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Si el resultado de las pruebas de alcoholemia es positivo el agente podrá inmovilizar el vehículo, a no ser...",
+      "imagen": "examen-53_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que el conductor haga efectiva en el acto la sanción económica impuesta."
+        },
+        {
+          "letra": "B",
+          "texto": "que en el vehículo viajen niños o ancianos."
+        },
+        {
+          "letra": "C",
+          "texto": "que pueda hacerse cargo de su conducción otra persona debidamente habilitada."
+        }
+      ],
+      "ayuda": "Pruebas de alcoholemia.\nEn el supuesto de que el resultado de las pruebas y de los análisis, en su caso, fuera positivo, el agente actuante podrá proceder además a la inmediata inmovilización del vehículo a no ser que pueda hacerse cargo de su conducción otra persona debidamente habilitada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Para contaminar lo menos posible, es recomendable...",
+      "imagen": "examen-53_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mantener siempre la misma velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "mantener la velocidad lo más uniforme posible evitando acelerones y frenazos innecesarios."
+        },
+        {
+          "letra": "C",
+          "texto": "utilizar lo menos posible el transporte público."
+        }
+      ],
+      "ayuda": "Para reducir el consumo de combustible, y por ende, la contaminación atmosférica, se debe realizar una conducción \"no agresiva\", manteniendo la velocidad lo más uniforme posible y evitando acelerones y frenazos bruscos e innecesarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Cómo debe colocarse el navegador GPS portátil en el vehículo?",
+      "imagen": "examen-53_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A una distancia de entre 10 y 15 centímetros."
+        },
+        {
+          "letra": "B",
+          "texto": "Donde no entorpezca la visión y nunca cerca de un airbag."
+        },
+        {
+          "letra": "C",
+          "texto": "Delante del volante."
+        }
+      ],
+      "ayuda": "El navegador sirve de gran ayuda al conductor pero, si no se hace un uso correcto del mismo puede ser causa de accidente. Por ello, si el navegador es portátil, se recomienda utilizar su soporte adecuado y fijarlo firmemente para evitar que se caiga sobre la marcha, teniendo especial cuidado de que no entorpezca la visión. No se debe colocar el soporte del navegador cerca del airbag para no interferir la apertura del mismo en caso de accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "En caso de avería de su motocicleta en una calzada, ¿cómo debe señalizarlo si representa un obstáculo para la circulación?",
+      "imagen": "examen-53_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obligatoriamente con las luces de posición."
+        },
+        {
+          "letra": "B",
+          "texto": "Con los triángulos de preseñalización de peligro que está obligado a llevar."
+        },
+        {
+          "letra": "C",
+          "texto": "Con la luz de emergencia si las lleva instaladas."
+        }
+      ],
+      "ayuda": "En caso de avería, deberá señalizar dicha circunstancia, haciendo uso de la señal de emergencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Es obligatorio llevar un extintor como equipamiento de un automóvil que circula en servicio particular?",
+      "imagen": "examen-53_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, sólo deben llevarlo los autobuses."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, todos los vehículos deben llevarlo."
+        },
+        {
+          "letra": "C",
+          "texto": "No, si se trata de un turismo o de una motocicleta."
+        }
+      ],
+      "ayuda": "Los turismos y las motocicletas, entre otros vehículos, no están obligados a llevar entre su dotación, un extintor de incendios.\nÚnicamente los autobuses, así como los vehículos mixtos y los automóviles destinados al transporte de mercancías, estos dos últimos de masa máxima autorizada superior a 3.500 kg, y los conjuntos de vehículos no especiales, deberán llevar, además de la dotación establecida con carácter general,, un equipo homologado de extinción de incendios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Tomar chicles o caramelos, ¿puede reducir la tasa de alcoholemia?",
+      "imagen": "examen-53_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo los caramelos que tengan mucho azúcar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Existen muchos trucos o leyendas urbanas para evitar dar positivo en un control de alcoholemia. Mascar chicles o caramelos, ingerir grandes dosis de café, beber aceite o abundante agua, ingerir clara de huevos, consumir cocaína, etc. Está demostrado cada fin de semana en los numerosos controles de alcoholemia que se realizan, que ninguna de estas \"estrategias\" resulta eficaz y que la única forma de evitar la sanción y evitar un grave accidente es no conducir si se ha bebido alcohol.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "En tramos con suficiente visibilidad y sin formar aglomeración, ¿podrán los ciclistas circular en columna de a dos, pegándose a la derecha?",
+      "imagen": "examen-53_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, deben circular siempre por el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "No, deben circular siempre en fila de a uno."
+        }
+      ],
+      "ayuda": "Se prohíbe que los vehículos obligados a circular por el arcén circulen en posición paralela, salvo las bicicletas, que podrán hacerlo en columna de a dos, orillándose todo lo posible al extremo derecho de la vía y colocándose en hilera en tramos sin visibilidad, y cuando formen aglomeraciones de tráfico. En las autovías sólo podrán circular por el arcén, sin invadir la calzada en ningún caso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Una de las principales causas de mortalidad en los accidentes de moto y ciclomotor es...",
+      "imagen": "examen-53_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no utilizar el casco."
+        },
+        {
+          "letra": "B",
+          "texto": "el arrollamiento por otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "los golpes contra el asfalto en las caídas."
+        }
+      ],
+      "ayuda": "El uso del casco de protección reduce en caso en casi un 30% la posibilidad de sufrir lesiones mortales en caso de accidente de circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Esta señal indica...",
+      "imagen": "examen-53_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "paso de animales en libertad (jabalíes)."
+        },
+        {
+          "letra": "B",
+          "texto": "paso de animales domésticos."
+        },
+        {
+          "letra": "C",
+          "texto": "cañada o paso de ganado."
+        }
+      ],
+      "ayuda": "Paso de animales en libertad (jabalíes).\nPeligro por la proximidad de un lugar donde frecuentemente la vía puede ser atravesada por animales en libertad, tratándose en una proporción muy significativa de jabalí",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Qué es un cambio de rasante?",
+      "imagen": "examen-53_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un tramo de vía donde no se ve el ancho total de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Un lugar en el que se encuentran dos tramos de vía de distinta inclinación."
+        },
+        {
+          "letra": "C",
+          "texto": "Un tramo de vía donde hay un cambio de dirección."
+        }
+      ],
+      "ayuda": "Se denomina cambio de rasante, al lugar en el que se encuentran dos tramos de vía de distinta inclinación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Una de las principales causas de los accidentes de tráfico es...",
+      "imagen": "examen-53_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el factor humano."
+        },
+        {
+          "letra": "B",
+          "texto": "la meteorología adversa."
+        },
+        {
+          "letra": "C",
+          "texto": "el mal estado del vehículo."
+        }
+      ],
+      "ayuda": "En relación con las causas de los accidentes, se estima que un porcentaje situado entre el 70 y el 90 % de los mismos, es imputable al factor humano.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Durante el día, es obligatorio encender el alumbrado que corresponda...",
+      "imagen": "examen-53_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sólo cuando existan condiciones que disminuyan la visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "cuando se circule por carriles VAO."
+        },
+        {
+          "letra": "C",
+          "texto": "cuando se circule por pasos inferiores o tramos de vía afectados por la señal túnel."
+        }
+      ],
+      "ayuda": "Entre otros casos, es obligatorio encender el alumbrado correspondiente, cuando se circule por pasos inferiores o tramos de vía afectados por la señal túnel, independientemente de la hora del día.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Está permitido circular con láminas adhesivas o cortinillas contra el sol?",
+      "imagen": "examen-53_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo durante el día."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en las ventanillas posteriores, cuando el vehículo lleve dos espejos retrovisores exteriores."
+        }
+      ],
+      "ayuda": "Si el vehículo tiene cortinillas contra el sol, o láminas adhesivas en la luneta trasera, se deberá disponer obligatoriamente de dos espejos retrovisores laterales exteriores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "El airbag, entre otras funciones, protege de...",
+      "imagen": "examen-53_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el efecto submarino."
+        },
+        {
+          "letra": "B",
+          "texto": "lesiones oculares."
+        },
+        {
+          "letra": "C",
+          "texto": "lesiones cervicales y de impactos contra elementos del interior del vehículo."
+        }
+      ],
+      "ayuda": "El airbag es una bolsa de gas que se hincha en milésimas de segundo al producirse un impacto, protegiendo a los ocupantes del vehículo. Resulta especialmente eficaz, en la prevención de lesiones cervicales y de impactos contra elementos del interior del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "La depresión produce...",
+      "imagen": "examen-53_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "más irritabilidad y ansiedad."
+        },
+        {
+          "letra": "B",
+          "texto": "una disminución de la ansiedad."
+        },
+        {
+          "letra": "C",
+          "texto": "una disminución de la irritabilidad y aumento de la ansiedad."
+        }
+      ],
+      "ayuda": "Los conductores afectados por la depresión, suelen experimentar más irritabilidad y ansiedad, lo cual puede resultar especialmente peligroso para conducir.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Qué indica la luz de posición de los vehículos?",
+      "imagen": "examen-53_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El lugar que ocupa en la calzada y la anchura del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el vehículo está parado."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el vehículo está circulando."
+        }
+      ],
+      "ayuda": "Las luces de posición delantera y trasera están destinadas a indicar la presencia y anchura del vehículo, cuando se le ve desde delante y desde atrás, respectivamente. La luz de posición lateral es la utilizada para indicar la presencia de un vehículo cuando se le ve de lado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Un vehículo circula a velocidad inadecuada cuando...",
+      "imagen": "examen-53_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no se adapta a las circunstancias del tráfico o de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "circula por debajo de la velocidad máxima y por encima de la mínima."
+        },
+        {
+          "letra": "C",
+          "texto": "se adapta a las condiciones de la vía pero supera los límites establecidos."
+        }
+      ],
+      "ayuda": "Velocidad inadecuada: La velocidad inadecuada puede ser por exceso o por defecto, no adaptándose a las circunstancias de la vía, vehículo y condiciones adversas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Si circula a 100 kilómetros por hora y se rompe el freno de pie, ¿cómo puede intentar detener el vehículo?",
+      "imagen": "examen-53_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reduciendo a velocidades más cortas, y al final utilizando el freno de mano."
+        },
+        {
+          "letra": "B",
+          "texto": "Con el freno de mano solamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Pisando varias veces el pedal del embrague y el pedal de freno."
+        }
+      ],
+      "ayuda": "En caso de avería o fallo del sistema de frenado de servicio durante la marcha, se procurará reducir la velocidad utilizando para ello la reducción de marchas. Cuando se haya conseguido disminuir la velocidad, se tirará del freno de estacionamiento de forma progresiva, lo cual ayudará a detener el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Está prohibido parar...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en las proximidades de los pasos para peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "delante de los vados señalizados correctamente."
+        },
+        {
+          "letra": "C",
+          "texto": "donde se ocasione riesgo para el resto de usuarios."
+        }
+      ],
+      "ayuda": "Está prohibido parar y estacionar, en todos aquellos lugares donde se ocasione un riesgo u obstáculo a la circulación. En las proximidades de los pasos para peatones y de las intersecciones, no está prohibido realizar una parada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

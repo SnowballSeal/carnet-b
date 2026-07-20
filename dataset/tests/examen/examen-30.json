@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 30,
+  "nombre": "Test de examen 30",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Para adelantar al grupo de ciclistas, el vehículo rebasa la línea continua y ocupa el carril destinado a la circulación en sentido contrario; ¿es correcto su comportamiento?",
+      "imagen": "examen-30_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, y debe guardar una separación lateral de, al menos, 1,5 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo es correcto si no existe una señal vertical que prohíba adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque en este tramo de vía está prohibido el adelantamiento."
+        }
+      ],
+      "ayuda": "Cuando se adelante fuera de poblado a peatones, animales o a vehículos de dos ruedas o de tracción animal, se deberá realizar la maniobra ocupando parte o la totalidad del carril contiguo de la calzada (siempre y cuando existan las condiciones precisas para realizar el adelantamiento en las condiciones precisas para realizar el adelantamiento en las condiciones previstas reglamentariamente).\n\nEn todo caso, la separación lateral no será inferior a 1,50 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Si su vehículo está provisto de caja de cambios manual, en una calle con pendiente ascendente, ¿cómo debe estacionar? ",
+      "imagen": "examen-30_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Poniendo el freno de estacionamiento y la primera velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Poniendo el freno de estacionamiento y la marcha atrás."
+        },
+        {
+          "letra": "C",
+          "texto": "Basta con poner el freno de estacionamiento."
+        }
+      ],
+      "ayuda": "Cuando el conductor tenga que dejar su puesto, deberá tener en cuenta las siguientes reglas:\n\na) Parar el motor y desconectar el sistema de arranque y, si se alejara del vehículo, adoptar las precauciones necesarias para impedir su uso sin autorización.\nb) Dejar accionado el freno de estacionamiento.\nc) En un vehículo provisto de caja de cambios, dejar colocada la primera velocidad, en pendiente ascendente, y la marcha hacia atrás, en descendente, o, en su caso, la posición de estacionamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Si ningún elemento impide su funcionamiento eficaz, ¿qué sistema de seguridad pasiva evita que, en caso de accidente, se produzca el efecto submarino?",
+      "imagen": "examen-30_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El airbag. "
+        },
+        {
+          "letra": "B",
+          "texto": "El reposacabezas."
+        },
+        {
+          "letra": "C",
+          "texto": "El cinturón de seguridad."
+        }
+      ],
+      "ayuda": "El cinturón de seguridad es un elemento clave de la seguridad pasiva del vehículo. Si no se coloca correctamente, en caso de accidente, se puede producir el fenómeno conocido como \"efecto submarino\", el cual consiste en que el cuerpo, si no está bien sujeto por el cinturón, se desliza por debajo de la banda abdominal del mismo. Este efecto constituye uno de los riesgos más graves asociados al uso incorrecto del cinturón (llevarlo incorrectamente abrochado o con elementos que impidan su eficaz funcionamiento).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En un turismo, ¿es obligatorio llevar el dispositivo luminoso de preseñalización de peligro?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No es obligatorio, pero es aconsejable llevarlo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, como norma general."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo es obligatorio cuando se circule por vías interurbanas."
+        }
+      ],
+      "ayuda": "\tCon carácter general, los turismos, llevarán la siguiente dotación:\n\t \n\ta) El dispositivo luminoso de preseñalización de peligro V-16.\n\tb) Un chaleco reflectante de alta visibilidad.\n\tc) Una rueda completa de repuesto o una rueda de uso temporal.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Puede perder el control del vehículo si circula con los amortiguadores en mal estado?",
+      "imagen": "examen-30_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, sin embargo, los cambios de marcha se realizarán con mayor dificultad debido a las oscilaciones del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque la distancia de frenado disminuirá, especialmente con el firme irregular o mojado."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque el vehículo puede experimentar una inclinación excesiva al tomar las curvas."
+        }
+      ],
+      "ayuda": "La circulación con los amortiguadores en mal estado puede provocar una pérdida del control del vehículo, dado que el vehículo puede experimentar una inclinación excesiva al tomar las curvas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Qué medidas deberá adoptar ante esta señal?",
+      "imagen": "examen-30_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumentaré la atención por posibles desprendimientos y obstáculos en la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Aceleraré, pasando la zona lo más rápidamente posible para dejar paso libre."
+        },
+        {
+          "letra": "C",
+          "texto": "Me autoriza a circular en sentido contrario, extremando la precaución, en caso de desprendimientos."
+        }
+      ],
+      "ayuda": "Esta señal indica peligro por la proximidad a una zona con desprendimientos frecuentes y la consiguiente posible presencia de obstáculos en la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "En calzadas de doble sentido de circulación y dos carriles sin delimitar por marcas viales, ¿por dónde se debe de circular?",
+      "imagen": "examen-30_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el centro de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el carril derecho."
+        },
+        {
+          "letra": "C",
+          "texto": "Por cualquiera de los dos carriles, si no vienen vehículos en sentido contrario."
+        }
+      ],
+      "ayuda": "En las calzadas con doble sentido de circulación y dos carriles, separados o no por marcas viales, se debe circular por el carril de la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "El nivel del depósito de líquido lavaparabrisas, ¿se debe revisar con cierta frecuencia?",
+      "imagen": "examen-30_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, es conveniente para no quedarnos sin él cuando lo necesitemos."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo hay que revisarlo en verano porque con el calor el líquido se evapora."
+        },
+        {
+          "letra": "C",
+          "texto": "No es necesario, basta con revisarlo antes de pasar la inspección técnica."
+        }
+      ],
+      "ayuda": "Es conveniente revisar, y reponer cuando resulte necesario, el nivel del depósito del líquido lavaparabrisas para evitar no disponer de cantidad suficiente en caso de que se necesite.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Qué es un vehículo?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todo aparato apto para circular por las vías."
+        },
+        {
+          "letra": "B",
+          "texto": "Todo aparato que se encuentre en la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "Es todo aparato que esté equipado con motor."
+        }
+      ],
+      "ayuda": "Vehículo es todo aparato apto para circular por las vías o terrenos a que se refiere la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Qué tipo de daños en general, cubre el seguro de responsabilidad civil de suscripción obligatoria?",
+      "imagen": "examen-30_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solamente daños materiales."
+        },
+        {
+          "letra": "B",
+          "texto": "Los daños personales y materiales."
+        },
+        {
+          "letra": "C",
+          "texto": "Solamente los daños personales."
+        }
+      ],
+      "ayuda": "Como norma general, el seguro de responsabilidad civil de suscripción obligatoria (seguro obligatorio), cubre los daños materiales y personales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "A partir de la señal, el conductor de un camión de menos de 3.500 kilos de MMA, ¿puede adelantar a otros vehículos?",
+      "imagen": "examen-30_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, la señal le prohíbe adelantar a todo tipo de vehículos a motor."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, la señal afecta a camiones cuya MMA supere los 3.500 kilos."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo puede adelantar a vehículos de dos ruedas."
+        }
+      ],
+      "ayuda": "La señal de adelantamiento prohibido para camiones, es aplicable solamente a los camiones cuya masa máxima autorizada exceda de 3.500 kilogramos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Las lámparas de xenón...",
+      "imagen": "examen-30_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mejoran la iluminación de la vía y reducen la fatiga ocular del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "aumentan la fatiga ocular del conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "iluminan peor la vía, pero reducen la fatiga ocular del conductor."
+        }
+      ],
+      "ayuda": "Las lámparas de xenón (gas noble) proporcionan un alumbrado muy similar al de la luz natural y sensiblemente más claro que el de las lámparas halógenas. Este tipo de lámparas de descarga de gas carecen de filamento, el cual es sustituido por 2 electrodos encerrados dentro de una ampolla. Entre las múltiples ventajas de este tipo de lámparas, se encuentra su elevada duración (hasta 5 veces mayor que las halógenas), un alcance superior y una zona de dispersión más ancha en la zona de proximidad. De esta forma se ilumina mejor el borde de la calzada, lo cual reduce la fatiga visual del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Si usted padece una alergia respiratoria, es conveniente tener en cuenta que...",
+      "imagen": "examen-30_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tendré que aumentar la dosis de medicamento."
+        },
+        {
+          "letra": "B",
+          "texto": "es mejor no circular con las ventanillas abiertas."
+        },
+        {
+          "letra": "C",
+          "texto": "es preferible conducir temprano por la mañana ya que hay menos polen."
+        }
+      ],
+      "ayuda": "Los conductores que padecen alergia tienen un mayor riesgo de sufrir un accidente por distracción. Los incómodos síntomas de esta enfermedad, suelen requerir la atención del conductor (estornudos, picor de ojos, visión borrosa, etc.), por lo que la atención a la conducción se verá afectada. También hay que tener en cuenta que la mayoría de medicamentos utilizados para el control de estos síntomas (antihistamínicos) producen somnolencia. Algunas medidas que favorecen la conducción segura bajo estas condiciones son: Conducir con las ventanillas cerradas para evitar la entrada de polen y utilizar un filtro de partículas adecuado. Evitar conducir al amanecer especialmente en zonas húmedas debido a las altas concentraciones de polen. Utilizar gafas de sol para proteger los ojos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Cuántas placas de matrícula debe llevar una motocicleta?",
+      "imagen": "examen-30_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo una colocada en la parte posterior de la motocicleta."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo una, con el fondo de color amarillo y los caracteres negro mate. "
+        }
+      ],
+      "ayuda": "Las motocicletas deben llevar, situada en su parte posterior, en el plano longitudinal medio del vehículo y en posición vertical o casi vertical, una sola placa de matrícula. Esta placa deberá ser perfectamente visible, ser de forma plana y corresponder a tipos homologados.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "El camión que circula delante lo hace muy lentamente obstaculizando la circulación. ¿Se le puede adelantar?",
+      "imagen": "examen-30_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque el vehículo está en movimiento y no se permite atravesar la línea longitudinal continua."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque es un obstáculo para los demás usuarios de la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero únicamente si existe suficiente visibilidad y no se aproxima ningún vehículo en sentido contrario."
+        }
+      ],
+      "ayuda": "La línea longitudinal continua, en este caso, prohíbe adelantar. Aunque el camión circule con lentitud y obstaculice la circulación, es necesario aguardar hasta llegar a un tramo donde la línea longitudinal de separación de sentidos y el resto de las circunstancias, permitan realizar el adelantamiento con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Si conduce el turismo verde y quiere girar a la derecha, ¿qué debe hacer?",
+      "imagen": "examen-30_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Continuar de frente."
+        },
+        {
+          "letra": "B",
+          "texto": "Esperar a que el semáforo de la izquierda se ponga verde."
+        },
+        {
+          "letra": "C",
+          "texto": "Girar a la derecha porque lo permite el semáforo."
+        }
+      ],
+      "ayuda": "En esta situación, el turismo verde pretende cambiar de dirección a la derecha, por lo que únicamente deberá tener en cuenta las indicaciones del semáforo de la derecha, el cual le permite el paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Si circula con su turismo por una autopista urbana, debe saber que no deberá circular a una velocidad inferior a...",
+      "imagen": "examen-30_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "25 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "40 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "60 kilómetros por hora."
+        }
+      ],
+      "ayuda": "Los límites de velocidad, establecidos con carácter genérico para turismos en autopistas y autovías, son 120 km/h. de máxima y 60 kilómetros por hora de mínima. En autovías y autopistas dentro de poblado, y en defecto de señalización, la velocidad máxima que no deberán rebasar los vehículos será de 80 km/h, mientras que la velocidad mínima se mantiene en 60 km/h..",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Un tractor agrícola de más de 3.500 kilogramos de MMA, ¿se puede conducir con el permiso de la clase B?",
+      "imagen": "examen-30_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo si puede alcanzar una velocidad superior a 45 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque sobrepasa los 3.500 kilogramos de MMA."
+        }
+      ],
+      "ayuda": "Con el permiso de conducción de la clase B, se pueden conducir tractores agrícolas con o sin remolque, independientemente de la masa máxima autorizada de éstos y de la velocidad máxima autorizada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Algunas bebidas alcohólicas pasan más rápido al organismo. ¿Con qué tipo de bebidas alcohólicas se alcanza antes la alcoholemia?",
+      "imagen": "examen-30_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con las fermentadas."
+        },
+        {
+          "letra": "B",
+          "texto": "Con las destiladas."
+        },
+        {
+          "letra": "C",
+          "texto": "Con las bebidas frías."
+        }
+      ],
+      "ayuda": "No todas las bebidas con alcohol se absorben con la misma velocidad. Las bebidas destiladas, además de contener graduaciones de alcohol superiores a las fermentadas, pasan antes al organismo. La mezcla de alcohol con refrescos gasificados, o la ingesta de bebidas a temperaturas altas (calientes o templadas), son elementos que también favorecen la aparición temprana de la presencia de alcohol en sangre.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Una gran parte de las víctimas mortales por accidentes de circulación se producen en...",
+      "imagen": "examen-30_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en vías urbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "en vías interurbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "travesías."
+        }
+      ],
+      "ayuda": "Los accidentes que producen más víctimas mortales, se producen en vías interurbanas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Qué vehículos tienen obligación de contratar una póliza de seguro?",
+      "imagen": "examen-30_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todos los vehículos a motor, los ciclomotores y los remolques y semirremolques de más de 750 kg."
+        },
+        {
+          "letra": "B",
+          "texto": "Los vehículos automóviles únicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Los vehículos automóviles y los remolques cuando vayan enganchados."
+        }
+      ],
+      "ayuda": "Deben estar asegurados:\n- Todos los vehículos a motor.\n- Los ciclomotores.\n- Los remolques y semirremolques de más de 750 kg.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Circula por una travesía; ya se ha puesto el sol y la vía está suficientemente iluminada. ¿Qué alumbrado debe encender? ",
+      "imagen": "examen-30_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ninguno, ya que la vía está suficientemente iluminada."
+        },
+        {
+          "letra": "B",
+          "texto": "Las luces de posición y las de corto alcance o de cruce."
+        },
+        {
+          "letra": "C",
+          "texto": "Solamente las luces de posición."
+        }
+      ],
+      "ayuda": "Todo vehículo de motor y ciclomotor que circule entre el ocaso y la salida del sol por vías urbanas o interurbanas suficientemente iluminadas, llevará encendido, además del alumbrado de posición, el alumbrado de corto alcance o de cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Si su turismo se queda averiado durante el día y con tiempo claro en una autopista. ¿Qué luces debe dejar encendidas para advertir dicha circunstancia?",
+      "imagen": "examen-30_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las de posición y las de emergencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo las de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente las de posición."
+        }
+      ],
+      "ayuda": "De día y con tiempo claro el encendido del alumbrado de posición no es necesario. Cuando inmovilicemos nuestro vehículo debido a una emergencia, en la calzada o arcén transitable debemos conectar la señal de emergencia, y utilizar el dispositivo luminoso de preseñalización de peligro de forma reglamentaria.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Si usted presencia un accidente de tráfico en el que un conductor se encuentra atrapado dentro del vehículo. ¿Qué debe hacer si dicho conductor sufre una parada cardiaca?",
+      "imagen": "examen-30_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nada."
+        },
+        {
+          "letra": "B",
+          "texto": "Esperar en todo caso que llegue la ayuda sanitaria."
+        },
+        {
+          "letra": "C",
+          "texto": "Intentar realizarle la reanimación cardio-pulmonar dentro del vehículo."
+        }
+      ],
+      "ayuda": "Ante un herido que presenta parada cardio-respiratoria se debe actuar con prontitud y eficacia ya que de ello depende la vida del accidentado. En el caso que no sea posible extraer al herido del vehículo, se deberá intentar reanimarle dentro del mismo. Se debe continuar con las maniobras de reanimación hasta la llegada de la asistencia sanitaria.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Está permitido adelantar por un carril de aceleración a los vehículos que circulan por otros carriles?",
+      "imagen": "examen-30_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, a condición de no poner en peligro a ningún otro usuario."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque en este caso no se considera adelantamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Los carriles auxiliares de entrada o carriles de aceleración, están destinados a la incorporación a los carriles principales de vehículos procedentes de otra vía. No tiene consideración de adelantamiento, el hecho de que los vehículos que circulen por carriles de aceleración o deceleración o carriles o partes de la vía destinados exclusivamente al tráfico de determinados vehículos o a ciertas maniobras, avancen más rápidamente que los que lo hagan por los carriles normales de circulación o viceversa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Cómo se frena la rueda trasera de una motocicleta?",
+      "imagen": "examen-30_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Accionando la maneta derecha del manillar."
+        },
+        {
+          "letra": "B",
+          "texto": "Con el pie izquierdo."
+        },
+        {
+          "letra": "C",
+          "texto": "Con el pie derecho."
+        }
+      ],
+      "ayuda": "En las motocicletas, el pedal de accionamiento del freno trasero se encuentra normalmente situado en el lateral derecho del vehículo. Las levas existentes en el manillar son para el accionamiento del embrague (izquierda) y para el freno delantero (derecha)",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Las autopistas y las autovías normalmente son...",
+      "imagen": "examen-30_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "más seguras que el resto de las vías."
+        },
+        {
+          "letra": "B",
+          "texto": "menos seguras que el resto de las vías."
+        },
+        {
+          "letra": "C",
+          "texto": "igual de seguras que las demás vías."
+        }
+      ],
+      "ayuda": "En general y debido a las propias características de este tipo de vías, y a que en su construcción se les dota de una serie de elementos de seguridad tanto activa como pasiva, las autopistas y las autovías presentan niveles de seguridad más satisfactorios que el resto de las carreteras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Esta señal en un carril de un puesto de peaje, ¿qué indica?",
+      "imagen": "examen-30_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que se puede pagar con telepeaje o con moneda."
+        },
+        {
+          "letra": "B",
+          "texto": "Que sólo se puede pagar con sistema de telepeaje."
+        },
+        {
+          "letra": "C",
+          "texto": "Que es un carril para autobuses y camiones."
+        }
+      ],
+      "ayuda": "Si en un carril de un puesto de peaje de una autopista aparece esta señal, los vehículos que circulen por ese carril sólo pueden pagar con el sistema de telepeaje.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Como norma general, en vías de tres calzadas se utilizarán las de los laterales... ",
+      "imagen": "examen-30_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en sentido único, si bien se podrá habilitar algún carril para el sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "en ambos sentidos."
+        },
+        {
+          "letra": "C",
+          "texto": "en sentido único, siempre que el tráfico sea fluido."
+        }
+      ],
+      "ayuda": "Como norma general, en vías de tres calzadas, la central podrá estar destinada a la circulación en los dos sentidos, o en un sentido único, permanente o temporal, según se disponga mediante las correspondientes señales, y las laterales para la circulación en uno sólo, sin perjuicio de que puedan establecerse para estas últimas o para alguno de los carriles otro sentido de circulación, que habrá de estar convenientemente señalizado. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Puede afectar la carga excesiva del vehículo al correcto funcionamiento de los neumáticos?",
+      "imagen": "examen-30_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "No, si el vehículo lleva amortiguadores nuevos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando se excede de los límites de carga permitidos."
+        }
+      ],
+      "ayuda": "La carga que soporte un vehículo tiene una incidencia fundamental en el correcto funcionamiento de los neumáticos, debido a que son éstos quienes en última instancia soportan todo el peso. En ningún caso se debe sobrecargar el vehículo por encima de los límites máximos permitidos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

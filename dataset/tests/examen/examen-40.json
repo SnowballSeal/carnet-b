@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 40,
+  "nombre": "Test de examen 40",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Si se ve implicado en un accidente de tráfico con posibilidad de muertos o heridos graves, ¿qué actuaciones, entre otras, debe llevar a cabo en la medida de lo posible?",
+      "imagen": "examen-40_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Seguir circulando, sin prestar ayuda a las víctimas ni avisar a la autoridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Detener el vehículo sin crear peligro, avisar a la autoridad o sus agentes y auxiliar a los heridos."
+        },
+        {
+          "letra": "C",
+          "texto": "Detenerse, borrar las huellas del accidente y cambiar de sitio a los heridos y vehículos."
+        }
+      ],
+      "ayuda": "Si se ve implicado en un accidente de tráfico con posibilidad de muertos o heridos graves, se debe detener el vehículo sin crear peligro, avisar a la autoridad o sus agentes y auxiliar a los heridos. En todo momento, se debe tener presente y seguir el orden del protocolo PAS (proteger, avisar, socorrer).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Un conductor se encuentra situado en el carril derecho de esta calzada, ¿puede seguir de frente?",
+      "imagen": "examen-40_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, puede girar a la derecha o continuar de frente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque no existe una señal vertical que prohíba seguir de frente."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está obligado a girar a la derecha."
+        }
+      ],
+      "ayuda": "Flecha de selección de carriles.\nLa flecha situada en un carril delimitado por líneas longitudinales indica que todo conductor debe seguir obligatoriamente la dirección indicada o, si la señalización lo permite, cambiarse a otro carril. En este caso, dado que no es posible cambiar de carril, el conductor del vehículo está obligado a girar a la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Una vez termine de adelantar el vehículo blanco, ¿puede seguir circulando por el carril izquierdo?",
+      "imagen": "examen-40_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, debe circular por el carril derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque por el segundo carril sólo se puede circular para adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque en autopista se puede circular por cualquier carril."
+        }
+      ],
+      "ayuda": "Cuando el vehículo que esté efectuando la maniobra de adelantamiento, como norma general, debe regresar al carril derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "En general, un conductor que sufre un trastorno depresivo...",
+      "imagen": "examen-40_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sufre menos distracciones."
+        },
+        {
+          "letra": "B",
+          "texto": "comete menos errores a la hora de tomar decisiones."
+        },
+        {
+          "letra": "C",
+          "texto": "es más inseguro al volante."
+        }
+      ],
+      "ayuda": "En general, las personas que sufren trastornos depresivos se comportan de forma más insegura cuando conducen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "En caso de accidente, ¿existe relación entre la velocidad de circulación y la gravedad de las lesiones de los ocupantes de un vehículo?",
+      "imagen": "examen-40_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, a mayor velocidad menor es la probabilidad de sufrir lesiones graves."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, a mayor velocidad mayor es la probabilidad de sufrir lesiones graves."
+        },
+        {
+          "letra": "C",
+          "texto": "No, la gravedad de las lesiones depende solo de los sistemas de seguridad pasiva."
+        }
+      ],
+      "ayuda": "La probabilidad de morir o sufrir lesiones graves permanentes es mucho mayor en un accidente con velocidad excesiva que en otro con una velocidad más moderada. Esto sucede independientemente de si la causa última del accidente ha sido, o no, el exceso. de velocidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿En cuál de las siguientes circunstancias termina la limitación de velocidad que indica esta marca vial?",
+      "imagen": "examen-40_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando supere la línea transversal blanca que hay delante de ella."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando me acerque a la salida del poblado y no haya viviendas cerca."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando encuentre otra señal de velocidad máxima distinta."
+        }
+      ],
+      "ayuda": "La limitación establecida en la marca vial se aplica hasta la próxima señal de «Fin de limitación», «Fin de limitación de velocidad» u otra señal de velocidad máxima diferente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "En general, ¿qué efectos tiene en la conducción una conversación telefónica de un par de minutos utilizando un dispositivo de manos libres?",
+      "imagen": "examen-40_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El conductor no percibe una parte importante de la información del entorno."
+        },
+        {
+          "letra": "B",
+          "texto": "El nivel de concentración del conductor aumenta de forma considerable."
+        },
+        {
+          "letra": "C",
+          "texto": "El conductor percibe mejor la información del entorno, como las señales."
+        }
+      ],
+      "ayuda": "La utilización del teléfono móvil es siempre peligrosa para la conducción. Si bien algunos dispositivos de manos libres están permitidos, hay que tener en cuenta que cuando la duración de la conversación supera el minuto y medio el conductor deja de percibir una parte importante de las señales y del resto del entorno, incluso cuando la conversación tiene lugar a través de un dispositivo autorizado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Un desplazamiento lateral, ¿cómo puede señalizarse?",
+      "imagen": "examen-40_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con el brazo, preferentemente."
+        },
+        {
+          "letra": "B",
+          "texto": "Siempre con las luces indicadoras de dirección."
+        },
+        {
+          "letra": "C",
+          "texto": "Con las luces indicadoras de dirección o, en su defecto, con el brazo."
+        }
+      ],
+      "ayuda": "Como norma general, dichas advertencias se harán utilizando la señalización luminosa del vehículo (indicadores de dirección) o, en su defecto, con el brazo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Circula por una calzada en la que debido a la niebla el pavimento está húmedo y resbaladizo. ¿Cómo debe ser la conducción?",
+      "imagen": "examen-40_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dinámica y a una velocidad alta para evitar que las ruedas patinen."
+        },
+        {
+          "letra": "B",
+          "texto": "Suave, sin movimientos bruscos, aumentando la distancia de seguridad, además de reducir la velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Igual que cuando la calzada está seca, ya que los neumáticos no pierden adherencia."
+        }
+      ],
+      "ayuda": "Cuando se circule por una calzada en la que debido a la niebla el pavimento está húmedo y resbaladizo, se debe conducir de forma suave, sin movimientos bruscos, aumentando la distancia de seguridad y reduciendo la velocidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Como norma general, las bicicletas, ¿pueden circular en posición paralela en columna de a dos?",
+      "imagen": "examen-40_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo en autovías y siempre que no invadan la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Las bicicletas podrán circular en posición paralela, en columna de a dos, orillándose todo lo posible al extremo derecho de la vía y colocándose en hilera en tramos sin visibilidad, y cuando formen aglomeraciones de tráfico. En las autovías sólo podrán circular por el arcén, sin invadir la calzada en ningún caso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "El conductor de un vehículo, ¿cómo deberá adelantar a un ciclista cuando circule por una vía con dos carriles para su sentido de la marcha?",
+      "imagen": "examen-40_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ocupando parte o la totalidad del carril contiguo y dejando una distancia lateral de, al menos, 1,5 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Cambiando por completo de carril y dejando una distancia lateral de, al menos 1,5 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "Ocupando parte del carril contiguo y dejando una distancia lateral de, al menos, 1,5 metros."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo que pretenda realizar un adelantamiento a un ciclo o ciclomotor, o conjunto de ellos, debe realizarlo ocupando parte o la totalidad del carril contiguo o contrario, en su caso, de la calzada y guardando una anchura de seguridad de, al menos, 1,5 metros, salvo cuando la calzada cuente con más de un carril por sentido, en cuyo caso será obligatorio el cambio completo de carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En caso de atropello a un peatón, ¿cómo influye la velocidad a la que circula el vehículo en las lesiones ocasionadas?",
+      "imagen": "examen-40_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A mayor velocidad la posibilidad de fallecimiento del peatón es menor."
+        },
+        {
+          "letra": "B",
+          "texto": "No existe riesgo de fallecimiento del peatón si se circula a 50 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A mayor velocidad la posibilidad de fallecimiento del peatón es mayor."
+        }
+      ],
+      "ayuda": "La velocidad a la que circule el vehículo es un factor determinante en caso de atropello a un peatón. A mayor velocidad la posibilidad de fallecimiento del peatón es mayor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Fuera de poblado, al acercarse a un vehículo inmovilizado en la calzada, ¿qué precauciones se deben tomar?",
+      "imagen": "examen-40_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical."
+        },
+        {
+          "letra": "B",
+          "texto": "Ninguna si no vienen vehículos en sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Moderar la velocidad y, si fuera preciso, detener el vehículo."
+        }
+      ],
+      "ayuda": "Fuera de poblado al acercarse a vehículos inmovilizados en la calzada, a vehículos de auxilio prestando servicio y a ciclos que circulan por ella o por su arcén, se debe moderar la velocidad y extremar las precauciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Los conos colocados en la calzada, ¿qué indican?",
+      "imagen": "examen-40_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prohíben atravesar la línea real o imaginaria que los une."
+        },
+        {
+          "letra": "B",
+          "texto": "El sentido de la circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "Permiten atravesar la línea real o imaginaria que los une, pero con precaución."
+        }
+      ],
+      "ayuda": "Las banderitas, conos o dispositivos análogos. prohíben el paso a través de la línea real o imaginaria que los une.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "Fundamentalmente, ¿qué puede observar el conductor mirando por los espejos retrovisores?",
+      "imagen": "examen-40_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Lo que ocurre en el interior y delante del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Lo que ocurre por detrás del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Lo que ocurre en los ángulos muertos."
+        }
+      ],
+      "ayuda": "La utilización de los espejos retrovisores, fundamentalmente, permite observar lo que ocurre por detrás del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "El conductor del vehículo rojo circula a mayor velocidad que el vehículo blanco; en esta situación, ¿le está permitido realizar el adelantamiento por la derecha?",
+      "imagen": "examen-40_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en este caso está prohibido adelantar por la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "No, pero puede adelantar utilizando el carril de sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, puede adelantar por la derecha de forma excepcional."
+        }
+      ],
+      "ayuda": "Con carácter general, en todas las vías el adelantamiento deberá efectuarse por la izquierda del vehículo que se pretende adelantar. Excepcionalmente, si existe espacio suficiente para ello, el adelantamiento se efectuará por la derecha y adoptando las máximas precauciones, cuando el conductor del vehículo al que se pretenda adelantar esté indicando claramente su propósito de cambiar de dirección a la izquierda o parar en ese lado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Al adelantar a ciclistas en ascenso prolongados, ¿es aconsejable aumentar la separación lateral por encima de la mínima establecida por la norma?",
+      "imagen": "examen-40_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, ya que debido al esfuerzo su trayectoria puede ser oscilante."
+        },
+        {
+          "letra": "B",
+          "texto": "No, de hecho, es aconsejable reducir la separación lateral al mínimo posible."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo en vías con más de un carril para cada sentido de la circulación."
+        }
+      ],
+      "ayuda": "Al adelantar a ciclistas en tramos de vía con ascensos prolongados, es aconsejable aumentar la separación lateral por encima de la mínima establecida por la norma ya que, debido al esfuerzo, su trayectoria puede ser oscilante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Una persona mayor de edad, ¿puede transportar a un pasajero en una bicicleta que, por construcción, no pueda ser ocupada por más de una persona?",
+      "imagen": "examen-40_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, a un menor de hasta siete años en un asiento adicional homologado."
+        },
+        {
+          "letra": "B",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si el conductor pedalea levantado y el pasajero va sentado en el sillín."
+        }
+      ],
+      "ayuda": "Los ciclos que, por construcción, no puedan ser ocupados por más de una persona podrán transportar, no obstante, cuando el conductor sea mayor de edad, un menor de hasta siete años en asiento adicional que habrá de ser homologado.\n\n----",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "En una vía urbana de un carril para cada sentido de circulación, ¿dónde debe situar su vehículo si realiza una parada ocupando la calzada?",
+      "imagen": "examen-40_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Lo más cerca posible del borde derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Lo más cerca posible del borde izquierdo."
+        },
+        {
+          "letra": "C",
+          "texto": "Lo más cerca posible del borde, ya sea el derecho o el izquierdo."
+        }
+      ],
+      "ayuda": "Cuando se realice una parada en vías urbanas, con carácter general, se situará el vehículo lo más cerca posible de su borde derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "El cinturón de seguridad, ¿para qué sirve?",
+      "imagen": "examen-40_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para frenar el cuerpo de los ocupantes del vehículo en caso de impacto."
+        },
+        {
+          "letra": "B",
+          "texto": "Para mantener el asiento sujeto al vehículo y evitar que se desplace."
+        },
+        {
+          "letra": "C",
+          "texto": "Para mejorar el apoyo de la espalda en el respaldo del asiento."
+        }
+      ],
+      "ayuda": "El cinturón de seguridad, sirve para frenar el cuerpo de los ocupantes del vehículo en caso de impacto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "En una autopista, ¿se puede circular por el carril de aceleración a mayor velocidad que los vehículos que circulan por el carril normal?",
+      "imagen": "examen-40_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque se estaría realizando un adelantamiento por la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo las motocicletas."
+        }
+      ],
+      "ayuda": "Cuando existan carriles de aceleración o deceleración o carriles o partes de la vía destinadas exclusivamente al tráfico de determinados vehículos, no se considerará adelantamiento el hecho de que se avance más rápidamente por aquellos que por los normales de circulación, o viceversa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Como norma general, ¿cómo se denomina el tramo de carretera que discurre por poblado?",
+      "imagen": "examen-40_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Travesía."
+        },
+        {
+          "letra": "B",
+          "texto": "Carretera convencional."
+        },
+        {
+          "letra": "C",
+          "texto": "Autovía."
+        }
+      ],
+      "ayuda": "Como norma general, se considera travesía al tramo de carretera que discurre por poblado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "En vías sin pavimentar situadas fuera de poblado, ¿a qué velocidad máxima le está permitido circular con una furgoneta?",
+      "imagen": "examen-40_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "30 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "80 km/h. "
+        }
+      ],
+      "ayuda": "En las vías sin pavimentar el límite de velocidad máximo será de 30 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Qué alteración provoca con mayor frecuencia el consumo de alcohol en el comportamiento del conductor?",
+      "imagen": "examen-40_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Respuestas impulsivas y agresivas ante los demás conductores."
+        },
+        {
+          "letra": "B",
+          "texto": "Disminución del tiempo de reacción."
+        },
+        {
+          "letra": "C",
+          "texto": "Mayor facilidad para percibir los semáforos y las señales luminosas."
+        }
+      ],
+      "ayuda": "Una de las alteraciones que provoca con mayor frecuencia el consumo de alcohol en el comportamiento del conductor son las respuestas impulsivas y agresivas ante los demás conductores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Los turismos, ¿están obligados a llevar espejo retrovisor izquierdo?",
+      "imagen": "examen-40_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si el retrovisor interior no permite una visión completa de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "No, es opcional."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, es obligatorio."
+        }
+      ],
+      "ayuda": "El espejo retrovisor exterior izquierdo es siempre obligatorio en los turismos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Dónde se puede encontrar esta señal?",
+      "imagen": "examen-40_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En carreteras convencionales."
+        },
+        {
+          "letra": "B",
+          "texto": "En autopistas y autovías."
+        },
+        {
+          "letra": "C",
+          "texto": "En cualquier tipo de vía."
+        }
+      ],
+      "ayuda": "Paneles de aproximación a salida: indican en una autopista o una autovía que la próxima salida está situada, aproximadamente, a 300 metros, 200 metros y 100 metros, respectivamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿De qué advierte la señal luminosa de color amarillo auto, visible desde todas las direcciones, que lleva el tractor agrícola en su parte superior?",
+      "imagen": "examen-40_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De su presencia en la vía o en sus inmediaciones."
+        },
+        {
+          "letra": "B",
+          "texto": "De que no puede circular a una velocidad superior a 30 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "De que circula en servicio urgente."
+        }
+      ],
+      "ayuda": "La utilización de la señal V-2 en un vehículo indica la posición en la vía o en sus inmediaciones de un vehículo que desempeña un servicio, actividad u operación de trabajo, en situación de parada o estacionamiento, o a una velocidad que no supere los 40 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿A qué usuarios de la vía incluye el término usuarios vulnerables del tráfico?",
+      "imagen": "examen-40_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los conductores de turismos."
+        },
+        {
+          "letra": "B",
+          "texto": "A peatones, ciclistas y conductores de vehículos de dos ruedas y de movilidad personal."
+        },
+        {
+          "letra": "C",
+          "texto": "A los ocupantes de los vehículos de motor."
+        }
+      ],
+      "ayuda": "El concepto de usuarios de la vía identificados como vulnerables incluye a peatones, ciclistas y conductores de vehículos de dos ruedas y de movilidad personal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Padecer una enfermedad o consumir medicamentos, ¿puede afectar a la capacidad de conducir y, por tanto, ser el causante de un accidente?",
+      "imagen": "examen-40_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, ambos factores pueden afectar a la capacidad para conducir con seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "No, los accidentes dependen siempre de otros factores como el alcohol o las drogas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque no producen graves alteraciones en el conductor."
+        }
+      ],
+      "ayuda": "Padecer una enfermedad o consumir medicamentos son dos factores que pueden afectar a la capacidad para conducir con seguridad y, por tanto, ser causantes de un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Si en el salpicadero se enciende un testigo luminoso con las siglas SRS, ¿qué indica?",
+      "imagen": "examen-40_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que puede existir un posible fallo en el mecanismo del airbag."
+        },
+        {
+          "letra": "B",
+          "texto": "Que no funciona correctamente el pretensor del los cinturones de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el pavimento puede ser deslizante."
+        }
+      ],
+      "ayuda": "Las siglas SRS significan Sistema de Sujeción Suplementario (Supplemental Restrain System) que es la forma de denominar al airbag por algunos fabricantes de automóviles. Si este testigo luminoso permanece encendido, indica que existe algún fallo en este sistema de seguridad pasiva, por lo que se debe acudir a un taller para revisarlo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

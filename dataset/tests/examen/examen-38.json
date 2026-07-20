@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 38,
+  "nombre": "Test de examen 38",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Le está permitido circular por una zona de bajas emisiones si conduce un ciclomotor que no cumple con las condiciones impuestas por la autoridad para poder circular por dicha zona?",
+      "imagen": "examen-38_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, es una infracción calificada como grave."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, ya que no se infringe ninguna norma de Tráfico."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, ya que las restricciones no pueden afectar a los ciclomotores."
+        }
+      ],
+      "ayuda": "No se podrá circular por una determinada zona de bajas emisiones, si el vehículo no cumple las condiciones impuestas por la autoridad para poder circular por dicha zona. \n\nNo respetar las restricciones de circulación derivadas de la aplicación de los protocolos ante episodios de contaminación y de las zonas de bajas emisiones constituye una infracción calificada como grave.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Si circula de noche con la luz de carretera encendida y ve peatones que circulan por el arcén, ¿está obligado a cambiar la luz de largo alcance por la de corto alcance?",
+      "imagen": "examen-38_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para no deslumbrar a los peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "No, debe seguir circulando con la luz de carretera encendida."
+        },
+        {
+          "letra": "C",
+          "texto": "Solamente si circula por un tramo de vía recto."
+        }
+      ],
+      "ayuda": "Cuando exista la posibilidad de producir deslumbramiento a otros usuarios de la vía pública, se deberá cambiar el alumbrado de carretera por el de cruce o de corto alcance.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Según las estadísticas, la antigüedad media de las furgonetas implicadas en accidentes mortales de tráfico es de...",
+      "imagen": "examen-38_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "uno o dos años."
+        },
+        {
+          "letra": "B",
+          "texto": "cuatro a cinco años."
+        },
+        {
+          "letra": "C",
+          "texto": "once años aproximadamente."
+        }
+      ],
+      "ayuda": "La antigüedad de las furgonetas implicadas en accidentes mortales en vías interurbanas fue 10,1 y en vías urbanas 11,8.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En caso de accidente, ¿qué tipo de reposacabezas es más efectivo?",
+      "imagen": "examen-38_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El reposacabezas activo es tan efectivo como el pasivo."
+        },
+        {
+          "letra": "B",
+          "texto": "El reposacabezas activo, que se acopla a la cabeza de manera automática."
+        },
+        {
+          "letra": "C",
+          "texto": "El reposacabezas pasivo."
+        }
+      ],
+      "ayuda": "\tExisten dos tipos diferentes de reposacabezas; los activos y los pasivos. Los activos se acoplan a la cabeza de manera automática, por lo que muchos especialistas los denominan también reposacabezas inteligentes, siendo más efectivos en caso de accidente. \n\t \n\tLos reposacabezas activos, detectan las situaciones con peligro de accidente y se preparan para sujetar mejor la cabeza de los ocupantes, acercándose a ella de forma automática para amortiguar un posible impacto.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Si un conductor se niega a realizar las pruebas de detección alcohólica, los agentes de tráfico, ¿pueden inmovilizar su vehículo?",
+      "imagen": "examen-38_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si presenta síntomas evidentes de haber consumido alcohol."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, y además puede estar cometiendo un delito."
+        }
+      ],
+      "ayuda": "La negativa a realizar las pruebas de alcoholemia establecidas reglamentariamente puede ser una conducta constitutiva de delito.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Si conduce una motocicleta y hay niebla ligera, ¿qué alumbrado debe utilizar, además del de posición?",
+      "imagen": "examen-38_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La luz antiniebla delantera, si la lleva, o la luz de corto o largo alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "La luz antiniebla delantera y trasera, si las lleva, y la luz de corto alcance."
+        },
+        {
+          "letra": "C",
+          "texto": "La luz antiniebla trasera, si la lleva, y la luz de largo alcance."
+        }
+      ],
+      "ayuda": "Será obligatorio utilizar el alumbrado cuando existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, como en caso de niebla, lluvia intensa, nevada, nubes de humo o de polvo o cualquier otra circunstancia análoga. En estos casos deberá utilizarse la luz antiniebla delantera o la luz de corto o largo alcance.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué luz tiene la finalidad de alumbrar la vía delante del vehículo, sin deslumbrar ni molestar a los conductores que vengan en sentido contrario?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La luz de corto alcance o de cruce."
+        },
+        {
+          "letra": "B",
+          "texto": "La luz antiniebla delantera."
+        },
+        {
+          "letra": "C",
+          "texto": "La luz de largo alcance o de carretera."
+        }
+      ],
+      "ayuda": "Luz de cruce o de corto alcance. Luz utilizada para alumbrar la vía por delante del vehículo, sin deslumbrar ni molestar a los conductores que vengan en sentido contrario, ni a los demás usuarios de la vía",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-38_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Proximidad a un cruce con una línea de tranvía."
+        },
+        {
+          "letra": "B",
+          "texto": "La proximididad a un paso a nivel, puente móvil o muelle."
+        },
+        {
+          "letra": "C",
+          "texto": "La proximidad de un paso a nivel al lado derecho."
+        }
+      ],
+      "ayuda": "Aproximación a un paso a nivel, puente móvil o muelle (lado derecho)\nIndica la existencia de un paso a nivel, un puente móvil o un muelle a una distancia de 100 m. Esta baliza se sitúa en el lado derecho de la calzada. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Respecto a la velocidad anormalmente reducida, ¿a qué velocidad mínima, salvo causa justificada, deberá circular una pick-up por una autovía?",
+      "imagen": "examen-38_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "60 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "55 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "70 km/h."
+        }
+      ],
+      "ayuda": "La velocidad mínima establecida con carácter general en autopistas y autovías es de 60 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "En vías urbanas, ¿cuál es el tipo de accidente con víctimas más frecuente con furgonetas implicadas?",
+      "imagen": "examen-38_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Atropello a peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "Salida de la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "Colisiones laterales y frontolaterales."
+        }
+      ],
+      "ayuda": "El 37% de los accidentes en vías urbanas, en los que estuvo implicada una furgoneta fueron colisiones laterales y frontolaterales.En vías interurbanas, el 43% fueron colisiones traseras y múltiples. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Fuera de poblado, en una calzada de tres carriles para el mismo sentido, el conductor de un turismo con remolque, ¿cuándo podrá utilizar el tercer carril?",
+      "imagen": "examen-38_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando pretenda adelantar."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando el conjunto no supere los 7 metros de longitud."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando haya mucho tráfico."
+        }
+      ],
+      "ayuda": "Cuando la calzada tenga tres o más carriles en el sentido de su marcha, los conjuntos de vehículos de más de siete metros de longitud circularán normalmente por el situado más a su derecha, y podrán utilizar el inmediato cuando las circunstancias del tráfico o de la vía lo aconsejen, a condición de que no entorpezca la marcha de otro vehículo que le siga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Puede trasportar una carga indivisible que por sus dimensiones sobresalga lateralmente de la proyección en planta de una motocicleta?",
+      "imagen": "examen-38_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, ya que, aunque sobresalga más de 1 metro no compromete su estabilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "No, ya que dicha carga solamente puede sobresalir por la parte anterior y posterior."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que no sobresalga más de 0,50 metros por cada lado de su eje longitudinal."
+        }
+      ],
+      "ayuda": "En los vehículos de anchura inferior a un metro la carga no deberá sobresalir lateralmente más de 0,50 metros a cada lado de su eje longitudinal. No podrá sobresalir por la extremidad anterior, ni más de 0,25 metros por la posterior.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Le estaría permitido al conductor de una bicicleta en algún caso, abandonar el arcén y circular por la calzada? ",
+      "imagen": "examen-38_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en los descensos prolongados."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, podrán circular por el centro de la calzada, pero únicamente en los tramos rectos con visibilidad."
+        },
+        {
+          "letra": "C",
+          "texto": "No, deben circular siempre por el arcén derecho."
+        }
+      ],
+      "ayuda": "En los descensos prolongados con curvas, cuando razones de seguridad lo permitan, los conductores de bicicletas podrán abandonar el arcén y circular por la parte derecha de la calzada que necesiten.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Esta señal indica peligro por la proximidad de una zona de la calzada...",
+      "imagen": "examen-38_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "con fuerte pendiente."
+        },
+        {
+          "letra": "B",
+          "texto": "cuyo pavimento puede resultar deslizante."
+        },
+        {
+          "letra": "C",
+          "texto": "en la que hay vehículos que obstruyen la calzada."
+        }
+      ],
+      "ayuda": "Esta señal indica peligro por la proximidad de una zona de la calzada cuyo pavimento puede resultar deslizante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "En idénticas situaciones de tráfico, el tiempo de reacción... ",
+      "imagen": "examen-38_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "puede variar en función del estado psicofísico del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "es siempre el mismo, no influye el estado psicofísico del conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "es el mismo para todos los conductores."
+        }
+      ],
+      "ayuda": "El tiempo de reacción de cada conductor depende de muchos factores por lo que, en idénticas situaciones de tráfico, el tiempo de reacción variará en función del estado psicofísico de cada conductor. Por ejemplo, los conductores afectados por el cansancio o alguna enfermedad, por el consumo de alcohol o drogas, etc. tendrán un tiempo de reacción superior al normal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "En la intersección de la imagen, ¿qué vehículo debe pasar primero?",
+      "imagen": "examen-38_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El vehículo azul."
+        },
+        {
+          "letra": "B",
+          "texto": "El vehículo verde."
+        },
+        {
+          "letra": "C",
+          "texto": "El tractor."
+        }
+      ],
+      "ayuda": "En las intersecciones en las que la preferencia de paso no está señalizada tendrán prioridad los vehículos que se aproximen por la derecha. En la situación que se refleja en la imagen, pasará primero el vehículo azul, ya que es el único que no tiene a ningún vehículo aproximándose por su derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Antes de abrir las puertas para bajar de un vehículo, debe cerciorarse siempre de que...",
+      "imagen": "examen-38_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No se ocasiona peligro a otros usuarios."
+        },
+        {
+          "letra": "B",
+          "texto": "Las luces de emergencia del vehículo están encendidas."
+        },
+        {
+          "letra": "C",
+          "texto": "Se ha puesto el chaleco reflectante."
+        }
+      ],
+      "ayuda": "Está prohibido abrir las puertas del vehículo sin haberse cerciorado previamente de que ello no implica peligro o entorpecimiento para otros usuarios, especialmente cuando se refiere a conductores de bicicletas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿En qué situación de las siguientes es obligatorio utilizar la luz o señal de emergencia?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En los vehículos especiales o en régimen de transporte especial, siempre que circulen por vías de uso público a una velocidad que supere los 40 km/h en caso de avería de la señal V-2."
+        },
+        {
+          "letra": "B",
+          "texto": "Para advertir a los conductores que circulan detrás de la existencia de una retención."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando un vehículo se encuentre inmovilizado en lugares o circunstancias que disminuyan sensiblemente la visibilidad."
+        }
+      ],
+      "ayuda": "Cuando la inmovilización tenga lugar en una autopista o autovía, o en lugares o circunstancias que disminuyan sensiblemente la visibilidad, se deberá señalizar la presencia del vehículo mediante la utilización de la luz de emergencia, si se dispone de ella, y, en su caso, con las luces de posición.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Un turismo que lleva el distintivo ambiental que aparece en la imagen, ¿está autorizado a circular por un carril habilitado para vehículos de alta ocupación (VAO)?",
+      "imagen": "examen-38_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, aunque solo esté ocupado por su conductor, si así está autorizado."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, únicamente cuando esté ocupado por al menos dos personas, incluido el conductor."
+        }
+      ],
+      "ayuda": "\tCon carácter general, la utilización del carril habilitado para vehículos con alta ocupación (carril VAO) queda reservada a motocicletas, turismos y vehículos mixtos adaptables, que estén ocupados por el número de personas que se fije para cada tramo de vía.\n\t \n\tNo obstante, cuando así esté autorizado, también podrán circular los turismos con un determinado distintivo ambiental, independientemente del número de ocupantes.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿En qué momento del día sufren más accidentes mortales las furgonetas?",
+      "imagen": "examen-38_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Durante la noche."
+        },
+        {
+          "letra": "B",
+          "texto": "Durante el día, entre las 7 y las 11 aproximadamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Por la mañana, especialmente los días festivos."
+        }
+      ],
+      "ayuda": "Según los estudios publicados, las horas del día con mayor siniestralidad mortal de los vehículos ligeros de transporte (furgones y furgonetas) son las horas de la mañana, especialmente aquellas comprendidas entre las 7 y las 11.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "La línea discontinua, ¿qué indica?",
+      "imagen": "examen-38_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un carril especial."
+        },
+        {
+          "letra": "B",
+          "texto": "La cercanía a una línea longitudinal continua."
+        },
+        {
+          "letra": "C",
+          "texto": "Un carril reversible."
+        }
+      ],
+      "ayuda": "Cuando una marca longitudinal discontinua es sensiblemente más ancha que en el caso general, indica la existencia de un carril especial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿En cuál de los siguientes lugares está prohibido hacer una parada?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En los pasos a nivel, pasos para ciclistas y pasos para peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "En zonas señalizadas como carga y descarga."
+        },
+        {
+          "letra": "C",
+          "texto": "En un vado correctamente señalizado."
+        }
+      ],
+      "ayuda": "\tEntre otros lugares, está prohibido parar en pasos a nivel, pasos para ciclistas y pasos para peatones.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Si toma analgésicos narcóticos para tratar algún dolor intenso, lo más aconsejable es...",
+      "imagen": "examen-38_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "conducir con normalidad, ya que no tienen efectos secundarios."
+        },
+        {
+          "letra": "B",
+          "texto": "conducir solo de noche, ya que sus efectos secundarios son menores."
+        },
+        {
+          "letra": "C",
+          "texto": "no conducir mientras dure el tratamiento."
+        }
+      ],
+      "ayuda": "El consumo de analgésicos narcóticos para tratar algún dolor intenso suele reducir notablemente la capacidad de las personas para conducir con seguridad, por lo que puede resultar aconsejable no conducir durante el tratamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Cuál es el tipo de accidente más frecuente que sufren las furgonetas en vías interurbanas?",
+      "imagen": "examen-38_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Colisiones frontales."
+        },
+        {
+          "letra": "B",
+          "texto": "Colisiones traseras y múltiples."
+        },
+        {
+          "letra": "C",
+          "texto": "Colisiones laterales."
+        }
+      ],
+      "ayuda": "El 43% de los accidentes en vías interurbanas, en los que estuvo implicada una furgoneta fueron colisiones traseras y múltiples. En vías urbanas, el 37% fueron colisiones laterales y frontolaterales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Las señales que se observan en la imagen delimitan una zona de bajas emisiones (ZBE) ¿Le está permitido el acceso a un vehículo de motor que disponga del distintivo ambiental C?",
+      "imagen": "examen-38_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo si el vehículo de motor es una motocicleta."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque lleva distintivo ambiental."
+        },
+        {
+          "letra": "C",
+          "texto": "No, como norma general."
+        }
+      ],
+      "ayuda": "\tEntrada prohibida a vehículos en función de su distintivo ambiental u otros criterios ambientales.\n\t \nEntrada prohibida a vehículos de motor, excepto aquellos vehículos que dispongan del distintivo ambiental indicado por la entidad local en la parte inferior de la señal. En este caso, solo se permite el acceso a vehículos con distintivo 0 emisiones y ECO, por lo que los vehículos con distintivo C y B no tienen permitida la entrada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Las personas que conducen a pie un ciclomotor, ¿por qué lado de la vía deben circular?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la derecha siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la izquierda siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "Dentro de poblado por la derecha; fuera de poblado, por la izquierda."
+        }
+      ],
+      "ayuda": "Deberán circular siempre por su derecha los que empujen o arrastren un ciclo o ciclomotor de dos ruedas, carros de mano o aparatos similares.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Buscar una dirección en el navegador GPS durante la conducción, ¿puede ser peligroso?",
+      "imagen": "examen-38_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si el navegador GPS se encuentra muy alejado del asiento del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque ayuda a conducir con mayor seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque el conductor se distrae."
+        }
+      ],
+      "ayuda": "Buscar una dirección en el navegador GPS, así como manipular cualquier otro dispositivo durante la marcha,  supone que el conductor desvíe la atención y se distraiga de la conducción, lo cual aumenta el riesgo de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "El cansancio o la fatiga del conductor, ¿influye negativamente en la conducción?",
+      "imagen": "examen-38_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, esta circunstancia no influye en la conducción."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque el conductor tarda más tiempo en reaccionar."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque al estar cansado, el conductor es más prudente."
+        }
+      ],
+      "ayuda": "La fatiga del conductor influye de forma determinante en la capacidad para conducir con seguridad, aumentando el tiempo de reacción ante situaciones de peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Al conductor que obtenga su primer permiso de conducción le serán asignados...",
+      "imagen": "examen-38_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "8 puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "10 puntos."
+        },
+        {
+          "letra": "C",
+          "texto": "12 puntos."
+        }
+      ],
+      "ayuda": "A los conductores que obtengan su primer permiso o licencia de conducción se les asignará un crédito inicial de ocho puntos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Cuáles son los tipos de accidentes más frecuentes debidos a distracciones de los conductores?",
+      "imagen": "examen-38_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Colisiones múltiples de 5 o más vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "Salidas de la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "Atropellos a peatones."
+        }
+      ],
+      "ayuda": "Los tipos de accidentes más frecuentes debidos a distracciones son las salidas de la vía, las colisiones frontales, el choque con el vehículo precedente o el atropello.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

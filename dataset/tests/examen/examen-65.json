@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 65,
+  "nombre": "Test de examen 65",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Es obligatorio que las obras que dificulten la circulación estén señalizadas?\n",
+      "imagen": "examen-65_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo de día."
+        },
+        {
+          "letra": "B",
+          "texto": "Tanto de día como de noche."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo de noche."
+        }
+      ],
+      "ayuda": "Las obras que se realicen en la calzada y que dificulten la circulación, deberán estar señalizadas tanto de día como de noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "En esta vía, ¿cuál es la velocidad máxima permitida para un turismo, si no pretende adelantar?\n",
+      "imagen": "examen-65_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "90 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "110 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "120 km/h."
+        }
+      ],
+      "ayuda": "Como norma general, la velocidad máxima autorizada para un turismo que circula por una carretera convencional, sin intención de adelantar, es de 90 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Si conduce una motocicleta, ¿qué separación lateral debe mantener al cruzarse con otro vehículo?\n",
+      "imagen": "examen-65_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La necesaria para realizar el cruce con seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Una distancia máxima de 1,50 metros en poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "Una distancia menor de 1,50 metros fuera de poblado."
+        }
+      ],
+      "ayuda": "Como norma general, los vehículos circularán por la derecha, lo más cerca posible del borde de la calzada, manteniendo la separación lateral suficiente para realizar el cruce con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Se puede circular marcha atrás en cualquier tipo de vía?\n",
+      "imagen": "examen-65_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, siempre está prohibido en autopistas y autovías."
+        },
+        {
+          "letra": "B",
+          "texto": "No, solo en vías interurbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, el tipo de vía es indiferente."
+        }
+      ],
+      "ayuda": "En autopistas y autovías está siempre prohibido circular marcha atrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Entre los principales gastos sanitarios provocados por los accidentes de tráfico están...\n",
+      "imagen": "examen-65_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los medicamentos."
+        },
+        {
+          "letra": "B",
+          "texto": "los de rehabilitación y adaptaciones para las personas accidentadas."
+        },
+        {
+          "letra": "C",
+          "texto": "los antidepresivos."
+        }
+      ],
+      "ayuda": "Entre otros, uno de los principales gastos sanitarios generados por los accidentes de tráfico son los derivados de la rehabilitación y adaptaciones necesarias para las personas accidentadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "En una vía en la que se ha habilitado un carril adicional circunstancial, ¿qué vehículos están obligados a llevar encendida, al menos, la luz de cruce?\n",
+      "imagen": "examen-65_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo los vehículos que circulen por el carril adicional."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo los vehículos que circulen por los arcenes."
+        }
+      ],
+      "ayuda": "Por un carril adicional circunstancial, podrán circular todos los vehículos que estén autorizados a circular por la calzada (salvo prohibición expresa). Estos vehículos estarán obligados a llevar encendidas las luces de cruce o corto alcance tanto de día como de noche, y a circular a una velocidad comprendida entre los 60 y 80 kilómetros por hora, salvo excepciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Esta señal, ¿cuándo prohíbe la entrada en un paso estrecho?\n",
+      "imagen": "examen-65_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando circulen vehículos en sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando no sea posible atravesarlo sin obligar a los vehículos que circulen en sentido contrario a detenerse."
+        }
+      ],
+      "ayuda": "La señal de la imagen (prioridad en sentido contrario) prohíbe la entrada en un paso estrecho, mientras no sea posible atravesarlo sin obligar a los vehículos que circulen en sentido contrario a detenerse.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Necesita hacer una parada en una calle estrecha. ¿Puede ocupar parte de la acera con su vehículo?\n",
+      "imagen": "examen-65_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solamente cuando no haya señal que lo prohíba."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En una calle estrecha, al hacer una parada, no se puede ocupar parte de la acera con el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Los airbags frontales son más eficaces en los...\n",
+      "imagen": "examen-65_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "alcances traseros."
+        },
+        {
+          "letra": "B",
+          "texto": "choques frontales."
+        },
+        {
+          "letra": "C",
+          "texto": "impactos laterales."
+        }
+      ],
+      "ayuda": "Los airbags frontales son los más comunes, suelen estar instalados en el volante y el salpicadero, y su mayor eficacia se da en caso de accidente frontal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "El conductor de este turismo amarillo pretende seguir recto pero los vehículos situados detrás de él quieren girar a la derecha, ¿qué debe hacer?",
+      "imagen": "examen-65_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Girar a la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Seguir de frente."
+        },
+        {
+          "letra": "C",
+          "texto": "Esperar a que el semáforo cambie para seguir recto."
+        }
+      ],
+      "ayuda": "La flecha verde iluminada sobre un fondo circular negro indica que los vehículos pueden tomar la dirección y sentido, indicados por aquélla (en este caso, pueden girar a la derecha). Cualquier vehículo que, al encenderse la flecha verde, se encuentre en un carril reservado exclusivamente para la circulación en la dirección y sentidos indicados por la flecha o que, sin estar reservado, sea el que esta circulación tenga que utilizar, deberá avanzar en dicha dirección y sentido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Las señales, ¿qué indican?\n",
+      "imagen": "examen-65_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que entro en una población."
+        },
+        {
+          "letra": "B",
+          "texto": "Que a 40 metros hay un semáforo."
+        },
+        {
+          "letra": "C",
+          "texto": "Que hay semáforos y que no puedo circular a más de 40 km/h."
+        }
+      ],
+      "ayuda": "Las señales de la imagen indican que el vehículo se aproxima a una intersección aislada, o a un tramo, con la circulación regulada por semáforos, y que no se puede circular a más de 40 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Si en una vía interurbana un ciclomotor de dos ruedas quiere girar a la izquierda y no hay carril acondicionado para ello:\n",
+      "imagen": "examen-65_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No puede realizar el giro."
+        },
+        {
+          "letra": "B",
+          "texto": "Debe situarse a la derecha, e iniciarlo fuera de la calzada siempre que sea posible."
+        },
+        {
+          "letra": "C",
+          "texto": "Deberá situarse a la derecha, e iniciarlo siempre desde dentro de la calzada."
+        }
+      ],
+      "ayuda": "En vías interurbanas, si no existe un carril especialmente acondicionado para el giro a la izquierda, el conductor de un ciclomotor de dos ruedas, deberá situarse a la derecha, fuera de la calzada siempre que sea posible, e iniciar el cambio de dirección desde ese lugar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Cómo debe incorporarse a la vía el vehículo que sale del camino sin pavimentar? ",
+      "imagen": "examen-65_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cediendo el paso y a una velocidad que permita detenerse en el acto."
+        },
+        {
+          "letra": "B",
+          "texto": "Cediendo el paso a los vehículos de la derecha solamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Acelerando para alcanzar la velocidad máxima de la vía."
+        }
+      ],
+      "ayuda": "El vehículo que pretenda incorporarse a una vía pavimentada desde una vía o camino sin pavimentar, deberá hacerlo cediendo el paso a los vehículos que circulan por la vía pavimentada y a una velocidad tal, que le permita detenerse inmediatamente, en caso de ser necesario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Por la noche, en una autovía con mucha luz, ¿qué luz debe encender?\n",
+      "imagen": "examen-65_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Luz larga."
+        },
+        {
+          "letra": "B",
+          "texto": "Luz de cruce."
+        },
+        {
+          "letra": "C",
+          "texto": "Luz de posición."
+        }
+      ],
+      "ayuda": "Todo vehículo que circule entre la puesta y la salida del sol por vías urbanas o interurbanas suficientemente iluminadas deberá llevar encendido, además del alumbrado de posición, las luces de cruce o corto alcance.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Arrancar el motor sin acelerar, ¿evita un consumo de combustible innecesario?\n",
+      "imagen": "examen-65_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, se debe acelerar para arrancar."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en los vehículos actuales no es necesario pisar el acelerador para arrancar."
+        },
+        {
+          "letra": "C",
+          "texto": "No, además no es posible arrancar sin acelerar."
+        }
+      ],
+      "ayuda": "Al poner en marcha el motor, no se debe acelerar porque la combustión en ese momento es incompleta y se eleva el consumo de carburante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "En una carretera convencional sin arcenes, ¿cuál es la velocidad anormalmente reducida para un turismo?\n",
+      "imagen": "examen-65_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La inferior a 45 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "60 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "45 km/h."
+        }
+      ],
+      "ayuda": "La velocidad mínima permitida para un turismo en una carretera convencional es de 45 km/h. Por lo tanto, se considerará como anormalmente reducida toda velocidad inferior a aquella (45 km/h).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Los vehículos destinados a obras y servicios, ¿deberán llevar algún tipo de distintivo luminoso cuando están realizando obras de reparación de una calzada?\n",
+      "imagen": "examen-65_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, una luz rotativa de color azul."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, una luz rotativa de color amarillo auto."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, una luz rotativa que puede ser de cualquier color."
+        }
+      ],
+      "ayuda": "Los vehículos destinados a obras y servicios deberán llevar una luz rotativa de color amarillo auto, para indicar su posición en la vía, cuando desempeñen un servicio, actividad u operación de trabajo, se encuentren en situación de parada o estacionamiento, o circulen a una velocidad que no supere los 40 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Está permitido circular con un turismo por una vía en cuyo acceso está situada esta señal?",
+      "imagen": "examen-65_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque es una vía permitida para todos los vehículos, excepto ciclos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque es una vía reservada y obligatoria para ciclos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque es una vía reservada para ciclos."
+        }
+      ],
+      "ayuda": "Vía reservada para ciclos\nIndica la existencia de una vía destinada a la circulación de ciclos y prohibición a los demás usuarios de la vía de utilizarla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Un vehículo de acompañamiento de ciclistas en una calzada con arcén transitable y suficiente, ¿por dónde circulará?\n",
+      "imagen": "examen-65_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el centro de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el carril derecho para proteger a los ciclistas."
+        }
+      ],
+      "ayuda": "Entre otros, los vehículos de acompañamiento de ciclistas, deberán circular por el arcén de su derecha, si fuera transitable y suficiente, y, si no lo fuera, por la parte imprescindible de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Si estaciona en una travesía insuficientemente iluminada, ¿qué luces debe dejar encendidas?\n",
+      "imagen": "examen-65_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ninguna.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "Las de posición, pudiendo sustituirlas por las de estacionamiento si el vehículo está estacionado en línea.\n"
+        },
+        {
+          "letra": "C",
+          "texto": "Las de posición y las de corto alcance."
+        }
+      ],
+      "ayuda": "Todo vehículo que se encuentre parado o estacionado entre la puesta y la salida del sol, en la calzada o el arcén de una travesía insuficientemente iluminada, deberá tener encendidas las luces de posición. Estas podrán ser sustituidas por las de estacionamiento, o por las dos de posición del lado correspondiente a la calzada, cuando se halle estacionado en línea.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Está permitido adelantar en una intersección?\n",
+      "imagen": "examen-65_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando tiene visibilidad suficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "No, salvo que la calzada goce de prioridad en la intersección y esté expresamente señalizada."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando no tiene que ceder el paso en la intersección."
+        }
+      ],
+      "ayuda": "Como norma general, está prohibido adelantar en las intersecciones y en sus proximidades, a menos que se trate de una glorieta, se goce de prioridad debidamente señalizada, el adelantamiento se realice por la derecha o a vehículos de dos ruedas (en los casos previstos).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "En caso de atropello a un niño, el mayor impacto se produce habitualmente...\n",
+      "imagen": "examen-65_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en el tronco."
+        },
+        {
+          "letra": "B",
+          "texto": "en la cabeza o partes vitales del cuerpo."
+        },
+        {
+          "letra": "C",
+          "texto": "en las extremidades inferiores."
+        }
+      ],
+      "ayuda": "Los niños en caso de ser atropellados, y debido a su baja estatura, suelen recibir el mayor impacto en la cabeza o en partes vitales del cuerpo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "El freno de mano, ¿para qué sirve?\n",
+      "imagen": "examen-65_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para frenar el vehículo en ciudad."
+        },
+        {
+          "letra": "B",
+          "texto": "Para frenar el vehículo cuando circula cuesta abajo."
+        },
+        {
+          "letra": "C",
+          "texto": "Para dejar inmovilizado el vehículo cuando estaciono."
+        }
+      ],
+      "ayuda": "La función del freno de estacionamiento, o freno de mano, es mantener el vehículo inmóvil cuando se encuentra parado o estacionado, incluso en ausencia del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Excepcionalmente, y en condiciones de seguridad, en vías que no sean autopistas o autovías, ¿se permite el arrastre de un vehículo por otro no destinado a este fin?\n",
+      "imagen": "examen-65_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que no se recorran más de 10 kilómetros."
+        },
+        {
+          "letra": "B",
+          "texto": "No, el traslado de un vehículo accidentado o averiado solo deberá realizarse por otro específicamente destinado al servicio de auxilio en vías públicas."
+        }
+      ],
+      "ayuda": "La retirada de las vías y, en su caso, el traslado de un vehículo accidentado o averiado solo deberá realizarse por otro específicamente destinado Registro Estatal de Auxilio en Vías Públicas (REAV).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "El silenciador...\n",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no tiene influencia en la contaminación."
+        },
+        {
+          "letra": "B",
+          "texto": "disminuye o silencia las explosiones producidas en el interior del motor."
+        },
+        {
+          "letra": "C",
+          "texto": "no es una parte del sistema de escape de los motores."
+        }
+      ],
+      "ayuda": "El silenciador, tiene como función reducir el nivel acústico de los gases que emite el vehículo. Dicho de otro modo, que reduce o silencia el sonido producido por las explosiones que se dan en el interior del motor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "En una autopista con hielo en el pavimento, ¿está permitido circular a 40 km/h?\n",
+      "imagen": "examen-65_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque es una velocidad anormalmente reducida."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero debe circular por el arcén para no entorpecer a los vehículos que circulen más rápido."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque se trata de una circunstancia especial."
+        }
+      ],
+      "ayuda": "Además de respetar los límites de velocidad, todo conductor debe tener en cuenta, sus condiciones psico-físicas, las características y el estado de la vía, del vehículo y de su carga y las condiciones meteorológicas, ambientales y de circulación, que concurran en cada momento, a fin de adecuar la velocidad de su vehículo a ellas, de modo que pueda detenerlo dentro de los límites de su campo de visión y ante cualquier obstáculo que pueda presentarse.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Qué indica esta señal?\n",
+      "imagen": "examen-65_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que la velocidad máxima aconsejada es de 70 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "Que debe circular a más de 70 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el tramo de velocidad máxima se termina."
+        }
+      ],
+      "ayuda": "La señal de la imagen (velocidad máxima aconsejable) recomienda una velocidad aproximada de circulación, que se aconseja no sobrepasar, aunque las condiciones meteorológicas y ambientales de la vía y de la circulación sean favorables.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Qué significa esta señal?\n",
+      "imagen": "examen-65_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Camino reservado para peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "Entrada prohibida a peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "Peligro por la proximidad de un lugar frecuentado por peatones."
+        }
+      ],
+      "ayuda": "La señal de la imagen prohíbe el acceso a peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "En un paso estrecho y llano, no hay señales de preferencia y no caben dos vehículos al mismo tiempo, ¿quién pasará primero?\n",
+      "imagen": "examen-65_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Siempre el vehículo con más masa máxima autorizada (M.M.A.)."
+        },
+        {
+          "letra": "B",
+          "texto": "El vehículo que ha entrado primero."
+        },
+        {
+          "letra": "C",
+          "texto": "Siempre el vehículo con más dificultades de maniobra."
+        }
+      ],
+      "ayuda": "En los tramos de la vía estrechos, en los que sea imposible o muy difícil el paso simultáneo de dos vehículos que circulen en sentido contrario, siempre que no haya señalización expresa al efecto, tendrá preferencia de paso el que hubiese entrado primero.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Un conductor que, por avería en el alumbrado, circula con la luz corta, está obligado a...\n",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "detenerse en el arcén hasta que otro conductor le pueda ayudar."
+        },
+        {
+          "letra": "B",
+          "texto": "detener el vehículo y llamar a la grúa."
+        },
+        {
+          "letra": "C",
+          "texto": "reducir la velocidad hasta la que permita la detención del vehículo dentro de la zona iluminada."
+        }
+      ],
+      "ayuda": "Cuando un vehículo, por avería en el alumbrado, circula con la luz corta, está obligado a reducir la velocidad hasta la que permita la detención del vehículo dentro de la zona iluminada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

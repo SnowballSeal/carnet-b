@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 49,
+  "nombre": "Test de examen 49",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Si la luz de cruce de su vehículo sufre una avería mientras circula por una carretera convencional, ¿qué debe hacer?",
+      "imagen": "examen-49_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Parar inmediatamente en el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "Reducir la velocidad lo necesario, hasta la detención total, para evitar el alcance de vehículos o peatones que circulen en el mismo sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "Continuar la marcha normalmente."
+        }
+      ],
+      "ayuda": "En caso de avería de la luz de cruce, los conductores deberán reducir la velocidad lo necesario, hasta la detención total, sin efectuar desplazamientos laterales, para evitar el alcance de vehículos o peatones que circulen en el mismo sentido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "\t¿Qué indica la señal?\n",
+      "imagen": "examen-49_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prohibida la entrada a tractores agrícolas."
+        },
+        {
+          "letra": "B",
+          "texto": "Camino obligatorio para vehículos especiales."
+        },
+        {
+          "letra": "C",
+          "texto": "Camino obligatorio para tractores."
+        }
+      ],
+      "ayuda": "\tCamino obligatorio para tractores\n\tObligación para los conductores de tractores de utilizar el\n\tcamino a cuya entrada esté situada.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Si un grupo de peatones dirigidos por una persona circulan por una vía de fuera de poblado, ¿deben señalizar su presencia?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, con una señal de STOP incorporada a una paleta."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, con las luces necesarias para precisar su situación y dimensiones, las cuales serán de color blanco o amarillo hacia delante y rojo hacia atrás."
+        },
+        {
+          "letra": "C",
+          "texto": "No, no es necesario."
+        }
+      ],
+      "ayuda": "Fuera del poblado, entre el ocaso y la salida del sol o en condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, los grupos de peatones dirigidos por una persona o que formen cortejo llevarán, además, en el lado más próximo al centro de la calzada, las luces necesarias para precisar su situación y dimensiones, las cuales serán de color blanco o amarillo hacia adelante y rojo hacia atrás y, en su caso, podrán constituir un solo conjunto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En carreteras convencionales sin separación física de los dos sentidos de circulación, ¿cuál es la velocidad máxima a la que le está permitido circular a un vehículo derivado de turismo?",
+      "imagen": "examen-49_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "80 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "90 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "100 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima autorizada para los vehículos derivados de turismo, en este tipo de carreteras convencionales, es de 90 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Además de los airbag frontales, que protegen al conductor y al copiloto de un turismo, ¿existen otros tipos de airbag?",
+      "imagen": "examen-49_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, los laterales, los de techo, los de suelo y los de espalda."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, los laterales, los de techo o cortinilla y los de rodilla."
+        }
+      ],
+      "ayuda": "Actualmente existen diversos tipos de airbag. Los tipos más estandarizados son los frontales (para conductor y acompañante), los laterales, los de techo o de cortinilla y los de rodilla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Ha quedado detenido en una intersección regulada por semáforos y obstaculiza la circulación. ¿Qué debe hacer?",
+      "imagen": "examen-49_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Esperar a que el semáforo se ponga verde."
+        },
+        {
+          "letra": "B",
+          "texto": "Salir del cruce lo antes posible, en condiciones de seguridad, sin esperar que el semáforo cambie a verde."
+        },
+        {
+          "letra": "C",
+          "texto": "Dar marcha atrás para dejar libre la intersección."
+        }
+      ],
+      "ayuda": "Si su vehículo, por razones del tráfico, ha quedado detenido en una intersección regulada por semáforos, y obstaculiza la circulación transversal, debe salir del cruce lo antes posible, en condiciones de seguridad, sin esperar que el semáforo cambie a verde.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Si a la entrada de un túnel hay un semáforo en rojo, ¿qué debe hacer?",
+      "imagen": "examen-49_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Continuar la marcha con precaución."
+        },
+        {
+          "letra": "B",
+          "texto": "No entrar en el túnel."
+        },
+        {
+          "letra": "C",
+          "texto": "Continuar circulando a 50 kilómetros por hora como máximo."
+        }
+      ],
+      "ayuda": "Los conductores no deben penetrar con sus vehículos en un túnel en el que exista un semáforo con una luz roja encendida en su entrada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Si lleva un pasajero en su motocicleta, al frenar...",
+      "imagen": "examen-49_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aumenta el desequilibrio."
+        },
+        {
+          "letra": "B",
+          "texto": "el peso se desplaza hacia la parte trasera."
+        },
+        {
+          "letra": "C",
+          "texto": "es más difícil que se bloquee la rueda trasera."
+        }
+      ],
+      "ayuda": "Al llevar un pasajero, el mayor peso sobre la rueda trasera, hace que sea más difícil el bloqueo de la dicha rueda, al accionar los frenos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Qué circunstancias del entorno favorecen la aparición de la fatiga?",
+      "imagen": "examen-49_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las condiciones climatológicas adversas."
+        },
+        {
+          "letra": "B",
+          "texto": "Las condiciones climatológicas favorables."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular por una vía muy conocida."
+        }
+      ],
+      "ayuda": "La aparición de la fatiga puede ser motivada, entre otras causas, por algunos factores externos, como el mal estado de la vía, la monotonía, la circulación por vías o lugares desconocidos, las condiciones de la circulación (retenciones y congestiones del tráfico), las condiciones ambientales adversas (niebla, nieve, viento, lluvia), etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "Según un estudio realizado en España, los conductores fumadores...",
+      "imagen": "examen-49_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se ven implicados en el doble de accidentes que los no fumadores."
+        },
+        {
+          "letra": "B",
+          "texto": "se ven implicados en el mismo número de accidentes que los no fumadores."
+        },
+        {
+          "letra": "C",
+          "texto": "tienen tendencia a evaluar las situaciones de tráfico como más peligrosas."
+        }
+      ],
+      "ayuda": "Aunque no está prohibido fumar mientras se conduce, se aconseja no hacerlo porque, además de perjudicar la salud, tiene los siguientes efectos:\n- Provoca distracciones al coger el cigarrillo, encenderlo, descargar la ceniza, echar el humo, etc.\n- Propicia la aparición de la fatiga y del sueño.\n- Irrita los ojos y produce cansancio ocular.\nEstudios realizados confirman que los conductores fumadores se ven implicados en accidentes de tráfico el doble que los conductores no fumadores precisamente a causa de estos efectos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Generalmente, ¿dónde tienen más accidentes graves los ciclistas?",
+      "imagen": "examen-49_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En travesías."
+        },
+        {
+          "letra": "B",
+          "texto": "En carreteras convencionales."
+        },
+        {
+          "letra": "C",
+          "texto": "En autovías."
+        }
+      ],
+      "ayuda": "Las carreteras convencionales son las que registran el mayor número de accidentes graves con ciclistas implicados.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Para realizar una parada, está permitido circular marcha atrás?",
+      "imagen": "examen-49_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero con ciertas condiciones."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre."
+        }
+      ],
+      "ayuda": "La utilización de la marcha atrás, como maniobra complementaria de otra maniobra que la exija (parada, estacionamiento o incorporación a la circulación) está autorizada, siempre que se cumplan las condiciones reglamentarias.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Los resaltos en los pasos para peatones, ¿se consideran obstáculos en la calzada?",
+      "imagen": "examen-49_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, siempre que se garantice la seguridad vial de todos los usuarios, y en particular, la de los ciclistas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, puesto que dificultan el cruce de los pasos de peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero sólo cuando son metálicos."
+        }
+      ],
+      "ayuda": "No se considerarán obstáculos en la calzada los resaltos en los pasos para peatones y bandas transversales, siempre que se cumpla la normativa aplicable y se garantice la seguridad vial de los usuarios y, en particular, de los ciclistas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "En una intersección sin señalizar, tienen prioridad de paso los vehículos que circulen por...",
+      "imagen": "examen-49_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "una vía sin pavimentar."
+        },
+        {
+          "letra": "B",
+          "texto": "un carril de uso exclusivo para determinados vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "una glorieta sobre los que pretenden entrar en ella."
+        }
+      ],
+      "ayuda": "En defecto de señal que regule la preferencia de paso, tendrán prioridad, entre otros casos, los que se hallen dentro de la vía circular en una glorieta, sobre los que pretendan acceder a aquélla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "El calor afecta negativamente a las capacidades para conducir con seguridad. Un conductor que se encuentra bajo sus efectos normalmente:",
+      "imagen": "examen-49_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tarda más en reaccionar y es menos agresivo. "
+        },
+        {
+          "letra": "B",
+          "texto": "Tarda más en reaccionar y es más agresivo. "
+        },
+        {
+          "letra": "C",
+          "texto": "Tarda menos en reaccionar y es más agresivo. "
+        }
+      ],
+      "ayuda": "El calor reduce las capacidades psicofísicas necesarias para conducir con seguridad. Algunos de los efectos negativos de las altas temperaturas son, el aumento del tiempo de reacción y de las respuestas agresivas por parte del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Qué debe hacer si su vehículo sufre una avería dentro de un túnel?",
+      "imagen": "examen-49_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Encender las luces de largo alcance para aumentar la visibilidad, y que todos los ocupantes abandonen el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Si la avería permite la marcha del vehículo, debo continuar hasta salir del túnel o hasta un apartadero reservado para emergencias."
+        },
+        {
+          "letra": "C",
+          "texto": "Debo detener el vehículo inmediatamente en cualquier lugar del túnel."
+        }
+      ],
+      "ayuda": "Si por motivos de emergencia un conductor queda inmovilizado con su vehículo dentro de un túnel o paso inferior, deberá:\n\na) Apagar el motor, conectar la señal de emergencia y mantener encendidas las luces de posición.\nb) Si es posible, dirigir el vehículo hacia la zona reservada para emergencia más próxima en el sentido de su marcha. De no existir, inmovilizará el vehículo lo más cerca posible al borde derecho de la calzada.\nc) Colocar correctamente el dispositivo de preseñalización de peligro.\nd) Solicitar auxilio sin demora a través del poste de socorro (poste SOS) más próximo, si existe, y seguir las instrucciones que a través de él se le hagan llegar.\ne) Tanto el conductor como los demás ocupantes abandonarán el vehículo, dirigiéndose rápidamente al refugio o salida más próximos, sin que en ningún caso se transite por la calzada si existen zonas excluidas a la circulación de vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Si su vehículo está equipado con ABS y en una frenada de emergencia nota que el pedal de freno vibra, ¿qué debe hacer?",
+      "imagen": "examen-49_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Soltar el pedal para no bloquear las ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "Continuar frenando a fondo."
+        },
+        {
+          "letra": "C",
+          "texto": "Pisar el pedal de forma intermitente."
+        }
+      ],
+      "ayuda": "La vibración en el pedal del freno es normal en los vehículos equipados con sistema ABS. Este fenómeno aparece al pisar fuertemente el pedal de freno. En estos casos, se debe mantener la firmeza de la frenada, sin soltar el pedal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Un vehículo, es todo aparato...",
+      "imagen": "examen-49_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "apto para circular por las vías públicas."
+        },
+        {
+          "letra": "B",
+          "texto": "que está en las vías públicas."
+        },
+        {
+          "letra": "C",
+          "texto": "que tiene motor."
+        }
+      ],
+      "ayuda": "Según la definición contenida en la normativa vigente, un vehículo, es un artefacto o aparato apto para circular por las vías o terrenos públicos aptos para la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "En caso de que el camión que circula delante, no pueda ceñirse al borde de la calzada, ¿cómo indicará su conductor que puede ser adelantado con seguridad?",
+      "imagen": "examen-49_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reduciendo bruscamente la marcha."
+        },
+        {
+          "letra": "B",
+          "texto": "Con el indicador de dirección de la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Moviendo el brazo extendido, de atrás hacia delante."
+        }
+      ],
+      "ayuda": "En estos casos, los conductores indicarán la posibilidad de ser adelantado con seguridad, extendiendo el brazo horizontalmente y moviéndolo repetidas veces de atrás adelante, con el dorso de la mano hacia atrás, o poniendo en funcionamiento el intermitente derecho, cuando no crea conveniente hacer la señal con el brazo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿En qué situación avisa al conductor el sistema avanzado de ayuda a la conducción conocido como “LDW”?",
+      "imagen": "examen-49_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En un desplazamiento lateral indicado con el intermitente."
+        },
+        {
+          "letra": "B",
+          "texto": "En todos los cambios de carril."
+        },
+        {
+          "letra": "C",
+          "texto": "En un cambio involuntario de carril."
+        }
+      ],
+      "ayuda": "El sistema ADAS conocido como LDW ((Sistema de advertencia de abandono de carril) controla la posición del vehículo en el carril, notificando al conductor si detecta que lo ha abandonado involuntariamente sin haber utilizado antes el intermitente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿En qué situaciones tienen más dificultades las personas mayores cuando conducen?",
+      "imagen": "examen-49_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En las maniobras de estacionamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "En los giros a la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "En situaciones complejas de incorporaciones y salidas de vías en las que se circula a alta velocidad."
+        }
+      ],
+      "ayuda": "Las personas mayores presentan mayor dificultad cuando se ven sometidos a situaciones complejas como por ejemplo, en las salidas y entradas a autopistas y autovías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "La primera velocidad debe utilizarse...",
+      "imagen": "examen-49_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el mayor tiempo posible."
+        },
+        {
+          "letra": "B",
+          "texto": "lo mínimo posible."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo para subir pendientes muy pronunciadas."
+        }
+      ],
+      "ayuda": "La primera velocidad debe utilizarse lo mínimo posible ya que su finalidad es iniciar o reanudar la marcha del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Las luces de los semáforos con la silueta de un ciclo, afectan...",
+      "imagen": "examen-49_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a ciclos solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "a ciclomotores solamente."
+        },
+        {
+          "letra": "C",
+          "texto": "exclusivamente a ciclos y motocicletas."
+        }
+      ],
+      "ayuda": "Cuando las luces de los semáforos presentan la silueta iluminada de un ciclo, sus indicaciones se refieren exclusivamente a ellos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "En esta curva de visibilidad reducida, ¿está permitido parar o estacionar?",
+      "imagen": "examen-49_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que lo haga en el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, ya que no hay señal que lo prohiba."
+        }
+      ],
+      "ayuda": "En curvas y cambios de resante de visibilidad reducida, tanto dentro como fuera de poblado, está prohibido parar y estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "De noche, es obligatorio señalizar una carga que sobresale lateralmente más de 0.40 metros...",
+      "imagen": "examen-49_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "con una luz blanca y un dispositivo reflectante de color blanco por delante y con una luz roja y un dispositivo reflectante de color rojo por detrás."
+        },
+        {
+          "letra": "B",
+          "texto": "con un panel reflectante por detrás solamente."
+        },
+        {
+          "letra": "C",
+          "texto": "con una luz roja y un dispositivo reflectante rojo por detrás solamente."
+        }
+      ],
+      "ayuda": "Cuando se circule entre la puesta y la salida del sol, la carga que sobresalga lateralmente más de 0.40 metros del borde exterior de la luz delantera o trasera de posición, deberá señalizarse con una luz blanca y un dispositivo reflectante de color blanco por delante y con una luz roja y un dispositivo reflectante de color rojo por detrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "Una hilera de luces amarillas fijas o intermitentes...",
+      "imagen": "examen-49_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "permite el paso si son intermitentes y lo prohíbe si son fijas."
+        },
+        {
+          "letra": "B",
+          "texto": "prohíbe el paso a través de la línea imaginaria que las une."
+        },
+        {
+          "letra": "C",
+          "texto": "permite el paso tanto si son fijas como si son intermitentes."
+        }
+      ],
+      "ayuda": "Las luces amarillas fijas o intermitentes, prohiben el paso a través de la línea imaginaria que las une.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Conducir con mal tiempo, ¿puede favorecer la fatiga?",
+      "imagen": "examen-49_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo en los viajes largos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, por ello se debe descansar con mayor frecuencia."
+        }
+      ],
+      "ayuda": "Una de las circunstancias que contribuye a la aprición de la fatiga en el conductor, es la conducción en condiciones meteorológicas adversas (lluvia, niebla, nieve, etc). Por ello, en dichos casos se deben realizar descansos adecuados y suficientes, con mayor frecuencia que en condiciones normales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Qué debe hacer si está en estado de estrés?",
+      "imagen": "examen-49_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tomar un ansiolítico antes de conducir."
+        },
+        {
+          "letra": "B",
+          "texto": "Evitar conducir."
+        },
+        {
+          "letra": "C",
+          "texto": "Tomar un estimulante."
+        }
+      ],
+      "ayuda": "Entre los efectos que produce el estrés en el conductor se encuentran un mayor grado de agresividad, temeridad e imprudencia, dificultad para mantener la atención, aumento de distracciones, ralentización de los reflejos, etc. Por todo ello, en estado de estrés se debe evitar conducir.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Consultar un mapa mientras se conduce, ¿es causa de distracción?",
+      "imagen": "examen-49_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, ya que se aparta la vista de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "No, si se circula despacio."
+        },
+        {
+          "letra": "C",
+          "texto": "No, cuando la consulta es de poco tiempo."
+        }
+      ],
+      "ayuda": "Cualquier tarea que obligue al conductor a desviar su atención de la conducción como, por ejemplo, fumar, manipular el GPS, mirar un mapa o manipular la radio, es causa de distracción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Este camión, ¿cómo debe llevar la carga que sobresale?",
+      "imagen": "examen-49_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Protegida solamente, porque es un vehículo de transporte de mercancías."
+        },
+        {
+          "letra": "B",
+          "texto": "Señalizada solamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Señalizada y protegida en los extremos."
+        }
+      ],
+      "ayuda": "Siempre que la carga transportada sobresalga de la proyección en planta del vehículo, se debe señalizar además de proteger sus extremos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

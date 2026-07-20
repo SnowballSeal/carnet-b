@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 34,
+  "nombre": "Test de examen 34",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Dos vehículos del mismo tipo se encuentran justo en la mitad de este estrechamiento, en el que la prioridad no está señalizada. ¿Cuál de ellos tendrá preferencia de paso?",
+      "imagen": "examen-34_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El vehículo que tenga que dar marcha atrás una menor distancia."
+        },
+        {
+          "letra": "B",
+          "texto": "El vehículo que tenga que dar marcha atrás mayor distancia."
+        },
+        {
+          "letra": "C",
+          "texto": "El vehículo que tenga mayor longitud, anchura o masa máxima autorizada."
+        }
+      ],
+      "ayuda": "En un estrechamiento sin señalizar la preferencia y cuando no se sepa qué vehículo entró primero la prioridad será a favor de aquel vehículo que tenga mayor dificultad de maniobra. Si se trata de vehículos del mismo tipo pasará primero el que tenga que dar marcha atrás mayor distancia.\n \nEn este caso, como ambos vehículos se encuentran en el medio del tramo estrecho (es decir que ambos están a la misma distancia de la salida) pasará primero aquel vehículo que tenga mayor longitud, anchura o masa máxima autorizada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Qué alumbrado deberá mantener encendido un vehículo estacionado durante la noche en el arcén de una travesía insuficientemente iluminada?",
+      "imagen": "examen-34_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ninguno, ya que es un estacionamiento dentro de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "Las luces de largo alcance y las luces de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Las luces de posición, que podrá sustituir por las de estacionamiento."
+        }
+      ],
+      "ayuda": "Al estacionar, durante la noche, en una travesía insuficientemente iluminada, se deberán mantener encendidas las luces de posición, las que se podrán sustituir por las de estacionamiento, o por las dos de posición del lado correspondiente a la calzada, cuando se halle estacionado en línea.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Qué usuarios deben obedecer el semáforo de la fotografía?",
+      "imagen": "examen-34_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los conductores de todos los vehículos de dos ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "Los conductores de ciclos."
+        },
+        {
+          "letra": "C",
+          "texto": "Los peatones y los conductores de bicicletas."
+        }
+      ],
+      "ayuda": "Cuando las luces de los semáforos presentan la silueta iluminada de un ciclo, sus indicaciones se refieren exclusivamente a conductores de ciclos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Existe relación entre consumo de drogas de abuso o ilegales y accidentes de tráfico?",
+      "imagen": "examen-34_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, las drogas alteran gravemente las capacidades necesarias para conducir."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo cuando el conductor mezcla el consumo de drogas con el de alcohol."
+        },
+        {
+          "letra": "C",
+          "texto": "No; la conducción es más segura cuando se consumen drogas de abuso."
+        }
+      ],
+      "ayuda": "Existe una relación directa entre consumo de drogas de abuso o ilegales y accidentes de tráfico, ya que dichas sustancias alteran gravemente las capacidades necesarias para conducir con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Debido al deterioro psicofísico consecuencia del envejecimiento, ¿qué situaciones de tráfico ofrecen más dificultades a las personas mayores?",
+      "imagen": "examen-34_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los giros a la izquierda, especialmente en vías urbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "Los estacionamientos, sobre todo cuando se realizan a la derecha de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Las situaciones complejas, como incorporarse a una vía en la que se circula a alta velocidad."
+        }
+      ],
+      "ayuda": "Algunas personas mayores sufren, a causa de la edad, el deterioro de sus capacidades psicomotoras, lo que ocasiona que tengan dificultades para resolver situaciones complejas de conducción que exigen una respuesta rápida, como en determinadas intersecciones o en las incorporaciones y salidas de vías por donde se circula a alta velocidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "De las siguientes, ¿cuál es una obligación que corresponde al titular del vehículo?",
+      "imagen": "examen-34_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Verificar que las placas de matrícula del vehículo no presentan obstáculos que impidan su lectura."
+        },
+        {
+          "letra": "B",
+          "texto": "Identificar ante la Administración al conductor del vehículo en el momento de cometerse una infracción."
+        },
+        {
+          "letra": "C",
+          "texto": "Comprobar que todos los ocupantes del vehículo hacen uso del cinturón de seguridad."
+        }
+      ],
+      "ayuda": "Entre las obligaciones que corresponden al titular del vehículo, se encuentra la de identificar ante la Administración al conductor del vehículo en el momento de cometerse una infracción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Como mantenimiento preventivo, ¿es conveniente realizar una revisión periódica del sistema de alumbrado del vehículo?",
+      "imagen": "examen-34_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para comprobar su correcto reglado y funcionamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "No, salvo en los vehículos que disponen de un sistema regulador automático."
+        },
+        {
+          "letra": "C",
+          "texto": "No, solamente, cuando lleve sobrecarga porque podrían producirse cambios de inclinación del alcance luminoso."
+        }
+      ],
+      "ayuda": "Resulta conveniente realizar una revisión periódica del sistema de alumbrado del vehículo, como mantenimiento preventivo, para comprobar su correcto reglado y funcionamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Siempre que exista espacio suficiente y adoptando las máximas precauciones, está permitido adelantar por la derecha...",
+      "imagen": "examen-34_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en vías interurbanas, en las intersecciones y sus proximidades."
+        },
+        {
+          "letra": "B",
+          "texto": "en autopistas y autovías que discurran exclusivamente dentro de poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "en vías urbanas con dos o más carriles delimitados por líneas longitudinales."
+        }
+      ],
+      "ayuda": "Por excepción, y si existe espacio suficiente para ello, el adelantamiento podrá efectuar por la derecha, dentro de poblado, en aquellas calzadas que tengan, por lo menos, dos carriles reservados a la circulación en el mismo sentido de marcha, delimitados por marcas longitudinales, a condición de que el conductor del vehículo que lo efectúe se cerciore previamente de que puede hacerlo sin peligro para los demás usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "En caso de estar implicado en un accidente, ¿debe detenerse para ayudar a restablecer la seguridad de la circulación?",
+      "imagen": "examen-34_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, esa tarea corresponde a la policía de tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en la medida de lo posible."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si hay fallecidos o heridos graves."
+        }
+      ],
+      "ayuda": "Todo usuario de la vía implicado en un accidente de circulación deberá, en la medida de lo posible, detenerse de forma que no cree un nuevo peligro para la circulación y esforzarse por restablecer o mantener la seguridad de la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "El hecho de circular con un vehículo por una vía pública sin haber superado la inspección técnica periódica estando obligado a ello, es constitutivo de... ",
+      "imagen": "examen-34_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un delito contra la seguridad vial que conlleva la pérdida de 3 puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "una infracción que conlleva la pérdida de 3 puntos."
+        },
+        {
+          "letra": "C",
+          "texto": "una infracción sin detracción de puntos."
+        }
+      ],
+      "ayuda": "Circular con un vehículo que incumpla las normas que regulan la inspección técnica de vehículos es una infracción administrativa sancionable con una multa, pero que no conlleva la pérdida de puntos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Para controlar correctamente los mandos de los pies de una motocicleta, ¿qué calzado es el más adecuado? ",
+      "imagen": "examen-34_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Unas zapatillas de deporte, de suela muy gruesa."
+        },
+        {
+          "letra": "B",
+          "texto": "Unas botas altas y con tacón marcado."
+        },
+        {
+          "letra": "C",
+          "texto": "Cualquier zapato siempre que sea cerrado y deje libre el tobillo."
+        }
+      ],
+      "ayuda": "Para controlar correctamente los mandos de los pies de una motocicleta, el calzado que debe utilizar el conductor debe ser, preferiblemente, del tipo de botas altas y con tacón marcado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Qué le indica la palabra \"tubeless\" escrita en el lateral del neumático?",
+      "imagen": "examen-34_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que es un neumático preparado para ser montado sin cámara."
+        },
+        {
+          "letra": "B",
+          "texto": "Que es un neumático adecuado para utilizarlo cuando la calzada tenga agua."
+        },
+        {
+          "letra": "C",
+          "texto": "Que es un neumático adecuado para colocarlo en un camión."
+        }
+      ],
+      "ayuda": "La denominación \"tubeless\" indica que se trata de un neumático sin cámara.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Según la clasificación de vehículos por su potencial contaminante, ¿qué distintivo ambiental llevará un vehículo híbrido enchufable, con una autonomía mínima de 40 km?",
+      "imagen": "examen-34_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0 emisiones."
+        },
+        {
+          "letra": "B",
+          "texto": "Eco."
+        },
+        {
+          "letra": "C",
+          "texto": "El distintivo C."
+        }
+      ],
+      "ayuda": "Podrán llevar el distintivo \"0 emisiones\", entre otros, los vehículos eléctricos de batería, los vehículos de hidrógeno y los vehículos eléctricos híbridos enchufables que tengan una autonomía mínima de 40 kilómetros. Los vehículos híbridos enchufables cuya autonomía sea inferior a 40 kilómetros, llevarán el distintivo ECO.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Un tractor que arrastra un remolque, ¿qué velocidad máxima no debe rebasar fuera de poblado?",
+      "imagen": "examen-34_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "25 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "40 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "70 kilómetros por hora."
+        }
+      ],
+      "ayuda": "La velocidad máxima autorizada establecida con carácter general para vehículos especiales es de 40 kilómetros por hora. No obstante, cuando carezcan de señalización de frenado o lleven remolque, dicha velocidad máxima será de 25 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "Al salir marcha atrás de un estacionamiento con su vehículo, el cual dispone del sistema de alerta de tráfico cruzado, debe saber que este sistema...",
+      "imagen": "examen-34_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "ayudará al conductor esquivando el obstáculo en el mismo momento en que lo detecte."
+        },
+        {
+          "letra": "B",
+          "texto": "tomará el control del vehículo deteniéndolo inmediatamente cuando detecte un vehículo aproximándose."
+        },
+        {
+          "letra": "C",
+          "texto": "emitirá un aviso sonoro y/o visual cuando detecte un vehículo aproximándose."
+        }
+      ],
+      "ayuda": "El sistema ADAS de alerta de tráfico cruzado supervisa el tráfico trasero en sentido transversal al salir marcha atrás desde un aparcamiento en oblicuo o batería. Si se detecta un vehículo emitirá un aviso sonoro y/o visual.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Cuál es la pérdida de puntos en caso de sanción por utilizar, sujetando con la mano, el teléfono móvil mientras se encuentra en un semáforo en rojo?",
+      "imagen": "examen-34_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pérdida de 4 puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "Pérdida de 6 puntos."
+        },
+        {
+          "letra": "C",
+          "texto": "Pérdida de 3 puntos."
+        }
+      ],
+      "ayuda": "Utilizar, sujetando con la mano, dispositivos de telefonía móvil mientras se conduce, es una infracción que conlleva la pérdida de 6 puntos. Además, al tratarse de una infracción calificada como grave, se sancionará con una multa de 200 euros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Cuál es la velocidad máxima permitida para un turismo en una vía urbana con plataforma única de calzada y acera?",
+      "imagen": "examen-34_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "45 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "50 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "20 km/h."
+        }
+      ],
+      "ayuda": "El límite genérico de velocidad en vías urbanas será de 20 km/h en vías que dispongan de plataforma única de calzada y acera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "El turismo blanco está adelantando incorrectamente. ¿Qué puede hacer el conductor del vehículo verde para facilitar el adelantamiento?",
+      "imagen": "examen-34_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No debe hacer nada."
+        },
+        {
+          "letra": "B",
+          "texto": "Levantar el pie del acelerador o pisar un poco el freno."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular por el arcén."
+        }
+      ],
+      "ayuda": "En la situación planteada, el conductor del vehículo verde deberá, para evitar un accidente, levantar el pie del acelerador o pisar un poco el freno.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Si está adelantando y ve que hay peligro, ¿qué debe hacer?",
+      "imagen": "examen-34_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reducir la velocidad, señalizar y volver a mi carril."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentar la velocidad y adelantar rápidamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Pedir ayuda al vehículo que estoy adelantando."
+        }
+      ],
+      "ayuda": "Si al realizar un adelantamiento surgiera peligro, el conductor deberá reducir la velocidad, y tras señalizar la maniobra, volver a su carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Influye en el consumo de combustible si el vehículo tiene el ralentí demasiado alto?",
+      "imagen": "examen-34_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque consume menos combustible."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque al girar el motor más deprisa, consume más."
+        },
+        {
+          "letra": "C",
+          "texto": "No, tal circunstancia no influye en el consumo."
+        }
+      ],
+      "ayuda": "Un vehículo con el ralentí demasiado alto consume más carburante porque el motor gira más rápido y esto implica un mayor aporte de carburante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "La señal indica que...",
+      "imagen": "examen-34_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "está en un callejón sin salida y debe retroceder."
+        },
+        {
+          "letra": "B",
+          "texto": "está prohibido pasar sin detenerse."
+        },
+        {
+          "letra": "C",
+          "texto": "se aproxima a una elevación del terreno."
+        }
+      ],
+      "ayuda": "Señales de restricción de paso. Prohibido pasar sin detenerse.\nIndica el lugar donde es obligatoria la detención por la proximidad, según la inscripción que contenga, de un puesto de aduana, de policía, de peaje u otro. En todo caso el conductor así detenido no podrá reanudar la marcha hasta haber cumplido la prescripción establecida por la señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "En una vía interurbana insuficientemente iluminada, un turismo circula a menos de 40 km/h. ¿Puede circular utilizando solo la luz de posición y la de corto alcance?",
+      "imagen": "examen-34_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, aunque puede encender la de largo alcance si no deslumbra a otros usuarios."
+        },
+        {
+          "letra": "B",
+          "texto": "No, es obligatorio que circule con la luz de largo alcance encendida."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo cuando circule por una travesía."
+        }
+      ],
+      "ayuda": "El uso de la luz de largo alcance es obligatorio cuando se circule entre la puesta y la salida del sol, en vías interurbanas insuficientemente iluminadas, a más de 40 km/h y sin posibilidades de deslumbrar. En el resto de los casos se circulará con luz de cruce o corto alcance, pudiendo utilizar la de largo alcance cuando no se deslumbre, excepto en vías urbanas y travesías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Es recomendable tener especial cuidado al adelantar a un grupo de ciclistas en los ascensos prolongados? ",
+      "imagen": "examen-34_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, los adelantamientos a ciclistas no implican riesgo alguno."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo si algún ciclista va bebiendo algún líquido o tomando alimentos sólidos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque debido al esfuerzo y pedaleo pueden realizar cambios bruscos de trayectoria."
+        }
+      ],
+      "ayuda": "Para evitar atropellos a los ciclistas es recomendable prestar especial cuidado al adelantarles en ascensos prolongados, porque en estas circunstancias tienden a realizar cambios bruscos de trayectoria y de posición en la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Un agente circula en una moto portando una bandera verde, ¿qué indica?",
+      "imagen": "examen-34_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La calzada está abierta, pero hay que extremar la atención."
+        },
+        {
+          "letra": "B",
+          "texto": "La calzada queda de nuevo abierta al tráfico a partir de su paso."
+        },
+        {
+          "letra": "C",
+          "texto": "Se está desarrollando en la calzada una actividad deportiva."
+        }
+      ],
+      "ayuda": "Cuando un vehículo policial porta una bandera verde, indica que la calzada queda de nuevo abierta al tráfico a partir de su paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "En general, bajo los efectos de la cocaína...",
+      "imagen": "examen-34_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aumenta la capacidad de concentración del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "disminuye la capacidad de concentración del conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "se percibe mejor el entorno y se toman decisiones más seguras."
+        }
+      ],
+      "ayuda": "En general, bajo los efectos de la cocaína, los conductores experimentan una disminución de la capacidad de concentración.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Cuando la carga sobresale de un vehículo, ¿es obligatorio señalizarla con el panel de la imagen?",
+      "imagen": "examen-34_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, excepto para los vehículos destinados al transporte de mercancías."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo es obligatorio si la carga sobresale por la parte trasera."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, para todo tipo de vehículos, pero solo cuando la carga sea indivisible."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen debe utilizarse para señalizar las cargas que sobresalgan por la parte trasera del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Un conductor circula por una calzada muy mojada; si para frenar necesita pisar a fondo el pedal de freno, ¿a qué puede ser debido, principalmente?",
+      "imagen": "examen-34_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A un fallo del sistema de frenos."
+        },
+        {
+          "letra": "B",
+          "texto": "A que el sistema ABS necesita una revisión."
+        },
+        {
+          "letra": "C",
+          "texto": "Al enfriamiento excesivo de los discos de freno."
+        }
+      ],
+      "ayuda": "El excesivo recorrido del pedal de freno (tener que pisarlo a fondo para conseguir que se accionen eficazmente los frenos) puede ser debido a un fallo en el sistema de frenado (problemas mecánicos, falta de presión o de líquido en el circuito, etc.).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Normalmente, ¿qué ocurre cuando un conductor sufre una distracción al volante?",
+      "imagen": "examen-34_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Enciende las luces de emergencia o pisa el pedal de freno reiteradamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Pisa el pedal de freno en lugar del acelerador."
+        },
+        {
+          "letra": "C",
+          "texto": "Tarda más tiempo en reaccionar ante una situación de riesgo."
+        }
+      ],
+      "ayuda": "La atención es fundamental para mantener una capacidad de reacción adecuada durante la conducción. Cuando los conductores se distraen, la capacidad de reacción disminuye y, por lo tanto, se tarda más tiempo en reaccionar ante una situación de peligro (aumenta el tiempo de reacción).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "En una vía con un carril para cada sentido de la marcha, ¿está permitido que un conductor adelante a varios vehículos da la vez?",
+      "imagen": "examen-34_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo si puede volver a la derecha sin causar peligro en caso de encontrar vehículos de frente."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que adelante a vehículos de grandes dimensiones."
+        }
+      ],
+      "ayuda": "En una vía de doble sentido que disponga de un solo carril para cada sentido de la marcha, se podrá adelantar a varios vehículos a la vez únicamente cuando el conductor se asegure previamente que podrá volver a la derecha sin causar peligro en caso de encontrar vehículos de frente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Puede el vehículo de movilidad personal tener sillín?",
+      "imagen": "examen-34_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No porque ya no se consideraría vehículo de movilidad personal."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si está dotado de sistema de autoequilibrado."
+        }
+      ],
+      "ayuda": "Los VMP o vehículos de movilidad personal, solo pueden estar equipados con un asiento o sillín si están dotados de sistema de autoequilibrado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

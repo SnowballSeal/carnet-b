@@ -1,0 +1,605 @@
+{
+  "categoria_id": 2,
+  "test_id": 17,
+  "nombre": "Serie fácil 17",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Qué vehículos están obligados a circular por una vía con esta señal?",
+      "imagen": "serie-facil-17_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las bicicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "Los ciclomotores, únicamente."
+        }
+      ],
+      "ayuda": "Vía reservada y obligatoria para ciclomotores\n\nObligación para los conductores de ciclomotores de circular por la vía a cuya entrada esté situada y prohibición a los demás usuarios de la vía de utilizarla. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Cuando un autobús pretende incorporarse desde una parada señalizada, ¿qué deben hacer los demás conductores?",
+      "imagen": "serie-facil-17_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Facilitarle la incorporación."
+        },
+        {
+          "letra": "B",
+          "texto": "Continuar la marcha."
+        }
+      ],
+      "ayuda": "A los autobuses que pretendan incorporarse a la circulación desde una parada debidamente señalizada, se les debe facilitar la incorporación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Si no hay niebla espesa, ¿en qué otra circunstancia puede emplear la luz antiniebla delantera?",
+      "imagen": "serie-facil-17_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En tramos de vía estrechos, con una sucesión de curvas peligrosas señalizada."
+        },
+        {
+          "letra": "B",
+          "texto": "En cualquier circunstancia en que disminuya la visibilidad."
+        }
+      ],
+      "ayuda": "Durante la noche en tramos de vías estrechas con sucesión de curvas peligrosas entre sí debidamente señalizadas, se podrá llevar encendidas las luces de antiniebla delanteras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Fuera de poblado se pueden utilizar las señales acústicas...\n",
+      "imagen": "serie-facil-17_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "como señal de llamada."
+        },
+        {
+          "letra": "B",
+          "texto": "para evitar un accidente o advertir la intención de adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo para evitar un accidente."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos no prioritarios, fuera de poblado, podrán realizar advertencias acústicas para evitar un accidente o para advertir al conductor de otro vehículo el propósito de adelantarlo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Circula con su turismo por el arcén para facilitar el adelantamiento. ¿Es correcto?",
+      "imagen": "serie-facil-17_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "No es correcto circular por el arcén para facilitar un adelantamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Una incorrecta presión de inflado, ¿puede aumentar el consumo de carburante?",
+      "imagen": "serie-facil-17_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Entre otros factores negativos, una incorrecta presión de inflado puede aumentar el consumo de carburante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Está correctamente inmovilizada esta furgoneta?",
+      "imagen": "serie-facil-17_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, ya que entre la furgoneta y la marca continua hay una distancia inferior a 3 metros."
+        }
+      ],
+      "ayuda": "No se permite parar ni estacionar cuando la distancia que existe entre la furgoneta o cualquier otro vehículo y la marca vial continua, sea inferior a 3 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Circulando con un turismo, ¿se puede prescindir en algún momento del cinturón de seguridad?",
+      "imagen": "serie-facil-17_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, excepcionalmente, el conductor cuando esté realizando la maniobra de marcha atrás o de estacionamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, circulando por vías urbanas."
+        }
+      ],
+      "ayuda": "El conductor que efectúe la marcha atrás o estacionamiento, no está obligado a utilizar el cinturón de seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "La celebración de pruebas y marchas ciclistas, ¿requieren autorización previa?",
+      "imagen": "serie-facil-17_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "La celebración de pruebas y marchas ciclistas por las vías públicas requieren autorización.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Consultar un mapa mientras se conduce, ¿es causa de distracción?",
+      "imagen": "serie-facil-17_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, ya que se aparta la vista de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "No si se circula despacio."
+        }
+      ],
+      "ayuda": "Consultar un mapa de carreteras mientras se conduce, causa distracciones, ya que se aparta la vista de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Cuando se padece una depresión, antes de ponerse al volante...",
+      "imagen": "serie-facil-17_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no hay que tomar ninguna precaución especial."
+        },
+        {
+          "letra": "B",
+          "texto": "hay que consultar a un especialista."
+        }
+      ],
+      "ayuda": "Si se padece una depresión, antes de conducir se debe consultar al médico, acerca de los posibles efectos de la enfermedad sobre la conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "La señal de STOP, ¿obliga siempre a detenerse?",
+      "imagen": "serie-facil-17_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, salvo que un agente de tráfico o un semáforo indiquen lo contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre."
+        }
+      ],
+      "ayuda": "Una señal de stop obliga a detenerse, salvo que un agente o un semáforo indique lo contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Quién es el responsable de las infracciones relativas a la documentación y el estado del vehículo?",
+      "imagen": "serie-facil-17_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El tomador del seguro."
+        },
+        {
+          "letra": "B",
+          "texto": "El titular."
+        }
+      ],
+      "ayuda": "El titular del vehículo es el responsable de las infracciones que se cometan con respecto a la documentación del vehículo, así como el estado del mismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Durante la noche un peatón circula por una carretera utilizando un dispositivo reflectante, ¿a qué distancia como mínimo debe ser visible?",
+      "imagen": "serie-facil-17_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 150 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "A 100 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "A 300 metros."
+        }
+      ],
+      "ayuda": "Los dispositivos reflectantes que deben utilizar los peatones cuando circulen de noche por vías fuera de poblado, deben ser visibles a 150 metros como mínimo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Qué parte del cuerpo resulta más afectada en los accidentes de motocicleta?",
+      "imagen": "serie-facil-17_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los brazos."
+        },
+        {
+          "letra": "B",
+          "texto": "La cabeza y la cara."
+        }
+      ],
+      "ayuda": "Generalmente, las partes del cuerpo que resultan más afectada en los accidentes de motocicletas son la cara y la cabeza.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "En esta vía, ¿es correcto circular por el centro de la calzada?",
+      "imagen": "serie-facil-17_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque no hay marcas que delimite los carriles."
+        },
+        {
+          "letra": "B",
+          "texto": "No, se circulará por la derecha de la calzada, lo más cerca posible del borde derecho."
+        }
+      ],
+      "ayuda": "Como norma general, en todas las vías se debe circular por la derecha de la calzada, y lo más cerca posible del borde derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "En un vehículo es obligatorio colocar y sujetar la carga de forma que no pueda arrastrar, caer o desplazarse de manera peligrosa.",
+      "imagen": "serie-facil-17_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La carga en un vehículo debe ir correctamente sujeta para que no pueda arrastrar, caerse o desplazarse de manera peligrosa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Para un buen mantenimiento del sistema de frenos, ¿qué se debe hacer?",
+      "imagen": "serie-facil-17_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Revisar el nivel de líquido de frenos."
+        },
+        {
+          "letra": "B",
+          "texto": "Engrasar los discos periódicamente."
+        }
+      ],
+      "ayuda": "Para un buen mantenimiento del sistema de frenado, se debe revisar periódicamente el nivel de líquido de frenos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Qué tipo de daños en general, cubre el seguro de responsabilidad civil de suscripción obligatoria?",
+      "imagen": "serie-facil-17_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los daños personales y los materiales."
+        },
+        {
+          "letra": "B",
+          "texto": "El seguro no cubre ningún daño."
+        }
+      ],
+      "ayuda": "En general, el seguro de responsabilidad civil de suscripción obligatoria, cubre los daños a las personas y los materiales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "El conductor, ¿está obligado a hacer que los pasajeros mantengan la posición adecuada?",
+      "imagen": "serie-facil-17_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, solo está obligado a cuidar la colocación de los objetos"
+        }
+      ],
+      "ayuda": "El conductor es el responsable de que las personas transportadas en su vehículo ocupen el lugar y la posición adecuada para una circulación segura.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Si debido a un pinchazo se ve obligado a circular con una rueda de uso temporal, ¿qué deberá tener en cuenta?",
+      "imagen": "serie-facil-17_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que no se debe circular a más de 120 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "Que se aconseja no circular a más de 80 km/h."
+        }
+      ],
+      "ayuda": "Si necesariamente se ve obligado a circular con una rueda de uso temporal, debe saber que es aconsejable no superar los 80 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "En un accidente, ¿cuándo está obligado a ayudar?",
+      "imagen": "serie-facil-17_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No es obligatorio en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando vea que aún no han sido atendidos los heridos."
+        }
+      ],
+      "ayuda": "En un accidente de tráfico, estamos obligados a prestar la ayuda sanitaria cuando los heridos no están siendo atendidos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Qué circunstancias favorecen la aparición de la fatiga?",
+      "imagen": "serie-facil-17_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Planificar los viajes y los descansos necesarios."
+        },
+        {
+          "letra": "B",
+          "texto": "Mantener posturas inadecuadas al volante."
+        }
+      ],
+      "ayuda": "Entre otras circunstancias, mantener posturas inadecuadas al volante favorece la aparición de la fatiga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Es cierto que la lluvia exige al conductor tomar más precauciones por la falta de adherencia de los neumáticos?",
+      "imagen": "serie-facil-17_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Si."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Circulando con lluvia, se deben tomar más precauciones por la falta de adherencia de los neumáticos, y en ocasiones, por falta de visibilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "En una motocicleta, generalmente, ¿con qué pie se acciona el freno trasero?",
+      "imagen": "serie-facil-17_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con el pie izquierdo."
+        },
+        {
+          "letra": "B",
+          "texto": "Con el pie derecho."
+        }
+      ],
+      "ayuda": "Generalmente, el freno trasero de la motocicleta se utiliza con el pie derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "En el arcén de esta vía, ¿puede inmovilizar su vehículo para ver el paisaje?",
+      "imagen": "serie-facil-17_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque el arcén es ancho."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque está prohibido."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque no hay señales que lo prohíban."
+        }
+      ],
+      "ayuda": "Queda prohibido parar y estacionar en la parte transitable del arcén de una vía interurbana.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "En general, ¿deben prever los conductores las intenciones y anticiparse a los movimientos de los demás usuarios de la vía?",
+      "imagen": "serie-facil-17_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos deben prever las intenciones y anticiparse a los movimientos de los demás usuarios de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Los cristales de su vehículo están cubiertos de hielo. Antes de ponerse en marcha, ¿qué debe hacer?",
+      "imagen": "serie-facil-17_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Limpiar todos los cristales."
+        },
+        {
+          "letra": "B",
+          "texto": "No limpiar los cristales para no rayarlos."
+        },
+        {
+          "letra": "C",
+          "texto": "Limpiar solamente el parabrisas delantero."
+        }
+      ],
+      "ayuda": "Si los cristales de su vehículo están cubiertos de hielo. Antes de ponerse en marcha debe limpiar todos los cristales del vehículo para tener buena visibilidad por delante, por detrás y por los laterales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Qué carril podrá utilizar un conjunto de vehículos de más de 7 metros de longitud, en vías interurbanas con tres o más carriles para el mismo sentido de marcha?",
+      "imagen": "serie-facil-17_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El carril inmediato al derecho si las circunstancias del tráfico o de la vía lo aconsejan y no entorpece la marcha a otro vehículo que le siga."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo por el derecho."
+        },
+        {
+          "letra": "C",
+          "texto": "El carril inmediato al derecho en cualquier caso."
+        }
+      ],
+      "ayuda": "En vías con tres o más carriles para el mismo sentido, los camiones, furgones y vehículos especiales con M.M.A.superior a 3500 kg. y los conjuntos de vehículos de más de siete metros, circularán normalmente por el carril derecho pudiendo utilizar, como máximo, el inmediato cuando las circunstancias del tráfico o de la vía lo aconsejen y siempre que no entorpezca la marcha a otro vehículo que le siga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Una persona que obtiene el permiso de la clase B a los 18 años, ¿debe renovarlo posteriormente?",
+      "imagen": "serie-facil-17_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque este permiso no pierde nunca su validez."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, a los diez años de su expedición, como norma general."
+        },
+        {
+          "letra": "C",
+          "texto": "No, salvo que obtenga cualquier otro permiso o licencia de conducción."
+        }
+      ],
+      "ayuda": "El permiso deberá renovarse cada 10 años, mientras su titular no cumpla los 65 años de edad. A partir de entonces, las renovaciones deben realizarse cada cinco años.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

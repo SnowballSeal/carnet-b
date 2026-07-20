@@ -1,0 +1,693 @@
+{
+  "categoria_id": 3,
+  "test_id": 6,
+  "nombre": "Tema 5 — Marcas viales",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Debe el conductor del turismo de color blanco respetar la señal de stop cuando llegue al cruce?",
+      "imagen": "tema-05_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo si sigue de frente."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque la señal horizontal solo es para los que giren a la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, debe respetar las marcas viales existentes."
+        }
+      ],
+      "ayuda": "La señal horizontal de detención obligatoria solo afecta, en este caso, a los vehículos que vayan a girar a la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Hay una marca longitudinal continua adosada a otra discontinua, ¿cuál de las dos debe tener en cuenta?",
+      "imagen": "tema-05_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La marca situada en el lado por el que se circula."
+        },
+        {
+          "letra": "B",
+          "texto": "La marca situada en el lado contrario por el que recircula."
+        },
+        {
+          "letra": "C",
+          "texto": "Ninguna de las dos."
+        }
+      ],
+      "ayuda": "Cuando una marca consista en una línea longitudinal continua adosada a otra discontinua, los conductores no deben tener en cuenta más que la línea situada en el lado por el que circulan.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "La señal de limitación de velocidad afecta a los vehículos que circulen por...",
+      "imagen": "tema-05_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "toda la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "el carril sobre el que está situada."
+        },
+        {
+          "letra": "C",
+          "texto": "el lado de la vía sobre la que está situada."
+        }
+      ],
+      "ayuda": "La señal de limitación de velocidad que se observa, sólo le afecta a los vehículos que circulen por el carril donde está situada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Las flechas pintadas en la calzada...",
+      "imagen": "tema-05_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "anuncian la proximidad de una línea continua."
+        },
+        {
+          "letra": "B",
+          "texto": "señalizan que el carril en el que están situadas termina próximamente."
+        },
+        {
+          "letra": "C",
+          "texto": "indican la dirección del ramal de la próxima intersección."
+        }
+      ],
+      "ayuda": "La flecha de fin de carril indica que el carril en que está situada termina próximamente y es preciso seguir su indicación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "La marca vial amarilla discontinua, ¿qué prohíbe?",
+      "imagen": "tema-05_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Parar y estacionar."
+        },
+        {
+          "letra": "B",
+          "texto": "Parar."
+        },
+        {
+          "letra": "C",
+          "texto": "Estacionar."
+        }
+      ],
+      "ayuda": "Una línea discontinua de color amarillo, en el bordillo o junto al borde de la calzada, significa que el estacionamiento está prohibido. Por tanto, se permite parar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Qué indican las flechas pintadas en la calzada?",
+      "imagen": "tema-05_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La dirección del ramal de la próxima salida."
+        },
+        {
+          "letra": "B",
+          "texto": "La proximidad de una línea continua."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el carril en el que están situadas termina próximamente."
+        }
+      ],
+      "ayuda": "Un flecha, situada aproximadamente en el eje de una calzada de doble sentido de circulación y apuntando hacia la derecha, anuncia la proximidad de una línea continua que implica la prohibición de circular por su izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Puede sobrepasar la marca longitudinal continua para adelantar?",
+      "imagen": "tema-05_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para realizar un cambio de dirección."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si se trata de una calzada de un solo sentido."
+        }
+      ],
+      "ayuda": "Una marca longitudinal consistente en una línea continua sobre la calzada significa que ningún conductor con su vehículo o animal debe atravesarla ni circular con su vehículo sobre ella.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Las cuadrículas de marcas blancas y rojas que se observan, indican...",
+      "imagen": "tema-05_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la prohibición de franquear la intersección."
+        },
+        {
+          "letra": "B",
+          "texto": "una zona de estacionamiento limitado."
+        },
+        {
+          "letra": "C",
+          "texto": "el comienzo de una zona de frenado de emergencia y prohíbe la parada y el estacionamiento."
+        }
+      ],
+      "ayuda": "Una cuadrícula de marcas blancas y rojas indica el lugar donde empieza una zona de frenado de emergencia y prohíbe la parada, el estacionamiento o la utilización de esta parte de la calzada con otros fines.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Cuándo termina la limitación de velocidad que impone esta señal?",
+      "imagen": "tema-05_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al rebasar el siguiente cruce."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando salga de la travesía."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando encuentre una señal de fin de prohibiciones."
+        }
+      ],
+      "ayuda": "La limitación de velocidad establecida en el carril que se observa, se aplica hasta la próxima señal de \"fin de limitación\", \"fin de velocidad\" u otra señal de velocidad máxima diferente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Puede sobrepasar la marca longitudinal continua central?",
+      "imagen": "tema-05_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para hacer una cambio de dirección."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si se trata de una calzada de sentido único."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Una marca longitudinal consistente en una línea continua sobre la calzada significa que ningún conductor con su vehículo o animal debe atravesarla ni circular con su vehículo sobre ella ni, cuando la marca separe los dos sentidos de circulación, circular por la izquierda de aquélla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Las flechas de selección de carril...",
+      "imagen": "tema-05_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aconsejan seguir las direcciones indicadas por las flechas."
+        },
+        {
+          "letra": "B",
+          "texto": "obligan a seguir la dirección o las direcciones indicadas, pero si la señalización lo permite autorizan el cambio de carril."
+        },
+        {
+          "letra": "C",
+          "texto": "obligan a seguir las direcciones indicadas por las flechas, prohibiendo siempre el cambio de carril."
+        }
+      ],
+      "ayuda": "Las flechas de selección de carril indican que todo conductor debe seguir la dirección, o una de las direcciones indicadas por las mismas, y si la señalización lo permite autorizan el cambio de carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "La marca vial compuesta por las letras P y N, una a cada lado de un aspa, indica...",
+      "imagen": "tema-05_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la proximidad de un paso a nivel."
+        },
+        {
+          "letra": "B",
+          "texto": "la proximidad de un paso a nivel sin barreras."
+        },
+        {
+          "letra": "C",
+          "texto": "la proximidad de un paso a nivel con barreras."
+        }
+      ],
+      "ayuda": "Las letras \"P\" y \"N\", una a cada lado de un aspa, indican la proximidad de un paso a nivel con o sin barreras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Está permitido circular sobre una línea longitudinal discontinua?",
+      "imagen": "tema-05_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, excepto cuando sea necesario y la seguridad de la circulación lo permita."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está siempre prohibido."
+        }
+      ],
+      "ayuda": "Una línea discontinua en la calzada está destinada a delimitar los carriles con el fin de guiar la circulación y significa que ningún conductor debe circular con su vehículo o animal sobre ella, salvo, cuando sea necesario y la seguridad de la circulación lo permita, en calzadas con carriles estrechos (menos de 3 metros de anchura).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Se puede circular por la izquierda de una línea longitudinal continua?",
+      "imagen": "tema-05_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si la vía es de sentido único."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en ningún caso."
+        }
+      ],
+      "ayuda": "En calzadas de sentido único se puede circular por la izquierda de una línea continua. Si la calzada es de doble sentido, no se puede circular por la izquierda de una línea longitudinal continua.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Qué le indican las líneas más anchas que se observan en el gráfico?",
+      "imagen": "tema-05_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un carril especial."
+        },
+        {
+          "letra": "B",
+          "texto": "Un carril reversible."
+        },
+        {
+          "letra": "C",
+          "texto": "La proximidad de una línea continua."
+        }
+      ],
+      "ayuda": "Las marcas longitudinales discontinuas más anchas que se observan, tienen la función de separar carriles especializados de los normales de circulación (por ejemplo: un carril de cambio de velocidad, de trenzado, reservado a la circulación de determinados vehículos (autobuses, taxis, etc.), etc.)",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Estas marcas viales, ¿qué indican?",
+      "imagen": "tema-05_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un paso para peatones y ciclistas."
+        },
+        {
+          "letra": "B",
+          "texto": "Un paso para ciclistas."
+        },
+        {
+          "letra": "C",
+          "texto": "Un paso obligatorio para vehículos de dos ruedas."
+        }
+      ],
+      "ayuda": "Una marca consistente en dos líneas transversales discontinuas y paralelas sobre la calzada indican un paso para ciclistas, donde éstos tienen preferencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Puede un turismo o una motocicleta utilizar los carriles que se observan en la fotografía?",
+      "imagen": "tema-05_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No las motocicletas, sí el turismo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo los pueden utilizar los vehículos de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, sólo los pueden utilizar las bicicletas."
+        }
+      ],
+      "ayuda": "Las marcas que se observan indica una vía ciclista. Por tanto, por los carriles indicados con estas marcas no podrán circular otros vehículos distintos a las bicicletas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "La línea amarilla en zigzag pintada en la calzada indica...",
+      "imagen": "tema-05_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la prohibición de estacionar en la zona marcada por la misma."
+        },
+        {
+          "letra": "B",
+          "texto": "un lugar reservado para el estacionamiento y parada de vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "un lugar reservado al estacionamiento de motocicletas."
+        }
+      ],
+      "ayuda": "Las marcas amarillas que se observan indican la prohibición de estacionar en la zona marcada por las mismas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Las marcas azules que están delimitando lugares de estacionamiento, ¿qué indican?",
+      "imagen": "tema-05_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que son lugares de estacionamiento de residentes solamente, estando prohibido a otros usuarios."
+        },
+        {
+          "letra": "B",
+          "texto": "Que durante el día el estacionamiento está prohibido con carácter general."
+        },
+        {
+          "letra": "C",
+          "texto": "Que está permitido el estacionamiento en ciertos periodos del día con una duración limitada."
+        }
+      ],
+      "ayuda": "Las marcas que delimitan los lugares en el que el estacionamiento está permitido, que sean de color azul en lugar de color blanco, indican que, en ciertos períodos del día, la duración del estacionamiento autorizado está limitada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Las marcas que se observan indican...",
+      "imagen": "tema-05_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "una zona reservada a carga y descarga."
+        },
+        {
+          "letra": "B",
+          "texto": "paso a ciclistas."
+        },
+        {
+          "letra": "C",
+          "texto": "paso para peatones."
+        }
+      ],
+      "ayuda": "Las marcas que se observan indican un paso para peatones, donde los conductores de vehículos o animales deben dejarles paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "El camión que circula delante lo hace muy lentamente obstaculizando la circulación, ¿se le puede adelantar?",
+      "imagen": "tema-05_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque es un obstáculo para los demás vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque el vehículo está en movimiento y no puedo atravesar la línea longitudinal continua."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si tengo suficiente visibilidad y no se aproxima ningún vehículo en sentido contrario."
+        }
+      ],
+      "ayuda": "Una marca longitudinal consistente en una línea continua sobre la calzada significa que ningún conductor con su vehículo o animal debe atravesarla ni circular con su vehículo sobre ella.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Cuando las líneas discontinuas dobles, delimitan un carril por ambos lados significa que éste es...",
+      "imagen": "tema-05_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "reversible."
+        },
+        {
+          "letra": "B",
+          "texto": "habilitado."
+        },
+        {
+          "letra": "C",
+          "texto": "especial."
+        }
+      ],
+      "ayuda": "Cuando las líneas discontinuas dobles delimitan un carril por ambos lados significa que éste es reversible, es decir, que la circulación puede estar reglamentada en uno o en otro sentido mediante semáforos de carril u otros medios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Un peatón pretende cruzar la calzada por un paso para peatones debidamente señalizado, ¿cuándo debe penetrar en dicha calzada?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando la distancia y la velocidad de los vehículos permitan hacerlo con seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando el peatón lo decida, puesto que dispone de la preferencia de paso."
+        },
+        {
+          "letra": "C",
+          "texto": "Solamente cuando el paso de peatones está regulado por semáforos."
+        }
+      ],
+      "ayuda": "Aunque los peatones tienen preferencia de paso en los pasos para peatones, deberán penetrar en ellos cuando la distancia y velocidad de los vehículos permitan hacerlo con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Está permitido cambiar el sentido de la marcha en esta situación?",
+      "imagen": "tema-05_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Cuando una marca consista en una línea longitudinal continua adosada a otra discontinua, los conductores no deben tener en cuenta más que la línea situada en el lado por el que circulan. Por tanto, en este caso, no se puede cambiar el sentido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Estas marcas amarillas...",
+      "imagen": "tema-05_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "prohíben penetrar en la intersección si en condiciones previsibles, se puede quedar detenido el vehículo obstruyendo la circulación transversal."
+        },
+        {
+          "letra": "B",
+          "texto": "prohíben parar y estacionar."
+        },
+        {
+          "letra": "C",
+          "texto": "permiten bloquear la intersección en condiciones previsibles."
+        }
+      ],
+      "ayuda": "Un conjunto de líneas amarillas entrecruzadas recuerda a los conductores la prohibición de penetrar con su vehículo en una intersección si la situación de la circulación es tal que, previsiblemente, pueda quedar detenido de forma que impida u obstruya la circulación transversal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "La línea continua de color amarillo...",
+      "imagen": "tema-05_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "permite parar."
+        },
+        {
+          "letra": "B",
+          "texto": "prohíbe parar y estacionar."
+        },
+        {
+          "letra": "C",
+          "texto": "prohíbe sólo estacionar."
+        }
+      ],
+      "ayuda": "Una línea continua de color amarillo, en el bordillo o junto al borde de la calzada, significa que la parada y el estacionamiento están prohibidos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Circulando por el carril derecho, ¿le está permitido cambiar de carril para realizar un cambio de dirección a la izquierda?",
+      "imagen": "tema-05_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando no se aproximen vehículos en sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Las flechas de selección de carriles indican que todo conductor debe seguir la dirección, o una de las direcciones indicadas por las mismas, y si la señalización lo permite autorizan el cambio de carril. En este caso, la señalización no permite cambiar de carril para girar a la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Al llegar al cruce el turismo verde, ¿qué dirección puede tomar?",
+      "imagen": "tema-05_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Puede girar a la izquierda o seguir de frente."
+        },
+        {
+          "letra": "B",
+          "texto": "Debe girar obligatoriamente hacia la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Puede girar a la izquierda o tomar cualquier dirección."
+        }
+      ],
+      "ayuda": "El conductor del turismo verde, sólo podrá seguir hacia la izquierda después de respetar la marca vial de stop.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Qué indican las marcas blancas que se observan al principio del carril?",
+      "imagen": "tema-05_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un lugar reservado al estacionamiento de determinados vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "Un carril especial."
+        },
+        {
+          "letra": "C",
+          "texto": "El comienzo de un carril reservado para determinados vehículos."
+        }
+      ],
+      "ayuda": "Las marcas de comienzo de carril reservado indican el comienzo de un carril reservado para determinados vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Qué es una línea de borde de la calzada?",
+      "imagen": "tema-05_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La que separa en una calzada distintas corrientes de circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "Las que delimitan los carriles para el mismo sentido de circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "La que separa la calzada del arcén y que, tanto si es continua como discontinua, no se considera marca longitudinal."
+        }
+      ],
+      "ayuda": "Las líneas de borde de calzada delimitan el borde de la calzada. El hecho de que sean continuas o discontinuas no conlleva ninguna diferencia con respecto al uso del arcén reglamentariamente establecido. Es decir que podrán ser ocasionalmente atravesadas cuando resulte necesario invadir este por razones de emergencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

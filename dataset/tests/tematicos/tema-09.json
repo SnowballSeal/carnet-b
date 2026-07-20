@@ -1,0 +1,697 @@
+{
+  "categoria_id": 3,
+  "test_id": 10,
+  "nombre": "Tema 9 — Maniobras I. Incorporación al tráfico y adelantamientos",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En esta vía urbana, ¿está permitido adelantar por la derecha?",
+      "imagen": "tema-09_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, el adelantamiento siempre se realizará por la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque es una vía de sentido único y los carriles están delimitados."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solamente cuando el vehículo de delante va a girar a la izquierda."
+        }
+      ],
+      "ayuda": "En las vías urbanas está permitido adelantar por la derecha, cuando se trate de una vía de sentido único y los carriles estén delimitados por marcas longitudinales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "En esta vía de dos carriles en el mismo sentido, al vehículo de la imagen, como norma general, ¿le está permitido mantenerse en el carril de la izquierda una vez finalizado el adelantamiento?",
+      "imagen": "tema-09_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, debe circular por el carril de la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque la vía no está saturada."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si no entorpece la marcha de otros vehículos."
+        }
+      ],
+      "ayuda": "Como norma general, se debe circular por el carril situado más a la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿En qué caso no le está permitido adelantar detrás de otro vehículo que ya está adelantando?",
+      "imagen": "tema-09_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando no tenga suficiente visibilidad de la parte delantera de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Nunca está permitido adelantar cuando otro vehículo ya está adelantando."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando circule por una glorieta."
+        }
+      ],
+      "ayuda": "No se debe adelantar detrás de otro vehículo que ya esté adelantando cuando no se disponga de suficiente visibilidad de la parte delantera de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Este vehículo, ¿ha advertido correctamente la maniobra de cambio de dirección?",
+      "imagen": "tema-09_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, debe encender también las luces de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "No, debe advertirla también con la mano."
+        }
+      ],
+      "ayuda": "El conductor está obligado a advertir al resto de los usuarios de la vía acerca de las maniobras que vaya a efectuar con su vehículo.\nComo norma general, dichas advertencias se harán utilizando la señalización luminosa del vehículo o, en su defecto, con el brazo, de acuerdo con lo que se determine reglamentariamente. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "El vehículo detenido en el semáforo pretende girar a la izquierda, ¿debe mantener encendido el indicador de dirección?",
+      "imagen": "tema-09_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No es obligatorio, pero es aconsejable."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, obligatoriamente."
+        },
+        {
+          "letra": "C",
+          "texto": "No, puede encenderlo cuando continúe la marcha."
+        }
+      ],
+      "ayuda": "La señalización de una maniobra debe permanecer encendida hasta la finalización de la misma.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Aunque esté prohibido el adelantamiento, un turismo podrá rebasar, incluso invadiendo el sentido contrario, a...",
+      "imagen": "tema-09_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "conductores de bicicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "cualquier camión."
+        },
+        {
+          "letra": "C",
+          "texto": "cualquier autobús o camión que circule lentamente."
+        }
+      ],
+      "ayuda": "Excepcionalmente, aunque esté prohibido el adelantamiento, un turismo podrá rebasar incluso invadiendo el sentido contrario a conductores de bicicletas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Debe dejar una separación lateral de seguridad de 1,5 metros como mínimo, cuando adelante...",
+      "imagen": "tema-09_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "fuera de poblado a vehículos de dos ruedas únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "fuera de poblado a peatones, vehículos de dos ruedas, animales y vehículos de tracción animal."
+        },
+        {
+          "letra": "C",
+          "texto": "fuera o dentro de poblado a peatones, animales y vehículos de dos ruedas."
+        }
+      ],
+      "ayuda": "Cuando se adelante fuera de poblado a peatones, vehículos de dos ruedas, animales y vehículos de tracción animal, se deberá mantener una distancia mínima lateral de 1,50 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "El conductor de un vehículo está obligado a advertir mediante señales ópticas. ..\n",
+      "imagen": "tema-09_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "únicamente las maniobras que impliquen un desplazamiento lateral."
+        },
+        {
+          "letra": "B",
+          "texto": "toda maniobra que implique un desplazamiento lateral y hacia atrás."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo las maniobras que no impliquen un desplazamiento lateral."
+        }
+      ],
+      "ayuda": "El conductor debe advertir mediante señales ópticas toda maniobra que implique un desplazamiento lateral o hacia atrás de su vehículo, así como su propósito de inmovilizarlo o de frenar su marcha de modo considerable.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "En un paso a nivel o sus proximidades, ¿está permitido adelantar?",
+      "imagen": "tema-09_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, nunca."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando se adelante a vehículos de dos ruedas que no impidan la visibilidad lateral."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido adelantar en los pasos a nivel y en sus proximidades, salvo que se adelante a vehículos de dos ruedas que no impidan la visibilidad lateral.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Para facilitar el adelantamiento, ¿qué debe hacer el vehículo adelantado?",
+      "imagen": "tema-09_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ceñirse al borde derecho de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Circular por el centro de la cazada."
+        },
+        {
+          "letra": "C",
+          "texto": "Apartarse al arcén."
+        }
+      ],
+      "ayuda": "El conductor que advierta que otro que le sigue tiene el propósito de adelantarle, estará obligado a ceñirse al borde derecho de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "El conductor que realice un adelantamiento...",
+      "imagen": "tema-09_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "debe llevar su vehículo a una velocidad notoriamente superior a la del vehículo que pretende adelantar."
+        },
+        {
+          "letra": "B",
+          "texto": "puede rebasar la velocidad máxima fijada para las autopistas y autovías en 20 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "debe mantener una velocidad moderada, sin importar el tiempo que emplee en realizar el adelantamiento."
+        }
+      ],
+      "ayuda": "En la maniobra de adelantamiento, y para que el mismo dure el menor tiempo posible, el conductor que la lleve a cabo debe desarrollar una velocidad que sea notoriamente superior a la del vehículo adelantado.\n\n__",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Está permitido adelantar en este cambio de rasante?",
+      "imagen": "tema-09_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en el tiempo más breve posible."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque es un cambio de rasante de visibilidad reducida."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque la línea longitudinal discontinua lo permite."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido adelantar en los cambios de rasante de reducida visibilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Si va a adelantar y el vehículo que circula delante ha encendido el intermitente izquierdo, manifestando su intención de adelantar, ¿quién tiene preferencia en el adelantamiento?",
+      "imagen": "tema-09_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El que inicie antes el desplazamiento lateral."
+        },
+        {
+          "letra": "B",
+          "texto": "El que circule a mayor velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "El conductor del vehículo que ya ha encendido el intermitente."
+        }
+      ],
+      "ayuda": "El conductor del vehículo que pretenda adelantar, debe asegurarse de que el vehículo que le precede en el mismo carril no ha indicado su propósito de desplazamiento hacia el mismo lado, porque en dicho caso, la preferencia es del vehículo que circula delante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Al salir de un garaje, ¿debe ceder el paso?",
+      "imagen": "tema-09_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo a los peatones que van por la acera."
+        },
+        {
+          "letra": "B",
+          "texto": "No es obligatorio."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, a los peatones y a los vehículos."
+        }
+      ],
+      "ayuda": "Al salir de un garaje se debe ceder el paso a todos los usuarios de la vía, ya sean peatones u otros vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "El turismo blanco está adelantando incorrectamente. ¿Qué puede hacer el conductor del vehículo verde para facilitar el adelantamiento?",
+      "imagen": "tema-09_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No debe hacer nada."
+        },
+        {
+          "letra": "B",
+          "texto": "Levantar el pie del acelerador o pisar un poco el freno."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular por el arcén."
+        }
+      ],
+      "ayuda": "En la situación planteada, el conductor del vehículo verde deberá, para evitar un accidente, levantar el pie del acelerador o pisar un poco el freno.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Un turismo sale de una gasolinera para incorporarse a la circulación, en caso necesario, ¿cuándo tiene que ceder el paso?",
+      "imagen": "tema-09_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Siempre que se incorpore, sea por la derecha o por la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo cuando se incorpore por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo cuando se incorpore por la izquierda."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo parado o estacionado en una vía o procedente de las vías de acceso a la misma, de sus zonas de servicio o de una propiedad colindante que pretenda incorporarse a la circulación debe cerciorarse de que puede hacerlo sin peligro para los demás usuarios. Debe advertirlo con las señales obligatorias para estos casos y ceder el paso a los otros vehículos, teniendo en cuenta la posición, trayectoria y velocidad de éstos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "En esta vía de doble sentido, el camión circula muy lentamente y obstaculiza la circulación. En esta circunstancia, ¿se le puede adelantar?",
+      "imagen": "tema-09_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque circula por un tramo de vía en el que está prohibido el adelantamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque supone un obstáculo para los otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si tiene suficiente visibilidad y no se aproxima ningún vehículo de frente."
+        }
+      ],
+      "ayuda": "En el tramo de vía que se observa no está permitido adelantar. Ante esta situación, se debe esperar a que exista un tramo donde el adelantamiento no esté prohibido y la maniobra pueda hacerse con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "En esta curva de visibilidad reducida, ¿puede un turismo adelantar a una motocicleta ocupando el carril reservado para la circulación en sentido contrario?",
+      "imagen": "tema-09_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que deje una separación lateral mínima de 1,5 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo si al adelantar no ocupa la totalidad del carril de sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido, ya que no puede hacer la maniobra con seguridad."
+        }
+      ],
+      "ayuda": "Dado que se trata de una curva de visibilidad reducida, no se debe invadir en ningún caso el carril reservado para la circulación en sentido contrario. Para adelantar, se debe esperar a que exista un tramo en el que la maniobra pueda hacerse en condiciones de seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "En vías con tráfico denso, ¿se puede hacer uso del claxon?",
+      "imagen": "tema-09_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo dentro de una población."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solo fuera de poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "No, salvo que sea estrictamente necesario."
+        }
+      ],
+      "ayuda": "Como norma general el uso del claxon está prohibido. Salvo que sea estrictamente necesario para evitar un accidente, no debe utilizarse en estas condiciones de circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Si se dan las condiciones de seguridad precisas y va a adelantar a un ciclista en esta vía, ¿qué separación lateral debe dejar?",
+      "imagen": "tema-09_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Depende de la velocidad a la que circule el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Igual o superior a 1,50 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "Al menos 1 metro."
+        }
+      ],
+      "ayuda": "Cuando se adelante fuera de poblado a peatones, animales o a vehículos de dos ruedas o de tracción animal, se deberá realizar la maniobra ocupando parte o la totalidad del carril contiguo de la calzada, siempre y cuando existan las condiciones precisas para realizar el adelantamiento y, en todo caso, dejando una separación lateral no inferior a 1,50 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Cómo se debe realizar un cambio de carril en una vía saturada?",
+      "imagen": "tema-09_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Utilizando el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "Realizando la maniobra rápidamente para no estorbar."
+        },
+        {
+          "letra": "C",
+          "texto": "Advirtiéndolo con suficiente antelación."
+        }
+      ],
+      "ayuda": "Todas las maniobras deben advertirse con antelación suficiente a la iniciación de las mismas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "El conductor del vehículo que se observa en el gráfico está indicando que va a...\n",
+      "imagen": "tema-09_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "desplazarse hacia la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "desplazarse hacia la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "frenar."
+        }
+      ],
+      "ayuda": "El conductor que se observa está indicando un desplazamiento lateral hacia la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "En esta autovía, ¿qué debe hacer para adelantar al vehículo blanco?",
+      "imagen": "tema-09_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Adelantar por el carril izquierdo."
+        },
+        {
+          "letra": "B",
+          "texto": "Esperar porque está prohibido adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "Adelantar por el carril derecho."
+        }
+      ],
+      "ayuda": "En todas las carreteras, como norma general, el adelantamiento debe efectuarse por la izquierda del vehículo que se pretenda adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "En esta vía, si circula más rápido por el carril de la derecha, ¿se considera adelantamiento?",
+      "imagen": "tema-09_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, fuera de poblado se considera adelantamiento, pero no en vía urbana."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, se considera adelantamiento tanto dentro como fuera de poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque, en este caso, no se considera adelantamiento."
+        }
+      ],
+      "ayuda": "Cuando la vía esté saturada, el hecho de que los vehículos de un carril circulen más rápidamente que los del otro no se considera adelantamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Puede el vehículo verde adelantar al vehículo blanco que circula a 90 km/h?",
+      "imagen": "tema-09_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, la línea discontinua lo prohíbe."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, sin rebasar los 120 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque el vehículo blanco ya circula a la velocidad máxima permitida."
+        }
+      ],
+      "ayuda": "No está permitido adelantar a un vehículo que ya circula a la velocidad máxima permitida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "En curvas y cambios de rasante de visibilidad reducida está prohibido...\n",
+      "imagen": "tema-09_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "adelantar y cambiar de sentido de la marcha."
+        },
+        {
+          "letra": "B",
+          "texto": "cambiar de sentido de la marcha, solamente."
+        },
+        {
+          "letra": "C",
+          "texto": "adelantar, únicamente."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido adelantar y cambiar el sentido de la marcha en las curvas de reducida visibilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "En una vía urbana con dos o más carriles delimitados en el mismo sentido de la marcha, ¿está permitido adelantar por la derecha?",
+      "imagen": "tema-09_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si adelanta a bicicletas, ciclos, ciclomotores o vehículos de tracción animal."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, siempre tiene que adelantarse por la izquierda."
+        }
+      ],
+      "ayuda": "En las vías urbanas que dispongan de más de un carril para el mismo sentido, está permitido adelantar por la derecha cuando los carriles estén delimitados por marcas longitudinales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "En una vía interurbana, ¿puede adelantar un ciclomotor a un tractor agrícola que circula por el arcén?",
+      "imagen": "tema-09_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo de día."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que el recorrido en paralelo no supere los 200 metros o los 15 segundos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, los vehículos que circulan por el arcén no se pueden adelantar."
+        }
+      ],
+      "ayuda": "Los vehículos obligados a circular por el arcén no podrán adelantar a otro si la duración de la marcha de los vehículos colocados paralelamente, excede de 15 segundos o el recorrido efectuado en dicha forma supera los 200 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Como norma general, ¿cómo debe avisar que va a hacer una maniobra?",
+      "imagen": "tema-09_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con el brazo, preferentemente."
+        },
+        {
+          "letra": "B",
+          "texto": "Con las luces."
+        },
+        {
+          "letra": "C",
+          "texto": "Con la bocina."
+        }
+      ],
+      "ayuda": "El conductor está obligado a advertir al resto de los usuarios de la vía acerca de las maniobras que vaya a efectuar con su vehículo. Como norma general, dichas advertencias se harán utilizando la señalización luminosa del vehículo o, en su defecto, con el brazo.\n\nExcepcionalmente o cuando así se prevea legal o reglamentariamente se podrán emplear señales acústicas, quedando prohibido su uso inmotivado o exagerado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Está permitido adelantar en una intersección?\n",
+      "imagen": "tema-09_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando tiene visibilidad suficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "No, salvo que la calzada goce de prioridad en la intersección y esté expresamente señalizada."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando no tiene que ceder el paso en la intersección."
+        }
+      ],
+      "ayuda": "Como norma general, está prohibido adelantar en las intersecciones y en sus proximidades, a menos que se trate de una glorieta, se goce de prioridad debidamente señalizada, el adelantamiento se realice por la derecha o a vehículos de dos ruedas (en los casos previstos).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

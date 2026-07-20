@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 61,
+  "nombre": "Test de examen 61",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En un vehículo mixto adaptable, ¿es obligatorio llevar un chaleco reflectante?",
+      "imagen": "examen-61_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, pero es recomendable."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en el maletero del vehículo."
+        }
+      ],
+      "ayuda": "Todos los vehículos mixtos adaptables, independientemente de su masa, deberán llevar entre su dotación obligatoria, un chaleco reflectante de alta visibilidad que cumpla con las prescripciones reglamentarias en cuanto a homologación y etiquetado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Una cuadrícula de marcas blancas y rojas prohíbe...",
+      "imagen": "examen-61_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "solamente la parada."
+        },
+        {
+          "letra": "B",
+          "texto": "la parada, el estacionamiento o la utilización con otros fines."
+        },
+        {
+          "letra": "C",
+          "texto": "solamente el estacionamiento."
+        }
+      ],
+      "ayuda": "Marcas Viales: Damero blanco y rojo.\nUna cuadrícula de marcas blancas y rojas indica el lugar donde empieza una zona de frenado de emergencia y prohíbe la parada, el estacionamiento o la utilización de esta parte de la calzada con otros fines.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "En esta calzada de sentido único y tres carriles, ¿está bien situado el vehículo para realizar un cambio de dirección a la izquierda?",
+      "imagen": "examen-61_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si no circulan otros vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque no hay flechas en el pavimento."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque debe colocarse en el carril izquierdo."
+        }
+      ],
+      "ayuda": "El vehículo que se observa en la imagen se encuentra mal situado para realizar un giro a la izquierda, ya que al ser la calzada de sentido único, debería posicionarse en el carril más cercano a la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Qué indica esta señal de peligro?",
+      "imagen": "examen-61_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Peligro por visibilidad reducida."
+        },
+        {
+          "letra": "B",
+          "texto": "Peligro por obras."
+        },
+        {
+          "letra": "C",
+          "texto": "Peligro por proyección de gravilla."
+        }
+      ],
+      "ayuda": "Señal de Proyección de Gravilla\nPeligro por la proximidad de un tramo de vía donde existe el riesgo de que se proyecte gravilla al pasar los vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "El conductor del vehículo verde, ¿puede adelantar por la derecha?",
+      "imagen": "examen-61_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si existe espacio suficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero sólo en poblado."
+        }
+      ],
+      "ayuda": "En esta situación, el conductor podrá adelantar por la derecha, siempre que exista el espacio suficiente para ello.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Puede realizar un cambio de sentido en un lugar donde esté prohibido adelantar?",
+      "imagen": "examen-61_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, excepto entre la puesta y la salida de sol, porque disminuye la visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando la circulación en sentido contrario lo permita."
+        },
+        {
+          "letra": "C",
+          "texto": "No, salvo que el cambio de sentido esté expresamente autorizado."
+        }
+      ],
+      "ayuda": "Como norma general, el cambio de sentido de la marcha está prohibido en todos aquellos casos en los cuales está prohibido el adelantamiento, salvo cuando la maniobra esté expresamente autorizada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué puede hacer para evitar el atropello a ciclistas?",
+      "imagen": "examen-61_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Evitar las señales acústicas cerca de ellos."
+        },
+        {
+          "letra": "B",
+          "texto": "Evitar las señales luminosas para no deslumbrarles."
+        },
+        {
+          "letra": "C",
+          "texto": "Avisarles de las maniobras con señales acústicas."
+        }
+      ],
+      "ayuda": "La utilización de las señales acústicas en las proximidades de uno o varios ciclistas, puede resultar peligroso ya que podemos sorprenderles y provocarles una pérdida del control del vehículo. Para evitar el atropello, en caso de ser necesario utilizar las advertencias acústicas, estas se utilizarán a una distancia adecuada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "La probabilidad de que un accidente de tráfico sea mortal es mucho mayor en...",
+      "imagen": "examen-61_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un turismo que en un vehículo de dos ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "los vehículos de cuatro ruedas que en los vehículos de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "un vehículo de dos ruedas que en un turismo."
+        }
+      ],
+      "ayuda": "Por la propia fragilidad y características de los vehículos de dos ruedas, los ocupantes de estos vehículos tienen una probabilidad mayor de resultar muertos o con heridas de gravedad si sufren un accidente de circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "En las glorietas, ¿qué vehículos tienen preferencia de paso?",
+      "imagen": "examen-61_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los que circulen dentro de la vía circular."
+        },
+        {
+          "letra": "B",
+          "texto": "Los vehículos que pretendan acceder a ella."
+        },
+        {
+          "letra": "C",
+          "texto": "Los turismos siempre."
+        }
+      ],
+      "ayuda": "Con carácter general, en las glorietas, tendrán preferencia de paso aquellos vehículos que circulen por la vía circular, sobre los que pretendan acceder a ella.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Qué produce más distracciones en la conducción?",
+      "imagen": "examen-61_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Usar el teléfono móvil."
+        },
+        {
+          "letra": "B",
+          "texto": "Escuchar la radio."
+        },
+        {
+          "letra": "C",
+          "texto": "Observar las señales."
+        }
+      ],
+      "ayuda": "La utilización del teléfono móvil durante la conducción, aún haciendo uso de un dispositivo de manos libres, es una importante causa de distracciones que se relaciona con un elevado número de accidentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Está permitido circular marcha atrás para estacionar?",
+      "imagen": "examen-61_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, la distancia indispensable, aunque sobrepase los 15 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, 15 metros como máximo."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido."
+        }
+      ],
+      "ayuda": "La utilización de la marcha atrás como maniobra complementaria del estacionamiento está permitida, cuando no se recorran más de 15 metros de esta forma ni se invada un cruce de vías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En una carretera convencional, el conductor de una motocicleta, ¿a qué velocidad máxima podrá circular?",
+      "imagen": "examen-61_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 100 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "A 90 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "A 120 kilómetros por hora para adelantar."
+        }
+      ],
+      "ayuda": "Las velocidades máximas fijadas para turismos y motocicletas en carreteras convencionales que no discurran por suelo urbano es de 90 kilómetros por hora. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Está permitido atravesar la marca vial de la derecha para cambiar de carril?",
+      "imagen": "examen-61_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero con cuidado."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque solamente está permitido estacionar."
+        }
+      ],
+      "ayuda": "Los cebreados no deben ser atravesados para cambiar de carril. El cambio de carril debe realizarse en aquellos lugares en los que la señalización (marca longitudinal discontinua) y las circunstancias del tráfico lo permitan.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Qué problemas de las personas mayores pueden afectarles en la conducción?",
+      "imagen": "examen-61_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El desconocimiento de las normas de tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "La lentitud en los reflejos, principalmente."
+        },
+        {
+          "letra": "C",
+          "texto": "Los problemas de visión, audición y el consumo de medicamentos."
+        }
+      ],
+      "ayuda": "Las personas mayores, en su papel de conductores, suelen presentar problemas relacionados con la pérdida de capacidades perceptivas (visión y audición) a causa de la edad, así como por el mayor uso de medicamentos que pueden influir en las capacidades para conducir con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "El recorrido correcto para realizar el cambio de sentido es...",
+      "imagen": "examen-61_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el recorrido azul."
+        },
+        {
+          "letra": "B",
+          "texto": "el recorrido rojo."
+        },
+        {
+          "letra": "C",
+          "texto": "los dos recorridos."
+        }
+      ],
+      "ayuda": "En la situación que se observa, el recorrido correcto para realizar el cambio de sentido es el que se señala con color azul.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Colocar una sillita para niños en un asiento con airbag frontal, ¿es correcto?",
+      "imagen": "examen-61_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo cuando el airbag se ha desconectado previamente."
+        },
+        {
+          "letra": "B",
+          "texto": "No, es algo que nunca debe hacerse."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, para proteger al niño en caso de impacto frontal."
+        }
+      ],
+      "ayuda": "Los dispositivos de retención infantil no deben ser utilizados en los asientos delanteros cuando éstos dispongan de protección por airbag frontal. Sí se podrán utilizar, en los supuestos permitidos reglamentariamente, cuando el airbag haya sido desconectado previamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Esta señal, ¿prohíbe proseguir la marcha si no dispone de cadenas para nieve?",
+      "imagen": "examen-61_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, ya que esta señal sólo recomienda la utilización de cadenas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en cualquier caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, a no ser que disponga de otros dispositivos autorizados, igual de eficaces."
+        }
+      ],
+      "ayuda": "Señal de Cadenas para Nieve\nObligación de no proseguir la marcha sin cadenas para nieve u otros dispositivos antideslizantes autorizados que actúen, al menos, en una rueda de cada lado del mismo eje motor o neumáticos especiales de nieve.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "El alcohol se absorbe más rápidamente si...",
+      "imagen": "examen-61_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se mezcla con alimentos."
+        },
+        {
+          "letra": "B",
+          "texto": "ha consumido bebidas fermentadas, como la cerveza."
+        },
+        {
+          "letra": "C",
+          "texto": "tiene el estómago vacío."
+        }
+      ],
+      "ayuda": "Cuando los órganos encargados de la digestión (estómago e intestinos) están vacíos, el alcohol pasa a la sangre más rápidamente que si hubiera alimento en ellos. No resulta recomendable ingerir bebidas con alcohol con el estómago vacío.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "El conductor que revisa periódicamente los neumáticos puede...",
+      "imagen": "examen-61_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "pasar la ITV con total seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "evitar los fallos mecánicos del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "detectar a tiempo un deterioro y prevenir un reventón."
+        }
+      ],
+      "ayuda": "Hacer revisiones o inspecciones visuales de los neumáticos puede resultar determinante en la seguridad. El conductor que revisa periódicamente los neumáticos puede detectar a tiempo un deterioro y prevenir un reventón.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Puede estacionar una motocicleta en la acera?",
+      "imagen": "examen-61_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si no estorba a la circulación de peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si se deja convenientemente atada a elementos de mobiliario urbano."
+        }
+      ],
+      "ayuda": "Como norma general, está prohibido parar y estacionar ciclomotores y motocicletas encima de las aceras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Hay que prestar una atención especial a los peatones?",
+      "imagen": "examen-61_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque son especialmente vulnerables a los peligros del tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque no representan ningún peligro."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo en vías urbanas."
+        }
+      ],
+      "ayuda": "Es importante prestar especial atención a los peatones, ya que estos forman parte de los grupos más vulnerables a los peligros del tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Si conduce un ciclomotor, ¿puede atravesar este cebreado?",
+      "imagen": "examen-61_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque está obligado a circular por el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "No, por las zonas cebreadas está prohibido circular siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque los vehículos de dos ruedas pueden circular por estas zonas."
+        }
+      ],
+      "ayuda": "Marca Vial de Cebreado.\nUna zona marcada por franjas oblicuas paralelas enmarcadas por una línea continua significa que ningún conductor debe entrar con su vehículo o animal en la citada zona, excepto los obligados a circular por el arcén, que en determinadas circunstancias pueden necesitar atravesar dicha zona para continuar su camino.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Un ciclomotor de dos ruedas está obligado a llevar...",
+      "imagen": "examen-61_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sólo el retrovisor derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "dos retrovisores, uno en cada lado."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo el retrovisor izquierdo."
+        }
+      ],
+      "ayuda": "Según lo estipulado en el reglamento general de vehículos, los ciclomotores de dos ruedas solo están obligados a llevar el espejo retrovisor del lado izquierdo. Opcionalmente, también podrán tener instalado un espejo del lado derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Una correcta suspensión del vehículo sirve para:",
+      "imagen": "examen-61_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mantener el vehículo siempre en contacto con el suelo."
+        },
+        {
+          "letra": "B",
+          "texto": "Transmitir el giro del motor a las ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "Mantener inmovilizado el vehículo."
+        }
+      ],
+      "ayuda": "Una de las funciones de sistema de suspensión es asegurar el permanente contacto de los neumáticos con el pavimento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Los accidentes a causa de las distracciones son...",
+      "imagen": "examen-61_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "inevitables."
+        },
+        {
+          "letra": "B",
+          "texto": "esporádicos."
+        },
+        {
+          "letra": "C",
+          "texto": "cada vez más frecuentes."
+        }
+      ],
+      "ayuda": "Los accidentes causados por distracción son cada vez más frecuentes. Existe una multiplicidad de distractores (fumar, usar el teléfono móvil, manipular el Navegador GPS en marcha, estímulos del entorno, etc.) que disminuyen la capacidad de los conductores para circular con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Los vehículos prioritarios que circulen en servicio urgente advertirán su presencia...",
+      "imagen": "examen-61_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mediante la utilización simultánea de la señal luminosa y la señal acústica."
+        },
+        {
+          "letra": "B",
+          "texto": "solamente con la señal acústica."
+        },
+        {
+          "letra": "C",
+          "texto": "con la utilización simultánea de la señal de emergencia y la señal acústica."
+        }
+      ],
+      "ayuda": "Los vehículos prioritarios que circulen en servicio urgente advertirán su presencia mediante la utilización simultánea de la señal luminosa y la señal acústica.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Cuáles son las horas especialmente propicias para la aparición del sueño en el conductor?",
+      "imagen": "examen-61_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las últimas horas de la mañana."
+        },
+        {
+          "letra": "B",
+          "texto": "Las horas de la madrugada y las primeras horas de la tarde."
+        },
+        {
+          "letra": "C",
+          "texto": "Las últimas horas de la tarde y las primeras de la mañana."
+        }
+      ],
+      "ayuda": "Existen periodos a lo largo del día en que el sueño aparece con mayor facilidad. Entre las 3 y las 5 de la madrugada, y entre las 14 y las 16 horas, la aparición de la somnolencia se hace más probable, incluso cuando se ha dormido correctamente la noche anterior. En estos periodos, el riesgo de sufrir un accidente por esta causa aumenta considerablemente, especialmente cuando se ha dormido poco o de forma inadecuada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "En vías urbanas que no sean travesías ¿es obligatorio que los vehículos estacionados tengan encendido el alumbrado de posición?",
+      "imagen": "examen-61_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando la vía sólo tiene un carril de circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando la vía forma intersección con una travesía."
+        },
+        {
+          "letra": "C",
+          "texto": "No, cuando la iluminación permita distinguirlos a una distancia suficiente."
+        }
+      ],
+      "ayuda": "En vías urbanas que no sean travesías no será obligatorio que los vehículos estacionados tengan encendidas las luces de posición cuando la iluminación permita a otros usuarios distinguirlos a una distancia suficiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "En el ámbito del tráfico, ¿a qué se llama grupos vulnerables?",
+      "imagen": "examen-61_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los pasajeros que resultan heridos en un accidente de automóvil."
+        },
+        {
+          "letra": "B",
+          "texto": "A los grupos de población más propensos a sufrir un accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "A los jóvenes menores de 30 años que resultan heridos en accidente."
+        }
+      ],
+      "ayuda": "En el ámbito del tráfico, se conoce como grupos vulnerables a aquellos grupos de población más propensos a sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Cuando no exista vía pecuaria, ¿se permite a los animales transitar por las vías públicas?",
+      "imagen": "examen-61_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, excepto por autovías y autopistas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en todo caso."
+        },
+        {
+          "letra": "C",
+          "texto": "No, los animales nunca pueden utilizar vías públicas.\n"
+        }
+      ],
+      "ayuda": "Cuando no exista vía pecuaria o un espacio especialmente acondicionado para ellos, los animales podrán transitar por las vías públicas, excepto por autopistas o autovías, en las que tienen prohibida la entrada en todo caso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 5,
+  "nombre": "Test de examen 5",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Qué permiso autoriza a conducir motocicletas con una cilindrada superior a 125 centímetros cúbicos y una potencia de 12 kilovatios?",
+      "imagen": "examen-05_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El permiso de la clase AM."
+        },
+        {
+          "letra": "B",
+          "texto": "El permiso de la clase A2."
+        },
+        {
+          "letra": "C",
+          "texto": "El permiso de la clase A1."
+        }
+      ],
+      "ayuda": "Para conducir motocicletas que superen los 11 kilovatios de potencia (y no superen los 35 kilovatios) es necesario disponer del permiso de la clase A2.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Queda prohibido estacionar...",
+      "imagen": "examen-05_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en las proximidades de un paso para peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "delante de los vados señalizados correctamente."
+        },
+        {
+          "letra": "C",
+          "texto": "en vías interurbanas."
+        }
+      ],
+      "ayuda": "Delante de un vado, correctamente señalizado, está prohibido estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿De qué peligro advierte esta señal?",
+      "imagen": "examen-05_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De la proximidad de un paso para peatones adosado o compartido con un paso para ciclistas."
+        },
+        {
+          "letra": "B",
+          "texto": "De que se circula por una zona con frecuente presencia de peatones y ciclistas."
+        },
+        {
+          "letra": "C",
+          "texto": "De un lugar donde los ciclistas deben ceder el paso a los peatones."
+        }
+      ],
+      "ayuda": "Pasos para peatones y ciclistas\nPeligro por la proximidad de un paso para peatones adosado o compartido con un paso para ciclistas. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": " El tiempo de absorción del alcohol, ¿depende de la bebida ingerida?",
+      "imagen": "examen-05_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, se absorbe más rápidamente el alcohol de las bebidas fermentadas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, se absorbe más rápidamente el alcohol de las bebidas destiladas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, la absorción se realiza por el organismo a un ritmo constante, independientemente de la bebida."
+        }
+      ],
+      "ayuda": "La velocidad de absorción del alcohol en el organismo también es diferente en función del tipo de bebida. Las bebidas destiladas, además de contener graduaciones de alcohol superiores a las fermentadas, pasan antes al organismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Cómo debe conducir con nieve?",
+      "imagen": "examen-05_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Frenando y acelerando con suavidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "Con las luces de emergencia encendidas."
+        }
+      ],
+      "ayuda": "Cuando se circula por una calzada nevada, las condiciones de adherencia se reducen significativamente, por lo que se deberá acelerar y frenar con suavidad para evitar deslizamientos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Para evitar ruidos excesivos e innecesarios, el conductor de una motocicleta debe...",
+      "imagen": "examen-05_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circular con el escape libre."
+        },
+        {
+          "letra": "B",
+          "texto": "conducir utilizando la relación de marchas más baja posible."
+        },
+        {
+          "letra": "C",
+          "texto": "evitar dar acelerones."
+        }
+      ],
+      "ayuda": "Durante la conducción se deben evitar dar acelerones. Los ruidos excesivos e innecesarios deben evitarse para reducir la contaminación acústica.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "En una carretera convencional, ¿cuál es la velocidad máxima a la que puede adelantar una motocicleta?",
+      "imagen": "examen-05_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "80 Km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "100 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "90 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima fijada con carácter general para turismos y motocicletas en carreteras convencionales es de 90 kilómetros por hora. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "En esta zona cebreada, ¿pueden los conductores circular o pararse sobre ella?",
+      "imagen": "examen-05_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, todos los conductores."
+        },
+        {
+          "letra": "B",
+          "texto": "Parar sí, circular no."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ni circular ni pararse sobre ella."
+        }
+      ],
+      "ayuda": "Los cebreados son zonas que no pueden ser utilizadas por los vehículos en general, ni para circular ni para realizar ningún tipo de maniobra.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Después de la señal vertical, ¿está permitido adelantar al vehículo blanco?",
+      "imagen": "examen-05_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque la línea continua me lo prohíbe."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque la señal prohíbe adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque la señal es de fin de prohibido adelantar."
+        }
+      ],
+      "ayuda": "Señal de fin de prohibición de adelantamiento.\nSeñala el lugar desde donde deja de ser aplicable una anterior señal de adelantamiento prohibido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "La depresión puede afectar al conductor...",
+      "imagen": "examen-05_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "produciendo una mayor inseguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "disminuyendo las distracciones."
+        },
+        {
+          "letra": "C",
+          "texto": "reduciendo la irritabilidad y el estrés."
+        }
+      ],
+      "ayuda": "La depresión es una enfermedad especialmente peligrosa para la conducción. Los conductores afectados presentan un comportamiento errático e imprevisible y una mayor inseguridad, lo cual representa un serio peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "En una autopista, ¿dónde puede realizar un cambio de sentido?",
+      "imagen": "examen-05_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En una autopista no está permitido nunca el cambio de sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "En aquellos lugares habilitados por la señalización."
+        },
+        {
+          "letra": "C",
+          "texto": "En cualquier mediana o paso abierto."
+        }
+      ],
+      "ayuda": "En autopistas y autovías únicamente está permitido realizar cambios de sentido en lugares habilitados al efecto por la señalización.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En esta vía, ¿por dónde debe circular un ciclomotor?",
+      "imagen": "examen-05_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la calzada, lo más cerca posible del borde derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el arcén de la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Por la calzada o el arcén."
+        }
+      ],
+      "ayuda": "En carreteras convencionales, los ciclomotores deben circular por el arcén de la derecha, siempre que éste sea transitable y suficiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "La distancia que se recorre desde que se observa un peligro hasta que el vehículo se detiene totalmente se llama...",
+      "imagen": "examen-05_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "distancia de detención."
+        },
+        {
+          "letra": "B",
+          "texto": "distancia de frenado."
+        },
+        {
+          "letra": "C",
+          "texto": "distancia de reacción."
+        }
+      ],
+      "ayuda": "La distancia de detención es aquella que recorre el vehículo desde que se observa un peligro hasta que el vehículo se detiene completamente. La distancia de detención, es la suma de la distancia de reacción y la distancia de frenado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Cuando un conductor da positivo en las pruebas de alcoholemia, ¿los agentes pueden inmovilizar su vehículo?",
+      "imagen": "examen-05_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, sólo pueden sancionar al conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "No, aunque sobrepase la tasa máxima permitida."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Cuando un conductor da positivo en un control de alcoholemia, los agentes podrán inmovilizar el vehículo, excepto cuando pueda hacerse cargo del mismo una persona que cuente con el correspondiente permiso de conducir y no haya dado positivo en las pruebas de detección de alcohol.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Este panel, ¿qué indica?",
+      "imagen": "examen-05_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La longitud en que existe el peligro."
+        },
+        {
+          "letra": "B",
+          "texto": "La longitud en que existe pavimento en mal estado."
+        },
+        {
+          "letra": "C",
+          "texto": "La distancia desde el lugar donde está la señal a aquél en que comienza el peligro."
+        }
+      ],
+      "ayuda": "El panel complementario que se observa en la imagen, indica la longitud en que existe el peligro señalizado en la señal superior.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Un niño de 12 años y con una estatura de 125 cm, como norma general, ¿puede viajar en el asiento delantero de un turismo sin un dispositivo de retención homologado?",
+      "imagen": "examen-05_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que lleve el cinturón abrochado."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque tiene 12 años cumplidos."
+        }
+      ],
+      "ayuda": "Los menores de edad de estatura igual o inferior a 135 centímetros deberán utilizar sistemas de retención infantil homologados adaptados a su talla y peso. Además, deberán situarse, como norma general, en los asientos traseros del vehículo.\n\nLa obligación de ocupar los asientos traseros del vehículo, y de utilizar sistemas de retención infantil homologados adaptados a su talla y peso, afecta a los menores de edad de estatura igual o inferior a 135 centímetros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Si inicia un adelantamiento y se producen circunstancias que hacen difícil finalizar la maniobra...",
+      "imagen": "examen-05_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "debe regresar a su carril y advertirlo a los que circulan detrás."
+        },
+        {
+          "letra": "B",
+          "texto": "tiene que acelerar para terminar la maniobra con rapidez."
+        },
+        {
+          "letra": "C",
+          "texto": "el vehículo adelantado está obligado a apartarse al arcén."
+        }
+      ],
+      "ayuda": "Si se ha iniciado la maniobra de adelantamiento y se producen circunstancias que hacer difícil la finalización de la maniobra, se debe regresar al carril correspondiente advirtiendo dicha circunstancia a los conductores de los vehículos que circulen detrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "En esta carretera, ¿a qué velocidad máxima puede circular una motocicleta con sidecar?",
+      "imagen": "examen-05_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 120 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "A 90 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A 100 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima fijada con carácter general para turismos y motocicletas en carreteras convencionales es de 90 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "La luz antiniebla trasera deberá utilizarse en caso de...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "fuerte viento."
+        },
+        {
+          "letra": "B",
+          "texto": "lluvia muy intensa."
+        },
+        {
+          "letra": "C",
+          "texto": "circulación intensa."
+        }
+      ],
+      "ayuda": "La luz antiniebla trasera solamente deberá llevarse encendida cuando las condiciones meteorológicas o ambientales sean especialmente desfavorables, como en caso de niebla espesa, lluvia muy intensa, fuerte nevada o nubes densas de polvo o humo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Cómo se puede evitar el atropello a peatones?",
+      "imagen": "examen-05_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Haciéndoles exageradas y estridentes señales acústicas."
+        },
+        {
+          "letra": "B",
+          "texto": "Prestando atención a los peatones que circulen hablando por el móvil."
+        },
+        {
+          "letra": "C",
+          "texto": "Invitándoles por señas a que crucen la calzada."
+        }
+      ],
+      "ayuda": "Los peatones son usuarios especialmente vulnerables. Cuando estos circulan sin prestar la debida atención a las circunstancias del tráfico, están aún más expuestos a sufrir un atropello o cualquier otro tipo de accidente. Los conductores de vehículos, para evitar atropellarlos, deben circular prestando especial atención, especialmente cuando los peatones caminan hablando por el móvil o realizando cualquier otra actividad que facilite su distracción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "En un túnel, ¿se puede hacer una parada?",
+      "imagen": "examen-05_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque es peligroso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero menos de 2 minutos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero fuera del arcén."
+        }
+      ],
+      "ayuda": "En los túneles y tramos de vía afectados por la señal túnel, está prohibido realizar paradas y estacionamientos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Si hay nieve en la calzada. ¿Cuándo es obligatorio el uso de cadenas?",
+      "imagen": "examen-05_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Siempre que los neumáticos del vehículo no se adhieran bien a la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Siempre que la temperatura sea inferior a cero grados (00)."
+        },
+        {
+          "letra": "C",
+          "texto": "Siempre que esté nevando."
+        }
+      ],
+      "ayuda": "En caso de existir nieve en la calzada, la utilización de cadenas u otros dispositivos homologados, será obligatoria cuando los neumáticos no se adhieran correctamente y en condiciones de seguridad a la calzada. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Los pasajeros de un turismo, ¿pueden viajar sin abrocharse el cinturón de seguridad?",
+      "imagen": "examen-05_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo cuando hacen trayectos cortos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en los asientos posteriores de los taxis."
+        },
+        {
+          "letra": "C",
+          "texto": "No, es obligatorio en todos las plazas del vehículo."
+        }
+      ],
+      "ayuda": "En los turismos, el cinturón de seguridad es obligatorio para todos los ocupantes del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Es posible ahorrar combustible evitando cambios de marcha innecesarios?",
+      "imagen": "examen-05_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Depende de si el vehículo tiene motor diesel o de gasolina."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, se puede reducir el consumo."
+        }
+      ],
+      "ayuda": "Evitar los cambios de marcha innecesarios, es una de las medidas que pueden conllevar una disminución del consumo de consumo de combustible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Cuando las ruedas del vehículo rebotan en los baches puede ser porque...",
+      "imagen": "examen-05_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los frenos están en mal estado."
+        },
+        {
+          "letra": "B",
+          "texto": "los amortiguadores están en mal estado."
+        },
+        {
+          "letra": "C",
+          "texto": "el embrague está en mal estado."
+        }
+      ],
+      "ayuda": "Si los amortiguadores están en mal estado, las ruedas del vehículo rebotan al pasar sobre las irregularidades de la calzada, lo cual puede acarrear pérdidas de adherencia y aumento de la distancia de frenado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Cuando en el interior de un túnel se produce una detención motivada por una emergencia, es obligatorio...",
+      "imagen": "examen-05_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que todos los ocupantes permanezcan siempre en el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "dejar el motor encendido y la llave puesta."
+        },
+        {
+          "letra": "C",
+          "texto": "apagar el motor, conectar la señal de emergencia y mantener encendidas las luces de posición."
+        }
+      ],
+      "ayuda": "Cuando en el interior de un túnel se produce una detención motivada por una emergencia, es obligatorio apagar el motor, conectar la señal de emergencia y mantener encendidas las luces de posición.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Cuál de los siguientes accesorios está obligado a llevar el conductor de un turismo?",
+      "imagen": "examen-05_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un dispositivo de preseñalización de peligro.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "Un extintor."
+        },
+        {
+          "letra": "C",
+          "texto": "Una lata de aceite."
+        }
+      ],
+      "ayuda": "Los turismos están obligados a llevar como dotación de accesorios y repuestos, un dispositivo luminoso de preseñalización de peligro, un chaleco reflectante de alta visibilidad y una rueda completa de repuesto o una ruedad de uso temporal.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Cuál es la prueba más frecuente en los controles de alcoholemia?",
+      "imagen": "examen-05_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Caminar sobre una línea recta."
+        },
+        {
+          "letra": "B",
+          "texto": "Análisis de sangre."
+        },
+        {
+          "letra": "C",
+          "texto": "Prueba del aire espirado mediante etilómetro."
+        }
+      ],
+      "ayuda": "Los Agentes encargados de la vigilancia del tráfico, en los controles de alcoholemia, suelen utilizar un etilómetro que es un dispositivo que permite medir el grado de concentración de alcohol en aire espirado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Cómo debe realizar un cambio de carril en una vía saturada?",
+      "imagen": "examen-05_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Utilizando el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "Realizando la maniobra rápidamente para no estorbar."
+        },
+        {
+          "letra": "C",
+          "texto": "Advirtiéndolo con suficiente antelación."
+        }
+      ],
+      "ayuda": "Cuando realice un cambio de carril en una vía saturada, además de comprobar que puede realizarlo sin alterar la circulación, deberá tener especial precaución de señalizarlo con antelación suficiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Cuándo se considera que una parada o estacionamiento obstaculiza gravemente la circulación?",
+      "imagen": "examen-05_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando se realiza en una vía pública calificada de atención preferente."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando se obstaculiza la utilización normal de los pasos rebajados para disminuidos físicos."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando se efectúa en doble fila."
+        }
+      ],
+      "ayuda": "Se consideran paradas o estacionamientos en lugares peligrosos o que obstaculizan gravemente la circulación, los que constituyan un riesgo u obstáculo a la circulación, entre otros casos, cuando se obstaculice la utilización normal de los pasos rebajados para personas con movilidad reducida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

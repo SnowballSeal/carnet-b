@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 56,
+  "nombre": "Test de examen 56",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Qué es un vehículo de movilidad personal o VMP?",
+      "imagen": "examen-56_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un vehículo de una o dos plazas, cuya velocidad máxima es de 20 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "Un vehículo eléctrico de una o más ruedas, de una sola plaza y una velocidad de entre 6 y 25 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "Un vehículo que debe circular por las aceras y zonas peatonales, no pudiendo invadir la calzada en ningún caso."
+        }
+      ],
+      "ayuda": "Los vehículos de movilidad personal o VMP son vehículos eléctricos de una o más ruedas, de una sola plaza y una velocidad de entre 6 y 25 km/h. Pueden circular por ciudad, fuera de aceras y zonas peatonales, pero no en vías interurbanas, travesías, autopistas, autovías o túneles urbanos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Si realiza con su motocicleta un giro muy cerrado a una velocidad lenta, ¿qué precaución debe tener?",
+      "imagen": "examen-56_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Debe compensar el efecto giroscópico con el peso del cuerpo."
+        },
+        {
+          "letra": "B",
+          "texto": "No frenar con el freno delantero porque la rueda puede bloquearse y producirse una caída."
+        },
+        {
+          "letra": "C",
+          "texto": "A esa velocidad tan lenta no es necesario tomar ninguna precaución."
+        }
+      ],
+      "ayuda": "La conducción segura de motocicletas requiere de una cuidadosa técnica. Frenar con el freno delantero al realizar un giro muy cerrado, puede ocasionar el bloqueo de la rueda y producirse una caída.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Al incorporarse a la autopista por el carril de aceleración, debe...",
+      "imagen": "examen-56_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "acelerar hasta alcanzar la velocidad adecuada al final del carril."
+        },
+        {
+          "letra": "B",
+          "texto": "disminuir la velocidad y detenerse al final del carril, obligatoriamente."
+        },
+        {
+          "letra": "C",
+          "texto": "acelerar hasta alcanzar obligatoriamente 120 km/h al final del carril."
+        }
+      ],
+      "ayuda": "Al incorporarse a una autopista, se debe acelerar en el carril de aceleración, hasta alcanzar la velocidad adecuada al final del mismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Las pruebas de detección de sustancias estupefacientes, ¿son obligatorias?",
+      "imagen": "examen-56_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo cuando el conductor esté implicado en un accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, igual que las pruebas de investigación de alcoholemia."
+        },
+        {
+          "letra": "C",
+          "texto": "No, las únicas pruebas obligatorias son las de alcoholemia."
+        }
+      ],
+      "ayuda": "Al igual que con las pruebas de investigación de alcoholemia, todos los conductores de vehículos y de bicicletas, así como los usuarios de la vía implicados en un accidente de circulación quedan obligados a someterse a las pruebas detección de sustancias estupefacientes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Qué significa esta señal?",
+      "imagen": "examen-56_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Vía reservada para automóviles."
+        },
+        {
+          "letra": "B",
+          "texto": "Calzada obligatoria para automóviles, excepto motocicletas sin sidecar."
+        },
+        {
+          "letra": "C",
+          "texto": "Calzada obligatoria para automóviles."
+        }
+      ],
+      "ayuda": "La señal de la imagen, vía reservada para automóviles, indica el principio de una vía reservada a la circulación de automóviles.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Puede llevar aparejada la pérdida de puntos del permiso de conducir, conducir bajo los efectos de las drogas?",
+      "imagen": "examen-56_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en todo caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo cuando se circule fuera de poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "No, puesto que no es una infracción grave."
+        }
+      ],
+      "ayuda": "Conducir bajo los efectos de estupefacientes, psicotrópicos, estimulantes y otras sustancias de efectos análogos constituye una infracción que lleva aparejada la pérdida de puntos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Esta señal...",
+      "imagen": "examen-56_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "obliga al uso de cadenas u otros dispositivos antideslizantes autorizados, en caso de nevada."
+        },
+        {
+          "letra": "B",
+          "texto": "aconseja el uso de cadenas en caso de nevada."
+        },
+        {
+          "letra": "C",
+          "texto": "advierte del peligro que supone circular sin cadenas para nieve."
+        }
+      ],
+      "ayuda": "La señal de Cadenas para Nieve, indica la obligatoriedad para los conductores de no proseguir la marcha sin cadenas para nieve u otros dispositivos antideslizantes autorizados, que actúen al menos en una rueda a cada lado del mismo eje motor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Este panel deberá colocarse...",
+      "imagen": "examen-56_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en la parte delantera y trasera en los vehículos destinados exclusivamente al transporte de mercancías."
+        },
+        {
+          "letra": "B",
+          "texto": "en la parte trasera de la carga que sobresalga de cualquier vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "en la parte trasera de los vehículos destinados exclusivamente al transporte de mercancías."
+        }
+      ],
+      "ayuda": "El panel que se observa en la imagen, debe colocarse en aquellos vehículos en los que la carga sobresalga por su parte posterior.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Esta señal indica la situación de...",
+      "imagen": "examen-56_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un puesto de socorro."
+        },
+        {
+          "letra": "B",
+          "texto": "una salida de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "un extintor de incendios y un teléfono de emergencia."
+        }
+      ],
+      "ayuda": "Teléfono de emergencia y extintor de incendios.\nIndica la situación de un extintor de incendios y teléfono de emergencia. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Esta señal, advierte del peligro por la proximidad de...",
+      "imagen": "examen-56_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "una incorporación por ambos lados."
+        },
+        {
+          "letra": "B",
+          "texto": "un tramo comprendido entre una confluencia y una bifurcación donde se producen distintos movimientos de cambio de carril."
+        },
+        {
+          "letra": "C",
+          "texto": "un tramo donde el cambio de carril es obligatorio."
+        }
+      ],
+      "ayuda": "Trenzado\nPeligro por la proximidad de un tramo comprendido entre una confluencia y una bifurcación donde se producen distintos movimientos de cambio de carril por parte de los vehículos, cruzándose sus trayectorias y aumentando por ello el riesgo de que se produzcan colisiones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Si el pasajero de una motocicleta no usa el casco, la responsabilidad es del...",
+      "imagen": "examen-56_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "pasajero."
+        },
+        {
+          "letra": "B",
+          "texto": "titular del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "conductor."
+        }
+      ],
+      "ayuda": "El conductor de una motocicleta, de un ciclomotor, de un vehículo de tres o cuatro ruedas no carrozados o de cualquier otro vehículo para el que se exija el uso de casco por conductor y pasajero será responsable por la no utilización del casco de protección por el pasajero.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En un tramo con edificios de acceso inmediato a la vía ¿qué precauciones se deben tomar?",
+      "imagen": "examen-56_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ninguna si no vienen vehículos en sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Moderar la velocidad y si fuera preciso, detener el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical."
+        }
+      ],
+      "ayuda": "En los tramos con edificios de acceso inmediato a la parte de la vía que se esté utilizando, es decir, cuando existan viviendas con acceso muy próximo a la calzada por falta de acerado o se trate de calles muy estrechas, el conductor debe moderar la velocidad y, si fuera preciso, detener su vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Por una autovía, está prohibida la circulación de...",
+      "imagen": "examen-56_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "turismos con remolque."
+        },
+        {
+          "letra": "B",
+          "texto": "vehículos especiales."
+        },
+        {
+          "letra": "C",
+          "texto": "ciclomotores."
+        }
+      ],
+      "ayuda": "Como norma general, está prohibida la circulación por autopistas y autovías de peatones, animales, vehículos de tracción animal, bicicletas, ciclomotores y vehículos para personas de movilidad reducida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Arrojar un cigarrillo por la ventanilla de un turismo, ¿puede suponer una infracción?",
+      "imagen": "examen-56_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, y además conlleva pérdida de puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero no conlleva pérdida de puntos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, pero no se debe hacer."
+        }
+      ],
+      "ayuda": "Arrojar a la vía o en sus inmediaciones objetos que puedan producir incendios o accidentes, o que obstaculicen la libre circulación está considerado como infracción grave en la Ley de tráfico. Dicha infracción lleva aparejada la pérdida de 6 puntos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "Esta señalización, le indica la distancia...",
+      "imagen": "examen-56_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a la que se encuentra la señal de detención obligatoria de la próxima intersección."
+        },
+        {
+          "letra": "B",
+          "texto": "al lugar donde tiene que ceder el paso."
+        },
+        {
+          "letra": "C",
+          "texto": "hasta la próxima intersección."
+        }
+      ],
+      "ayuda": "Panel de preseñalización de detención obligatoria. \nColocado bajo la señal de \"ceda el paso\", indica la distancia a que se encuentra la señal \"Detención obligatoria\" o \"Stop\" de la próxima intersección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Cuando se aproxima a un puente móvil, ¿cómo debe actuar?",
+      "imagen": "examen-56_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reduciendo la velocidad pero solo si el puente se encuentra en movimiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Reduciendo la velocidad por debajo de la máxima permitida."
+        },
+        {
+          "letra": "C",
+          "texto": "Extremando la precaución y deteniéndome siempre antes de pasar."
+        }
+      ],
+      "ayuda": "Todos los conductores deben extremar la prudencia y reducir la velocidad por debajo de la máxima permitida al aproximarse a un paso a nivel o a un puente móvil.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Al circular detrás de un vehículo voluminoso que quiere girar a la derecha, ¿qué debe tener en cuenta?",
+      "imagen": "examen-56_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el vehículo voluminoso, antes de girar, probablemente se desplazará hacia la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el vehículo voluminoso se acercará lo máximo posible a la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el vehículo voluminoso no reducirá la velocidad."
+        }
+      ],
+      "ayuda": "Se debe tener en cuenta que cuando un vehículo voluminoso pretenda girar a la derecha, para poder realizar el giro, seguramente necesite desplazarse previamente hacia la izquierda (abrirse), debido a sus grandes dimensiones y mayor dificultad de maniobra.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Se considera que una parada puede obstaculizar la circulación si la distancia entre el vehículo y el borde opuesto de la calzada es inferior a...",
+      "imagen": "examen-56_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "4 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "3 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "3,50 metros."
+        }
+      ],
+      "ayuda": "Uno de los casos en los que se considera que las paradas o estacionamientos se realizan en lugares peligrosos o que obstaculizan gravemente la circulación, es cuando la distancia entre el vehículo y el borde opuesto de la calzada o una marca longitudinal sobre ella que indique prohibición de atravesarla sea inferior a tres metros o, en cualquier caso, cuando no permita el paso de otros vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "El turismo número 1, ¿tiene alguna obligación?",
+      "imagen": "examen-56_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, deberá facilitar, en la medida de lo posible, la incorporación del vehículo número 2."
+        },
+        {
+          "letra": "B",
+          "texto": "No tiene ninguna obligación."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, deberá detenerse para que el vehículo número 2 pueda incorporarse."
+        }
+      ],
+      "ayuda": "En vías dotadas de un carril de aceleración, el conductor de un vehículo que pretenda utilizarlo para incorporarse a la calzada deberá cerciorarse, al principio de dicho carril, de que puede hacerlo sin peligro para los demás usuarios que transiten por dicha calzada, teniendo en cuenta la posición, trayectoria y velocidad de éstos, e incluso deteniéndose, en caso necesario.\nCon independencia de la obligación de los conductores de los vehículos que se incorporen a la circulación de ceder el paso, los demás conductores facilitarán, en la medida de lo posible, dicha maniobra.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Se considera que una vía está insuficientemente iluminada cuando...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no se pueden distinguir con claridad los otros vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "la vía no dispone de farolas."
+        },
+        {
+          "letra": "C",
+          "texto": "con vista normal no se puede leer la placa de matrícula a 10 metros o distinguir un vehículo pintado de oscuro a 50 metros."
+        }
+      ],
+      "ayuda": "Se entiende por vía insuficientemente iluminada aquella en la que, con vista normal, en algún punto de su calzada, no pueda leerse la placa de matrícula a 10 metros o no se distinga un vehículo pintado de oscuro a 50 metros de distancia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "En carretera, los animales deben circular...",
+      "imagen": "examen-56_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "por el borde izquierdo de la calzada, como norma general."
+        },
+        {
+          "letra": "B",
+          "texto": "lo más cerca posible del borde derecho de la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "por la derecha o por la izquierda de la calzada, indistintamente."
+        }
+      ],
+      "ayuda": "Los animales, cuando circulen por carreteras, deberán hacerlo lo más cerca posible del borde derecho de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Está prohibido circular en marcha atrás?",
+      "imagen": "examen-56_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, excepto en autopistas y autovías."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, salvo que no pueda marchar hacia delante o cambiar de dirección o sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en todo caso."
+        }
+      ],
+      "ayuda": "Como norma general, se prohíbe circular hacia atrás, salvo en los casos en que no sea posible marchar hacia adelante ni cambiar de dirección o sentido de marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Entre las conductas de riesgo más comunes que cometen los peatones está...",
+      "imagen": "examen-56_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cruzar la calzada de manera reglamentaria."
+        },
+        {
+          "letra": "B",
+          "texto": "respetar los semáforos pero no los pasos para peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "no situarse en las calzadas o en los arcenes correctamente."
+        }
+      ],
+      "ayuda": "Entre las infracciones más comunes cometidas por los peatones, está la de no situarse correctamente en las calzadas o en los arcenes, o marchar de forma no reglamentaria por estas zonas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Está permitido adelantar por la derecha, si existe espacio suficiente?",
+      "imagen": "examen-56_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en vías urbanas, con dos o más carriles delimitados por marcas viales."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente a los tranvías."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en ningún caso."
+        }
+      ],
+      "ayuda": "Dentro de los poblados, en las calzadas que tengan, por lo menos, dos carriles reservados a la circulación en el mismo sentido de marcha, delimitados por marcas longitudinales, se permite el adelantamiento por la derecha a condición de que el conductor del vehículo que lo efectúe se cerciore previamente de que puede hacerlo sin peligro para los demás usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-56_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una calzada con prioridad de paso en las intersecciones sobre los vehículos que circulen por otra calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Una vía pública calificada de atención preferente."
+        },
+        {
+          "letra": "C",
+          "texto": "Una calzada donde se debe ceder el paso a los vehículos que se acerquen por la derecha."
+        }
+      ],
+      "ayuda": "Calzada con prioridad.\nIndica a los conductores de los vehículos que circulen por una calzada su prioridad en las intersecciones sobre los vehículos que circulen por otra calzada o procedan de ella.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "Esta señal prohíbe el paso a...",
+      "imagen": "examen-56_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "camiones y furgones solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "los vehículos cuya masa en carga sea superior a la indicada."
+        },
+        {
+          "letra": "C",
+          "texto": "los vehículos cuya masa máxima autorizada sea superior a la indicada."
+        }
+      ],
+      "ayuda": "Señal de limitación de masa.\nProhibición de paso de los vehículos cuya masa en carga supere la indicada en toneladas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "En un accidente de circulación, ¿es obligatorio avisar a la Autoridad si no hay heridos y la seguridad de la circulación está restablecida?",
+      "imagen": "examen-56_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando alguna de las personas implicadas en el accidente lo solicite."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "No será necesario avisar a la Autoridad o a sus Agentes, ni permanecer en el lugar del hecho, si sólo se han producido heridas claramente leves, la seguridad de la circulación está restablecida y ninguna de las personas implicadas en el accidente lo solicita.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Puede la postura en el asiento influir en la eficacia del cinturón de seguridad?",
+      "imagen": "examen-56_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, no es recomendable inclinar el asiento demasiado hacia atrás."
+        },
+        {
+          "letra": "B",
+          "texto": "No, mientras el cinturón esté totalmente ceñido."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La postura en el asiento y el reglaje de éste, pueden influir de forma determinante en la eficacia protectora del cinturón de seguridad. El asiento demasiado inclinado hacia atrás, puede reducir la eficacia del cinturón y favorecer el efecto submarino.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Además de las luces obligatorias, ¿qué deberán llevar los conductores de bicicletas en vías interurbanas para aumentar su visibilidad?",
+      "imagen": "examen-56_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un chaleco reflectante, a cualquier hora del día."
+        },
+        {
+          "letra": "B",
+          "texto": "Un casco de colores vivos."
+        },
+        {
+          "letra": "C",
+          "texto": "Una prenda reflectante, cuando sea obligatorio el uso del alumbrado."
+        }
+      ],
+      "ayuda": "Cuando sea obligatorio el uso del alumbrado, los conductores de bicicletas llevarán, además, colocada alguna prenda reflectante que permita a los conductores y demás usuarios distinguirlos a una distancia de 150 metros, si circulan por vía interurbana.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Estas señales significan:",
+      "imagen": "examen-56_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Preseñalización en autopista o autovía hacia cualquier tipo de carretera y dirección propia."
+        },
+        {
+          "letra": "B",
+          "texto": "Salida inmediata hacia carretera convencional y dirección propia en autopista o autovía."
+        },
+        {
+          "letra": "C",
+          "texto": "Preseñalización en carretera convencional hacia autopista o autovía."
+        }
+      ],
+      "ayuda": "Preseñalización con carteles sobre la calzada en autopista o autovía hacia cualquier tipo de carretera y dirección propia. Indica los destinos de la salida, la distancia a la que se encuentra y el número del enlace. También indica la dirección propia de la autopista o autovía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

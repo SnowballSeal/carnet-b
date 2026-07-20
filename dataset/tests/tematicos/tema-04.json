@@ -1,0 +1,697 @@
+{
+  "categoria_id": 3,
+  "test_id": 5,
+  "nombre": "Tema 4 — Señales verticales II. Señales de indicación",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Esta señal indica la proximidad de una salida hacia un área de servicio...\n",
+      "imagen": "tema-04_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en zona urbana."
+        },
+        {
+          "letra": "B",
+          "texto": "en carretera convencional."
+        },
+        {
+          "letra": "C",
+          "texto": "en autopista o en autovía."
+        }
+      ],
+      "ayuda": "Señal de preseñallización de área de servicio.\nIndica, en una autopista o una autovía, la proximidad de una salida hacia un área de servicio, figurando su nombre y horario de apertura.\n\nEn el cajetín superior figura la distancia a la salida.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Esta señal indica...",
+      "imagen": "tema-04_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la proximidad de una zona en la que puede inmovilizar el vehículo para realizar algún decanso."
+        },
+        {
+          "letra": "B",
+          "texto": "la situación de una zona de escape acondicionada para que pueda detener el vehículo en caso de fallo del sistema de frenado."
+        },
+        {
+          "letra": "C",
+          "texto": "bifurcación hacia la izquierda en calzada de un solo carril."
+        }
+      ],
+      "ayuda": "Esta señal indica la situación de una zona de escape de la calzada, acondicionada para que un vehículo pueda ser detenido en caso de fallo de su sistema de frenado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Qué indica la señal?",
+      "imagen": "tema-04_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aconseja no circular a más de 80 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "Obliga a circular a 80 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "Obliga a dejar una distancia de 80 metros con el vehículo que circula delante."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen, aconseja no circular a velocidad superior a 80 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Esta señal indica...",
+      "imagen": "tema-04_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "carril reservado para autobuses."
+        },
+        {
+          "letra": "B",
+          "texto": "parada de autobuses."
+        },
+        {
+          "letra": "C",
+          "texto": "vía obligatoria para autobuses."
+        }
+      ],
+      "ayuda": "Carril reservado para tipos específicos de vehículos\nIndica un carril destinado exclusivamente a la circulación de cierto o ciertos tipos de vehículos determinados (autobuses, motocicletas, vehículos de tres ruedas asimilados a motocicletas,taxis, ciclos, etc.). \nSe incluirá en la señal el pictograma representativo del tipo o tipos de vehículos autorizados.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "A la vista de esta señalización, ¿está permitido circular por el carril derecho a 90 kilómetros por hora?",
+      "imagen": "tema-04_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque no hay señal que lo indique."
+        },
+        {
+          "letra": "B",
+          "texto": "No, lo prohíbe la señal."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "La señal de limitación de velocidad de la imagen solo afecta a los vehículos que circulan por el carril izquierdo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "tema-04_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Telepeaje o peaje dinámico."
+        },
+        {
+          "letra": "B",
+          "texto": "Prohibido pasar sin detenerse."
+        },
+        {
+          "letra": "C",
+          "texto": "Precaución, intersección próxima."
+        }
+      ],
+      "ayuda": "Esta señal informa de un telepeaje o de un peaje dinámico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "tema-04_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La situación de transitabilidad del puerto o tramo definido en la parte superior de la señal.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "Que ningún vehículo puede circular por ese tramo o puerto.\n"
+        },
+        {
+          "letra": "C",
+          "texto": "Que, por ese tramo o puerto, solo pueden circular los turismos y los camiones \n"
+        }
+      ],
+      "ayuda": "Transitabilidad en tramo o puerto de montaña.\nIndica la situación de transitabilidad del puerto o tramo definido en la parte superior de la señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "En esta vía, si su vehículo puede superar los 70 km/h, ¿por qué carril debe circular?",
+      "imagen": "tema-04_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el carril en el que haya menos vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el carril derecho, si las circunstancias lo permiten."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el carril central, el derecho está reservado para los vehículos que no puedan superar dicha velocidad."
+        }
+      ],
+      "ayuda": "Como norma general y siempre que las circunstancias lo permitan, los vehículos deben circular por el carril de la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Esta señal significa...",
+      "imagen": "tema-04_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "apartadero.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "parada de taxis.\n"
+        },
+        {
+          "letra": "C",
+          "texto": "telepeaje dinámico."
+        }
+      ],
+      "ayuda": "Apartadero\nIndica la situación de un lugar donde se puede apartar el vehículo en caso de emergencia a fin de dejar libre el paso.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "Este panel, colocado bajo una señal de prohibición, indica...",
+      "imagen": "tema-04_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las distancias en que se aplica la prohibición en cada sentido indicado por las flechas."
+        },
+        {
+          "letra": "B",
+          "texto": "La distancia al comienzo de la prohibición."
+        },
+        {
+          "letra": "C",
+          "texto": "La distancia en que se aplica la prohibición en el sentido de la flecha, a ambos lados de la calzada."
+        }
+      ],
+      "ayuda": "Extensión de la prohibición, a ambos lados.\nColocada bajo una señal de prohibición, indica las distancias en que se aplica esta prohibición en cada sentido indicado por las flechas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "La señal indica que...",
+      "imagen": "tema-04_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "está prohibido el cambio de sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "no puede desplazarse lateralmente ni a la derecha ni a la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "debe circular en el sentido indicado por la flecha, ya que es una calzada de sentido único."
+        }
+      ],
+      "ayuda": "Esta señal indica que, en la calzada que se prolonga en la dirección de la flecha, los vehículos deben circular en el sentido indicado por ésta, y que está prohibida la circulación en sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "tema-04_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que hay que circular con precaución, por la proximidad a un puente."
+        },
+        {
+          "letra": "B",
+          "texto": "Que se circula por una autopista."
+        },
+        {
+          "letra": "C",
+          "texto": "Que hay que abandonar la carretera al llegar al puente."
+        }
+      ],
+      "ayuda": "Esta señal indica el principio de una autopista.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Este panel bajo otra señal vertical, significa que ésta se aplica únicamente en circunstancias de...\n",
+      "imagen": "tema-04_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "niebla."
+        },
+        {
+          "letra": "B",
+          "texto": "firme defectuoso."
+        },
+        {
+          "letra": "C",
+          "texto": "lluvia o nieve."
+        }
+      ],
+      "ayuda": "Aplicación de la señalización a circunstancias de niebla\nIndica, bajo la señal vertical correspondiente, que esta se aplica únicamente cuando se den circunstancias de niebla.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "La señal, ¿permite utilizar el carril de la derecha a un turismo?",
+      "imagen": "tema-04_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, es un carril que sólo puede ser utilizado por ciclos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, es obligatorio para los ciclos pero pueden circular los demás vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, es un carril reservado para ciclos y ciclomotores pero pueden utilizarlo otros usuarios."
+        }
+      ],
+      "ayuda": "Esta señal indica que el carril sobre el que está situada la señal de vía para ciclistas sólo puede ser utilizado por ciclos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "Circula con su turismo a 90 km/h por una carretera señalizada con esta señal, ¿le está permitido circular por el carril de la derecha?",
+      "imagen": "tema-04_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero únicamente para facilitar los adelantamientos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, debo utilizarlo si las circunstancias lo permiten."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque es un carril reservado para vehículos que circulen a menos de 80 km/h."
+        }
+      ],
+      "ayuda": "Esta señal indica que el carril sobre el que está situada la señal de velocidad mínima, sólo puede ser utilizado por los vehículos que circulen a velocidad igual o superior a la indicada aunque si las circunstancias lo permiten, deben circular por el carril de la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Qué indican las señales azules?",
+      "imagen": "tema-04_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fin de autopista."
+        },
+        {
+          "letra": "B",
+          "texto": "Autopista de peaje."
+        },
+        {
+          "letra": "C",
+          "texto": "Los carriles para tomar otras vías o destinos."
+        }
+      ],
+      "ayuda": "Las señales de color azul que se observan en la imagen, indican los carriles para tomar otras vías o destinos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "De acuerdo con esta señal, ¿por qué carril debe circular a 90 km/h?",
+      "imagen": "tema-04_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el carril izquierdo, porque circulo a más de 70 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el carril derecho, siempre que sea posible."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el carril que mejor convenga a mi destino."
+        }
+      ],
+      "ayuda": "Como norma general, y siempre que sea posible, los conductores deben circular por el carril derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Esta señal, ¿qué indica?",
+      "imagen": "tema-04_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que hay una vía que tiene cuatro carreteras."
+        },
+        {
+          "letra": "B",
+          "texto": "El lugar a partir del cual rigen las normas de las autopistas."
+        },
+        {
+          "letra": "C",
+          "texto": "Las direcciones de las distintas salidas en la próxima glorieta."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen indica las direcciones de las distintas salidas en la próxima glorieta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Esta señal indica...",
+      "imagen": "tema-04_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "bajo una señal de prohibición, la distancia en que se aplica la prohibición en el sentido indicado por la flecha."
+        },
+        {
+          "letra": "B",
+          "texto": "la longitud del tramo peligroso."
+        },
+        {
+          "letra": "C",
+          "texto": "la distancia al comienzo de un tramo peligroso."
+        }
+      ],
+      "ayuda": "Esta señal colocada bajo una señal de prohibición, indica la distancia en que se aplica esta prohibición en el sentido de la flecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "La señal significa...",
+      "imagen": "tema-04_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "vía obligatoria para autobuses."
+        },
+        {
+          "letra": "B",
+          "texto": "parada de autobuses."
+        },
+        {
+          "letra": "C",
+          "texto": "carril reservado para autobuses."
+        }
+      ],
+      "ayuda": "Esta señal indica el lugar reservado para la parada de autobuses.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Esta señal indica la velocidad máxima...\n",
+      "imagen": "tema-04_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aconsejable."
+        },
+        {
+          "letra": "B",
+          "texto": "Obligatoria."
+        },
+        {
+          "letra": "C",
+          "texto": "Permitida."
+        }
+      ],
+      "ayuda": "Esta señal recomienda una velocidad aproximada de circulación, en kilómetros por hora, que se aconseja no sobrepasar aunque las condiciones meteorológicas y ambientales de la vía y de la circulación sean favorables.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Esta señal preseñaliza una...",
+      "imagen": "tema-04_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "vía cerrada a la circulación de vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "vía de sentido único."
+        },
+        {
+          "letra": "C",
+          "texto": "calzada sin salida."
+        }
+      ],
+      "ayuda": "La señal que se observa, indica que la calzada que figura en la señal con un recuadro rojo no tiene salida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Esta señal indica...",
+      "imagen": "tema-04_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la velocidad máxima para los vehículos que circulen por esos carriles."
+        },
+        {
+          "letra": "B",
+          "texto": "los carriles que pueden utilizar los vehículos que circulen a velocidad igual o superior a la indicada."
+        },
+        {
+          "letra": "C",
+          "texto": "los carriles que deben utilizar los vehículos que circulen a velocidad igual o superior a 70 km/h."
+        }
+      ],
+      "ayuda": "Esta señal indica que los carriles sobre el que está situada la señal de velocidad mínima, sólo pueden ser utilizados por los vehículos que circulen a velocidad igual o superior a la indicada aunque si las circunstancias lo permiten, deben circular por el carril de la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Esta señal, ¿puede indicar el comienzo de un paso inferior?",
+      "imagen": "tema-04_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, y también el comienzo de un túnel o de un tramo equiparado a túnel."
+        },
+        {
+          "letra": "B",
+          "texto": "No, indica el final de un túnel o un paso inferior."
+        },
+        {
+          "letra": "C",
+          "texto": "No, solo indica el comienzo de un túnel."
+        }
+      ],
+      "ayuda": "Señal de Túnel\nIndica el principio y eventualmente el nombre de un túnel, de un paso inferior o de un tramo de vía equiparado a túnel. Podrá llevar en su parte inferior la indicación de la longitud del túnel en metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "En las zonas señalizadas con esta señal, entre otras normas de circulación, se impone una velocidad máxima para los vehículos de...\n",
+      "imagen": "tema-04_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "10 km/h.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "30 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "40 km/h."
+        }
+      ],
+      "ayuda": "Zona de estancia y juego\nIndica las zonas de circulación que están destinadas en primer lugar a los peatones y en las que se aplican normas especiales de circulación. La velocidad máxima de los vehículos está fijada en 10 kilómetros por hora.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Qué usuarios tienen permitido circular a partir de esta señal?",
+      "imagen": "tema-04_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo los ciclos."
+        },
+        {
+          "letra": "B",
+          "texto": "Ciclos, peatones y ciclomotores.\n"
+        },
+        {
+          "letra": "C",
+          "texto": "Peatones, ciclos y, en su caso, vehículos de movilidad personal.\n"
+        }
+      ],
+      "ayuda": "Senda Ciclopeatonal\nIndica la existencia de una vía para peatones, ciclos y, en su caso, VMP, segregada del tráfico motorizado, y que discurre habitualmente por espacios abiertos, parques, jardines o bosques, si bien fuera de poblado puede discurrir también paralela a la carretera.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "tema-04_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que hemos entrado a Portugal."
+        },
+        {
+          "letra": "B",
+          "texto": "La distancia a la que se encuentra la frontera."
+        },
+        {
+          "letra": "C",
+          "texto": "Que hemos pasado un kilómetro de Portugal."
+        }
+      ],
+      "ayuda": "Esta señal indica el nombre del país hacia el que se dirige la carretera. La cifra en la parte inferior indica la distancia a la que se encuentra la frontera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Esta señal identifica una carretera perteneciente a una red diferente de la del Estado de...\n",
+      "imagen": "tema-04_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "primer nivel."
+        },
+        {
+          "letra": "B",
+          "texto": "segundo nivel."
+        },
+        {
+          "letra": "C",
+          "texto": "tercer nivel."
+        }
+      ],
+      "ayuda": "Carretera de segundo nivel perteneciente a una red diferente de la del Estado.\nIdentifica una carretera de segundo nivel, que no sea autopista o autovía, perteneciente a una red diferente de la del Estado.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Qué indica el panel situado debajo de la señal?",
+      "imagen": "tema-04_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La longitud del tramo con curvas peligrosas hacia la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "La distancia al comienzo de un tramo de la vía con curvas peligrosas hacia la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "La distancia al final de un tramo con curvas peligrosas hacia la izquierda."
+        }
+      ],
+      "ayuda": "El panel de la imagen, indica la distancia desde el lugar donde está la señal a aquél en que comienza el peligro o comienza a regir la prescripción de aquélla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Que indica esta señalización?",
+      "imagen": "tema-04_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la situación de un extintor de incendios y teléfono de emergencia.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "La situación de una salida de emergencia provista de teléfono de emergencias y extintor."
+        },
+        {
+          "letra": "C",
+          "texto": "La situación de un puesto de socorro provisto de extintor y teléfono de emergencias. "
+        }
+      ],
+      "ayuda": "Teléfono de emergencia y extintor de incendios\nIndica la situación de un extintor de incendios y teléfono de emergencia.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

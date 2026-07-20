@@ -1,0 +1,689 @@
+{
+  "categoria_id": 1,
+  "test_id": 43,
+  "nombre": "Test de examen 43",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Puede un vehículo de movilidad personal circular por una vía situada fuera de poblado?",
+      "imagen": "examen-43_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, por el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que no sea una autopista o autovía."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando lo haga por vías ciclistas segregadas del tráfico motorizado y no exista prohibición expresa."
+        }
+      ],
+      "ayuda": "Con carácter general, los vehículos de movilidad  personal tienen prohibido circular por vías interurbanas, travesías, autopistas, autovías o túneles urbanos. No obstante, siempre que no exista prohibición expresa, podrán circular por vías ciclistas segregadas del tráfico motorizado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-43_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un lugar apropiado para iniciar excursiones a pie."
+        },
+        {
+          "letra": "B",
+          "texto": "Un merendero o lugar que puede ser utilizado para consumir comidas y bebidas."
+        },
+        {
+          "letra": "C",
+          "texto": "La situación de un parque o espacio natural."
+        }
+      ],
+      "ayuda": "Señal de Merendero: indica el lugar que puede utilizarse para el consumo de comidas o bebidas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "En caso de llevarlo, ¿dónde debe colocarse el distintivo ambiental (señal V-25) en una motocicleta de dos ruedas?",
+      "imagen": "examen-43_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En ninguna parte, no hay ningún distintivo ambiental para las motocicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "En el ángulo inferior derecho del parabrisas y, si no tiene parabrisas, se debe colocar en un lugar visible."
+        },
+        {
+          "letra": "C",
+          "texto": "En el ángulo superior derecho del parabrisas y, si no tiene parabrisas, no es necesario colocarlo en ninguna parte."
+        }
+      ],
+      "ayuda": "Con carácter general, el distintivo ambiental se coloca en el ángulo inferior derecho del parabrisas delantero, si se dispone de el. En su defecto (por ejemplo en el caso de motocicletas), se colocará en cualquier sitio visible del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En la actualidad el tipo de parabrisas delantero más utilizado en los vehículos es...",
+      "imagen": "examen-43_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el de vidrio laminado.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "el de vidrio templado.\n"
+        },
+        {
+          "letra": "C",
+          "texto": "el de cristal tintado."
+        }
+      ],
+      "ayuda": "El parabrisas laminado es el que más se utiliza actualmente. Este tipo de vidrio se considera un avance esencial en la seguridad frente a los antiguos parabrisas de vidrio templado que se encuentran en desuso.\n\nEl parabrisas laminado se compone de dos láminas de vidrio entre las cuales se insertan una o dos láminas plásticas. En caso de rotura, los fragmentos de vidrio permanecen adheridos a la lámina de plástico, permitiendo la visibilidad.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿A qué se denomina sistema ISOFIX?",
+      "imagen": "examen-43_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A un sistema de seguridad activa que evita accidentes cuando viajan niños en el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Al sistema de seguridad que permite un montaje más sencillo y seguro de los sistemas de retención infantil."
+        },
+        {
+          "letra": "C",
+          "texto": "A un sistema de seguridad pasiva que permite ajustar los cinturones de seguridad del vehículo para evitar el efecto submarino."
+        }
+      ],
+      "ayuda": "\tISOFIX es un sistema de seguridad pasiva diseñado para la instalación segura de sistemas de retención infantil en el vehículo. Consiste en unos puntos de sujeción rígidos que van atornillados o soldados a la carrocería del vehículo y que dispone de unos enganches en los que se ancla la silla infantil.\n\t\n\tSu objetivo principal es facilitar una instalación sencilla y sin errores de los SRI, ofreciendo un anclaje robusto que permite reducir el riesgo de lesiones en los niños cuando viajan como ocupantes de un determinado vehículo y este sufre un accidente.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "A la vista de esta señal, ¿puede pasar conduciendo un ciclomotor?",
+      "imagen": "examen-43_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque la señal sólo prohíbe el paso a animales de montura."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque no me afecta la señal."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La señal indica obligación para los jinetes de utilizar con sus animales de montura el camino a cuya entrada esté situada y prohibición a los demás usuarios de la vía de utilizarlo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué sistema avanzado de ayuda a la conducción puede realizar una frenada de emergencia y detener el vehículo cuando detecta riesgo de colisión con otros vehículos, peatones y ciclistas?",
+      "imagen": "examen-43_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El sistema de aviso de colisión frontal (FCW)."
+        },
+        {
+          "letra": "B",
+          "texto": "El sistema de frenada autónoma de emergencia con detección de peatones y ciclistas (AEB +P +C)."
+        },
+        {
+          "letra": "C",
+          "texto": "El DDR o sistema de advertencia de somnolencia y distracciones."
+        }
+      ],
+      "ayuda": "Sistema ADAS \"AEB - frenado de emergencia urbano e interurbano\".\nEn caso de descuido del conductor y cuando exista riesgo de colisión por alcance, el sistema es capaz de detectar un peligro inminente y actuar de dos formas: avisando al conductor o tomando el control del vehículo para detenerlo y realizar una frenada de emergencia.  Además, este sistema puede incluir la detección de una situación de emergencia ante peatones y ciclistas, activando el sistema de frenado para desacelerar el vehículo a fin de evitar o mitigar la colisión.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Aunque en un principio el cannabis provoca un estado de euforia, uno de los principales peligros de su consumo para la conducción es…",
+      "imagen": "examen-43_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que aumenta la tasa de alcoholemia, incluso sin haber consumido alcohol."
+        },
+        {
+          "letra": "B",
+          "texto": "que se puede experimentar una relajación excesiva, incluso somnolencia."
+        },
+        {
+          "letra": "C",
+          "texto": "que disminuye el tiempo de reacción ante una situación imprevista."
+        }
+      ],
+      "ayuda": "Entre los múltiples efectos negativos que el consumo de cannabis puede representar sobre la capacidad para conducir con seguridad, se encuentra la relajación excesiva que esta sustancia puede provocar, generando incluso un estado de somnolencia en los conductores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "En los vehículos que no disponen de asientos posteriores, los menores de edad, si su estatura es inferior a 135 centímetros...",
+      "imagen": "examen-43_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no pueden viajar."
+        },
+        {
+          "letra": "B",
+          "texto": "ocuparan el asiento delantero con un sistema de retención infantil adecuado."
+        },
+        {
+          "letra": "C",
+          "texto": "ocuparan el asiento delantero utilizando solamente el cinturón de seguridad."
+        }
+      ],
+      "ayuda": "Cuando el vehículo no disponga de asientos traseros, los menores de edad de estatura igual o inferior a 135 centímetros, excepcionalmente podrán ocupar el asiento delantero, siempre que utilicen sistemas de retención infantil homologados debidamente adaptados a su talla y peso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Está prohibido...",
+      "imagen": "examen-43_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "utilizar teléfonos con dispositivos de manos libres mientras se conduce."
+        },
+        {
+          "letra": "B",
+          "texto": "llevar animales domésticos en el habitáculo del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "arrojar objetos que puedan dañar la vía o sus instalaciones."
+        }
+      ],
+      "ayuda": "Se prohíbe arrojar, depositar o abandonar sobre la vía objetos o materias que puedan entorpecer la libre circulación, parada o estacionamiento, hacerlos peligrosos o deteriorar aquélla o sus instalaciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Es peligroso conducir cuando los rayos del sol inciden de forma directa en los ojos de los conductores?",
+      "imagen": "examen-43_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero encendiendo la luz de largo alcance mejora la visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque como se tiene más luz, la visibilidad es mejor."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, la visión se ve afectada y es difícil distinguir lo que sucede en el tráfico."
+        }
+      ],
+      "ayuda": "Los deslumbramientos son una de las circunstancias más peligrosas que pueden suceder durante la conducción, ya que implica una pérdida momentánea de visión que pone en peligro tanto la propia seguridad como la del resto de usuarios de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Las características de determinados tipos de firme, ¿pueden potenciar los efectos de la fatiga?",
+      "imagen": "examen-43_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si el firme está en muy mal estado y se circula por encima de los 100km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, un firme en mal estado puede favorecer la aparición de la fatiga."
+        },
+        {
+          "letra": "C",
+          "texto": "No, el estado del firme no influye en la fatiga."
+        }
+      ],
+      "ayuda": "Entre los factores externos que propician o potencian la fatiga, se encuentran aquellos relacionados con la vía y su entorno. Algunos tipos de firme, o si este está mal conservado, hacen vibrar en exceso el vehículo, por lo que la conducción será más incómoda, difícil y cansada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Cuándo se produce una colisión por alcance?",
+      "imagen": "examen-43_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando un vehículo detenido o en circulación es golpeado en su parte trasera por otro vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando un vehículo choca frontalmente con otro vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando un vehículo choca contra algún objeto situado fuera de la calzada."
+        }
+      ],
+      "ayuda": "Una colisión por alcance es aquella que ocurre cuando un vehículo está detenido y es golpeado por detrás por otro vehículo, o mientras circula y es impactado en la parte trasera por otro vehículo que circula a mayor velocidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Pueden los factores personales, como el estrés, influir en los efectos del alcohol? ",
+      "imagen": "examen-43_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, los efectos del alcohol solamente dependen de las características físicas del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "No, los efectos del alcohol únicamente dependen del tipo de bebida ingerida."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "\tLa fatiga, la somnolencia, la ansiedad, el estrés u otras enfermedades, son algunos factores que pueden influir sobre la alcoholemia y sus efectos sobre tu organismo.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Qué indica la señal?",
+      "imagen": "examen-43_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La situación de un terreno para remolques-vivienda."
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionamiento para autocaravanas."
+        },
+        {
+          "letra": "C",
+          "texto": "Calzada obligatoria para turismos con caravana."
+        }
+      ],
+      "ayuda": "La señal de terreno para remolques-vivienda indica la situación de un terreno en el que puede acamparse con remolque-vivienda (caravana).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "En un túnel situado dentro de poblado que dispone de varios carriles para el mismo sentido delimitados por marcas longitudinales, ¿qué carriles puede utilizar si conduce un turismo?\n",
+      "imagen": "examen-43_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho obligatoriamente."
+        },
+        {
+          "letra": "B",
+          "texto": "El que mejor convenga a mi destino."
+        }
+      ],
+      "ayuda": "Cuando se circule por calzadas de poblados con al menos dos carriles reservados para el mismo sentido, delimitados por marcas longitudinales, excepto si se trata de autopistas o autovías, el conductor de un automóvil o de un vehículo especial podrá utilizar el que mejor convenga a su destino, siempre que no sea un obstáculo a la circulación de los demás vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Está permitido cambiar el sentido de la marcha en la situación que se observa en la fotografía? ",
+      "imagen": "examen-43_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "\tComo norma general, en los lugares donde está prohibido el adelantamiento queda también prohibido realizar un cambio de sentido de la marcha.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "En un carril reservado para uso exclusivo del transporte público urbano, ¿se puede estacionar?",
+      "imagen": "examen-43_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo fuera del horario de servicio."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, se puede parar y estacionar."
+        }
+      ],
+      "ayuda": "Como norma general, en el carril destinado para uso exclusivo de transporte público urbano está prohibido parar y estacionar, independientemente de la hora del día.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "\t¿Cuántas luces de frenado debe llevar, en todo caso, un turismo?\n",
+      "imagen": "examen-43_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tres como mínimo."
+        },
+        {
+          "letra": "B",
+          "texto": "Al menos dos."
+        },
+        {
+          "letra": "C",
+          "texto": "Una o dos."
+        }
+      ],
+      "ayuda": "Con carácter general, los turismos deben llevar obligatoriamente dos luces de frenado de color rojo, colocadas en los bordes exteriores de la parte posterior. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿En qué tipo de vía su titular podrá fijar una velocidad máxima de 100 km/h a turismos, motocicletas y autocaravanas de M.M.A. no superior a 3.500 kg?",
+      "imagen": "examen-43_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En las convencionales con tres o más carriles de circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "En las convencionales con separación física de los dos sentidos de circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "En las convencionales con arcenes de anchura superior a 1,5 metros."
+        }
+      ],
+      "ayuda": "En carreteras convencionales con separación física de los dos sentidos de circulación, el titular de la vía podrá fijar un límite máximo de 100 km/h para turismos, motocicletas y autocaravanas con masa máxima autorizada igual o inferior a 3.500 kg.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Algunos hospitales cuentan con una unidad de atención a las víctimas de lesiones físicas y emocionales derivadas de los accidentes de tráfico. ¿Cómo se llama esta unidad?",
+      "imagen": "examen-43_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Unidad de urgencias traumatológicas."
+        },
+        {
+          "letra": "B",
+          "texto": "Unidad de apoyo a las víctimas."
+        },
+        {
+          "letra": "C",
+          "texto": "Unidad de tráfico."
+        }
+      ],
+      "ayuda": "La Unidad de Tráfico de las que disponen algunos hospitales, es una unidad médica encargada de la ​​atención especializada, integral y personalizada de todos los pacientes que sufran lesiones en accidentes de tráfico, para ayudarles a recuperarse de sus lesiones y mejorar su calidad de vida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Qué debe hacer para darle de baja definitiva a su turismo?",
+      "imagen": "examen-43_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Venderlo."
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionarlo en la vía pública y esperar a que el Ayuntamiento se haga cargo."
+        },
+        {
+          "letra": "C",
+          "texto": "Llevarlo a un Centro Autorizado de Tratamiento de vehículos (CAT) para su descontaminación."
+        }
+      ],
+      "ayuda": "Para dar de baja definitiva un vehículo, debe llevarse a un desguace o Centro Autorizado de Tratamiento de vehículos (CAT). El centro se encargará de realizar la baja del vehículo y entregará al titular un certificado de destrucción del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Está permitido conducir un vehículo mientras introduce en el navegador, de forma manual, la dirección de su destino?",
+      "imagen": "examen-43_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que se encuentre en condiciones de controlar el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "No, es una infracción grave que supone la pérdida de 3 puntos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, es un delito contra la seguridad vial contemplado en el Código Penal."
+        }
+      ],
+      "ayuda": "Se prohíbe la utilización durante la conducción de dispositivos de telefonía móvil, navegadores o cualquier otro medio o sistema de comunicación, excepto cuando el desarrollo de la comunicación tenga lugar sin emplear las manos ni usar cascos, auriculares o instrumentos similares. Estos comportamientos, con carácter general, constituyen una infracción administrativa grave que supone la pérdida de 3 puntos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "En este paso para peatones, si no funciona el semáforo, ¿es obligatorio cederles el paso a los peatones que intenten cruzarlo?",
+      "imagen": "examen-43_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque los vehículos tienen prioridad de paso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque los peatones tienen prioridad de paso."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si se trata de una fila de escolares."
+        }
+      ],
+      "ayuda": "En el paso de peatones que se observa en la imagen, es obligatorio cederles el paso a los peatones que intenten cruzarlo, incluso cuando el semáforo esté apagado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Cuál de los siguientes comportamientos es habitual observar en un conductor que, mientras conduce, habla por el móvil, aumentando el riesgo de accidente?",
+      "imagen": "examen-43_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular sin marcha engranada, sobre todo en pendientes ascendentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Desviarse de la trayectoria, incluidas salidas de carril."
+        },
+        {
+          "letra": "C",
+          "texto": "Llevar las ventanillas traseras abiertas para mejorar la cobertura."
+        }
+      ],
+      "ayuda": "Los desvíos de trayectoria y las salidas de carril y de la vía son los efectos más habituales que se observan en los conductores que, mientras conducen, hacen uso del teléfono móvil.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Si inmoviliza un vehículo en este lado de la calzada, ¿incumple alguna norma de circulación?",
+      "imagen": "examen-43_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque hay una zona de carga y descarga y está prohibido cualquier tipo de inmovilización."
+        },
+        {
+          "letra": "B",
+          "texto": "No, si es para efectuar una parada."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ya que esta marca vial no prohíbe parar ni estacionar."
+        }
+      ],
+      "ayuda": "La marca amarilla en zigzag indica el lugar de la calzada en que el estacionamiento está prohibido a los vehículos en general, por estar reservado para algún uso especial que no implique larga permanencia de ningún vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "El riesgo de sufrir un accidente puede verse incrementado si tiene alergia al polen. Para disminuir dicho riesgo cuando la concentración de polen es elevada, se recomienda...",
+      "imagen": "examen-43_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "llevar la ventilación exterior, incluso si el vehículo no tiene filtros antipolen."
+        },
+        {
+          "letra": "B",
+          "texto": "circular con las ventanillas abiertas para que el aire expulse el polen del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "evitar conducir al amanecer y por caminos donde la vegetación sea abundante."
+        }
+      ],
+      "ayuda": "El riesgo de sufrir un accidente puede verse incrementado en los conductores que presentan alergia al polen. Para disminuir dicho riesgo cuando la concentración de polen es elevada, se recomienda evitar conducir al amanecer y por caminos donde la vegetación sea abundante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Si el vehículo que conduce es sometido a una inspección técnica en carretera y, como resultado de los defectos observados, le indican que debe pasar una inspección más minuciosa. ¿Dónde deberá realizarse dicha inspección?",
+      "imagen": "examen-43_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente en la estación ITV fija más cercana."
+        },
+        {
+          "letra": "B",
+          "texto": "En la estación ITV móvil más cercana."
+        },
+        {
+          "letra": "C",
+          "texto": "En unidades móviles de inspección o bien en las estaciones fijas ITV más cercanas."
+        }
+      ],
+      "ayuda": "Las inspecciones técnicas en carretera consistirán en una inspección inicial y a continuación, si resultara necesario, otra más minuciosa, que podrá realizarse por unidades móviles de inspección o bien en las estaciones fijas ITV más cercanas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Puede el conductor de un vehículo de movilidad personal, circular por las aceras?",
+      "imagen": "examen-43_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, deberán circular por la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "No, deberán hacerlo siempre por el carril bici."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que no supere la velocidad del paso de un peatón."
+        }
+      ],
+      "ayuda": "Con carácter general, los vehículos de movilidad  personal deben circular por la calzada, estando prohibido circular por las aceras y por vías interurbanas, travesías, autopistas, autovías o túneles urbanos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Esta señal indica...",
+      "imagen": "examen-43_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la situación, a la distancia indicada, de un monumento u obra histórica."
+        },
+        {
+          "letra": "B",
+          "texto": "el comienzo de un túnel y su longitud."
+        },
+        {
+          "letra": "C",
+          "texto": "la distancia que falta para entrar en un túnel."
+        }
+      ],
+      "ayuda": "Esta señal indica el principio y eventualmente el nombre de un túnel, de un paso inferior o de un tramo de vía equiparado a túnel. Podrá llevar en su parte inferior la indicación de la longitud del túnel en metros",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

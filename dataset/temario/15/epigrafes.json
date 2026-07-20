@@ -1,0 +1,276 @@
+[
+  {
+    "n": 1,
+    "tipo": "imagen",
+    "titulo": "Bienvenido al Tema 15",
+    "texto": "Tema 15\n\nConocimiento y mantenimiento del automóvil II."
+  },
+  {
+    "n": 2,
+    "tipo": "imagen",
+    "titulo": "El motor. Concepto y tipos de motores",
+    "texto": "El motor térmico que utilizan los vehículos es una máquina que transforma la energía química de un combustible en energía mecánica, la cual posibilita el movimiento del vehículo.\n\nActualmente, en la mayoría de los vehículos se utilizan dos tipos de motores:\n\nDe explosión: utiliza la explosión de un combustible, generalmente gasolina inyectada, provocada por una chispa.\n\nDe combustión o Diesel: basa su funcionamiento en la combustión del gasóleo, que inyectado en los cilindros a alta presión arde espontáneamente y de forma brusca."
+  },
+  {
+    "n": 3,
+    "tipo": "imagen",
+    "titulo": "El filtro de aire. Función y mantenimiento",
+    "texto": "Tanto en los motores Diesel como en los de gasolina, la presencia de aire en los cilindros es fundamental para que se produzca la combustión o explosión del combustible.\n\nEl filtro de aire es el encargado de limpiar el aire que se mezcla con el combustible, antes de que llegue a los cilindros del motor.\n\nSi no existiera un filtro o si estuviera obstruido, ciertas impurezas como partículas sólidas, arenilla o polvo en suspensión llegarían a los cilindros rayándolos y desgastándolos prematuramente.\n\nPor este motivo, es necesario revisar el filtro periódicamente, con mayor frecuencia en verano que en invierno, y sustituirlo cuando esté deteriorado."
+  },
+  {
+    "n": 4,
+    "tipo": "imagen",
+    "titulo": "Sistema generador de energía eléctrica. Alternador",
+    "texto": "El alternador es el encargado de producir energía eléctrica cuando el motor está en marcha.\n\nOfrece una gran capacidad de carga a alto y bajo régimen de revoluciones del motor."
+  },
+  {
+    "n": 5,
+    "tipo": "imagen",
+    "titulo": "La batería. Concepto, función y mantenimiento",
+    "texto": "La batería tiene como función almacenar la energía eléctrica que produce el alternador para suministrar corriente eléctrica al motor de arranque, al sistema de encendido del motor, al sistema de alumbrado y al equipamiento eléctrico (cuadro de mandos, claxon, radio, etc.).\n\nPara mantener el buen funcionamiento y el máximo rendimiento de la batería , es necesario:\n\n- Comprobar el nivel del electrolito a través de los vasos de la batería. Si dicho nivel no cubre las placas se debe añadir, exclusivamente, agua destilada hasta que las cubra.\n\n- Limpiar las sulfataciones de los bornes y protegerlos con grasa o vaselina y apretar las conexiones.\n\nEn la actualidad, se utilizan también baterías de bajo mantenimiento y baterías sin mantenimiento. En ambos casos, se deben adoptar los mismos cuidados de conservación, respecto a la limpieza y engrase de los bornes, que en las baterías con mantenimiento."
+  },
+  {
+    "n": 6,
+    "tipo": "imagen",
+    "titulo": "Batería. Indicadores de malfuncionamiento",
+    "texto": "Cuando una batería tiene poca carga o está averiada, al accionar la llave de contacto, el conductor notará los siguientes síntomas:\n\n- los primeros giros del motor se realizan con dificultad y poca fuerza.\n\n- las luces del vehículo tienden a apagarse."
+  },
+  {
+    "n": 7,
+    "tipo": "video",
+    "titulo": "Mantenimiento de la batería",
+    "texto": "En este video se puede observar cómo se agrega agua destilada a una batería con un nivel de electrolito insuficiente, a través de los vasos de la misma.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/GW7kzEnjWwg?si=jOQfdnejEOrK0vkv"
+  },
+  {
+    "n": 8,
+    "tipo": "imagen",
+    "titulo": "Sistema de lubricación (engrase). Concepto",
+    "texto": "En un motor existen piezas en constante rozamiento entre sí debido al movimiento que realizan.\n\nPara disminuir dicho rozamiento, el vehículo dispone de un sistema de lubricación cuya función es interponer una fina película de aceite entre las superficies en contacto, facilitando el desplazamiento de las piezas móviles.\n\nDe este modo, se consigue reducir el rozamiento entre las piezas disminuyendo su desgaste y corrosión, al mismo tiempo que se contribuye a la refrigeración del motor.\n\nEl aceite se introduce en el motor por el tapón que se encuentra situado en la parte superior de la culata y desciende hasta llegar al cárter, donde queda depositado."
+  },
+  {
+    "n": 9,
+    "tipo": "imagen",
+    "titulo": "Comprobación del nivel de aceite",
+    "texto": "El nivel de aceite debe encontrarse siempre entre las marcas de máximo y mínimo de la varilla indicadora del nivel. Para ello, es necesario realizar comprobaciones periódicas con el vehículo en posición horizontal y el motor parado y en frío.\n\nCuando el aceite esté por debajo de su nivel mínimo, se encenderá un testigo luminoso de color rojo en el salpicadero."
+  },
+  {
+    "n": 10,
+    "tipo": "imagen",
+    "titulo": "Cambio de aceite",
+    "texto": "Debido al funcionamiento del motor y a las altas presiones y temperaturas a las que se ve sometido, el aceite pierde su viscosidad y sus propiedades, pudiendo llegar a descomponerse y degradarse. Para evitar que esto ocurra se debe cambiar el aceite siguiendo los consejos del fabricante.\n\nEn todo caso, el cambio de aceite debe hacerse con el vehículo en posición horizontal, para facilitar el vaciado, y con el motor parado y en caliente."
+  },
+  {
+    "n": 11,
+    "tipo": "imagen",
+    "titulo": "Sistema de refrigeración. Concepto",
+    "texto": "Debido al constante movimiento y fricción de las piezas del motor durante su funcionamiento, éste alcanza temperaturas superiores a los límites que pueden ser tolerados.\n\nEl sistema de refrigeración es el encargado de que el motor mantenga la temperatura ideal durante su funcionamiento, evacuando el calor y evitando el gripaje.\n\nLa refrigeración por líquido consiste en hacer circular por las partes más calientes del motor, a través de unas cámaras de líquido, una corriente de líquido refrigerante formado por una mezcla de agua con un producto anticongelante, que es menos oxidante y evita que el agua se congele en invierno. Este líquido se refrigera a su paso por el radiador, y su nivel debe mantenerse entre las marcas de máximo y mínimo del vaso de expansión, para lo cual se deben realizar comprobaciones periódicas.\n\nSi, por algún motivo, el motor se quedara sin líquido refrigerante se calentaría excesivamente pudiendo sufrir una avería grave."
+  },
+  {
+    "n": 12,
+    "tipo": "video",
+    "titulo": "Sistema de refrigeración. Funcionamiento",
+    "texto": "En esta animación se ve como el líquido refrigerante, impulsado por una bomba, sale del radiador a una temperatura adecuada y circula por unas cámaras o camisas de agua practicadas en el bloque motor.\n\nDurante su recorrido, el líquido enfría el motor al mismo tiempo que aumenta su propia temperatura hasta que llega al radiador y al vaso de expansión.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/NzlISHIobpw?si=EWnyPDrl-MV9XfrS"
+  },
+  {
+    "n": 13,
+    "tipo": "imagen",
+    "titulo": "Mandos del vehículo. Contacto y puesta en marcha",
+    "texto": "La puesta en marcha del motor se realiza con la llave de contacto que, al girarla, conecta los circuitos eléctricos hasta arrancar el motor."
+  },
+  {
+    "n": 14,
+    "tipo": "imagen",
+    "titulo": "Mandos del vehículo. Volante de dirección",
+    "texto": "El volante se debe coger con ambas manos, con firmeza y sin agarrotamiento, y con los brazos semiflexionados.\n\nComparados con las agujas del reloj, los brazos deben marcar las dos menos diez o las tres menos cuarto.\n\nDurante la conducción, no se debe ni cruzar los brazos sobre el volante ni cogerlo por los radios.\n\nAl quitar la llave de contacto y mover un poco el volante se bloquea el sistema de dirección."
+  },
+  {
+    "n": 15,
+    "tipo": "imagen",
+    "titulo": "Palanca de selección de velocidades",
+    "texto": "Esta palanca permite elegir la marcha adecuada a las circunstancias, de modo que el motor transmita mayor o menor potencia a las ruedas según la velocidad seleccionada.\n\nPara ahorrar combustible se debe circular, siempre que sea posible, en marchas largas."
+  },
+  {
+    "n": 16,
+    "tipo": "imagen",
+    "titulo": "Freno de estacionamiento",
+    "texto": "Generalmente, se encuentra situado entre los dos asientos delanteros, excepto en algunos vehículos que lo llevan debajo del tablero de instrumentos e incluso a la izquierda del pedal del embrague. Su función es mantener el vehículo inmóvil, incluso en una pendiente ascendente o descendente, por lo que se debe accionar cuando el vehículo esté inmovilizado."
+  },
+  {
+    "n": 17,
+    "tipo": "imagen",
+    "titulo": "Mandos que se accionan con los pies. Pedales",
+    "texto": "Con los pies se accionan tres pedales: el embrague, situado a la izquierda; el freno, en el centro y el acelerador, a la derecha."
+  },
+  {
+    "n": 18,
+    "tipo": "imagen",
+    "titulo": "Embrague",
+    "texto": "La función del embrague es acoplar o desacoplar el motor de la caja de cambios. Está formado por dos discos, uno de ellos unido al motor y el otro a la caja de cambios, colocados uno en frente del otro.\n\nAl pisar a fondo el pedal del embrague con el pie izquierdo, estos discos se separan desconectando (desembragando) el motor de la caja de cambios. Por el contrario, cuando se levanta totalmente el pie del pedal, los discos se conectan embragando el motor, permitiendo la transmisión de fuerza motriz del motor a las ruedas.\n\nEn el gráfico se pueden observar los discos separados al pisar el pedal de embrague, y juntos al levantarlo."
+  },
+  {
+    "n": 19,
+    "tipo": "imagen",
+    "titulo": "Freno de servicio",
+    "texto": "El freno de servicio se acciona con el pie derecho y actúa sobre todas las ruedas del vehículo.\n\nEn circunstancias normales, se debe frenar con suavidad y solo lo necesario para reducir la velocidad progresivamente.\n\nSin embargo, en caso de emergencia, se debe frenar a fondo y de forma continuada pero sin llegar a bloquear las ruedas. Si el conductor nota el menor indicio de bloqueo, debe levantar ligeramente el pie del pedal para que las ruedas sigan girando y se adhieran mejor al pavimento."
+  },
+  {
+    "n": 20,
+    "tipo": "imagen",
+    "titulo": "Acelerador",
+    "texto": "Al pisar el pedal del acelerador aumentan las revoluciones del motor y la entrada de combustible, con lo que se consigue mayor potencia y velocidad.\n\nEl pedal del acelerador, al igual que el de freno, se acciona con el pie derecho."
+  },
+  {
+    "n": 21,
+    "tipo": "imagen",
+    "titulo": "Conducción eficiente y consumo de combustible",
+    "texto": "El concepto de conducción económica hace referencia a un estilo de conducción cuya finalidad es reducir el consumo de combustible, los gastos de mantenimiento y la contaminación ambiental, y aumentar la seguridad.\n\nEntre otros factores, el consumo de combustible depende del buen estado del vehículo y de su aerodinámica, del tipo de vía por la que se circule y de la forma de conducir."
+  },
+  {
+    "n": 22,
+    "tipo": "imagen",
+    "titulo": "El vehículo. Mantenimiento y reglajes",
+    "texto": "El buen mantenimiento y reglaje de los distintos sistemas del vehículo contribuye, considerablemente, al ahorro de combustible, a un mayor rendimiento del motor y a un aumento de la seguridad. Por el contrario, una inadecuada puesta a punto del vehículo incrementa el consumo de combustible y disminuye el rendimiento del motor.\n\nPor otra parte, la mayoría de los accidentes de tráfico debidos a un fallo mecánico se podrían evitar realizando un mantenimiento adecuado del vehículo."
+  },
+  {
+    "n": 23,
+    "tipo": "imagen",
+    "titulo": "Medidas para ahorrar combustible",
+    "texto": "- Revisar el filtro del aire periódicamente y sustituirlo cuando esté deteriorado.\n\n- No llenar el depósito de combustible al máximo.\n\n- Reglar el ralentí del motor a un régimen fijado por el fabricante.\n\n- Evitar circular con una presión de inflado en los neumáticos inferior a la recomendada por el fabricante.\n\n- No cargar el vehículo en exceso y no modificar su aerodinámica."
+  },
+  {
+    "n": 24,
+    "tipo": "imagen",
+    "titulo": "Aerodinámica. Concepto",
+    "texto": "La resistencia aerodinámica es la fuerza con la que el aire se opone al avance del vehículo. Al desplazarse, los vehículos deben vencer dicha resistencia que depende de factores como la dirección y fuerza del viento, la velocidad de la marcha, el tamaño y la forma del vehículo, etc.\n\nEl coeficiente aerodinámico de un vehículo indica su grado de resistencia al aire, de modo que a mayor coeficiente aerodinámico, mayor resistencia aerodinámica y a menor coeficiente, menor resistencia.\n\nLa resistencia que opone el aire influye de forma importante en el consumo de combustible. Para disminuir dicha resistencia y reducir el consumo se debe evitar:\n\n- Circular con las ventanillas abiertas.\n\n- Cargar el vehículo en exceso, y transportar la carga en la baca.\n\n- Circular con la baca instalada si no se transporta carga en ella."
+  },
+  {
+    "n": 25,
+    "tipo": "imagen",
+    "titulo": "La forma de conducir. Incidencia en el consumo",
+    "texto": "La forma de conducir es otro de los factores que influye en el consumo de combustible. La conducción agresiva o nerviosa con constantes acelerones, frenadas y arrancadas bruscas, además de aumentar el riesgo, implican un consumo mayor.\n\nPara ahorrar combustible, se debe conducir con prudencia y suavidad, siendo recomendable:\n\n- Conducir a velocidad moderada. La velocidad es el principal factor en el aumento considerable del consumo de combustible.\n\n- Evitar acelerones en vacío, con el vehículo en punto muerto.\n\n- No bajar las pendientes en punto muerto.\n\n- Parar el motor en las detenciones prolongadas.\n\n- No acelerar bruscamente.\n\nTambién es importante saber que el vehículo consume más combustible con el aire acondicionado puesto y con el alumbrado encendido. Este último puede implicar un incremento del consumo de hasta un 2 por ciento."
+  },
+  {
+    "n": 26,
+    "tipo": "imagen",
+    "titulo": "Técnicas de conducción eficiente",
+    "texto": "Las técnicas de conducción eficiente permiten reducir el consumo de combustible entre un 10 y un 25 por ciento y las emisiones contaminantes entre un 50 y un 80 por ciento. Además, contribuyen a mejorar la seguridad ya que muchas de sus técnicas implican prevención y anticipación."
+  },
+  {
+    "n": 27,
+    "tipo": "imagen",
+    "titulo": "Técnicas de conducción eficiente. Inicio de la marcha",
+    "texto": "Una de las técnicas de conducción eficiente establece que al arrancar el vehículo no se debe acelerar. En los vehículos con motor de gasolina se recomienda iniciar la marcha inmediatamente con suavidad y sin acelerones, mientras que en los vehículos Diesel, es conveniente esperar unos segundos con el motor en marcha, antes de comenzar a circular."
+  },
+  {
+    "n": 28,
+    "tipo": "imagen",
+    "titulo": "Cómo utilizar las marchas",
+    "texto": "Siempre que sea posible, se debe circular en marchas largas, quinta o sexta velocidad, en las cuales el vehículo circula a bajas revoluciones consumiendo menos combustible.\n\nEl cambio de marchas se debe realizar a un régimen normal de revoluciones de entre 2.000 y 2.500 revoluciones por minuto en los vehículos a gasolina, y entre 1.500 a 2.000 en los vehículos a gasoil.\n\nAdemás, como la primera marcha es la que requiere mayor consumo de combustible, se evitará circular en primera trayectos largos. Debido a que su finalidad es iniciar o reanudar la marcha del vehículo, se recomienda cambiar a segunda velocidad a los 2 segundos o 6 metros de recorrido, a tercera a partir de los 30 km/h, a cuarta a partir de los 40 km/h y a quinta a partir de los 50 km/h, en coches de pequeña cilindrada, o 60 km/h si son de mediana cilindrada."
+  },
+  {
+    "n": 29,
+    "tipo": "imagen",
+    "titulo": "Conducción eficiente. Medidas adicionales",
+    "texto": "- Mantener la velocidad lo más uniforme posible, evitando acelerones y frenadas bruscas.\n\n- No pisar el pedal de embrague si no es estrictamente, teniendo en cuenta que cuando se circula a más de 20 km/h con una marcha engranada sin pisar el embrague ni el acelerador el consumo de combustible es nulo.\n\n- Regular la temperatura del habitáculo del coche entre 20 y 23 grados aproximadamente."
+  },
+  {
+    "n": 30,
+    "tipo": "imagen",
+    "titulo": "Contaminación ambiental. El catalizador",
+    "texto": "El catalizador es un dispositivo que convierte los gases contaminantes procedentes del motor en gases depurados.\n\nMediante un proceso de oxidación y reducción reduce la contaminación en más de un 90 por ciento.\n\nSi un vehículo dispone de catalizador, se deben tener las siguientes precauciones:\n\n- No utilizar gasolina con plomo.\n- Evitar que el motor consuma demasiado aceite.\n- No arrancar el motor empujando el vehículo.\n- Evitar estacionar sobre superficies fácilmente combustibles para evitar un posible incendio debido a las altas temperaturas que alcanza el catalizador.\n\nPor otra parte, está prohibido que los vehículos lancen humos por el tubo de escape que resulten nocivos o que puedan dificultar la visibilidad a otros usuarios."
+  },
+  {
+    "n": 31,
+    "tipo": "imagen",
+    "titulo": "Contaminación acústica",
+    "texto": "El ruido también es un factor de riesgo porque puede reducir la capacidad de respuesta del conductor, aumentando el riesgo de accidente.\n\nA fin de evitar todo ruido excesivo e innecesario, en la medida de lo posible, se debe evitar el uso de tubos resonadores que estén prohibidos, así como el uso del claxon o bocinas que produzcan ruidos estridentes o notas musicales variadas.\n\nTambién se prohíbe la circulación de vehículos de motor y ciclomotores con el llamado escape libre sin el preceptivo dispositivo silenciador de las explosiones.\n\nLos agentes de la autoridad podrán inmovilizar el vehículo en los casos en que superen los niveles de gases, humos y ruidos permitidos reglamentariamente según el tipo de vehículo."
+  },
+  {
+    "n": 32,
+    "tipo": "imagen",
+    "titulo": "Accesorios, repuestos y herramientas",
+    "texto": "Los turismos llevarán, obligatoriamente,  la siguiente dotación:\n\n- El dispositivo luminoso de preseñalización de peligro V-16.\n\n- Una rueda completa de repuesto o una rueda de uso temporal, con las herramientas necesarias para el cambio de ruedas, o un sistema alternativo al cambio de las mismas que ofrezca suficientes garantías para la movilidad del vehículo. En estos casos se circulará respetando las limitaciones propias de cada alternativa."
+  },
+  {
+    "n": 33,
+    "tipo": "imagen",
+    "titulo": "Chaleco reflectante",
+    "texto": "En el habitáculo del vehículo se debe llevar un chaleco reflectante de alta visibilidad. Este puede ser de color amarillo, naranja o rojo, y debe ser visible a 150 metros como mínimo.\n\nAunque es obligatorio llevar un solo chaleco, se recomienda llevar dos.\n\nEl uso del chaleco reflectante es obligatorio, tanto de día como de noche, siempre que el conductor salga del vehículo y ocupe la calzada o el arcén de vías interurbanas, por lo tanto, debe ponérselo antes de salir del vehículo.\n\nPor su parte, los conjuntos de vehículos, independientemente de su masa, deberán llevar un equipo homologado de extinción de incendios, además de esta dotación reseñada."
+  },
+  {
+    "n": 34,
+    "tipo": "imagen",
+    "titulo": "El tema 15 ha finalizado.\n\nA continuación, vamos a realizar un resumen.",
+    "texto": null
+  },
+  {
+    "n": 35,
+    "tipo": "imagen",
+    "titulo": "Invertir en seguridad",
+    "texto": "Invertir en la seguridad de un vehículo es muy importante para evitar posibles accidentes."
+  },
+  {
+    "n": 36,
+    "tipo": "imagen",
+    "titulo": "Importancia del mantenimiento",
+    "texto": "Las revisiones periódicas y el mantenimiento adecuado del vehículo, disminuyen la probabilidad de sufrir un accidente.\n\nEnhorabuena, has superado el 80% del tema\n\nOk"
+  },
+  {
+    "n": 37,
+    "tipo": "imagen",
+    "titulo": "Comprobación del nivel de aceite",
+    "texto": "El nivel de aceite del vehículo se debe comprobar regularmente, con el motor parado y en frío. Sin embargo, el cambio de aceite se debe hacer con el motor caliente."
+  },
+  {
+    "n": 38,
+    "tipo": "imagen",
+    "titulo": "Importancia de las técnicas de conducción eficiente",
+    "texto": "Las técnicas de conducción eficiente no solo disminuyen el consumo y la contaminación, sino que también aumentan la seguridad vial ya que son técnicas basadas en la prevención, y esta incrementa la seguridad."
+  },
+  {
+    "n": 39,
+    "tipo": "imagen",
+    "titulo": "Conducción en pendientes descendentes",
+    "texto": "No es recomendable bajar las pendientes descendentes en punto muerto porque, además de aumentar el consumo de combustible, resulta peligroso ya que el conductor debe usar más los frenos."
+  },
+  {
+    "n": 40,
+    "tipo": "imagen",
+    "titulo": "Conducción en pendientes ascendentes",
+    "texto": "En las pendientes ascendentes, se debe utilizar la relación de marchas más larga que sea posible. El consumo de combustible es menor si se circula con marchas largas y con el motor poco revolucionado."
+  },
+  {
+    "n": 41,
+    "tipo": "imagen",
+    "titulo": "Puesta en marcha del motor. Inicio de la marcha",
+    "texto": "Al poner en marcha el motor, en los vehículos a gasolina se debe iniciar la marcha inmediatamente después del arranque. En cambio, si el motor es de gasoil, es conveniente esperar unos segundos con el motor arrancado antes de empezar a circular."
+  },
+  {
+    "n": 42,
+    "tipo": "imagen",
+    "titulo": "Contaminación",
+    "texto": "Si un vehículo expulsa más humo del permitido reglamentariamente, no podrá circular por las vías públicas. Tampoco podrá circular si tiene el silenciador estropeado y produce contaminación acústica.\n\nLos agentes de tráfico podrán proceder a la inmovilización del vehículo cuando supere los niveles permitidos de gases, humos y ruidos."
+  },
+  {
+    "n": 43,
+    "tipo": "imagen",
+    "titulo": "Accesorios, repuestos y herramientas",
+    "texto": "Los turismos llevarán, obligatoriamente,  la siguiente dotación:\n\n- El dispositivo luminoso de preseñalización de peligro V-16.\n\n- Una rueda completa de repuesto o una rueda de uso temporal, con las herramientas necesarias para el cambio de ruedas, o un sistema alternativo al cambio de las mismas que ofrezca suficientes garantías para la movilidad del vehículo. En estos casos se circulará respetando las limitaciones propias de cada alternativa."
+  },
+  {
+    "n": 44,
+    "tipo": "imagen",
+    "titulo": "Uso obligatorio del chaleco reflectante",
+    "texto": "Para transitar por la calzada o el arcén de una vía interurbana, tanto de día como de noche, es obligatorio ponerse un chaleco reflectante antes de salir del vehículo."
+  },
+  {
+    "n": 45,
+    "tipo": "imagen",
+    "titulo": "Muchas gracias por tu atención.\n\nA continuación puedes hacer el test de repaso de este tema.",
+    "texto": null
+  }
+]

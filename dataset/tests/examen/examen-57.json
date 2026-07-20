@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 57,
+  "nombre": "Test de examen 57",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Si conduce un turismo y va a adelantar a un ciclomotor, ¿es obligatorio desplazarse y ocupar completamente el carril contiguo o contrario, en su caso?",
+      "imagen": "examen-57_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, no es obligatorio para adelantar ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, es obligatorio en todo caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo es obligatorio cuando la calzada cuente con más de un carril por sentido."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo que pretenda realizar un adelantamiento a un ciclo o ciclomotor, o conjunto de ellos, debe realizarlo ocupando parte o la totalidad del carril contiguo o contrario, en su caso, de la calzada y guardando una anchura de seguridad de, al menos, 1,5 metros, salvo cuando la calzada cuente con más de un carril por sentido, en cuyo caso será obligatorio el cambio completo de carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Una persona que obtiene el permiso de la clase B a los 18 años, ¿debe renovarlo posteriormente?",
+      "imagen": "examen-57_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque este permiso no pierde nunca su validez."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, a los diez años de su expedición, como norma general."
+        },
+        {
+          "letra": "C",
+          "texto": "No, salvo que obtenga cualquier otro permiso o licencia de conducción."
+        }
+      ],
+      "ayuda": "El permiso deberá renovarse cada 10 años, mientras su titular no cumpla los 65 años de edad. A partir de entonces, las renovaciones deben realizarse cada cinco años.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Cuando nieva, ¿es recomendable usar gafas de sol?",
+      "imagen": "examen-57_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si sale el sol y se refleja fuertemente en la nieve pueden ser muy útiles."
+        },
+        {
+          "letra": "B",
+          "texto": "No, puesto que perjudicaría a la visión."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, y además son obligatorias."
+        }
+      ],
+      "ayuda": "Las gafas de sol son una buena solución para los deslumbramientos producidos por la luz natural. El reflejo del sol en la nieve puede ocasionar trastornos en la visibilidad, lo cual se puede evitar utilizando unas gafas adecuadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Qué puede favorecer la aparición de fatiga?",
+      "imagen": "examen-57_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El mal diseño del asiento o de otros elementos interiores del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Recorrer una vía con el firme bien conservado."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular con el vehículo en perfecto estado."
+        }
+      ],
+      "ayuda": "El diseño ergonómico del asiento del conductor y del interior del vehículo en general, es fundamental para garantizar unas condiciones de confort que eviten o retrasen la aparición del cansancio o la fatiga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Circula por el carril derecho. ¿Qué indica la señal horizontal?",
+      "imagen": "examen-57_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La velocidad máxima permitida."
+        },
+        {
+          "letra": "B",
+          "texto": "La velocidad mínima obligatoria."
+        },
+        {
+          "letra": "C",
+          "texto": "La velocidad recomendada."
+        }
+      ],
+      "ayuda": "La marca vial que se observa en la imagen indica la velocidad máxima permitida para los vehículos que circulen por el carril en el que esté situada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "El arcén de esta carretera mide menos de 1,5 metros. ¿A qué velocidad como máximo puede circular este turismo?",
+      "imagen": "examen-57_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 120 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "A 100 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A 90 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima genérica para turismos en este tipo de vías es de 90 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "En un paso para peatones, ¿está permitido cambiar el sentido de la marcha?",
+      "imagen": "examen-57_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, incluso en sus proximidades."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ni siquiera en sus proximidades."
+        }
+      ],
+      "ayuda": "Está prohibido adelantar (y cambiar el sentido de la marcha) en los pasos para peatones señalizados como tales y en sus proximidades.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Circula detrás de otro vehículo y quiere adelantarlo. ¿Qué distancia debe dejar?",
+      "imagen": "examen-57_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 metros o más."
+        },
+        {
+          "letra": "B",
+          "texto": "La distancia de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "El doble de la longitud del vehículo."
+        }
+      ],
+      "ayuda": "La distancia de seguridad debe mantenerse en todo lugar y circunstancia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Qué infracciones de los peatones suelen ser una causa de atropello?",
+      "imagen": "examen-57_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cruzar lentamente."
+        },
+        {
+          "letra": "B",
+          "texto": "No utilizar los pasos de peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "Cruzar con el semáforo en amarillo intermitente."
+        }
+      ],
+      "ayuda": "Atravesar la calzada fuera de los pasos para peatones o en lugares inadecuados, es causa frecuente de los atropellos a peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Para los conductores y pasajeros de motocicletas, ¿tiene importancia el vestuario a utilizar?",
+      "imagen": "examen-57_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque no aporta nada a la seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "No, es indiferente siempre que lleven el casco."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, es fundamental porque el cuerpo está directamente expuesto a las inclemencias del tiempo."
+        }
+      ],
+      "ayuda": "En las motocicletas el uso de un vestuario adecuado es fundamental para proteger el cuerpo de las inclemencias del tiempo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "El estrés, ¿qué efectos puede tener sobre el conductor?",
+      "imagen": "examen-57_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que tome decisiones más lentas y cometa menos errores."
+        },
+        {
+          "letra": "B",
+          "texto": "Que aparezcan más distracciones al volante."
+        },
+        {
+          "letra": "C",
+          "texto": "Que tome decisiones más rápidas y cometa menos errores."
+        }
+      ],
+      "ayuda": "El estrés causa múltiples efectos negativos sobre conducción, propiciando que el conductor se distraiga más fácilmente y cometa más errores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Las motocicletas, ciclomotores o vehículos de tres ruedas, ¿pueden arrastrar un remolque o semirremolque?",
+      "imagen": "examen-57_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que, entre otros requisitos, sea de día y en condiciones que no disminuyan la visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, y además pueden transportar personas en el remolque."
+        }
+      ],
+      "ayuda": "Las motocicletas, los vehículos de tres ruedas y los ciclomotores podrán arrastrar un remolque o semirremolque siempre que no superen el cincuenta por ciento de la masa en vacío del vehículo tractor, sea de día, y se cumplan las demás condiciones reglamentarias.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "En un accidente de tráfico puede sufrir un latigazo cervical si...",
+      "imagen": "examen-57_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "lleva mal regulado el cinturón de seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "lleva mal regulado el apoyacabezas."
+        },
+        {
+          "letra": "C",
+          "texto": "se produce el efecto submarino."
+        }
+      ],
+      "ayuda": "Llevar el apoyacabezas mal reglado es una de las causas más comunes del \"latigazo cervical\". Este tipo de lesión se presenta especialmente en las colisiones por alcance y se puede prevenir haciendo un correcto uso de los elementos de seguridad pasiva, como el cinturón de seguridad y el apoyacabezas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Para qué sirve el sistema de suspensión?",
+      "imagen": "examen-57_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para amortiguar las vibraciones y mantener la estabilidad del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Para no patinar."
+        },
+        {
+          "letra": "C",
+          "texto": "Para mover las ruedas."
+        }
+      ],
+      "ayuda": "Amortiguar las vibraciones y mantener la estabilidad del vehículo son algunas de las finalidades del sistema de suspensión.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Puede deslumbrar con luz de largo alcance a los vehículos que circulan delante por su mismo carril?",
+      "imagen": "examen-57_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, sólo se deslumbra a los que encuentre de frente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, por el reflejo de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, a través de los espejos retrovisores, por lo que debe cambiar a la luz de corto alcance."
+        }
+      ],
+      "ayuda": "Al circular durante la noche, se debe tener en cuenta que con el alumbrado de largo alcance, no solo se puede deslumbrar a los vehículos que circulen en sentido contrario, sino también a aquellos vehículos que circulan delante en nuestro mismo sentido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "En general, las autovías y autopistas son...",
+      "imagen": "examen-57_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "menos seguras que las carreteras convencionales."
+        },
+        {
+          "letra": "B",
+          "texto": "igual de seguras que las carreteras convencionales.\n"
+        },
+        {
+          "letra": "C",
+          "texto": "más seguras que las carreteras convencionales."
+        }
+      ],
+      "ayuda": "En general, las autopistas y las autovías son más seguras que el resto de carreteras interurbanas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "En el carril de entrada, ¿cómo debe circular?",
+      "imagen": "examen-57_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Acelerando porque no estoy obligado a ceder el paso."
+        },
+        {
+          "letra": "B",
+          "texto": "Deteniéndome antes de la señal."
+        },
+        {
+          "letra": "C",
+          "texto": "Cediendo el paso a los vehículos que circulan por la autovía."
+        }
+      ],
+      "ayuda": "Al circular por el carril de entrada, se debe ceder el paso a los vehículos que circulan por los carriles principales de la autopista o autovía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "En esta calle no hay señal de limitación de velocidad. ¿A qué velocidad máxima se puede circular?",
+      "imagen": "examen-57_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "40 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "20 km/h."
+        }
+      ],
+      "ayuda": "Como norma general, la velocidad máxima permitida en vía de poblado es de 50 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Cuándo está prohibido adelantar en los túneles?",
+      "imagen": "examen-57_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando el túnel no está iluminado."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando solo existe un carril para cada sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando existe más de un carril para cada sentido."
+        }
+      ],
+      "ayuda": "En los túneles, está siempre prohibido invadir el sentido contrario, por lo que no se podrá adelantar si solo se dispone de un carril para el sentido de la circulación en el que se pretende realizar el adelantamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "En un control de alcoholemia, ¿cuántas pruebas pueden realizarle?",
+      "imagen": "examen-57_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una única prueba con el etilómetro."
+        },
+        {
+          "letra": "B",
+          "texto": "La primera de aire espirado con el etilómetro y puede solicitar una segunda prueba transcurridos 10 minutos."
+        },
+        {
+          "letra": "C",
+          "texto": "Dos pruebas a elegir entre aire espirado con el etilómetro o un análisis de sangre."
+        }
+      ],
+      "ayuda": "Los controles de alcoholemia suelen realizarse mediante un etilómetro, el cual detecta la presencia de alcohol en el aire espirado. En caso de que la primera medición resulte positiva, se podrá solicitar una segunda prueba para contrastar el resultado, la cual se realizará luego de transcurridos diez minutos desde la primera prueba.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "El vehículo rojo, ¿está obligado a ceder el paso en la intersección?",
+      "imagen": "examen-57_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, a los vehículos que se aproximen por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, a todos los vehículos."
+        }
+      ],
+      "ayuda": "La señal que se observa, indica prioridad en la próxima intersección, por lo que el conductor del vehículo rojo no está obligado a ceder el paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "El conductor de un vehículo inmovilizado en la calzada o arcén de una vía entre la puesta y la salida del sol está obligado a...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "apagar el alumbrado para evitar el desgaste de la batería."
+        },
+        {
+          "letra": "B",
+          "texto": "mantener encendidas siempre las luces de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "mantener encendidas las luces de posición."
+        }
+      ],
+      "ayuda": "Como norma general, todo vehículo que, por cualquier circunstancia, se encuentre inmovilizado entre la puesta y la salida del sol o bajo condiciones que disminuyan la visibilidad, en la calzada o arcén de una vía, deberá tener encendidas las luces de posición y, en su caso, las de gálibo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "En la maniobra de marcha atrás, ¿está exento el conductor del uso del cinturón de seguridad?",
+      "imagen": "examen-57_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo en vías urbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, debe llevarlo abrochado siempre."
+        }
+      ],
+      "ayuda": "Los conductores están exentos de utilizar el cinturón de seguridad, cuando realicen la maniobra de marcha atrás o de estacionamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Transporta en su turismo una carga que sobresale por la parte trasera; ¿debe señalizarla si circula de día?",
+      "imagen": "examen-57_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, con un panel colocado en el extremo posterior de la carga."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en los turismos no es obligatorio señalizar la carga durante el día."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo se señalizará de noche o con condiciones meteorológicas adversas."
+        }
+      ],
+      "ayuda": "En los turismos, cuando la carga sobresalga por detrás, durante el día, deberá señalizarse mediante la utilización de un panel reglamentario (señal V-20).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Los cinturones de seguridad y los airbags son sistemas de...",
+      "imagen": "examen-57_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "conducción eficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "seguridad activa."
+        },
+        {
+          "letra": "C",
+          "texto": "seguridad pasiva."
+        }
+      ],
+      "ayuda": "Los cinturones de seguridad, los airbags, los apoyacabezas y todos los dispositivos destinados a proteger a los ocupantes de un vehículo, una vez que se ha producido un accidente, pertenecen al sistema de seguridad pasiva o secundaria.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Si se ingiere una pequeña cantidad de alcohol...",
+      "imagen": "examen-57_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se produce cierto deterioro en la capacidad para conducir."
+        },
+        {
+          "letra": "B",
+          "texto": "no se produce ningún deterioro en la capacidad de conducir."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo afecta a la capacidad para conducir si se toma mezclado con otras drogas ilegales."
+        }
+      ],
+      "ayuda": "El alcohol, aunque se consuma en pequeñas dosis, siempre produce un deterioro de las capacidades para conducir con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Conducir cansado, ¿es peligroso?",
+      "imagen": "examen-57_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "No hay peligro, porque el cansancio relaja."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque se tarda más en reaccionar."
+        }
+      ],
+      "ayuda": "El cansancio y la fatiga, constituyen un factor de riesgo durante la circulación, ya que los conductores tardan más tiempo en reaccionar (aumenta el tiempo de reacción).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "En caso de venta de un vehículo, ¿quién tiene que notificarlo a la Jefatura de Tráfico correspondiente?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El comprador, en un plazo máximo de 15 días."
+        },
+        {
+          "letra": "B",
+          "texto": "Tanto el comprador como el vendedor en el plazo más breve posible."
+        },
+        {
+          "letra": "C",
+          "texto": "El vendedor, en el plazo de 10 días."
+        }
+      ],
+      "ayuda": "Al vender el vehículo, el titular (vendedor) deberá notificarlo a la Jefatura Provincial de Tráfico correspondiente, antes de que transcurran 10 días desde la celebración de la compra-venta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Se considera conductor a la persona...",
+      "imagen": "examen-57_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que maneja el volante de un vehículo cuando circula en prácticas."
+        },
+        {
+          "letra": "B",
+          "texto": "que maneja el mecanismo de dirección o va al mando de un vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "que conduce a pie un ciclo o ciclomotor de dos ruedas."
+        }
+      ],
+      "ayuda": "Según la definición contenida en la Ley de Tráfico, Circulación de vehículos a motor y Seguridad Vial, se considera conductor a la persona que maneja el mecanismo de dirección o va al mando de un vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Qué indica la señal?",
+      "imagen": "examen-57_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prohibida la entrada a vehículos agrícolas de motor."
+        },
+        {
+          "letra": "B",
+          "texto": "Prohibida la entrada a todos los vehículos especiales."
+        },
+        {
+          "letra": "C",
+          "texto": "Camino obligatorio para tractores."
+        }
+      ],
+      "ayuda": "Entrada prohibida a vehículos agrícolas de motor\nProhibición de acceso a tractores y otras máquinas agrícolas autopropulsadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

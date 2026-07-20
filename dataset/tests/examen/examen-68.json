@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 68,
+  "nombre": "Test de examen 68",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "La señal de la izquierda (con tres flechas), ¿qué indica?",
+      "imagen": "examen-68_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obliga a seguir la dirección de la flecha en la próxima intersección."
+        },
+        {
+          "letra": "B",
+          "texto": "Que es obligatorio circular por el arcén izquierdo."
+        },
+        {
+          "letra": "C",
+          "texto": "Que a 250 metros se desvía el carril de la izquierda."
+        }
+      ],
+      "ayuda": "La señal de la imagen indica en una calzada con tres carriles de circulación en el mismo sentido, que a 250 metros, el carril de la izquierda se bifurcará (desviará) hacia ese mismo lado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "La señal de Stop, ¿obliga siempre a detenerse?",
+      "imagen": "examen-68_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, salvo que un agente de tráfico o un semáforo indiquen lo contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, salvo que no exista línea de detención."
+        }
+      ],
+      "ayuda": "La señal de Stop obliga a todo conductor a detener su vehículo y a ceder el paso a los vehículos que circulen por la vía a la que se aproxima. No obstante, si en el lugar donde se encuentra la señal de Stop, hubiera un semáforo o un agente de tráfico que indicaran lo contrario, debido al orden de prioridad entre señales, el conductor deberá obedecer las indicaciones de éstos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Quién es el responsable de las infracciones relativas a la documentación y el estado del vehículo?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El tomador del seguro."
+        },
+        {
+          "letra": "B",
+          "texto": "El conductor en el momento en el que se detecta la infracción."
+        },
+        {
+          "letra": "C",
+          "texto": "El titular."
+        }
+      ],
+      "ayuda": "El titular de un vehículo está obligado a disponer de la documentación exigible, así como a mantener su vehículo en correcto estado. Por lo tanto, las infracciones relativas a la documentación y el estado del vehículo son su responsabilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Qué parte del cuerpo resulta más afectada en los accidentes de motocicleta?",
+      "imagen": "examen-68_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las piernas."
+        },
+        {
+          "letra": "B",
+          "texto": "Los brazos."
+        },
+        {
+          "letra": "C",
+          "texto": "La cabeza y la cara."
+        }
+      ],
+      "ayuda": "En caso de que el conductor de una motocicleta sufra un accidente, las partes de su cuerpo que se verán más afectadas son la cabeza y la cara.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Si un peatón circula por la noche por una vía interurbana, está obligado a utilizar...",
+      "imagen": "examen-68_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "una luz blanca hacia adelante y roja hacia atrás."
+        },
+        {
+          "letra": "B",
+          "texto": "un elemento reflectante homologado visible a una distancia mínima de 150 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "ropa clara que sea visible desde una distancia de 150 metros."
+        }
+      ],
+      "ayuda": "Fuera del poblado, entre el ocaso y la salida del sol o en condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, todo peatón que circule por la calzada o el arcén, deberá ir provisto de un elemento luminoso o retrorreflectante homologado, que sea visible a una distancia mínima de 150 metros por los conductores que se aproximen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "En esta vía, ¿es correcto circular por el centro de la calzada?",
+      "imagen": "examen-68_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, se circulará por la derecha de la calzada lo más cerca del borde derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque la calzada es muy estrecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque no hay marcas que delimiten los carriles."
+        }
+      ],
+      "ayuda": "Como norma general, los vehículos deben circular por la derecha y lo más cerca posible del borde de la calzada, manteniendo una separación lateral que permita realizar el cruce con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "En un vehículo es obligatorio colocar y sujetar la carga de forma que no pueda...",
+      "imagen": "examen-68_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "arrastrar, caer o desplazarse de manera peligrosa.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "desplazarse de manera peligrosa, únicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "caer o desplazarse de manera peligrosa, únicamente."
+        }
+      ],
+      "ayuda": "La carga transportada en un vehículo debe estar colocada y, si fuera necesario, sujeta de modo que no pueda:\n- arrastrar, caer o desplazarse de manera peligrosa.\n- comprometer la estabilidad del vehículo. \n- producir ruido, polvo u otras molestias que puedan ser evitadas. \n- ocultar los dispositivos de alumbrado, las placas o distintivos obligatorios y las advertencias manuales de sus conductores.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Para un buen mantenimiento del sistema de frenos, ¿qué se debe hacer?",
+      "imagen": "examen-68_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Engrasar los discos periódicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Revisar el nivel de líquido de frenos."
+        },
+        {
+          "letra": "C",
+          "texto": "Pisar a fondo el pedal del freno para comprobar su eficacia."
+        }
+      ],
+      "ayuda": "Entre las tareas de mantenimiento del sistema de frenado que un conductor debe realizar, se encuentra la revisión del nivel del líquido de frenos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "El conductor, ¿está obligado a hacer que los pasajeros mantengan la posición adecuada?",
+      "imagen": "examen-68_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, solo está obligado a cuidar la colocación de los objetos"
+        }
+      ],
+      "ayuda": "El conductor es el responsable de que las personas transportadas en su vehículo ocupen el lugar y la posición adecuada para una circulación segura.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Si debido a un pinchazo se ve obligado a circular con una rueda de uso temporal, ¿qué deberá tener en cuenta?",
+      "imagen": "examen-68_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que no se debe circular a más de 50 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "Que no se debe circular a más de 80 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "Que se aconseja no circular a más de 80 km/h."
+        }
+      ],
+      "ayuda": "Las ruedas de uso temporal tienen como finalidad permitir que el conductor pueda continuar la marcha hasta el taller o lugar más cercano donde puedan reparar la rueda pinchada. Por ello, con una rueda de este tipo, no es recomendable circular a más de 80 km/h, ni recorrer más de 200 kilómetros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Para evitar los accidentes con motocicletas o ciclomotores es importante...",
+      "imagen": "examen-68_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aumentar siempre la distancia de frenado."
+        },
+        {
+          "letra": "B",
+          "texto": "no circular en paralelo a un vehículo de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "avisar con ráfagas con las luces largas cuando se aproxime a estos vehículos."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo que pretenda evitar tener un accidente con un vehículo de dos ruedas no debe circular en paralelo a ellos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En un accidente, ¿cuándo está obligado a ayudar?",
+      "imagen": "examen-68_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solamente cuando no estoy implicado en el accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "No es obligatorio en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando vea que aún no han sido atendidos los heridos."
+        }
+      ],
+      "ayuda": "El conductor que presencie o tenga conocimiento de un accidente deberá prestar su ayuda, entre otros casos, cuando hubiera personas heridas a las cuales no se les hubiera prestado atención sanitaria.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Qué circunstancias favorecen la aparición de la fatiga?",
+      "imagen": "examen-68_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Planificar los viajes y descansos necesarios."
+        },
+        {
+          "letra": "B",
+          "texto": "Mantener posturas inadecuadas al volante."
+        },
+        {
+          "letra": "C",
+          "texto": "Mantener los hábitos normales de conducción."
+        }
+      ],
+      "ayuda": "Una de las causas que favorecen la aparición de la fatiga es mantener posturas inadecuadas al volante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "La distancia de detención depende...",
+      "imagen": "examen-68_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "del estado de la calzada, entre otros factores."
+        },
+        {
+          "letra": "B",
+          "texto": "sólo del estado del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "únicamente del estado del conductor."
+        }
+      ],
+      "ayuda": "Las distancia de detención depende de diversos factores como el estado del vehículo, las condiciones psicofísicas del conductor o el estado de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "Un conjunto de vehículos de más de 7 metros de longitud que circula por una vía con tres carriles para el mismo sentido, además del carril derecho, ¿qué carriles puede utilizar?",
+      "imagen": "examen-68_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cualquier carril."
+        },
+        {
+          "letra": "B",
+          "texto": "Ninguno, sólo puede circular por el de la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "El inmediato cuando las circunstancias del tráfico o de la vía lo aconsejen."
+        }
+      ],
+      "ayuda": "En una calzada que tenga tres o más carriles en el mismo sentido de circulación, los conductores de camiones con M.M.A superior a 3.500 kg, y los de conjuntos de vehículos de más de 7 metros de longitud, circularán por el carril derecho y podrán utilizar el inmediato cuando las circunstancias del tráfico o de la vía lo aconsejen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Si observa que un vehículo quiere incorporarse por el carril de aceleración, ¿qué debe hacer?",
+      "imagen": "examen-68_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Facilitar la incorporación cuando sea posible."
+        },
+        {
+          "letra": "B",
+          "texto": "Cederle el paso."
+        },
+        {
+          "letra": "C",
+          "texto": "Nada, porque tengo preferencia."
+        }
+      ],
+      "ayuda": "El conductor que compruebe que un vehículo pretende incorporarse a la vía por la que circula desde un carril de aceleración, no está obligado a cederle el paso, pero deberá facilitarle la incorporación, en la medida de lo posible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Una motocicleta adelanta a un turismo en carretera. ¿Qué distancia lateral debe dejar?",
+      "imagen": "examen-68_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1.50 metros o más."
+        },
+        {
+          "letra": "B",
+          "texto": "2 metros o más."
+        },
+        {
+          "letra": "C",
+          "texto": "No hay distancia mínima obligatoria."
+        }
+      ],
+      "ayuda": "Fuera de poblado, el conductor de un vehículo de dos ruedas que pretenda adelantar a otro, lo hará dejando una distancia lateral no inferior a 1,50 metros.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "En el arcén de esta vía, ¿puede inmovilizar su vehículo para ver el paisaje?",
+      "imagen": "examen-68_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque el arcén es ancho."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque no hay señales que lo prohíban."
+        }
+      ],
+      "ayuda": "En autopistas y autovías está prohibido parar y estacionar, salvo en las zonas habilitadas para ello (áreas de descanso o de servicio).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "En el semáforo está encendida la luz roja y la flecha verde. ¿Puede continuar de frente?",
+      "imagen": "examen-68_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero debo pasar por el carril izquierdo."
+        }
+      ],
+      "ayuda": "La flecha verde del semáforo permite el paso a los vehículos que vayan a seguir la dirección indicada por ella. Por lo tanto, el conductor que pretenda seguir de frente deberá obedecer al semáforo con la luz roja encendida, el cual le obliga a detenerse.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "En un túnel cuando la detención dura más de dos minutos, ¿qué debe hacer?",
+      "imagen": "examen-68_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mantener el motor en marcha, y encender la luz de emergencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Mantener el motor en marcha y colocar los dispositivos de preseñalización de peligro."
+        },
+        {
+          "letra": "C",
+          "texto": "Apagar el motor y mantener encendida la luz de posición."
+        }
+      ],
+      "ayuda": "En un túnel, cuando un vehículo deba permanecer detenido por más de dos minutos, el conductor deberá apagar el motor y mantener encendida la luz de posición.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Cuando se acerque un vehículo prioritario en servicio urgente, los demás conductores deben...",
+      "imagen": "examen-68_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "detener su vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "facilitarle el paso llegando incluso a detenerse si es preciso."
+        },
+        {
+          "letra": "C",
+          "texto": "apartarse siempre a su derecha."
+        }
+      ],
+      "ayuda": "Cuando un vehículo prioritario circula en servicio urgente, los demás vehículos deben facilitarle el paso apartándose, normalmente a su derecha, o deteniéndose si fuera preciso.\n\n----",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "El lavaparabrisas del vehículo...",
+      "imagen": "examen-68_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "necesita que se vigile el nivel de agua de su propio depósito."
+        },
+        {
+          "letra": "B",
+          "texto": "no necesita ningún mantenimiento."
+        },
+        {
+          "letra": "C",
+          "texto": "necesita que se vigile el nivel del circuito de refrigeración de donde toma el agua."
+        }
+      ],
+      "ayuda": "Para que el lavaparabrisas de un vehículo pueda cumplir su función de forma óptima, es necesario controlar que el nivel de agua de su propio depósito sea el adecuado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Cuando se padece depresión, antes de ponerse al volante...",
+      "imagen": "examen-68_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no hay que tomar ninguna precaución especial."
+        },
+        {
+          "letra": "B",
+          "texto": "hay que tomar tranquilizantes durante algunos días."
+        },
+        {
+          "letra": "C",
+          "texto": "hay que consultar a un especialista."
+        }
+      ],
+      "ayuda": "El conductor que padezca depresión, antes de ponerse al volante, debe consultar con un especialista acerca de los efectos que esa enfermedad puede tener para la tarea de la conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Esta señal, ¿prohíbe el cambio de dirección en la próxima intersección?",
+      "imagen": "examen-68_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, solo prohíbe el cambio de sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, ya que debe seguir la dirección y el sentido que señala la flecha."
+        },
+        {
+          "letra": "C",
+          "texto": "No, sólo indica que la vía es de sentido único."
+        }
+      ],
+      "ayuda": "En la señal de la imagen, la flecha señala la dirección y el sentido que los vehículos tienen la obligación de seguir. Por lo tanto, ante esta señal, los vehículos sólo podrán seguir de frente, quedando prohibido el cambio de dirección o de sentido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Pueden influir otros factores en un accidente, cuando las condiciones climatológicas son adversas?",
+      "imagen": "examen-68_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, el conductor, si conduce a una velocidad inadecuada."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, el mal estado de la vía, únicamente."
+        }
+      ],
+      "ayuda": "Cuando se circula en condiciones climatológicas adversas, el mal estado de la vía o el comportamiento inadecuado del conductor (cuando no adapta la velocidad de su vehículo o la distancia de seguridad, a las circunstancias de la circulación, etc.) son factores que incrementan las posibilidades de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Los conductores de vehículos deberán ceder el paso a los peatones...",
+      "imagen": "examen-68_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que hayan bajado de un autobús en una parada señalizada y se encuentren entre el autobús y el refugio más próximo."
+        },
+        {
+          "letra": "B",
+          "texto": "siempre que circulen por el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "cuando transiten por la calzada."
+        }
+      ],
+      "ayuda": "Entre otros casos, los conductores deben ceder el paso a los peatones que vayan a subir o hayan bajado de un autobús en una parada debidamente señalizada, cuando se encuentren entre dicho vehículo y la zona peatonal o refugio más próximo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "El personal de obras le está ordenando que se detenga. ¿Está obligado a obedecerle?",
+      "imagen": "examen-68_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque está autorizado a regular el paso de vehículos en los tramos de obras."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque no es un agente de circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "Solamente si circulan vehículos en sentido contrario."
+        }
+      ],
+      "ayuda": "Los usuarios de la vía están obligados a seguir las indicaciones del personal de obras destinado a la regulación del paso en un tramo en obras, y a obedecer las señales verticales incorporadas a una paleta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "En esta intersección, ¿se puede adelantar?",
+      "imagen": "examen-68_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si las circunstancias del tráfico lo permiten."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero sólo a un vehículo de dos ruedas."
+        }
+      ],
+      "ayuda": "Como norma general, está prohibido adelantar en las intersecciones y en sus proximidades, a menos que se trate de una glorieta, se goce de prioridad debidamente señalizada o el adelantamiento se realice por la derecha o a vehículos de dos ruedas (en los casos previstos).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "En este cruce, ¿qué indican las flechas del carril izquierdo?",
+      "imagen": "examen-68_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Me informan, no me obligan."
+        },
+        {
+          "letra": "B",
+          "texto": "Me obligan a girar a la izquierda o continuar recto."
+        },
+        {
+          "letra": "C",
+          "texto": "Me obligan a girar a la izquierda."
+        }
+      ],
+      "ayuda": "Si un conductor circula por un carril delimitado por líneas longitudinales en el cual hay situada una o varias flechas de selección de carriles, deberá seguir la dirección o una de las direcciones indicadas por aquellas aunque, si la señalización lo permite, podrá cambiarse a otro carril. Por ello, en el cruce de la imagen, quien circule por el carril izquierdo deberá seguir de frente o girar a la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "La edad mínima para viajar como acompañante en una motocicleta o ciclomotor será de...",
+      "imagen": "examen-68_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tres años, pero siempre con asiento adicional."
+        },
+        {
+          "letra": "B",
+          "texto": "doce años y, excepcionalmente, siete años si la motocicleta o ciclomotor van conducidos por el padre, madre o tutor."
+        },
+        {
+          "letra": "C",
+          "texto": "siempre doce años."
+        }
+      ],
+      "ayuda": "En los ciclomotores y en las motocicletas, además del conductor, puede viajar un pasajero que sea mayor de doce años, siempre que se cumplan las condiciones estipuladas reglamentariamente.\nExcepcionalmente, los mayores de siete años podrán circular en motocicletas o ciclomotores conducidos por su padre, madre o tutor o por personas mayores de edad por ellos autorizadas, siempre que utilicen casco homologado y cumplan las condiciones indicadas anteriormente.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

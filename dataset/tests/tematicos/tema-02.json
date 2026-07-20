@@ -1,0 +1,697 @@
+{
+  "categoria_id": 3,
+  "test_id": 3,
+  "nombre": "Tema 2 — Señalización de la vía",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Cuando el semáforo se ponga en verde, ¿qué debe hacer?",
+      "imagen": "tema-02_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obedecer el semáforo, pero tiene que ceder el paso."
+        },
+        {
+          "letra": "B",
+          "texto": "Obedecer el semáforo, ya que tiene prioridad sobre la señal de Stop."
+        },
+        {
+          "letra": "C",
+          "texto": "Obedecer la señal de Stop."
+        }
+      ],
+      "ayuda": "Las indicaciones de los semáforos prevalecen sobre las señales verticales por lo que, cuando el semáforo se ponga en verde, el conductor podrá pasar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Entre los distintos tipos de señales, ¿cuál es el orden de prioridad?",
+      "imagen": "tema-02_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Agentes, semáforos y señales verticales."
+        },
+        {
+          "letra": "B",
+          "texto": "Semáforos, agentes y señales verticales."
+        },
+        {
+          "letra": "C",
+          "texto": "Señales verticales, agentes y semáforos."
+        }
+      ],
+      "ayuda": "El orden de prioridad entre los distintos tipos de señales de circulación es el siguiente: señales y órdenes de los agentes de circulación, señalización circunstancial que modifica el régimen normal de utilización de la vía y señales de balizamiento fijo, semáforos, señales verticales de circulación y marcas viales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Un agente se dirige hacia su vehículo balanceando una luz roja. ¿Qué debe hacer?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cambiar de dirección."
+        },
+        {
+          "letra": "B",
+          "texto": "Detener el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular con precaución porque hay peligro."
+        }
+      ],
+      "ayuda": "El balanceo de una luz roja o amarilla de un agente obliga a detenerse a los usuarios de la vía hacia los que el agente dirija la luz.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En esta situación, si pretende seguir de frente, ¿a cuál de los dos semáforos debe obedecer?",
+      "imagen": "tema-02_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al semáforo de la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Al semáforo de la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Como la señalización es contradictoria, prevalece la más restrictiva."
+        }
+      ],
+      "ayuda": "Si existen semáforos o señales verticales de circulación con indicaciones distintas a la derecha y a la izquierda, quienes pretendan girar a la izquierda o seguir de frente sólo deben obedecer los situados inmediatamente a su izquierda. Por tanto, el coche verde si pretende seguir de frente debe obedecer el semáforo de su izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "En esta intersección con un semáforo amarillo intermitente, ¿qué debe hacer?",
+      "imagen": "tema-02_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Extremar la precaución y, en su caso, ceder el paso a ambos lados."
+        },
+        {
+          "letra": "B",
+          "texto": "Detener el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Continuar con precaución, el semáforo en amarillo intermitente exime de cumplir la señal vertical."
+        }
+      ],
+      "ayuda": "En la intersección que se observa en el gráfico con luz amarilla intermitente y señal vertical de stop, hay que detenerse siempre.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Qué indica la flecha verde del semáforo?",
+      "imagen": "tema-02_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que puedo tomar la dirección que indica la flecha, con precaución y dejando pasar a los vehículos que circulen por el carril al que me incorporo."
+        },
+        {
+          "letra": "B",
+          "texto": "Que puedo girar a la derecha cuando se encienda la luz verde del semáforo principal."
+        },
+        {
+          "letra": "C",
+          "texto": "Que puedo girar a la derecha con prioridad."
+        }
+      ],
+      "ayuda": "La flecha verde del semáforo indica que se puede seguir a la derecha. Los vehículos que sigan la dirección de la flecha verde, deben hacerlo con precaución, cediendo el paso a los vehículos que circulen por el carril al que se incorpora y no poniendo en peligro a los peatones que estén cruzando la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Un semáforo con una o dos luces rojas intermitentes prohíbe el paso debido a...",
+      "imagen": "tema-02_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la salida de un vehículo de extinción de incendios."
+        },
+        {
+          "letra": "B",
+          "texto": "trabajos en la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "un accidente."
+        }
+      ],
+      "ayuda": "Una luz roja intermitente, o dos luces rojas alternativamente intermitentes, prohíben temporalmente el paso a los vehículos antes de un paso a nivel, una entrada a un puente móvil o a un pontón trasbordador, en las proximidades de una salida de vehículos de extinción de incendios o con motivo de la aproximación de una aeronave a escasa altura.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Este tipo de semáforos afecta a...",
+      "imagen": "tema-02_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tranvías, ciclos y ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "los tranvías y a los autobuses de líneas regulares."
+        },
+        {
+          "letra": "C",
+          "texto": "los autobuses de líneas regulares, exclusivamente."
+        }
+      ],
+      "ayuda": "Este tipo de semáforos afecta a los tranvías y autobuses de líneas regulares.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Se puede atravesar la línea de conos para cambiar de carril?",
+      "imagen": "tema-02_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para realizar una parada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido."
+        }
+      ],
+      "ayuda": "Una fila de banderitas, conos o dispositivos análogos, prohíben el paso a través de la línea real o imaginaria que los une.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Qué indica este agente?",
+      "imagen": "tema-02_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detención para todos los usuarios que se acerquen de frente."
+        },
+        {
+          "letra": "B",
+          "texto": "Detención para todos los vehículos que se acerquen de frente al agente."
+        },
+        {
+          "letra": "C",
+          "texto": "Detención para todos los usuarios que se acerquen al agente."
+        }
+      ],
+      "ayuda": "Este agente indica detención a todos los usuarios que se acerquen al agente independientemente del lado por el que se aproximen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Un agente de circulación ordena reanudar la marcha con ayuda de un silbato, ¿cómo serán los toques?",
+      "imagen": "tema-02_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cortos y frecuentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Largos."
+        },
+        {
+          "letra": "C",
+          "texto": "No se utiliza el silbato para este tipo de órdenes."
+        }
+      ],
+      "ayuda": "Los agentes podrán ordenar la detención del vehículo con una serie de toques de silbato cortos y frecuentes, y la reanudación de la marcha con un toque largo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En una intersección en la que hay señales que regulan la prioridad y también hay un agente que regula el tráfico temporalmente, ¿qué debe hacer?",
+      "imagen": "tema-02_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obedecer las señales del agente."
+        },
+        {
+          "letra": "B",
+          "texto": "Aplicar las normas generales de prioridad de paso de los vehículos que se acerquen por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Obedecer las señales de tráfico que regulan la prioridad."
+        }
+      ],
+      "ayuda": "El orden de prioridad entre los distintos tipos de señales de circulación es el siguiente:\nSeñales y órdenes de los agentes de circulación, señalización circunstancial que modifica el régimen normal de utilización de la vía y señales de balizamiento fijo, semáforos, señales verticales de circulación y marcas viales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Qué le está indicando el agente desde el vehículo?\n",
+      "imagen": "tema-02_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que me detenga detrás del coche policial."
+        },
+        {
+          "letra": "B",
+          "texto": "Que va a girar a la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Que me detenga en el lado derecho."
+        }
+      ],
+      "ayuda": "Un agente en su vehículo con el brazo extendido hacia abajo inclinado y fijo, indica la obligación de detenerse en el lado derecho a aquellos usuarios a los que va dirigida la señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Un dispositivo delimitador consistente en una luz roja fija, indica que...\n",
+      "imagen": "tema-02_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la calzada está totalmente cerrada al tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "a partir de ella, hay que reducir la velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "hay que detenerse hasta que se encienda la luz verde."
+        }
+      ],
+      "ayuda": "El dispositvo delimitador constituido por una luz roja fija, indica que la calzada está totalmente cerrada al tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Cómo indicará un agente desde un vehículo, la obligación de detenerse en el lado derecho de la vía?",
+      "imagen": "tema-02_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con una bandera roja."
+        },
+        {
+          "letra": "B",
+          "texto": "Con el brazo extendido hacia abajo inclinado fijo."
+        },
+        {
+          "letra": "C",
+          "texto": "Con una bandera amarilla."
+        }
+      ],
+      "ayuda": "Brazo extendido hacia abajo inclinado fijo: el agente desde un vehículo indica la obligación de detenerse en el lado derecho a aquellos usuarios a los que va dirigida la señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Si a través del espejo retrovisor observa al vehículo policial que se ve en el gráfico. ¿Qué debe hacer?",
+      "imagen": "tema-02_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumentar la velocidad, ya que me está indicando que voy despacio."
+        },
+        {
+          "letra": "B",
+          "texto": "Detener el vehículo inmediatamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Detener el vehículo en el lado derecho, delante del coche policial, sin provocar riesgos a los demás usuarios."
+        }
+      ],
+      "ayuda": "Luz roja destellante hacia delante: el agente desde un vehículo indica al conductor del que le precede que debe detenerse en el lado derecho, delante del vehículo policial, sin provocar riesgo a los demás usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Se acerca al agente por el lado del brazo que está moviendo alternativamente de arriba abajo, ¿qué indica?",
+      "imagen": "tema-02_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que hay que detenerse."
+        },
+        {
+          "letra": "B",
+          "texto": "Que se debe disminuir la velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Que se debe girar hacia ese lado."
+        }
+      ],
+      "ayuda": "Si se acerca al agente por el lado del brazo que está moviendo alternativamente de arriba abajo, debe disminuir la velocidad de su vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Si la luz del semáforo pasa a verde y el agente mantiene el brazo en alto, ¿puedo pasar?",
+      "imagen": "tema-02_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque la señal del agente tiene prioridad respecto a las otras señales."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque la luz verde me lo permite."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que antes de cruzar deje pasar a todos los vehículos."
+        }
+      ],
+      "ayuda": "El orden de prioridad entre los distintos tipos de señales de circulación es el siguiente:\nSeñales y órdenes de los agentes de circulación, señalización circunstancial que modifica el régimen normal de utilización de la vía y señales de balizamiento fijo, semáforos, señales verticales de circulación y marcas viales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Esta señal, ¿qué indica?",
+      "imagen": "tema-02_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que hay una salida obligatoria a la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Que se termina el carril izquierdo y que hay obras."
+        },
+        {
+          "letra": "C",
+          "texto": "Que hay un carril para circulación lenta."
+        }
+      ],
+      "ayuda": "Esta señal preseñaliza en una calzada de sentido único de circulación, el carril que va a cesar de ser utilizable por obras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "La luz verde de un semáforo circular para vehículos, significa que...",
+      "imagen": "tema-02_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no puede pasar hasta que se apague."
+        },
+        {
+          "letra": "B",
+          "texto": "puede pasar y tiene preferencia de paso."
+        },
+        {
+          "letra": "C",
+          "texto": " debe dejar pasar a los demás vehículos."
+        }
+      ],
+      "ayuda": "Luz verde fija permite el paso con prioridad, excepto cuando el vehículo pueda quedar detenido de forma que impida u obstruya la circulación transversal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Este agente con los brazos extendidos obliga a detenerse...",
+      "imagen": "tema-02_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a todos los usuarios que se acerquen al agente desde cualquier dirección que corte a la indicada por los brazos."
+        },
+        {
+          "letra": "B",
+          "texto": "únicamente a los conductores de vehículos que se acerquen por detrás."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo a los conductores que se aproximen de frente."
+        }
+      ],
+      "ayuda": "El brazo o brazos extendidos horizontalmente obliga a detenerse a todos los usuarios de la vía que se acerquen al agente desde direcciones que corten la indicada por el brazo y cualquiera que sea su sentido de marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "El conductor de un turismo, ¿debe respetar esta señal?",
+      "imagen": "tema-02_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo cuando haya obreros trabajando en este tramo de obras."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, aunque no haya obreros trabajando en este tramo de obras."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque no es una señal fija."
+        }
+      ],
+      "ayuda": "La señal de obras que se observa en la imagen, afecta a todos los vehículos, independientemente de la presencia de obreros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Las indicaciones de estos semáforos, ¿a qué usuarios afectan?",
+      "imagen": "tema-02_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los vehículos de motor, exclusivamente."
+        },
+        {
+          "letra": "B",
+          "texto": "A todos los vehículos, excepto a las bicicletas."
+        },
+        {
+          "letra": "C",
+          "texto": "A todos los vehículos."
+        }
+      ],
+      "ayuda": "Las indicaciones de los semáforos circulares, le afectan a todos los vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "La flecha verde está iluminada. Si va a girar a la derecha, ¿tiene preferencia de paso?",
+      "imagen": "tema-02_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque la flecha verde me permite pasar pero tengo que ceder el paso al vehículo que se aproxima."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque la luz roja me prohíbe girar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque la flecha verde me obliga a girar."
+        }
+      ],
+      "ayuda": "Una flecha verde iluminada sobre un fondo circular negro significa que los vehículos pueden tomar la dirección y sentido indicados por aquélla, cualquiera que sea la luz que esté simultáneamente encendida en el mismo semáforo o en otro contiguo. Los vehículos que avancen siguiendo la indicación de una flecha verde deben hacerlo con precaución, dejando pasar a los vehículos que circulen por el carril al que se incorporen y no poniendo en peligro a los peatones que estén cruzando la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "En esta situación, ¿qué debe hacer?",
+      "imagen": "tema-02_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ceder el paso sin sobrepasar la línea de detención."
+        },
+        {
+          "letra": "B",
+          "texto": "Ceder el paso y si es necesario detenerme."
+        },
+        {
+          "letra": "C",
+          "texto": "Obedecer la señal de STOP."
+        }
+      ],
+      "ayuda": "En el caso de que las prescripciones por diferentes señales parezcan estar en contradicción entre sí, prevalecerá la prioritaria o la más restrictiva si se trata de señales del mismo tipo. Por tanto, en este caso hay que obedecer la señal de Stop por ser la más restrictiva.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Qué usuarios de la vía deben obedecer este semáforo?",
+      "imagen": "tema-02_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Peatones y bicicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "Ciclos."
+        },
+        {
+          "letra": "C",
+          "texto": "Motocicletas."
+        }
+      ],
+      "ayuda": "Cuando las luces de los semáforos presentan la silueta iluminada de un ciclo, sus indicaciones se refieren exclusivamente a ellos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Cuando un agente realiza toques cortos de silbato está ordenando...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la detención de los vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "la reanudación de la marcha."
+        },
+        {
+          "letra": "C",
+          "texto": "la disminución de la velocidad."
+        }
+      ],
+      "ayuda": "Los agentes podrán ordenar la detención del vehículo con una serie de toques de silbato cortos y frecuentes, y la reanudación de la marcha con un toque largo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Detiene el vehículo al ver a un agente que tiene el brazo extendido horizontalmente, puede reanudar la marcha cuando el agente...",
+      "imagen": "tema-02_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "lo indique con otra señal."
+        },
+        {
+          "letra": "B",
+          "texto": "emita unos toques de silbato cortos y frecuentes."
+        },
+        {
+          "letra": "C",
+          "texto": "baje el brazo."
+        }
+      ],
+      "ayuda": "Brazo o brazos extendidos horizontalmente: obliga a todos los usuarios de la vía que se acerquen al agente desde direcciones que corten la indicada por el brazo o los brazos extendidos y cualquiera que sea el sentido de su marcha. Esta señal permanece en vigor aunque el agente baje el brazo o los brazos, siempre que no cambie de posición o efectúe otra señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Un agente de tráfico que circula delante muestra una bandera de color rojo, ¿qué está indicando?",
+      "imagen": "tema-02_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que la calzada queda de nuevo abierta al tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "Que la calzada queda temporalmente cerrada al tráfico a todos los vehículos y usuarios."
+        },
+        {
+          "letra": "C",
+          "texto": "La necesidad de extremar la precaución ante la proximidad de un peligro."
+        }
+      ],
+      "ayuda": "La bandera roja indica que a partir del paso del vehículo que porta la bandera, la calzada queda temporalmente cerrada al tráfico de todos los vehículos y usuarios excepto para aquellos que son acompañados o escoltados por los agentes de la autoridad responsable de la regulación, gestión y control del tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Si delante circula un vehículo policial con una bandera verde, ¿puede adelantarlo?",
+      "imagen": "tema-02_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque la vía está libre."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando no exista peligro."
+        }
+      ],
+      "ayuda": "Si delante de nosotros circula un vehículo policial con una bandera verde, no se le puede adelantar, porque delante de dicho vehículo se está celebrando una carrera deportiva.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

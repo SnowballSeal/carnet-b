@@ -1,0 +1,14 @@
+{
+  "name": "Carnet B — cuaderno de estudio",
+  "short_name": "Carnet B",
+  "description": "Temario y tests para preparar el examen teórico del permiso B.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#f7f5f0",
+  "icons": [
+    { "src": "icono.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icono.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

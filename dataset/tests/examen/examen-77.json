@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 77,
+  "nombre": "Test de examen 77",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Entre los momentos de peligro en el uso del teléfono móvil se encuentran...",
+      "imagen": "examen-77_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "recibir una llamada y detenerse en un lugar seguro para hablar."
+        },
+        {
+          "letra": "B",
+          "texto": "no utilizar el teléfono móvil."
+        },
+        {
+          "letra": "C",
+          "texto": "colgar y guardar el móvil."
+        }
+      ],
+      "ayuda": "La utilización del teléfono móvil durante la conducción supone un peligro debido a la distracción que ocasiona, no solo durante la conversación, sino también al manipular el dispositivo, bien para finalizar la conversación, guardar el teléfono, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "El cruce de un paso a nivel debe realizarse...",
+      "imagen": "examen-77_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sin demora y después de haber comprobado que no hay riesgo a quedarse detenido en la vía del tren."
+        },
+        {
+          "letra": "B",
+          "texto": "muy rápidamente para no coincidir con el tren."
+        },
+        {
+          "letra": "C",
+          "texto": "muy despacio y con la luz de cruce encendida para que nos vea el conductor del tren."
+        }
+      ],
+      "ayuda": "El cruce de un paso a nivel debe realizarse sin demora y después de haber comprobado que no hay riesgo a quedarse detenido en la vía del tren.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Circular en motocicleta bajo una lluvia intensa, obliga a...",
+      "imagen": "examen-77_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "encender la luz de largo alcance incluso circulando dentro de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "moderar la velocidad, llegando a detenerse si fuera preciso."
+        },
+        {
+          "letra": "C",
+          "texto": "circular lo más cerca posible del vehículo que va delante para tener mayor protección y visibilidad."
+        }
+      ],
+      "ayuda": "Circular en motocicleta bajo una lluvia intensa supone un peligro adicional, por lo que en dichas condiciones, se debe moderar la velocidad llegando incluso a detenerse si fuera preciso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Al salir de un garaje, ¿debe ceder el paso?",
+      "imagen": "examen-77_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo a los peatones que van por la acera."
+        },
+        {
+          "letra": "B",
+          "texto": "No es obligatorio."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, a los peatones y a los vehículos."
+        }
+      ],
+      "ayuda": "Al salir de un garaje se debe ceder el paso a todos los usuarios de la vía, ya sean peatones u otros vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Los vehículos tienen prioridad sobre los peatones, excepto cuando...",
+      "imagen": "examen-77_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se encuentren en la proximidad de un paso para peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "vayan a girar en una intersección para entrar en otra vía y haya peatones cruzándola."
+        },
+        {
+          "letra": "C",
+          "texto": "los peatones se aproximen por la derecha."
+        }
+      ],
+      "ayuda": "Cuando un vehículo vaya a girar en una intersección para entrar en otra vía, deberá ceder el paso a los peatones que estén cruzándola.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Para advertir al vehículo que circula delante su intención de adelantarle, ¿qué tipo de señales están permitidas?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente luminosas."
+        },
+        {
+          "letra": "B",
+          "texto": "Luminosas y con el claxon, fuera de poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "Luminosas, con el brazo y con el claxon, si estoy en poblado."
+        }
+      ],
+      "ayuda": "Fuera de poblado, para advertir al vehículo que circula delante nuestra intención de adelantarle, se podrán utilizar tanto las señales luminosas como el claxon.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Es peligroso no abrocharse el cinturón de seguridad?",
+      "imagen": "examen-77_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En tráfico urbano no, debido a las bajas velocidades a las que se circula."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo es peligroso no abrocharse el cinturón en los asientos delanteros."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque incluso en un choque a baja velocidad no siempre es posible mantenerse sujeto al asiento."
+        }
+      ],
+      "ayuda": "Circular con el cinturón de seguridad correctamente abrochado es un hábito imprescindible para garantizar unas correctas condiciones de protección en caso de accidente. La no utilización del cinturón, puede suponer un peligro incluso cuando se circula a velocidades reducidas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Cuándo termina la prohibición de adelantar?",
+      "imagen": "examen-77_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando salga del estrechamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando llegue al estrechamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando rebase la vertical de la señal de \"fin de la prohibición de adelantamiento\"."
+        }
+      ],
+      "ayuda": "La prohibición de adelantar impuesta por la señal, dejará de ser aplicable cuando se rebase una señal de \"fin de la prohibición de adelantamiento\" o de \"fin de prohibiciones\".",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "El turismo, ¿circula bien?",
+      "imagen": "examen-77_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque está prohibido circular por el carril derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque el carril de la derecha está ocupado por el camión."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque debe circular siempre por el carril de la derecha."
+        }
+      ],
+      "ayuda": "El turismo que se observa en la imagen, circula correctamente ya que el carril de la derecha está ocupado por otro vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "En esta autopista, ¿dónde está permitido estacionar?",
+      "imagen": "examen-77_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fuera de la calzada, en el lado derecho, dejando libre la parte transitable del arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "En el lado derecho o izquierdo, si se realiza fuera de la calzada y del arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo en las zonas habilitadas para ello."
+        }
+      ],
+      "ayuda": "En autopistas y autovías está prohibido parar y/o estacionar, excepto en las zonas habilitadas para ello.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Está prohibido el adelantamiento en las intersecciones y sus proximidades, salvo...",
+      "imagen": "examen-77_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que la intersección no esté señalizada."
+        },
+        {
+          "letra": "B",
+          "texto": "cuando la calzada goce de prioridad y esté señalizada."
+        },
+        {
+          "letra": "C",
+          "texto": "que la calzada goce de prioridad aunque no esté señalizada."
+        }
+      ],
+      "ayuda": "Como norma general, está prohibido adelantar en intersecciones y en sus proximidades. Excepcionalmente, se podrá adelantar cuando la calzada por la que se circula goce de prioridad expresamente señalizada (semáforo en verde, señal de calzada con prioridad, señal de intersección con prioridad, etc.)",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Qué factor se relaciona con los accidentes juveniles?",
+      "imagen": "examen-77_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La menor percepción del riesgo."
+        },
+        {
+          "letra": "B",
+          "texto": "La falta de mantenimiento del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "La falta de reflejos."
+        }
+      ],
+      "ayuda": "Uno de los factores que suelen relacionarse con los accidentes juveniles es la menor percepción del riesgo que este grupo de usuarios presenta. Los conductores jóvenes tienden a infravalorar determinadas situaciones de peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "La maniobra de marcha atrás está totalmente prohibida en...",
+      "imagen": "examen-77_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la calzada de cualquier vía."
+        },
+        {
+          "letra": "B",
+          "texto": "las vías reservadas para automóviles."
+        },
+        {
+          "letra": "C",
+          "texto": "autopistas y autovías."
+        }
+      ],
+      "ayuda": "La maniobra de marcha atrás está prohibida como norma general en todas las vías, salvo las excepciones previstas en el reglamento. En autopistas y autovías, las excepciones mencionadas no son aplicables, por lo que la marcha atrás está totalmente prohibida en esta clase de vías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Tiene permitido circular una motocicleta por un carril habilitado en sentido contrario al habitual?",
+      "imagen": "examen-77_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero sólo si se trata de una motocicleta de dos ruedas sin sidecar."
+        }
+      ],
+      "ayuda": "Como norma general, en los carriles habilitados para su circulación en sentido contrario al habitual, podrán circular los turismos sin remolque y las motocicletas.\nEl resto de vehículos tienen prohibido circular por este tipo de carriles, salvo que el mismo se haya habilitado por razones de obras en la calzada, en cuyo caso no existirá ninguna limitación al respecto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Una marca longitudinal formada por dos líneas continuas adosadas...",
+      "imagen": "examen-77_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "indica que circulamos por un carril adicional circunstancial."
+        },
+        {
+          "letra": "B",
+          "texto": "indica que circulamos por un carril reversible."
+        },
+        {
+          "letra": "C",
+          "texto": "tiene el mismo significado que una marca longitudinal continua."
+        }
+      ],
+      "ayuda": "Una marca longitudinal formada por dos líneas continuas adosadas tiene el mismo significado que una marca longitudinal continua.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Los paneles de mensaje variable, ¿pueden utilizarse para dar instrucciones de obligado cumplimiento?",
+      "imagen": "examen-77_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, sólo pueden usarse para advertir de posibles peligros."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, entre otros usos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, son meramente informativos."
+        }
+      ],
+      "ayuda": "Los paneles de mensaje variable constituyen un valioso instrumento de comunicación entre las autoridades encargadas de la regulación del tráfico y los usuarios. Entre otros usos, estos paneles pueden utilizarse para dar instrucciones de obligado cumplimiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Después de iniciar el adelantamiento comprueba que se acerca un vehículo de frente, ¿qué debe hacer?",
+      "imagen": "examen-77_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tocar el claxon y encender las luces para que el otro vehículo aminore su velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Reducir la marcha y volver a su carril, si no puede terminar la maniobra con seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Mantenerse en el centro de la calzada."
+        }
+      ],
+      "ayuda": "Cuando un conductor compruebe que, una vez iniciada la maniobra de adelantamiento, la misma no puede terminarse con seguridad, debe reducir la velocidad y regresar cuanto antes a su carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "La señal indica que el carril derecho...",
+      "imagen": "examen-77_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es obligatorio para los vehículos de dos ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "sólo pueden utilizarlo los ciclos."
+        },
+        {
+          "letra": "C",
+          "texto": "es obligatorio para bicicletas, pudiendo ser utilizado por otros usuarios."
+        }
+      ],
+      "ayuda": "La señal que se observa indica que el carril derecho es exclusivo para ciclos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Este panel bajo la señal indica que...",
+      "imagen": "examen-77_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "puede haber hielo en la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "en caso de niebla no está permitido superar la velocidad indicada en la señal."
+        },
+        {
+          "letra": "C",
+          "texto": "se acerca a un tramo afectado por la niebla."
+        }
+      ],
+      "ayuda": "El panel complementario que se observa en la imagen, indica en caso de niebla no está permitido superar la velocidad indicada en la señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿En qué situaciones complejas pueden tener más accidentes las personas mayores?",
+      "imagen": "examen-77_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En los cambios de dirección."
+        },
+        {
+          "letra": "B",
+          "texto": "En las que exijan una respuesta rápida."
+        },
+        {
+          "letra": "C",
+          "texto": "En los adelantamientos."
+        }
+      ],
+      "ayuda": "Las situaciones de tráfico complejas en las que se exige una rápida respuesta son las que suelen generar mayor cantidad de accidentes entre las personas mayores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Esta señal le indica peligro por la proximidad de...",
+      "imagen": "examen-77_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un cruce con doble sentido de circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "un cruce en el que tengo prioridad."
+        },
+        {
+          "letra": "C",
+          "texto": "una glorieta con circulación en el sentido indicado por las flechas."
+        }
+      ],
+      "ayuda": "Señal de glorieta.\nPeligro por la proximidad de una glorieta con circulación en el sentido indicado por las flechas. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-77_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que la calzada va a pasar de uno a dos carriles en el mismo sentido de la circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "Un carril de salida inmediata hacia la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Que comienza un carril para vehículos lentos."
+        }
+      ],
+      "ayuda": "Señal de paso de uno a dos carriles de circulación.\nIndica, en un tramo con un solo carril en un sentido de circulación, que en el próximo tramo se va a pasar a disponer de dos carriles en el mismo sentido de la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Los sistemas de seguridad pasiva incluyen...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "frenos, neumáticos, airbags y cinturones de seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "cinturones de seguridad, airbags, apoyacabezas y casco."
+        },
+        {
+          "letra": "C",
+          "texto": "alumbrado, neumáticos, frenos y suspensión."
+        }
+      ],
+      "ayuda": "Los sistemas de seguridad pasiva son aquellos destinados a proteger a los ocupantes de un vehículo en el caso de que se produzca un accidente. Los cinturones de seguridad, airbags, apoyacabezas, cascos, etc. son elementos de seguridad pasiva.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Una ambulancia que circula con las señales apagadas...",
+      "imagen": "examen-77_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tiene preferencia en las vías urbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "siempre tiene preferencia."
+        },
+        {
+          "letra": "C",
+          "texto": "no tiene preferencia."
+        }
+      ],
+      "ayuda": "Los vehículos prioritarios, como ambulancias, vehículos de extinción de incendios, de policía, etc., solo tendrán prioridad sobre los demás usuarios cuando circulen en servicio urgente y señalicen dicha situación con las señales correspondientes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "A la vista de la fotografía, el conductor del vehículo, ¿está obligado a detenerse siempre?",
+      "imagen": "examen-77_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en todo caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo si se aproxima algún vehículo al que deba ceder el paso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo si sigue de frente."
+        }
+      ],
+      "ayuda": "La señal de ceda el paso no obliga a los conductores a detenerse, salvo que esto sea necesario para ceder el paso a los vehículos que se aproximen y que gocen de prioridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "En este cruce, el conductor del coche azul...",
+      "imagen": "examen-77_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tiene que ceder el paso a los posibles peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "no debe penetrar en la intersección."
+        },
+        {
+          "letra": "C",
+          "texto": "puede pasar porque tiene prioridad, semáforo en verde."
+        }
+      ],
+      "ayuda": "Un conjunto de líneas amarillas entrecruzadas recuerda a los conductores la prohibición de penetrar con su vehículo en una intersección si la situación de la circulación es tal que, previsiblemente, pueda quedar detenido de forma que impida u obstruya la circulación transversal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Se considera el entorno de la vía un factor de riesgo?",
+      "imagen": "examen-77_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solo en carreteras convencionales."
+        },
+        {
+          "letra": "C",
+          "texto": "No, únicamente es un factor de riesgo la vía."
+        }
+      ],
+      "ayuda": "La vía y su entorno, constituyen un factor de riesgo para la accidentalidad. Se estima que un porcentaje de entre un 10 y un 35% de los accidentes son debidos a este factor de riesgo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿En qué vías es obligatorio dejar la distancia de seguridad con el vehículo que circula delante para permitir que otro pueda adelantar?",
+      "imagen": "examen-77_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En carreteras con un carril para cada sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "En vías interurbanas con dos o más carriles para cada sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "En autopistas y autovías."
+        }
+      ],
+      "ayuda": "En carreteras situadas fuera de poblado, con un carril para cada sentido y donde esté permitido el adelantamiento, los conductores cuando circulen sin intención de adelantar, además de guardar la distancia de seguridad, deberán dejar un espacio que permita al vehículo que les sigue, adelantarles con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Conducir, con un permiso de la clase B, un turismo que arrastra un remolque ligero, ¿está permitido?",
+      "imagen": "examen-77_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en cualquier caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo si la masa máxima autorizada del conjunto no supera los 3.500 kilogramos."
+        }
+      ],
+      "ayuda": "El permiso de la clase B, autorizada a conducir, entre otros, vehículos automóviles cuya masa máxima autorizada no exceda de 3.500 kg y que no dispongan de más de 9 plazas.  Dichos automóviles podrán llevar enganchado un remolque ligero.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Está permitido adelantar a la vez a estos dos camiones?",
+      "imagen": "examen-77_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque son camiones."
+        },
+        {
+          "letra": "B",
+          "texto": "No, salvo que el adelantamiento se realice en autopista o autovía."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si tiene la seguridad de poder terminar el adelantamiento sin peligro."
+        }
+      ],
+      "ayuda": "Solo se podrá adelantar a los dos camiones, cuando se tenga la seguridad de poder terminar el adelantamiento sin peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

@@ -1,0 +1,621 @@
+{
+  "categoria_id": 2,
+  "test_id": 14,
+  "nombre": "Serie fácil 14",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "La fatiga en el conductor...",
+      "imagen": "serie-facil-14_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "provoca reacciones más rápidas."
+        },
+        {
+          "letra": "B",
+          "texto": "hace que tome decisiones más acertadas."
+        },
+        {
+          "letra": "C",
+          "texto": "produce dolores en la nuca y en la espalda."
+        }
+      ],
+      "ayuda": "Entre otras consecuencias negativas, la fatiga en el conductor produce dolores en la nuca y en la espalda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "La carga que sobresalga de la proyección en planta del vehículo, ¿debe ir protegida?",
+      "imagen": "serie-facil-14_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, no es necesario si va debidamente señalizada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en la parte saliente, para reducir los efectos de un posible roce o choque."
+        }
+      ],
+      "ayuda": "Cuando la carga sobresalga de la proyección en planta del vehículo, se deberán adoptar todas las precauciones convenientes para evitar daños o peligros a los demás usuarios de la vía. Dicha carga deberá ir resguardada en la extremidad saliente para aminorar los efectos de un posible roce o choque.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Los frenos, ¿son un dispositivo de seguridad activa?",
+      "imagen": "serie-facil-14_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Los frenos forman parte de la seguridad activa del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Pueden los ocupantes de un vehículo caminar por una autopista?",
+      "imagen": "serie-facil-14_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo en caso de avería y sin ocupar la calzada."
+        }
+      ],
+      "ayuda": "Como norma general está prohibido que los peatones circulen por las autopistas y autovías, salvo en caso de accidente u otra emergencia para pedir auxilio en los postes de socorro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Cuando no se pueda circular hacia delante ni cambiar de dirección o sentido, ¿cuánto espacio está permitido recorrer en marcha atrás?",
+      "imagen": "serie-facil-14_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El mínimo indispensable."
+        },
+        {
+          "letra": "B",
+          "texto": "Un máximo de 25 metros."
+        }
+      ],
+      "ayuda": "Si no se puede continuar de frente, ni cambiar de dirección o el sentido de la marcha, se permite circular hacia atrás el mínimo indispensable.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿En qué situación suelen tener menos accidentes las personas mayores como peatones?",
+      "imagen": "serie-facil-14_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando van solas."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando van acompañadas de niños."
+        }
+      ],
+      "ayuda": "Las personas mayores como peatones, suelen tener menos accidentes cuando van acompañados de niños.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Algunas drogas pueden causar...",
+      "imagen": "serie-facil-14_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "ilusiones ópticas."
+        },
+        {
+          "letra": "B",
+          "texto": "un nivel de alerta mayor."
+        },
+        {
+          "letra": "C",
+          "texto": "aumento del campo visual."
+        }
+      ],
+      "ayuda": "Algunas drogas pueden causar ilusiones ópticas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "La señal indica la proximidad de una salida hacia...",
+      "imagen": "serie-facil-14_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un área de servicio en una autopista o autovía."
+        },
+        {
+          "letra": "B",
+          "texto": "un área de servicio en una carretera convencional."
+        }
+      ],
+      "ayuda": "Esta señal indica la proximidad de una salida hacia un área de servicio en una autopista o autovía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "Si pretende adelantar a este vehículo, ¿está permitido disminuir la distancia de seguridad?",
+      "imagen": "serie-facil-14_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque así tiene mejor visión del sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para hacer el adelantamiento más seguro."
+        },
+        {
+          "letra": "C",
+          "texto": "No, se debe mantener siempre la distancia de seguridad."
+        }
+      ],
+      "ayuda": "Para realizar un adelantamiento no se debe disminuir la distancia de seguridad, ya que sería muy peligroso en caso de frenado brusco del vehículo que circule delante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "En relación al uso del cinturón de seguridad, una embarazada...",
+      "imagen": "serie-facil-14_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "debe utilizarlo, salvo exención médica expresa."
+        },
+        {
+          "letra": "B",
+          "texto": "siempre está exenta de utilizarlo porque es peligroso para el feto."
+        }
+      ],
+      "ayuda": "Las embarazadas deben utilizar siempre el cinturón de seguridad, salvo exención médica expresa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Este conjunto de ciclistas circula junto al borde derecho de la calzada y en fila. ¿Es correcto?",
+      "imagen": "serie-facil-14_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Los ciclistas que se observan en la fotografía, circulan correctamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Si circulamos por una vía donde hay una línea longitudinal continua adosada a otra discontinua...",
+      "imagen": "serie-facil-14_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "nos indica que es un carril reversible."
+        },
+        {
+          "letra": "B",
+          "texto": "debemos tener en cuenta solamente la línea más cercana al carril por el que circulamos."
+        }
+      ],
+      "ayuda": "Si en la vía por la que estamos circulando existe una línea longitudinal continua adosada a otra discontinua, los conductores solo deben tener en cuenta la línea más cercana al carril por el que circulan. En el caso de la fotografía y según nuestro sentido de la marcha, hay que tener en cuenta la línea continua.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Está prohibido el adelantamiento en las intersecciones y sus proximidades, salvo...",
+      "imagen": "serie-facil-14_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que la intersección no esté señalizada."
+        },
+        {
+          "letra": "B",
+          "texto": "cuando la calzada goce de prioridad y esté señalizada."
+        },
+        {
+          "letra": "C",
+          "texto": "que la calzada goce de prioridad aunque no esté señalizada."
+        }
+      ],
+      "ayuda": "Como norma general, queda prohibido adelantar en las intersecciones y en sus proximidades. Ahora bien, si la intersección está señaliza con señal de cruce con prioridad o con un semáforo verde, se permite adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Qué debe hacer ante esta situación, teniendo en cuenta el semáforo amarillo intermitente?",
+      "imagen": "serie-facil-14_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ceder el paso al peatón."
+        },
+        {
+          "letra": "B",
+          "texto": "Detenerme como si de un semáforo rojo se tratara."
+        },
+        {
+          "letra": "C",
+          "texto": "Esperar que el semáforo cambie a verde para continuar la marcha."
+        }
+      ],
+      "ayuda": "Ante un semáforo amarillo intermitente y la existencia de peatones atravesando la calzada, los conductores deberán extremar la precaución y ceder el paso a los peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "Un peatón pretende cruzar por un paso de peatones debidamente señalizado, ¿cuándo debe penetrar en la calzada?",
+      "imagen": "serie-facil-14_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando la distancia y la velocidad de los vehículos permitan hacerlo con seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Solamente cuando no haya vehículos cerca."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando el peatón lo decida, puesto que dispone de la preferencia de paso."
+        }
+      ],
+      "ayuda": "En los pasos para peatones debidamente señalizados, los peatones cruzarán por él, cuando la distancia y la velocidad de los vehículos permitan hacerlo en condiciones de seguridad suficientes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "En un control, los agentes le piden que haga la prueba de alcohol. ¿Es obligatorio hacer la prueba?",
+      "imagen": "serie-facil-14_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero cuando tengo un accidente."
+        }
+      ],
+      "ayuda": "En un control preventivo de alcoholemia, el conductor estará obligado a someterse a la prueba de alcohol.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Cuál es la tasa de alcohol máxima permitida a un conductor novel?",
+      "imagen": "serie-facil-14_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0,25 miligramos de alcohol por litro de aire espirado."
+        },
+        {
+          "letra": "B",
+          "texto": "0,15 miligramos de alcohol por litro de aire espirado."
+        },
+        {
+          "letra": "C",
+          "texto": "0,3 miligramos de alcohol por litro de aire espirado."
+        }
+      ],
+      "ayuda": "Los conductores nóveles y aquellos cuya antigüedad de su permiso de conducir sea inferior a dos años, no podrán conducir con una tasa de alcohol en sangre superior a 0.15 mg por litro de alcohol en aire espirado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Un turismo de uso privado con once años de antigüedad, debe someterse a la inspección técnica periódica...",
+      "imagen": "serie-facil-14_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cada año."
+        },
+        {
+          "letra": "B",
+          "texto": "cada cuatro años."
+        }
+      ],
+      "ayuda": "Los turismos de uso privado a partir de los 10 años de antigüedad, deben someterse a inspecciones técnicas periódicas cada año.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "A la vista de esta señal, ¿están prohibidas las señales acústicas?",
+      "imagen": "serie-facil-14_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, salvo para evitar un accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Esta señal recuerda la prohibición general de efectuar señales acústicas, salvo para evitar un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Una marca longitudinal formada por dos líneas continuas adosadas...",
+      "imagen": "serie-facil-14_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tiene el mismo significado que una marca longitudinal continua."
+        },
+        {
+          "letra": "B",
+          "texto": "indica que circulamos por un carril reversible."
+        }
+      ],
+      "ayuda": "Una marca longitudinal formada por dos líneas continuas adosadas tiene el mismo significado que una marca longitudinal continua.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "A 100 km/h por esta vía, ¿circula a una velocidad adecuada?",
+      "imagen": "serie-facil-14_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que lo permitan las circunstancias del tráfico y de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que no entorpezca la circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque lo aconsejado es circular a 120 km/h."
+        }
+      ],
+      "ayuda": "Siempre que las demás circunstancias lo permitan, por esta vía se puede circular hasta 120 kilómetros por hora. Por tanto, a 100 kilómetros por hora no hay ningún problema.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Qué síntomas nos avisan de que estamos fatigados?",
+      "imagen": "serie-facil-14_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La sensación de euforia."
+        },
+        {
+          "letra": "B",
+          "texto": "El parpadeo constante y la pesadez de ojos."
+        }
+      ],
+      "ayuda": "Entre otros, uno de los síntomas que nos avisan de que estamos cansados, es el parpadeo constante y la pesadez de ojos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Se considera peatón a la persona...",
+      "imagen": "serie-facil-14_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que circula con una bicicleta."
+        },
+        {
+          "letra": "B",
+          "texto": "a cuyo cargo está un animal o animales."
+        },
+        {
+          "letra": "C",
+          "texto": "que, sin ser conductor, transita a pie por las vías públicas."
+        }
+      ],
+      "ayuda": "Entre otras definiciones, se considera peatón la persona que, sin ser conductor transita a pie por las vías públicas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Las lesiones más graves en los ciclistas, cuando son víctimas de un atropello, se localizan en...",
+      "imagen": "serie-facil-14_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la cabeza."
+        },
+        {
+          "letra": "B",
+          "texto": "todo el cuerpo."
+        }
+      ],
+      "ayuda": "Las lesiones más graves en los ciclistas cuando sufren un accidente, se localizan en la cabeza.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Como norma general, ¿puede circular sobre las marcas viales del centro de la calzada?",
+      "imagen": "serie-facil-14_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Como norma general, no se permite circular sobre las marcas viales del centro de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Un agente con un toque de silbato largo indica...",
+      "imagen": "serie-facil-14_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "detenerse."
+        },
+        {
+          "letra": "B",
+          "texto": "reanudar la marcha."
+        }
+      ],
+      "ayuda": "Un toque largo de silbato de un agente, indica que se reanude la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Cuando los neumáticos se desgastan más por el centro que por los bordes, la presión de inflado es...",
+      "imagen": "serie-facil-14_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "superior a la necesaria."
+        },
+        {
+          "letra": "B",
+          "texto": "inferior a la necesaria."
+        },
+        {
+          "letra": "C",
+          "texto": "correcta."
+        }
+      ],
+      "ayuda": "Cuando la presión de inflado es superior a la correcta, los neumáticos se desgastan prematuramente por el centro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Si las trayectorias de los vehículos llegan a cortarse, ¿cuál pasará primero?",
+      "imagen": "serie-facil-14_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El vehículo rojo."
+        },
+        {
+          "letra": "B",
+          "texto": "El vehículo azul."
+        },
+        {
+          "letra": "C",
+          "texto": "El vehículo blanco."
+        }
+      ],
+      "ayuda": "En esta intersección debidamente señalizada, debe pasar primero el vehículo rojo por tener preferencia de paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Una forma de ahorrar combustible, ¿es parar el motor en las detenciones prolongadas (atascos)?",
+      "imagen": "serie-facil-14_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Una forma de ahorrar combustible en su vehículo es parar el motor en inmovilizaciones prolongadas tales como atascos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "El vehículo verde disminuye la velocidad porque el adelantamiento que está haciendo el vehículo blanco es peligroso. ¿Es correcto?",
+      "imagen": "serie-facil-14_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, con el fin de que el vehículo blanco vuelva cuando antes a la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Es correcto que el conductor del vehículo verde reduzca la velocidad para que el vehículo blanco pueda incorporase al carril derecho y evitar chocar con el vehículo que se aproxima de frente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

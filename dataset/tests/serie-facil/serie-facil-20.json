@@ -1,0 +1,637 @@
+{
+  "categoria_id": 2,
+  "test_id": 20,
+  "nombre": "Serie fácil 20",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En caso de reventón, ¿es correcto frenar bruscamente?",
+      "imagen": "serie-facil-20_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "En caso de reventón de una rueda, no se debe frenar bruscamente, ya que al hacerlo el vehículo se desviaría rápidamente con el consiguiente peligro de salirse de la carretera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Los conductores de bicicletas tienen prioridad de paso respecto a los vehículos de motor...",
+      "imagen": "serie-facil-20_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cuando, circulando en grupo, el primer ciclista haya iniciado ya el cruce."
+        },
+        {
+          "letra": "B",
+          "texto": "siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "en los pasos para peatones."
+        }
+      ],
+      "ayuda": "Los conductores de bicicletas tienen prioridad de paso respecto a los vehículos de motor:\n\na) Cuando circulen por un carril bici, paso para ciclistas o arcén debidamente señalizados.\nb) Cuando para entrar en otra vía el vehículo de motor gire a derecha o izquierda, en los supuestos permitidos, y haya un ciclista en sus proximidades.\nc) Cuando circulando en grupo, el primero haya iniciado ya el cruce o haya entrado en una glorieta.\n\nEn los demás casos serán aplicables las normas generales sobre prioridad de paso entre vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Los accidentes de tráfico, ¿suponen un enorme impacto económico para la población?",
+      "imagen": "serie-facil-20_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Los accidentes de tráfico, suponen un enorme impacto económico y social para la población.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "A la vista de la señalización, ¿qué usuarios de la vía pueden circular?",
+      "imagen": "serie-facil-20_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los automóviles."
+        },
+        {
+          "letra": "B",
+          "texto": "Los peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "Los vehículos de dos ruedas."
+        }
+      ],
+      "ayuda": "Zona peatonal\nIndica una zona reservada para el uso peatonal. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Cuando las cintas no quedan bien estiradas, el cinturón de seguridad...",
+      "imagen": "serie-facil-20_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pierde eficacia y puede provocar lesiones durante el accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "Protege más en caso de accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "No reduce su eficacia en caso de accidente."
+        }
+      ],
+      "ayuda": "Cuando las cintas no están bien estiradas, el cinturón de seguridad pierde eficacia y puede provocar lesiones durante un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Esta señal indica la proximidad de...",
+      "imagen": "serie-facil-20_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un cruce con una línea de tranvía."
+        },
+        {
+          "letra": "B",
+          "texto": "un cruce sin prioridad."
+        },
+        {
+          "letra": "C",
+          "texto": "un puente móvil."
+        }
+      ],
+      "ayuda": "Esta señal indica la proximidad de un puente móvil que puede ser levantado o girado, interrumpiéndose así temporalmente la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Puede estacionar su vehículo junto al borde de esta calzada?",
+      "imagen": "serie-facil-20_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, ya que está prohibido estacionar."
+        },
+        {
+          "letra": "B",
+          "texto": "No, ya que está prohibido parar y estacionar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, ya que no hay ninguna señal vertical que lo prohíba."
+        }
+      ],
+      "ayuda": "Las marcas amarillas discontinuas que se observan en la fotografía, prohíben estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Qué puede suceder a un conductor que circula a velocidad inadecuada?",
+      "imagen": "serie-facil-20_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que sea capaz de controlar mejor su vehículo ante una situación de emergencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Que no sea capaz de controlar su vehículo ante una situación de emergencia."
+        }
+      ],
+      "ayuda": "Si se circula a una velocidad inadecuada, puede ocurrir que el conductor no sea capaz de controlar el vehículo ante una situación de emergencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Si circulando por una vía saturada observa que se acerca un vehículo policial que circula en servicio de urgencia, ¿qué debe hacer?",
+      "imagen": "serie-facil-20_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Continuar la marcha porque no tiene preferencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Facilitarle el paso, en la medida de lo posible."
+        }
+      ],
+      "ayuda": "Al observar que se acerca un vehículo policial en servicio de urgencia, se les debe facilitar el paso en la medida de lo posible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Qué debe revisar si prevé que va a llover?",
+      "imagen": "serie-facil-20_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El estado de los neumáticos y los limpiaparabrisas."
+        },
+        {
+          "letra": "B",
+          "texto": "El líquido de frenos y la presión de los neumáticos."
+        },
+        {
+          "letra": "C",
+          "texto": "Nada, no es necesario ninguna revisión."
+        }
+      ],
+      "ayuda": "Si se prevé que va a llover o está lloviendo se debe comprobar el estado de los neumáticos y los limpiaparabrisas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "A partir de la señal, ¿puede pasar conduciendo un ciclomotor?",
+      "imagen": "serie-facil-20_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Esta señal prohíbe la circulación a todos los vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Si se coloca la cinta abdominal del cinturón de seguridad sobre el abdomen...",
+      "imagen": "serie-facil-20_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "puede provocar graves lesiones internas durante un accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "la conducción es más cómoda y segura."
+        },
+        {
+          "letra": "C",
+          "texto": "el cinturón de seguridad funciona con eficacia."
+        }
+      ],
+      "ayuda": "Si se coloca la cinta abdominal del cinturón de seguridad sobre el abdomen, puede provocar graves lesiones internas durante el accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Los fármacos hipnóticos hacen que...",
+      "imagen": "serie-facil-20_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aumente el tiempo de reacción."
+        },
+        {
+          "letra": "B",
+          "texto": "aumente el campo visual."
+        }
+      ],
+      "ayuda": "Entre otros efectos peligrosos para la conducción segura, los fármacos hipnóticos producen un aumento del tiempo de reacción en los conductores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Es obligatorio llevar en un turismo triángulos de preseñalización de peligro?",
+      "imagen": "serie-facil-20_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, uno."
+        },
+        {
+          "letra": "B",
+          "texto": "No, se debe llevar el dispositivo luminoso de preseñalización de peligro reglamentario."
+        }
+      ],
+      "ayuda": "\tCon carácter general, los turismos, llevarán la siguiente dotación:\n\t \n\ta) El dispositivo luminoso de preseñalización de peligro V-16.\n\tb) Un chaleco reflectante de alta visibilidad.\n\tc) Una rueda completa de repuesto o una rueda de uso temporal.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Los costes de los accidentes de tráfico, ¿quién lo asume?",
+      "imagen": "serie-facil-20_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todos los ciudadanos, de forma directa o indirecta."
+        },
+        {
+          "letra": "B",
+          "texto": "Las compañías de seguros y no los ciudadanos."
+        },
+        {
+          "letra": "C",
+          "texto": "El conductor y el dueño del vehículo."
+        }
+      ],
+      "ayuda": "Los costes de los accidentes de tráfico que se producen en nuestro país, los pagan todos los ciudadanos, de forma directa o indirecta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "La distancia que se recorre desde que se observa un peligro hasta que el vehículo se detiene totalmente se llama...",
+      "imagen": "serie-facil-20_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "distancia de reacción."
+        },
+        {
+          "letra": "B",
+          "texto": "distancia de frenado."
+        },
+        {
+          "letra": "C",
+          "texto": "distancia de detención."
+        }
+      ],
+      "ayuda": "La distancia que se recorre desde que el conductor observa un peligro hasta que el vehículo se detiene, se denomina distancia de detención total.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Tiene alguna obligación cuando observe que otro vehículo tiene el propósito de adelantarle?",
+      "imagen": "serie-facil-20_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Disminuir la velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Ceñirme al borde derecho de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Aumentar la velocidad."
+        }
+      ],
+      "ayuda": "Como norma general, el conductor que advierta que otro que le sigue tiene el propósito de adelantar a su vehículo estará obligado a ceñirse al borde derecho de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Los sistemas de navegación o GPS, ¿pueden ser causa de distracción?",
+      "imagen": "serie-facil-20_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Los sistemas de navegación pueden suponer una importante causa de distracción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "De noche, cuando la carga sobresalga por delante, debe señalizarla con una luz...",
+      "imagen": "serie-facil-20_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "roja."
+        },
+        {
+          "letra": "B",
+          "texto": "blanca."
+        },
+        {
+          "letra": "C",
+          "texto": "amarilla."
+        }
+      ],
+      "ayuda": "La carga que sobresalga por la parte delantera de los vehículos durante la noche, se debe señalizar con una luz blanca.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Esta señal, ¿qué indica?",
+      "imagen": "serie-facil-20_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prohibido girar a la izquierda y cambiar el sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "Prohibido girar a la izquierda y a la derecha."
+        }
+      ],
+      "ayuda": "Esta señal prohíbe girar a la izquierda y cambiar el sentido de la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "El alcohol se absorbe más rápidamente si...",
+      "imagen": "serie-facil-20_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tiene el estómago vacío."
+        },
+        {
+          "letra": "B",
+          "texto": "se mezcla con alimentos."
+        }
+      ],
+      "ayuda": "El alcohol se absorbe más rápidamente si se tiene el estómago vacío.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "A partir de esta señal, circular como mínimo a 30 kilómetros por hora...",
+      "imagen": "serie-facil-20_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "es obligatorio."
+        }
+      ],
+      "ayuda": "Está señal obliga a circular como mínimo a 30 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Qué sistemas de seguridad pueden perder eficacia si no se lleva abrochado el cinturón de seguridad?",
+      "imagen": "serie-facil-20_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los airbag y los reposacabezas."
+        },
+        {
+          "letra": "B",
+          "texto": "Los frenos ABS."
+        },
+        {
+          "letra": "C",
+          "texto": "La suspensión del vehículo."
+        }
+      ],
+      "ayuda": "Si no se lleva correctamente colocado y abrochado el cinturón de seguridad, en caso de accidente los airbag y los reposacabezas pierden eficacia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "Los accidentes en los que están involucrados ciclistas ocurren más frecuentemente en...",
+      "imagen": "serie-facil-20_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "carreteras convencionales, sobre todo en rectas e intersecciones."
+        },
+        {
+          "letra": "B",
+          "texto": "en autopistas."
+        },
+        {
+          "letra": "C",
+          "texto": "vías urbanas."
+        }
+      ],
+      "ayuda": "Los accidentes en los que están involucrados los ciclistas suelen ocurrir en carreteras convencionales, sobre todo, en rectas e intersecciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Las técnicas de conducción preventiva se basan en los principios de...",
+      "imagen": "serie-facil-20_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "visión, anticipación y gestión del tiempo."
+        },
+        {
+          "letra": "B",
+          "texto": "visión, anticipación y gestión del espacio."
+        }
+      ],
+      "ayuda": "Las técnicas de conducción preventiva se basan en los principios de visión, anticipación y gestión del espacio.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "El agente tenía los brazos en cruz y ha bajado los brazos. ¿Qué debe hacer?",
+      "imagen": "serie-facil-20_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obedecer las señales o semáforos."
+        },
+        {
+          "letra": "B",
+          "texto": "Continuar detenido hasta que realice otro tipo de señal."
+        }
+      ],
+      "ayuda": "Si el agente tenía los brazos en cruz y los ha bajado, indica que se debe continuar detenido hasta que el agente cambie de posición o realice otra señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "El consumo de bebidas alcohólicas, incluso en cantidades pequeñas, ¿qué efectos produce?",
+      "imagen": "serie-facil-20_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumenta el tiempo de reacción del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "Se perciben mejor los riesgos."
+        },
+        {
+          "letra": "C",
+          "texto": "Las bebidas alcohólicas no producen efectos negativos."
+        }
+      ],
+      "ayuda": "Entre otros efectos negativos, el alcohol hace que aumente el tiempo de reacción del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Con lluvia intensa, ¿cuándo existe riesgo de aparición del aquaplaning?",
+      "imagen": "serie-facil-20_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando se circule a velocidad elevada."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando se circule despacio."
+        },
+        {
+          "letra": "C",
+          "texto": "Sobre todo, cuando los neumáticos estén nuevos."
+        }
+      ],
+      "ayuda": "El aquaplaning se suele producir al circular a velocidad elevada y cuando los neumáticos están desgastados.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Es correcto reglar el espejo retrovisor interior con el vehículo en marcha?",
+      "imagen": "serie-facil-20_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Reglar el espejo retrovisor durante la marcha puede ocasionar una distracción y ocasionar un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "El conductor del vehículo verde quiere seguir de frente en la intersección. ¿Puede hacerlo?",
+      "imagen": "serie-facil-20_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "El conductor del vehículo verde que se observa en el gráfico, cuando llegue a la intersección solo podrá seguir hacia la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

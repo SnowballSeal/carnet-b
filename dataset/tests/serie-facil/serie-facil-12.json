@@ -1,0 +1,609 @@
+{
+  "categoria_id": 2,
+  "test_id": 12,
+  "nombre": "Serie fácil 12",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Cuando el casco no tiene visera, ¿es conveniente ponerse unas gafas de seguridad?",
+      "imagen": "serie-facil-12_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para proteger los ojos."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Si el casco de protección no tiene visera, es recomendable utilizar gafas de seguridad para proteger la vista.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Circulando con niebla es aconsejable...",
+      "imagen": "serie-facil-12_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mantener el habitáculo bien ventilado para evitar que se empañen los cristales."
+        },
+        {
+          "letra": "B",
+          "texto": "circular con las ventanillas abiertas para obtener mayor visibilidad."
+        }
+      ],
+      "ayuda": "Al circular con niebla, entre otras precauciones, se debe mantener el habitáculo del vehículo bien ventilado para evitar que se empañen los cristales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Al pasar por encima de un charco, los frenos se mojan, ¿qué hay que hacer?",
+      "imagen": "serie-facil-12_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Acelerar para que se sequen."
+        },
+        {
+          "letra": "B",
+          "texto": "Pisar suavemente varias veces el pedal del freno."
+        }
+      ],
+      "ayuda": "Si los frenos se mojan al pasar un charco, se debe pisar varias veces y con suavidad el pedal del freno para generar calor y evacuar la humedad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "El vehículo de la imagen quiere cambiar de dirección a la derecha, ¿está obligado a detenerse?",
+      "imagen": "serie-facil-12_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Aunque el semáforo en rojo esté al otro lado de la intersección, hay que detenerse siempre antes de la intersección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "La depresión es una grave enfermedad que se sufre cada vez con más frecuencia. Si se padece debemos saber que...",
+      "imagen": "serie-facil-12_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no es recomendable conducir de noche o por entornos monótonos."
+        },
+        {
+          "letra": "B",
+          "texto": "no debemos conducir hasta pasada al menos una hora de habernos medicado."
+        }
+      ],
+      "ayuda": "Si se padece una depresión, no es recomendable conducir durante la noche o por entornos monótonos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "En una vía de dos sentidos, ¿por qué lado de la isleta debe circular?",
+      "imagen": "serie-facil-12_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el lado de la calzada situado a la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Por cualquiera de los dos lados."
+        }
+      ],
+      "ayuda": "En calzada con doble sentido de circulación con isleta en el centro, se debe circular por la derecha de la calzada dejando a la izquierda la isleta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Cuál es la tasa de alcohol máxima permitida a un conductor novel?",
+      "imagen": "serie-facil-12_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0,50 miligramos por litro de aire espirado."
+        },
+        {
+          "letra": "B",
+          "texto": "0,15 miligramos por litro de aire espirado."
+        }
+      ],
+      "ayuda": "La tasa máxima permitida de alcohol para un conductor novel, es de 0,15 miligramos por litro de aire espirado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Está prohibido adelantar en...",
+      "imagen": "serie-facil-12_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "las glorietas."
+        },
+        {
+          "letra": "B",
+          "texto": "las intersecciones con vías para ciclistas."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido adelantar en las intersecciones con vías para ciclistas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Qué ciclistas están obligados a utilizar el casco dentro y fuera de poblado?",
+      "imagen": "serie-facil-12_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los mayores de edad."
+        },
+        {
+          "letra": "B",
+          "texto": "Los menores de 16 años."
+        },
+        {
+          "letra": "C",
+          "texto": "Todos."
+        }
+      ],
+      "ayuda": "Los ciclistas menores de 16 años están obligados a utilizar el casco en todas las vías, tanto dentro como fuera de poblado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "La influencia del factor de riesgo vehículo, ¿cómo se puede disminuir?",
+      "imagen": "serie-facil-12_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Manteniendo limpio el motor."
+        },
+        {
+          "letra": "B",
+          "texto": "Revisando y manteniendo el vehículo."
+        }
+      ],
+      "ayuda": "La influencia del factor de riesgo vehículo se puede disminuir con un buen mantenimiento del mismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "El vehículo en el arcén, ¿está bien estacionado?",
+      "imagen": "serie-facil-12_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque no molesta."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque en el arcén no se puede estacionar."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido estacionar en el arcén practicable de un vía interurbana.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Se pueden llevar objetos o paquetes que salgan por las ventanillas de los lados?",
+      "imagen": "serie-facil-12_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, hasta 30 centímetros."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, con una tela de color rojo."
+        }
+      ],
+      "ayuda": "En ningún caso está permitido llevar carga en el vehículo que salga por las ventanillas del mismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Respetar la prioridad de paso por parte de los conductores de motocicletas, ¿puede evitar accidentes?",
+      "imagen": "serie-facil-12_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque ocupan poco lugar en la calzada."
+        }
+      ],
+      "ayuda": "Es evidente, que respetar las preferencias de paso por parte de los conductores de cualquier vehículo, evita accidentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Se prohíbe circular con el llamado escape libre...",
+      "imagen": "serie-facil-12_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tanto en vías urbanas como interurbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "sólo en vías urbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo en vías interurbanas."
+        }
+      ],
+      "ayuda": "Circular con el llamado escape libre está prohibido en todo tipo de vías. El inadecuado mantenimiento del sistema de escape en los vehículos afecta negativamente al funcionamiento del motor y produce, además, contaminación térmica y acústica.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Quién es el responsable de las infracciones cometidas durante la conducción?",
+      "imagen": "serie-facil-12_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El autor del hecho en que consista la infracción."
+        },
+        {
+          "letra": "B",
+          "texto": "El tomador del seguro."
+        }
+      ],
+      "ayuda": "La responsabilidad de las infracciones cometidas durante la conducción, recaerán sobre el autor del hecho en que consista la infracción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Cuando se realiza una inmovilización para parar o estacionar deberá utilizarse el indicador de dirección...",
+      "imagen": "serie-facil-12_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "del lado izquierdo."
+        },
+        {
+          "letra": "B",
+          "texto": "correspondiente al lado en el que se pare o estacione."
+        },
+        {
+          "letra": "C",
+          "texto": "del lado derecho."
+        }
+      ],
+      "ayuda": "Cuando vayamos a parar o estacionar nuestro vehículo, se debe advertir con antelación suficiente con el intermitente correspondiente al lado en el que se pare o estacione.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Fumando mientras conduce, ¿puede tirar el cigarro a la vía?",
+      "imagen": "serie-facil-12_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, mientras esté bien apagado."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque puede provocar un incendio o algún peligro para otros usuarios."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque no está prohibido."
+        }
+      ],
+      "ayuda": "Se prohíbe arrojar a la vía o en sus inmediaciones cualquier objeto que pueda dar lugar a la producción de incendios o, en general, poner en peligro la seguridad vial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Es obligatorio llevar iluminada la placa posterior de la matrícula durante la noche?",
+      "imagen": "serie-facil-12_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Al circular durante la noche, además de llevar encendido el alumbrado que corresponda, la placa posterior de la matrícula debe ir también iluminada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Cuando el autobús circula más rápido que el resto de los vehículos, ¿se considera adelantamiento?",
+      "imagen": "serie-facil-12_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Si el autobús circula más rápido que los vehículos que circulan por la calzada, éste hecho no se considera adelantamiento. Se considera rebasamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Al rebasar al autobús, ¿qué peligro debe preverse?",
+      "imagen": "serie-facil-12_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que puedan cruzar peatones ocultos por el propio autobús."
+        },
+        {
+          "letra": "B",
+          "texto": "Ninguno, no es una situación de riesgo."
+        }
+      ],
+      "ayuda": "Al rebasar al autobús que se encuentra en la parada de autobuses, se deben tomar precauciones y prever que puedan cruzar peatones ocultos por el propio autobús.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Un botiquín de primeros auxilios, ¿se encuentra entre la dotación obligatoria de los vehículos de hasta nueve plazas?",
+      "imagen": "serie-facil-12_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, un botiquín es solamente recomendable."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, es obligatorio."
+        }
+      ],
+      "ayuda": "El botiquín de primeros auxilios es muy recomendable llevarlo en un turismo, pero no es obligatorio.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "El campo visual de los niños es limitado debido a...",
+      "imagen": "serie-facil-12_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el escaso desarrollo del sentido de la vista, principalmente."
+        },
+        {
+          "letra": "B",
+          "texto": "su baja estatura."
+        }
+      ],
+      "ayuda": "El campo visual de los niños queda limitado debido a su baja estatura.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Los niños alborotando en los asientos traseros, ¿pueden provocar que el conductor se distraiga?",
+      "imagen": "serie-facil-12_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, puede influir en su estado y comportamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "No, al conductor no le afecta lo que sucede en los asientos traseros."
+        }
+      ],
+      "ayuda": "Transportar niños alborotando en el vehículo puede constituir un factor de riesgo, ya que esta circunstancia puede influir en el estado del conductor y en el comportamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "En una vía urbana de sentido único, si los carriles no están delimitados por marcas viales, ¿por dónde está obligado a circular el conductor de un turismo?",
+      "imagen": "serie-facil-12_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el centro de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el carril derecho, pudiendo utilizar el resto cuando las circunstancias lo aconsejen."
+        }
+      ],
+      "ayuda": "Si se circula por una vía urbana sin delimitar los carriles, se debe circular por el carril derecho, pudiendo utilizar el resto de los carriles cuando las circunstancias lo permitan.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Al distraerse, el conductor tarda...",
+      "imagen": "serie-facil-12_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "menos tiempo en recibir la información necesaria para conducir con seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "más tiempo en recibir la información necesaria para conducir con seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "el mismo tiempo en recibir información, pero el vehículo no se maneja de forma segura."
+        }
+      ],
+      "ayuda": "Al distraerse, el conductor tarda más tiempo en recibir la información necesaria para conducir con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Las personas mayores, ¿pueden tener problemas como peatones?",
+      "imagen": "serie-facil-12_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, principalmente de orientación cuando no conocen bien las calles."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Las personas mayores como peatones pueden tener problemas de orientación cuando no conocen bien las calles.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Un conductor necesita hacer una llamada urgente por el móvil, ¿qué debe hacer?",
+      "imagen": "serie-facil-12_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Buscar un lugar seguro donde detener el vehículo para hacer la llamada."
+        },
+        {
+          "letra": "B",
+          "texto": "Disminuir la velocidad para poder hablar sin peligro."
+        },
+        {
+          "letra": "C",
+          "texto": "Detener el vehículo en cualquier lugar para hacer la llamada."
+        }
+      ],
+      "ayuda": "Si el conductor necesita hacer una llamada de urgencia, debe buscar un lugar seguro y permitido para detener el vehículo y realizar la llamada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Es importante cumplir con los límites inferiores de velocidad?",
+      "imagen": "serie-facil-12_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo para no ser sancionado."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para evitar causar accidentes."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El conductor debe cumplir siempre con los límites de velocidad, tanto los inferiores como los superiores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "La detención por emergencia en un túnel...",
+      "imagen": "serie-facil-12_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "está prohibida."
+        },
+        {
+          "letra": "B",
+          "texto": "está permitida."
+        }
+      ],
+      "ayuda": "Si el vehículo se avería en un túnel y no puede seguir circulando, se puede hacer esa detención. Por tanto, la detención por emergencia está permitida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "A partir de esta señal, ¿se aplican todas las normas de poblado?",
+      "imagen": "serie-facil-12_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "A partir de esta señal de entrada a poblado, se aplican todas las normas de poblado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

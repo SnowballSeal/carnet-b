@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 80,
+  "nombre": "Test de examen 80",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "La somnolencia hace que...",
+      "imagen": "examen-80_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "disminuya el tiempo de reacción."
+        },
+        {
+          "letra": "B",
+          "texto": "resulte más difícil mantener la concentración en el tráfico."
+        },
+        {
+          "letra": "C",
+          "texto": "resulte más fácil mantener la concentración en el tráfico."
+        }
+      ],
+      "ayuda": "Entre otras consecuencias, la somnolencia hace que el conductor tenga más dificultad de mantener la concentración en la conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "El vehículo verde:",
+      "imagen": "examen-80_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "debe separarse de los animales y ocupar, al menos, una parte del carril contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "si prevé que los animales pueden irrumpir en la vía, debe moderar la velocidad, llegando a detener el vehículo si fuera preciso."
+        },
+        {
+          "letra": "C",
+          "texto": "debe obligatoriamente detenerse en el arcén hasta que todos los animales estén encerrados."
+        }
+      ],
+      "ayuda": "De acuerdo con las circunstancias que se observan en el gráfico, el conductor del vehículo verde debe moderar la velocidad e incluso detenerse si prevé que los animales pueden irrumpir en la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "La carga y descarga de un vehículo deberá realizarse...",
+      "imagen": "examen-80_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "por el lado del vehículo que resulte más cómodo."
+        },
+        {
+          "letra": "B",
+          "texto": "siempre en el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "como norma general fuera de la vía."
+        }
+      ],
+      "ayuda": "Como norma general, las faenas de carga y descarga debe llevarse a cabo fuera de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Si se pretende adelantar a este vehículo, ¿está permitido disminuir la distancia de seguridad?",
+      "imagen": "examen-80_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque así tiene mejor visión del sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para hacer el adelantamiento más seguro."
+        },
+        {
+          "letra": "C",
+          "texto": "No, se debe mantener siempre la distancia de seguridad."
+        }
+      ],
+      "ayuda": "Como norma general, el conductor de un vehículo debe guardar la distancia de seguridad suficiente con el vehículo que le precede, independientemente de que tenga o no intenciones de adelantar. Recuerda que siempre se debe mantener la distancia de seguridad suficiente para no colisionar con el vehículo que va delante en el caso de que frene bruscamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Está correctamente inmovilizada esta furgoneta?",
+      "imagen": "examen-80_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, ya que está correctamente señalizada y no obstaculiza el paso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que se trate de una parada."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ya que entre la furgoneta y la marca continua hay una distancia inferior a 3 metros."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido parar y estacionar, y además constituye un riesgo u obstáculo a la circulación, cuando la distancia entre el vehículo y el borde opuesto de la calzada o una marca longitudinal continua sea inferior a tres metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Debe disminuir la velocidad para facilitar un adelantamiento?",
+      "imagen": "examen-80_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para facilitar la vuelta del vehículo que adelanta al carril derecho si el adelantamiento es peligroso."
+        },
+        {
+          "letra": "B",
+          "texto": "No, el que debe disminuir la velocidad es el que se aproxima en sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en ningún caso."
+        }
+      ],
+      "ayuda": "Como norma general, no se debe disminuir la velocidad para facilitar el adelantamiento, salvo que el vehículo que adelanta no desista la maniobra y exista peligro, en cuyo caso, se debe facilitar la vuelta al carril derecho reduciendo la velocidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "En un semáforo se apaga la luz verde y se enciende la luz amarilla no intermitente. ¿Puede pasar?",
+      "imagen": "examen-80_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, a no ser que no pueda detenerme en condiciones de seguridad suficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en todo caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque todavía no ha cambiado la luz a rojo."
+        }
+      ],
+      "ayuda": "Ante una luz amarilla fija de un semáforo, hay que detenerse, a no ser qué cuando se encienda estemos tan cerca del lugar de detención que no podamos detenernos en condiciones de seguridad suficientes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Circulando en un turismo, ¿se puede prescindir en algún momento del cinturón de seguridad?",
+      "imagen": "examen-80_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, circulando por vías urbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "No, excepto el conductor y cuando esté realizando la maniobra de marcha atrás o de estacionamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "El conductor no, pero sí los pasajeros que viajen en los asientos traseros."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo que esté realizando la marcha atrás o un estacionamiento, podrá prescindir del cinturón de seguridad. En este caso, está exento de utilizarlo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "La celebración de pruebas y marchas ciclistas, ¿requieren autorización previa?",
+      "imagen": "examen-80_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo las que se celebren en festivo."
+        }
+      ],
+      "ayuda": "La celebración de pruebas deportivas, la realización de marchas ciclistas u otros eventos, cuando se realicen en vías o terrenos públicos, requerirá una autorización previa que será expedida por la autoridad correspondiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "Cuando haya obstáculos y ciclistas circulando debemos...",
+      "imagen": "examen-80_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "pensar que los ciclistas pueden realizar un movimiento brusco."
+        },
+        {
+          "letra": "B",
+          "texto": "al acercarnos a los ciclistas hacer señales acústicas para indicar nuestra presencia."
+        },
+        {
+          "letra": "C",
+          "texto": "mantener la velocidad y estar atento al cumplimiento de la señalización vertical."
+        }
+      ],
+      "ayuda": "Ante la presencia de ciclistas en la calzada, se deben tomar precauciones y mantener la distancia de seguridad suficiente, ya que los ciclistas pueden realizar algún movimiento brusco e inesperado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Salvo circunstancias especiales, todo usuario de la vía está obligado a obedecer las señales de circulación...",
+      "imagen": "examen-80_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aun cuando no estén colocadas en la vía por la que circulen."
+        },
+        {
+          "letra": "B",
+          "texto": "aun cuando parezcan estar en contradicción con las normas."
+        },
+        {
+          "letra": "C",
+          "texto": "solamente cuando no contradigan las normas."
+        }
+      ],
+      "ayuda": "Salvo circunstancias especiales que lo justifiquen, los usuarios deben obedecer las prescripciones indicadas por las señales aun cuando parezcan estar en contradicción con las normas de comportamiento en la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Para ahorrar carburante, ¿qué se debe hacer?",
+      "imagen": "examen-80_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular con las ventanillas cerradas."
+        },
+        {
+          "letra": "B",
+          "texto": "Circular siempre a más de 100 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular con las ventanillas abiertas."
+        }
+      ],
+      "ayuda": "Para ahorrar combustible se debe acelerar y frenar con suavidad, circular con marchas largas siempre que sea posible y mantener las ventanillas cerradas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Cuál es el accidente más frecuente que sufren los ciclistas?",
+      "imagen": "examen-80_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las salidas de vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Los atropellos."
+        },
+        {
+          "letra": "C",
+          "texto": "La colisión frontal con otro vehículo."
+        }
+      ],
+      "ayuda": "El accidente más frecuente que suelen sufrir los ciclistas, es la colisión frontal con otros vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Si se consume alcohol, ¿cuándo aumenta el riesgo de accidente?",
+      "imagen": "examen-80_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El riesgo no depende de la cantidad consumida."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando se ha superado el límite legal de alcoholemia."
+        },
+        {
+          "letra": "C",
+          "texto": "Antes de superar el límite legal."
+        }
+      ],
+      "ayuda": "El consumo de bebidas alcohólicas, aumenta el riesgo de accidente antes de superar el límite legal permitido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Debido a una avería circula por una autopista a 50 km/h y dificulta la circulación. ¿Qué debe hacer?",
+      "imagen": "examen-80_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Inmovilizar siempre el vehículo en el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "Circular por el carril derecho."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular por el arcén y abandonar la vía por la primera salida."
+        }
+      ],
+      "ayuda": "Si debido a una avería circula por una autopista a velocidad inferior a 60 km/h perturbando gravemente la circulación, debe circular por el arcén de la derecha y abandonar la autopista por la primera salida que encuentre.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Puede circular por este cebreado conduciendo un ciclomotor?",
+      "imagen": "examen-80_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque está obligado a circular por el arcén por esa zona."
+        },
+        {
+          "letra": "B",
+          "texto": "No, ningún vehículo puede circular."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando lo tenga que utilizar para realizar un giro a la izquierda."
+        }
+      ],
+      "ayuda": "Como norma general, está prohibido circular por los cebreados o isletas, excepto los vehículos que están obligados a circular por el arcén (ciclomotores, bicicletas, etc.).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "El permiso B, ¿autoriza a conducir un camión de 3.000 kg de M.M.A. que arrastra un remolque ligero?",
+      "imagen": "examen-80_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo cuando la masa máxima del remolque supera la masa en vacío del camión."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Con el permiso de la clase B, se permite conducir camiones de hasta 3.500 kg y que arrastren un remolque ligero (cuya masa máxima autorizada no exceda de 750 kilogramos).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Tomar un medicamento, ¿puede favorecer las distracciones al volante?",
+      "imagen": "examen-80_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "No, salvo psicotrópicos como el cannabis."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, puede provocar efectos en la capacidad de concentración."
+        }
+      ],
+      "ayuda": "Ciertos medicamentos pueden favorecer las distracciones al volante provocando efectos negativos en la capacidad de concentración de los conductores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "La luz verde en forma de flecha del semáforo significa que los vehículos pueden pasar en...",
+      "imagen": "examen-80_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la dirección de la flecha, y tienen prioridad en la intersección."
+        },
+        {
+          "letra": "B",
+          "texto": "la dirección de la flecha, dejando pasar a los vehículos que circulen por la vía transversal."
+        },
+        {
+          "letra": "C",
+          "texto": "cualquier dirección."
+        }
+      ],
+      "ayuda": "La luz verde en forma de flecha de un semáforo significa que los vehículos pueden tomar la dirección y sentido marcado por la flecha, dejando pasar a los vehículos que circulen por el carril al que se incorporen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "En vía urbana de un solo sentido, los usuarios de un vehículo estacionado deberán salir de él...",
+      "imagen": "examen-80_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "por el lado derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "por el lado derecho o izquierdo, según el lado de la calzada donde se efectúe la inmovilización."
+        },
+        {
+          "letra": "C",
+          "texto": "siempre por el lado del conductor."
+        }
+      ],
+      "ayuda": "Como en vías urbanas de un solo sentido de circulación se puede parar y estacionar en cualquiera de los dos lados, los usuarios se pueden bajar del vehículo por el lado izquierdo o derecho, según el lado de la calzada donde  se efectúela inmovilización.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Cuándo se debe circular por el arcén en una autovía?",
+      "imagen": "examen-80_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando se vaya a salir de la misma."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando por avería o emergencia se circule a menos de 60 km/h y se entorpezca la circulación de otros usuarios."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando la circulación sea muy densa."
+        }
+      ],
+      "ayuda": "Cuando por emergencia se circule por una autopista o autovía a menos de 60 km/h perturbando la circulación, se debe circular por el arcén derecho y salir de la misma en la primera salida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Las palancas del asiento del conductor, ¿para qué sirven?",
+      "imagen": "examen-80_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para hacer más cómodos los asientos traseros."
+        },
+        {
+          "letra": "B",
+          "texto": "Para colocarme a la distancia adecuada de los mandos."
+        },
+        {
+          "letra": "C",
+          "texto": "Para que el cinturón de seguridad me sujete mejor."
+        }
+      ],
+      "ayuda": "Las palancas que suelen tener los asientos delanteros de los vehículos en su parte lateral o inferior, sirven para realizar los reglajes pertinentes del asiento y situar al conductor a la distancia adecuada de los mandos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Durmiendo un poco, ¿se elimina más rápidamente el alcohol?",
+      "imagen": "examen-80_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si se duerme un par de horas."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando se duerme bien."
+        }
+      ],
+      "ayuda": "Al dormir el metabolismo se ralentiza, por lo que el proceso de absorción y posterior eliminación del alcohol en sangre puede llegar a alargarse durante muchas horas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Si padece una enfermedad crónica, para reducir al máximo el riesgo de accidente que puede generar, es muy importante...",
+      "imagen": "examen-80_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "disminuir la dosis de los medicamentos."
+        },
+        {
+          "letra": "B",
+          "texto": "olvidarse de los síntomas."
+        },
+        {
+          "letra": "C",
+          "texto": "conocer bien su enfermedad y seguir los consejos de su médico."
+        }
+      ],
+      "ayuda": "Los conductores que padezcan una enfermedad crónica, deben evitar las situaciones desencadenantes de una crisis, conocer bien su enfermedad y seguir siempre los consejos de su médico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Uno de los problemas que afectan a la capacidad para conducir de las personas mayores es la disminución...",
+      "imagen": "examen-80_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "de la visión y del oído."
+        },
+        {
+          "letra": "B",
+          "texto": "de la visión únicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "del tiempo de reacción."
+        }
+      ],
+      "ayuda": "Uno de los problemas que afectan a la capacidad para conducir de las personas mayores es la disminución de la visión y de la audición.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "Cuando se aproxime a niños o ancianos...",
+      "imagen": "examen-80_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "les avisará con señales acústicas."
+        },
+        {
+          "letra": "B",
+          "texto": "debe adoptar las precauciones necesarias para no ponerles en peligro."
+        },
+        {
+          "letra": "C",
+          "texto": "se detendrá para cederles el paso."
+        }
+      ],
+      "ayuda": "A aproximarnos a peatones y especialmente a niños y ancianos se debe moderar la velocidad y adoptar las precauciones necesarias para no ponerlos en peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "En los pasos para peatones y en sus proximidades, ¿está permitido adelantar?",
+      "imagen": "examen-80_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando se realice a una velocidad tan reducida que permita detenerse a tiempo si surgiera peligro de atropello."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando se haga a vehículos de dos ruedas que no impidan la visibilidad."
+        }
+      ],
+      "ayuda": "Como norma general,  queda prohibido adelantar en los pasos para peatones y en sus proximidades, salvo que se realice a una velocidad tan reducida que permita detenerse a tiempo si surgiera peligro de atropello.\n\n----",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Está correctamente parado este vehículo?",
+      "imagen": "examen-80_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, ya que no se puede parar en una isleta."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, ya que no supone ningún obstáculo a la circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, está permitida la parada, pero no el estacionamiento."
+        }
+      ],
+      "ayuda": "En las isletas y cebreados está prohibido parar y estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Si va a realizar un nuevo adelantamiento, ¿está permitido seguir circulando por el carril izquierdo?",
+      "imagen": "examen-80_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando no obstaculiza a los vehículos que circulen más rápido por detrás."
+        },
+        {
+          "letra": "B",
+          "texto": "No, tiene que volver obligatoriamente a la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si circula a la máxima velocidad permitida en la vía."
+        }
+      ],
+      "ayuda": "El conductor que vaya a efectuar un nuevo adelantamiento, podrá permanecer en el carril izquierdo si no existe peligro y no molesta a los vehículos que circulen más rápido por detrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "En esta intersección con señal de STOP, ¿qué debe hacer?",
+      "imagen": "examen-80_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerme, pero sólo cuando se acerque otro vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Detenerme donde vea mejor."
+        },
+        {
+          "letra": "C",
+          "texto": "Detenerme siempre, antes de la línea transversal."
+        }
+      ],
+      "ayuda": "En esta intersección, hay que detenerse siempre ante la línea continua de detención.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

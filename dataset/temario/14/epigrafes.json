@@ -1,0 +1,610 @@
+[
+  {
+    "n": 1,
+    "tipo": "imagen",
+    "titulo": "Bienvenido al Tema 14",
+    "texto": "Tema 14\n\nConocimiento y mantenimiento del automóvil."
+  },
+  {
+    "n": 2,
+    "tipo": "imagen",
+    "titulo": "Seguridad activa del automóvil",
+    "texto": "Se denomina seguridad activa o primaria al conjunto de elementos de que dispone un vehículo con el fin de evitar accidentes.\n\nDichos elementos son los siguientes: sistema de frenado, sistema de suspensión, ruedas y neumáticos, alumbrado y dispositivos de señalización, sistema de dirección, limpiaparabrisas, espejos retrovisores y parabrisas y elementos transparentes."
+  },
+  {
+    "n": 3,
+    "tipo": "imagen",
+    "titulo": "Sistema de dirección",
+    "texto": "El sistema de dirección es el conjunto de mecanismos encargados de orientar las ruedas del vehículo a voluntad del conductor, de acuerdo con la dirección que desee tomar.\n\nEn la actualidad, se utiliza un sistema conocido como dirección asistida que posibilita que la fuerza que el conductor debe ejercer sobre el volante sea mínima."
+  },
+  {
+    "n": 4,
+    "tipo": "imagen",
+    "titulo": "Dirección asistida progresiva",
+    "texto": "En el sistema de dirección asistida progresiva el grado de dureza de la dirección depende de la velocidad del vehículo.\n\nA bajas velocidades o con el vehículo detenido el grado de asistencia es mayor y, por consiguiente, se requiere un mínimo esfuerzo para mover el volante; a altas velocidades, en cambio, la asistencia es menor y la dirección se vuelve más dura permitiendo un mejor control del vehículo."
+  },
+  {
+    "n": 5,
+    "tipo": "imagen",
+    "titulo": "Mantenimiento del sistema de dirección",
+    "texto": "Si el vehículo ha sufrido un accidente o si la dirección ha recibido un golpe fuerte, se debe llevar el vehículo a un taller especializado.\n\nTambién es conveniente consultar con un profesional cuando se detecte alguno de los siguientes indicios:\n\n- desgaste irregular en los neumáticos.\n- vibración del volante a ciertas velocidades.\n- sensación de dureza o flojedad excesiva.\n- el vehículo se desvía hacia los lados cuando se suelta el volante en terreno llano y homogéneo."
+  },
+  {
+    "n": 6,
+    "tipo": "video",
+    "titulo": "Funcionamiento del sistema de dirección",
+    "texto": "En esta animación, se puede ver el funcionamiento del sistema de dirección.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/97atkx5qm0w?si=Ty3yhexywInfT7An"
+  },
+  {
+    "n": 7,
+    "tipo": "imagen",
+    "titulo": "Sistema de suspensión",
+    "texto": "El sistema de suspensión es el encargado de absorber las irregularidades del terreno para evitar, en lo posible, que las vibraciones o sacudidas se transmitan a la carrocería. Su misión es garantizar la estabilidad y seguridad del vehículo y, al mismo tiempo, proporcionar comodidad a sus ocupantes."
+  },
+  {
+    "n": 8,
+    "tipo": "imagen",
+    "titulo": "Sistema de suspensión. Amortiguadores",
+    "texto": "Los amortiguadores forman parte de la suspensión del vehículo y su función es evitar el efecto rebote al pasar sobre una irregularidad.\n\nCuando los amortiguadores están en mal estado, entre otros efectos, al tomar una curva la carrocería se inclina hacia un lado."
+  },
+  {
+    "n": 9,
+    "tipo": "imagen",
+    "titulo": "Mantenimiento del sistema de suspensión",
+    "texto": "Si el sistema de suspensión se encuentra en mal estado pueden producirse los siguientes efectos:\n\n- Disminución de la estabilidad del vehículo.\n- Disminución del confort de los ocupantes y aparición de la fatiga.\n- Disminución de la eficacia del ABS.\n- Aumento de la distancia de frenado, sobre todo en superficies mojadas, así como de la posibilidad de aquaplaning.\n- Aumento de las posibilidades de deslumbrar a otros usuarios por las oscilaciones de los faros.\n- Deterioro de otros elementos."
+  },
+  {
+    "n": 10,
+    "tipo": "video",
+    "titulo": "Funcionamiento del sistema de suspensión",
+    "texto": "Como se observa en esta situación, al pasar sobre la piedra, la suspensión absorbe la oscilación evitando que el movimiento se transmita a la carrocería.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/c65fFKyL7D0?si=zE-3DV40EgP-e4Nz"
+  },
+  {
+    "n": 11,
+    "tipo": "imagen",
+    "titulo": "Ruedas y neumáticos",
+    "texto": "Las ruedas son los únicos elementos del vehículo que están en contacto directo con el pavimento, por lo que intervienen de forma fundamental en la adherencia.\n\nLas ruedas están compuestas por la llanta y el neumático."
+  },
+  {
+    "n": 12,
+    "tipo": "imagen",
+    "titulo": "Partes de la rueda. La llanta",
+    "texto": "La llanta es la parte metálica de la rueda sobre la cual se montan y acoplan los neumáticos.\n\nExisten distintos tipos de llantas que se adecuan a los tipos de neumáticos: por ejemplo, las llantas para neumáticos sin cámara tienen unos perfiles particulares que garantizan una estanqueidad perfecta.\n\nEn ningún caso se debe montar un neumático sin cámara en una llanta diseñada para neumáticos con cámara, así como tampoco se deben montar llantas de distintas dimensiones en un mismo eje."
+  },
+  {
+    "n": 13,
+    "tipo": "imagen",
+    "titulo": "Partes de la rueda. El neumático",
+    "texto": "El neumático es el elemento elástico de la rueda que, una vez montado sobre la llanta, contiene el aire comprimido.\n\nLa zona de contacto del neumático con el suelo recibe el nombre de banda de rodadura y presenta unos canales o ranuras que forman el dibujo, cuya finalidad es conseguir una buena adherencia y evacuar el agua que pueda existir en la calzada.\n\nLas funciones de los neumáticos son las siguientes:\n\n- Intervienen en la suspensión del vehículo, facilitando una conducción confortable.\n\n- Contribuyen a mantener la estabilidad del vehículo y la seguridad de la marcha.\n\n- Soportan la carga.\n\nLos neumáticos influyen significativamente en la distancia de frenado."
+  },
+  {
+    "n": 14,
+    "tipo": "imagen",
+    "titulo": "Condiciones de los neumáticos",
+    "texto": "Para poder cumplir con sus funciones, los neumáticos deben proporcionar una adherencia adecuada y, para ello, es necesario que no presenten ampollas, deformaciones, cortes, roturas, cables al descubierto u otros defectos similares, y que no tengan más de 5 años de antigüedad.\n\nEn todo caso, los neumáticos deben tener un dibujo con una profundidad de, al menos, 1.6 milímetros en las ranuras principales de la banda de rodadura."
+  },
+  {
+    "n": 15,
+    "tipo": "imagen",
+    "titulo": "Presión de inflado",
+    "texto": "La presión de inflado de los neumáticos debe ser la recomendada por el fabricante y se debe comprobar una o dos veces al mes, con los neumáticos en frío.\n\nLa rueda de repuesto debe llevar la presión de inflado más alta de las fijadas por el fabricante para el resto de las ruedas.\n\nCuando la presión de inflado de los neumáticos es la correcta, estos ofrecen buena adherencia, cumplen con todas sus funciones en condiciones de seguridad y, con el uso, se desgastan de forma homogénea por toda la banda de rodadura."
+  },
+  {
+    "n": 16,
+    "tipo": "imagen",
+    "titulo": "Presión de inflado inferior a la recomendada",
+    "texto": "Por el contrario, si la presión de inflado es inferior a la recomendada se producirán los siguientes efectos:\n\n- Los neumáticos se deformarán.\n\n- Se calentarán excesivamente, desgastándose más y más rápidamente por los bordes (flancos y hombros), con lo que aumentará el riesgo de reventón.\n\n- Aumentará el consumo de combustible y disminuirá la adherencia."
+  },
+  {
+    "n": 17,
+    "tipo": "imagen",
+    "titulo": "Presión de inflado superior a la recomendada",
+    "texto": "Si la presión de inflado es superior a la recomendada, los efectos serán los siguientes:\n\n- Disminuirá la zona de contacto con el pavimento y, por consiguiente, la adherencia.\n\n- Los neumáticos se desgastarán más y más rápidamente por el centro.\n\n- No absorberán bien las irregularidades del terreno, lo cual contribuirá al deterioro de órganos de la suspensión y de la dirección y a la aparición de la fatiga."
+  },
+  {
+    "n": 18,
+    "tipo": "imagen",
+    "titulo": "Sustitución y mantenimiento de los neumáticos",
+    "texto": "Los neumáticos se deben sustituir cuando el dibujo de la banda de rodadura presente menos de 1,6 milímetros de profundidad.\n\nTambién se deben sustituir cada cinco años, porque, con el paso del tiempo, el caucho se endurece y pierde capacidad de adherencia, o cuando estén desgastados, deteriorados, con cortes, grietas, etc.\n\nEn general, en todas las ruedas se deben utilizar neumáticos del mismo tipo y tamaño, que tengan el mismo dibujo y características. No obstante, distinto dibujo no presupone que los neumáticos sean de distinto tipo."
+  },
+  {
+    "n": 19,
+    "tipo": "imagen",
+    "titulo": "Ruedas motrices y ruedas directrices",
+    "texto": "Las ruedas motrices son aquéllas que reciben la potencia del motor, originando el desplazamiento del vehículo.\n\nDependiendo de su ubicación, los vehículos se clasifican del siguiente modo:\n\n- de tracción, si las ruedas motrices son las delanteras.\n\n- de propulsión, si las ruedas motrices son las traseras.\n\n- de tracción total, cuando tanto las ruedas delanteras como las traseras son motrices.\n\nLas ruedas directrices, por su parte, son las que permiten guiar la trayectoria del vehículo."
+  },
+  {
+    "n": 20,
+    "tipo": "imagen",
+    "titulo": "Equilibrado de las ruedas",
+    "texto": "Las ruedas pueden desequilibrarse por diversas causas:\n\n- Pérdida de los contrapesos que llevan las llantas.\n- Deformación de la llanta debida, por ejemplo, a golpes contra el bordillo al estacionar.\n- Desgaste irregular de la cubierta.\n\nSi las ruedas están desequilibradas, sus vibraciones se transmiten al volante y al interior del vehículo: el conductor nota que el volante le vibra entre las manos, sobre todo, al alcanzar una determinada velocidad. Cuando esto suceda, se debe llevar el vehículo a un taller especializado para que, mediante la colocación de contrapesos de plomo en las llantas, se corrija el defecto.\n\nCircular con las ruedas desequilibradas provoca un desgaste irregular y prematuro de los neumáticos."
+  },
+  {
+    "n": 21,
+    "tipo": "imagen",
+    "titulo": "Sistema de frenado",
+    "texto": "Los frenos tienen como función reducir o anular de forma progresiva la velocidad del vehículo, o mantenerlo inmóvil cuando se encuentra detenido.\n\nGeneralmente, los vehículos están equipados con los siguientes tipos de frenos:\n\nFreno de servicio: actúa sobre todas las ruedas del vehículo, y se acciona presionando moderadamente el pedal central con el pie derecho.\n\nFreno de socorro: actúa, al menos, sobre una rueda de cada lado del plano longitudinal medio del vehículo y entra en funcionamiento cuando falla el freno de servicio.\n\nFreno de estacionamiento: actúa generalmente sobre las ruedas traseras; se acciona con la mano y con el vehículo inmovilizado."
+  },
+  {
+    "n": 22,
+    "tipo": "imagen",
+    "titulo": "Clases de sistemas de frenos. Freno de tambor",
+    "texto": "Está formado por un tambor unido a la rueda y por zapatas. Al pisar el pedal del freno, las zapatas por expansión se desplazan y consiguen el rozamiento con el tambor.\n\nEstos frenos tienen poca ventilación por lo que se calientan más y son más susceptibles de bloquear las ruedas."
+  },
+  {
+    "n": 23,
+    "tipo": "imagen",
+    "titulo": "Clases de sistemas de frenos. Frenos de disco",
+    "texto": "Este sistema está constituido por un disco unido a la rueda y por pastillas. Al pisar el pedal del freno, las pastillas se desplazan comprimiendo el disco.\n\nEste sistema es más eficaz que el de tambor porque al encontrarse a la intemperie evacua mejor el calor, por lo que se calienta menos y la frenada es más suave y progresiva."
+  },
+  {
+    "n": 24,
+    "tipo": "imagen",
+    "titulo": "Eficacia de los frenos",
+    "texto": "Entre otras circunstancias, la eficacia de los frenos depende:\n\n- de su estado. Los frenos de servicio son hidráulicos, es decir, funcionan con líquido. Por lo tanto, se debe comprobar periódicamente el nivel del líquido de frenos, de manera que permanezca siempre entre las marcas Máximo y Mínimo.\n\n- del estado de los neumáticos y de la calzada.\n- de la velocidad.\n- de la masa del vehículo y la carga transportada.\n- de la presión de inflado.\n- del estado de los amortiguadores y de las condiciones meteorológicas adversas."
+  },
+  {
+    "n": 25,
+    "tipo": "imagen",
+    "titulo": "Posibles fallos de los frenos",
+    "texto": "Los frenos pueden fallar, parcial o totalmente, por las siguientes causas:\n\nPérdida de líquido de frenos. La fuga se nota porque al pisar el pedal del freno éste llega casi al fondo.\n\nEntrada de aire en sus canalizaciones. Al pisar el pedal del freno, éste da una sensación de tacto esponjoso y blando al final de su recorrido.\n\nFading o calentamiento excesivo del sistema frenante. Se produce cuando se frena continuamente (excesivamente).\n\nExcesiva humedad en el sistema de frenado.\nCuando llueve, los frenos al mojarse pueden perder eficacia. En este caso, se debe accionar el pedal del freno poco a poco y de forma repetida para evaporar el agua y recuperar su eficacia.\n\nAcción desigual de los frenos. Puede deberse a diferente presión de los neumáticos del mismo eje, al desgaste desigual de las pastillas o zapatas o a un mal reglaje de los frenos. En este caso, al frenar, el vehículo tiende a desviarse hacia un lado."
+  },
+  {
+    "n": 26,
+    "tipo": "imagen",
+    "titulo": "ADAS. Sistemas Avanzados de Asistencia al Conductor",
+    "texto": "Los sistemas avanzados de asistencia al conductor (Advanced Driver Assistance Systems), permiten que el vehículo realice de forma autónoma determinadas tareas, como estacionar, reducir la velocidad e, incluso, detener el vehículo.\n\nExisten infinidad de soluciones tecnológicas para la automatización vehicular y para dotar a los vehículos de mayor seguridad.\n\nA continuación se describen algunos de estos."
+  },
+  {
+    "n": 27,
+    "tipo": "imagen",
+    "titulo": "Sistema de frenado antibloqueo (ABS)",
+    "texto": "La función de este sistema es evitar que las ruedas se bloqueen cuando la presión ejercida por el conductor sobre el pedal del freno es excesiva.\n\nEste dispositivo permite una mejor frenada ya que las ruedas no se bloquean y el vehículo conserva su trayectoria, especialmente cuando el pavimento está mojado o deslizante por agua, hielo, nieve, etc.\n\nCuando el ABS entra en funcionamiento, es normal que el pedal del freno tiemble ligeramente, por lo que el conductor no debe levantar el pie de dicho pedal."
+  },
+  {
+    "n": 28,
+    "tipo": "imagen",
+    "titulo": "Sistema de asistencia a la frenada (BAS)",
+    "texto": "En casos de emergencia, algunos conductores cuando frenan no ejercen suficiente presión sobre el pedal del freno.\n\nEs entonces cuando el sistema de asistencia a la frenada, detecta que se trata de una frenada de emergencia y aplica toda la fuerza necesaria aunque el conductor no ejerza suficiente presión sobre el pedal del freno."
+  },
+  {
+    "n": 29,
+    "tipo": "imagen",
+    "titulo": "Dispositivos de control de estabilidad y de tracción",
+    "texto": "Control electrónico de estabilidad (ESP): este sistema detecta si el vehículo derrapa en alguno de los ejes al tomar una curva, y actúa regulando el frenado y la tracción en cada rueda, para que el conductor recupere el control del vehículo. Los vehículos equipados con ESP tienen menos accidentes en curvas que los que no lo llevan.\n\nSistema de control de tracción (ASR, TCS): permite comparar el giro de las ruedas motrices con las que no lo son, detectando si aquéllas pierden adherencia. En ese caso, una centralita envía una señal para que se reduzca la fuerza del motor y se frenen las ruedas que pierden adherencia."
+  },
+  {
+    "n": 30,
+    "tipo": "imagen",
+    "titulo": "Limitadores de velocidad",
+    "texto": "Tienen como función ayudar al conductor a mantener la velocidad adecuada, según las circunstancias."
+  },
+  {
+    "n": 31,
+    "tipo": "imagen",
+    "titulo": "Start-Stop",
+    "texto": "Sistema de arranque del automóvil que desconecta el motor cuando este está al ralentí, y lo vuelve a encender al pisar el pedal de embrague, o al soltar el pedal de freno en los vehículos automáticos."
+  },
+  {
+    "n": 32,
+    "tipo": "imagen",
+    "titulo": "Hill holder.  Sistema de ayuda de salida en pendientes",
+    "texto": "Este dispositivo cuenta con un sensor que detecta el ángulo de inclinación en el que se encuentra el vehículo e impide que el mismo se vaya hacia atrás al levantar el pie del freno.\n\nAlgunos modelos de vehículos incorporan un botón que permite al conductor mantener el vehículo detenido en una pendiente sin necesidad de pisar el pedal del freno o activar el freno de estacionamiento."
+  },
+  {
+    "n": 33,
+    "tipo": "imagen",
+    "titulo": "Activación automática de alumbrado y limpiaparabrisas",
+    "texto": "Estos sistemas se activan cuando un sensor detecta una disminución de la visibilidad o presencia de lluvia suficientemente significativa."
+  },
+  {
+    "n": 34,
+    "tipo": "imagen",
+    "titulo": "Sistemas de control de la distancia frontal",
+    "texto": "AEBS. Sistema avanzado de frenado de emergencia.\nEste sistema, en caso de descuido del conductor, y cuando exista riesgo de colisión por alcance, es capaz de detectar un peligro inminente, y actuar de dos formas:\n\n- Avisándole al conductor, mediante una señal visual o acústica.\n- Tomando el control del vehículo para realizar una frenada de emergencia y deternerlo, en caso de que el conductor no actúe.\n\nFCW: Advertencia de colisión frontal (Forward Collision Warning).\nEse sistema alerta al conductor del riesgo de colisión mediante una señal óptica y  acústica, cuando no se mantiene la distancia de seguridad con el vehículo que circula delante.\n\nEste sistema se limita a advertir al conductor del riesgo de colisión, pero no frena el vehículo por sí solo, ni realiza ninguna otra acción autónoma."
+  },
+  {
+    "n": 35,
+    "tipo": "imagen",
+    "titulo": "RCTA: Alerta de tráfico cruzado",
+    "texto": "Este sistema de alerta supervisa el tráfico trasero en sentido transversal al salir marcha atrás desde un garaje o un aparcamiento en oblicuo o batería.\n\nSi detecta la presencia de un vehículo por la parte trasera, a una distancia aproximada de 20 metros, emite un aviso sonoro o visual, que alerta al conductor para que se detenga.\n\nEn algunos vehículos, el RCTA, puede frenar por sí solo, si la colisión es inminente y no ha habido respuesta por parte del conductor."
+  },
+  {
+    "n": 36,
+    "tipo": "imagen",
+    "titulo": "Cámaras de marcha atrás y de 360 grados",
+    "texto": "Las cámaras sirven de ayuda al conductor durante la circulación marcha atrás y en las maniobras de estacionamiento, al permitir ver el exterior del vehículo en un monitor a la vista del conductor.\n\nLa cámara de visión de 360 grados reúne la información de cuatro cámaras instaladas alrededor del vehículo, en base a la cual se elabora una imagen que aparece en pantalla, bien en forma de plano cenital, bien mediante distintos planos del vehículo."
+  },
+  {
+    "n": 37,
+    "tipo": "imagen",
+    "titulo": "BSD: Detección de ángulos muertos (Blind Spots Detection)",
+    "texto": "Este sistema de detección de ángulos muertos contribuye a evitar colisiones, cuando el conductor se cambia de carril sin percatarse de la existencia de otro vehículo en el ángulo muerto lateral, derecho o izquierdo.\n\nSi esto sucede, el indicador óptico del espejo retrovisor correspondiente al lado hacia donde se realiza el desplazamiento, se enciende de forma intermitente. Este sistema también puede emitir una advertencia acústica."
+  },
+  {
+    "n": 38,
+    "tipo": "imagen",
+    "titulo": "PCW: Advertencia de colisión con peatones (Pedestrian Collision Warning)",
+    "texto": "El sistema de advertencia de colisión con peatones alerta al conductor de la presencia de un peatón o ciclista en caso de colisión inminente a baja velocidad (hasta 50 km/h).\n\nEl PCW detecta la presencia de peatones o ciclistas y controla el tiempo de colisión; cuando este es inferior a 2 segundos, emite una advertencia óptica o acústica, de modo que el conductor disponga de tiempo para reaccionar."
+  },
+  {
+    "n": 39,
+    "tipo": "imagen",
+    "titulo": "IHC: Control inteligente de luces de carretera (Intelligent Highbeam Control)",
+    "texto": "El IHC es un sistema de activación / desactivación de las luces de carretera, en función de las condiciones de iluminación de la vía.\n\nEste sistema cambia automáticamente la luz de carretera por la luz de cruce, en presencia de otros conductores para evitar el deslumbramiento.\n\nIgualmente, puede sustituir de forma automática el alumbrado de corto alcance por el de largo alcance, cuando se circula por carreteras pocos iluminadas, si no hay tráfico en sentido contrario."
+  },
+  {
+    "n": 40,
+    "tipo": "imagen",
+    "titulo": "DADS: Sistema de detección de fatiga (Driver Alertness Detection System)",
+    "texto": "El objetivo del sistema de detección de fatiga es evitar accidentes derivados de la falta de concentración del conductor, motivada por la fatiga o el sueño.\n\nEl sistema DADS analiza determinados patrones de comportamiento del conductor y emite una alerta cuando se producen maniobras que pueden considerase atípicas y consecuentes con los síntomas del sueño o la fatiga.\n\nEsta alarma que puede ser óptica, acústica e, incluso háptica, recomienda realizar una pausa hasta que el conductor vuelva a estar en condiciones óptimas para retomar la marcha."
+  },
+  {
+    "n": 41,
+    "tipo": "imagen",
+    "titulo": "Sistemas de alerta y de mantenimiento de carril",
+    "texto": "LDW: Alerta de salida de carril (Lane Departure Warning)\nLos sistemas de alerta de salida de carril, reconocen las líneas de carril y alertan al conductor si las sobrepasa sin conectar los intermitentes, lo que se interpreta como una acción involuntaria con posible origen en una distracción o somnolencia.\n\nLKA: Asistencia de mantenimiento de carril (Lane Keeping Assist)\nA diferencia del sistema de alerta de salida de carril, el sistema de asistencia de mantenimiento de carril no se limita a advertir de un cambio de carril involuntario, sino que cuando no hay respuesta por parte del conductor, actúa sobre la dirección del vehículo, corrigiendo la trayectoria para mantenerlo en el carril y evitar desplazamientos involuntarios."
+  },
+  {
+    "n": 42,
+    "tipo": "imagen",
+    "titulo": "EBD: Aviso de frenada de emergencia (Emergency Brake Display)",
+    "texto": "Este sistema tiene como finalidad evitar o reducir los efectos de las colisiones por alcance; en caso de frenadas imprevistas, permite a los conductores detectar cuando el vehículo que circula delante está realizando una frenada de emergencia."
+  },
+  {
+    "n": 43,
+    "tipo": "imagen",
+    "titulo": "E-CALL: Sistema de llamada de emergencia",
+    "texto": "Este sistema se activa de forma automática al saltar los airbags del vehículo, y establece comunicación con el 112, que lo identifica como una llamada E-call dándole máxima prioridad.\n\nTambién se puede realizar una llamada manual pulsando el botón ese o ese que lleva instalado."
+  },
+  {
+    "n": 44,
+    "tipo": "imagen",
+    "titulo": "Alumbrado. Ver y ser vistos",
+    "texto": "La finalidad del sistema de alumbrado es ver, ser vistos y advertir las maniobras.\n\nPara que este sistema pueda cumplir con su función es fundamental que esté correctamente reglado. Con las luces mal regladas, por ejemplo, orientadas demasiado abajo, a 90 km/h se tarda un segundo más en percibir un obstáculo y, durante ese tiempo, se recorren 25 metros.\n\nEn los últimos años, se han hecho grandes avances tecnológicos en cuanto a los sistemas de alumbrado, entre los que destacan:\n\nLas lámparas de descarga de gas, o de xenón, que ofrecen el doble de luz consumiendo la mitad de energía. Este sistema reduce la fatiga ocular y las posibilidades de deslumbramiento. Las lámparas de xenón se caracterizan por el color azulado de su haz luminoso.\n\nLas luces adaptativas que adaptan la zona iluminada por los faros a las necesidades del conductor, mejorando la visibilidad en intersecciones, curvas, etc.\n\nLas luces de día o daylights que están destinadas a aumentar la visibilidad del vehículo durante el día. Se estima que si los coches dispusieran de este tipo de luces se podrían salvar unas 200 vidas al año."
+  },
+  {
+    "n": 45,
+    "tipo": "imagen",
+    "titulo": "Parabrisas y elementos transparentes",
+    "texto": "Los elementos transparentes del habitáculo que afecten al campo de visión del conductor, no deben deformar de modo apreciable los objetos vistos a su través ni producir confusión entre los colores utilizados en la señalización vial. Dichos elementos deben estar siempre en buen estado de limpieza para ofrecer una visibilidad óptima.\n\nAsimismo, se prohíbe la utilización de láminas adhesivas en el parabrisas del automóvil, salvo en las condiciones establecidas en el reglamento de vehículos."
+  },
+  {
+    "n": 46,
+    "tipo": "imagen",
+    "titulo": "El limpiaparabrisas",
+    "texto": "El limpiaparabrisas tiene como función mantener limpio el parabrisas. No se debe poner en funcionamiento cuando aquél esté seco, con mosquitos, polvo u otras impurezas, porque se deterioran las escobillas y se rayaría el parabrisas.\n\nLas escobillas, por su parte, se deben cambiar cuando se deterioren, cuando hagan ruido al limpiar, cuando dejen algunas zonas sin limpiar, si vibran cuando estén en funcionamiento, etc."
+  },
+  {
+    "n": 47,
+    "tipo": "video",
+    "titulo": "El limpiaparabrisas. Precauciones",
+    "texto": "No se debe poner en funcionamiento el limpiaparabrisas cuando el parabrisas esté sucio (polvo, mosquitos, barro, etc.) y seco, porque se deterioran las escobillas y se puede rayar el cristal.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/5NbZTBkGlTE?si=CGdx0mTQYNI2AMnj"
+  },
+  {
+    "n": 48,
+    "tipo": "imagen",
+    "titulo": "El lavaparabrisas",
+    "texto": "El lavaparabrisas consta de un pequeño motor eléctrico que, al ser accionado por el conductor, recoge agua de un depósito situado debajo del capó y la lanza a chorros, orientándola hacia el parabrisas.\n\nEvidentemente, es necesario que el depósito disponga de suficiente agua y por ello se debe comprobar con frecuencia el nivel del depósito, rellenándolo cuando sea necesario.\n\nPor otra parte, se puede añadir detergente neutro al agua para mejorar la limpieza del parabrisas, del mismo modo que, en invierno, es aconsejable añadir líquido anticongelante para evitar que el agua se congele en el depósito."
+  },
+  {
+    "n": 49,
+    "tipo": "imagen",
+    "titulo": "Condiciones meteorológicas adversas",
+    "texto": "A bajas temperaturas, es frecuente que se forme escarcha en el exterior de los cristales del vehículo y que se produzca vaho en su interior, lo cual dificulta la visibilidad. Para eliminarlos, se debe poner en funcionamiento la calefacción y orientar el aire caliente hacia el parabrisas y las ventanillas.\n\nAlgunos vehículos disponen de un sistema antivaho en el cristal posterior, denominado luneta térmica, el cual está formado por líneas horizontales o filamentos a modo de resistencia eléctrica, que se encienden al accionar el mando correspondiente y hacen pasar una corriente eléctrica al cristal. De ese modo, evita la formación de escarcha o vaho, o los elimina en caso de que ya se hayan formado.\n\nCuando haya escarcha en el exterior de los cristales, se debe limpiar antes de iniciar el viaje."
+  },
+  {
+    "n": 50,
+    "tipo": "imagen",
+    "titulo": "Visibilidad hacia atrás",
+    "texto": "El campo de visión hacia atrás no debe ser disminuido en ningún caso.\n\nLas causas más frecuentes que pueden reducir el campo de visión a través de la luneta son:\n\n- La propia cabina o caja del vehículo, en el caso de los camiones.\n\n- Arrastrar un remolque más alto que el vehículo remolcador.\n\n- La colocación de cortinillas no transparentes contra el sol.\n\n- Número excesivo de pasajeros, etc.\n\nCuando no sea posible evitar estos elementos, será obligatorio llevar instalado un espejo retrovisor correctamente reglado en el lado derecho del vehículo."
+  },
+  {
+    "n": 51,
+    "tipo": "imagen",
+    "titulo": "Espejos retrovisores. Vehículos obligados",
+    "texto": "Vehículos obligados a llevar espejos retrovisores.\n\nLos turismos y los camiones de masa máxima autorizada no superior a 3.500 kg deben llevar obligatoriamente dos espejos retrovisores: uno situado en el lateral izquierdo del vehículo y otro en el interior del mismo, pudiendo llevar opcionalmente un espejo retrovisor en el lateral derecho."
+  },
+  {
+    "n": 52,
+    "tipo": "imagen",
+    "titulo": "Reglaje de los espejos retrovisores",
+    "texto": "Los espejos retrovisores se deben regular antes de iniciar la marcha con el conductor sentado en posición normal de conducción y con el vehículo inmovilizado y, a ser posible, en posición recta y en terreno llano.\n\nEl espejo retrovisor interior debe ofrecer un campo de visión tal que el conductor pueda ver, al menos, una parte de carretera plana y horizontal, desde el horizonte hasta una distancia de 60 metros por detrás de los puntos oculares y en una anchura de 20 metros.\n\nEl espejo interior que no ofrezca dicho campo de visión pasará a ser opcional y entonces será obligatorio un segundo espejo retrovisor exterior en el lado derecho del vehículo.\n\nSi bien la mayoría de los espejos retrovisores son planos y ofrecen una imagen real, existen espejos retrovisores de tipo convexo que cubren un mayor ángulo de visión. Sin embargo, estos espejos tienen el inconveniente de que los vehículos se ven más pequeños y parecen más alejados de lo que realmente están, por lo que es difícil apreciar con exactitud la distancia a la que se encuentran y su velocidad."
+  },
+  {
+    "n": 53,
+    "tipo": "imagen",
+    "titulo": "Ángulos muertos",
+    "texto": "Para completar la información obtenida a través de los espejos retrovisores, antes de realizar una maniobra, es conveniente observar directamente hacia atrás girando la cabeza un máximo de 45 grados, a fin de controlar los ángulos muertos, es decir, aquellos espacios que no se ven a través de los espejos."
+  },
+  {
+    "n": 54,
+    "tipo": "imagen",
+    "titulo": "Utilización de los espejos retrovisores",
+    "texto": "Para controlar la dinámica de la circulación a fin de conducir con seguridad, se debe mirar por los espejos retrovisores con frecuencia y brevedad, antes de señalizar alguna maniobra y antes de bajar del vehículo.\n\nEn vías urbanas y carreteras con tráfico denso, es recomendable mirar por los espejos retrovisores cada 5 segundos aproximadamente. En carreteras sin tráfico cada 10 segundos, y en autopistas y autovías cada 15 segundos."
+  },
+  {
+    "n": 55,
+    "tipo": "imagen",
+    "titulo": "Señal de advertencia de peligro por ángulos muertos en vehículos de transporte de pasajeros y mercancías",
+    "texto": "Esta señal la podrán llevar vehículos de reparto, distribución de mercancías, autobuses urbanos, escolares y camiones pesados.\n\nEl objetivo es indicar a los usuarios vulnerables en zonas urbanas, la importancia de situarse fuera de las zonas no visibles para los conductores de estos vehículos."
+  },
+  {
+    "n": 56,
+    "tipo": "imagen",
+    "titulo": "Seguridad pasiva del automóvil. Protección de los ocupantes",
+    "texto": "El concepto de seguridad pasiva o secundaria hace referencia a aquellos sistemas que tienen como función reducir al mínimo las lesiones de los ocupantes, una vez que el accidente se ha producido.\n\nForman parte de la seguridad pasiva la carrocería, los asientos, el reposacabezas, los cinturones de seguridad y el airbag, entre otros."
+  },
+  {
+    "n": 57,
+    "tipo": "imagen",
+    "titulo": "La carrocería",
+    "texto": "La carrocería forma parte de la estructura metálica a la cual se sujetan el resto de elementos del vehículo y es la que soporta a los ocupantes y a la carga.\n\nLas funciones de la carrocería durante un accidente son proteger a los ocupantes del vehículo, para lo cual debe ser suficientemente resistente, y absorber la energía que se libera durante el impacto.\n\nActualmente, los vehículos disponen de estructuras de deformación programada que permiten absorber la mayor cantidad de energía posible.\n\nPor ello, no se debe modificar la estructura del vehículo, especialmente su zona delantera ya que está diseñada para reducir los daños ocasionados a los peatones en caso de atropello."
+  },
+  {
+    "n": 58,
+    "tipo": "imagen",
+    "titulo": "Asiento del conductor",
+    "texto": "La posición correcta del conductor influye notablemente en el manejo y control del vehículo, además de proporcionar mayor comodidad.\n\nAntes de iniciar la marcha, el conductor debe regular la posición del asiento y su respaldo de acuerdo a sus características físicas.\n\nUn asiento estará bien reglado cuando el conductor pueda:\n\n- ver la vía por encima del volante.\n- llegar cómodamente al volante con los brazos semiflexionados.\n- accionar a fondo los pedales con las piernas semiflexionadas.\n\nAdemás, no se deben colocar en el asiento cojines o esterillas porque el cinturón de seguridad pierde eficacia favoreciendo el efecto submarino."
+  },
+  {
+    "n": 59,
+    "tipo": "imagen",
+    "titulo": "Reposacabezas",
+    "texto": "En caso de colisión por alcance, el cuello sufre un fuerte movimiento de vaivén, conocido como latigazo cervical, que puede ocasionar lesiones en el cuello y en las vértebras cervicales de diversa gravedad.\n\nEl reposacabezas es el dispositivo encargado de retener el movimiento de la cabeza, reduciendo significativamente la posibilidad de sufrir una lesión cervical. Para ello, debe estar regulado de modo que su borde superior coincida con la parte superior de la cabeza, (la parte central quedará a la altura de los ojos).\n\nLa distancia entre el reposacabezas y la cabeza no debe ser superior a 4 centímetros."
+  },
+  {
+    "n": 60,
+    "tipo": "imagen",
+    "titulo": "El cinturón de seguridad",
+    "texto": "La función del cinturón de seguridad es retener a los ocupantes del vehículo en caso de accidente, impidiendo que impacten contra el volante o el parabrisas o que salgan despedidos.\n\nCuando se circula sin llevar abrochado el cinturón de seguridad, la probabilidad de fallecer en caso de accidente es del doble que si se llevara colocado. Además, en caso de que se accionaran los airbags, los ocupantes podrían sufrir lesiones importantes.\n\nSi bien existen varios tipos de cinturones de seguridad, actualmente, el más usado es el de tres puntos de anclaje debido a que es más eficaz que el que tiene sólo dos puntos."
+  },
+  {
+    "n": 61,
+    "tipo": "imagen",
+    "titulo": "Colocación correcta del cinturón de seguridad",
+    "texto": "Para que el cinturón cumpla su función debe colocarse correctamente, antes de iniciar la marcha, respetando las siguientes pautas:\n\nLa banda torácica debe colocarse sobre la clavícula, sin que roce el cuello, y debe descender por el centro del pecho, sin rozar la axila opuesta.\n\nLa banda abdominal debe situarse sobre los huesos de la cadera (pelvis) por debajo del abdomen. De no ser así, podría provocar graves lesiones internas en caso de accidente.\n\nSe debe comprobar que esté correctamente abrochado, ceñido al cuerpo y que no esté enrollado o enganchado. En este sentido, se prohíbe el uso de pinzas o reguladores de presión para sujetar el cinturón de seguridad ya que, en caso de accidente, reducen la eficacia del cinturón.\n\nSi el cinturón de seguridad o sus anclajes están deteriorados o si el vehículo ha sufrido un accidente es preciso sustituirlo porque puede haber perdido su eficicacia."
+  },
+  {
+    "n": 62,
+    "tipo": "imagen",
+    "titulo": "No utilización o utilización incorrecta del cinturón de seguridad",
+    "texto": "Circular sin llevar el cinturón de seguridad abrochado es muy peligroso porque en caso de colisión, incluso a baja velocidad, no siempre es posible mantenerse sujeto al asiento.\n\nPor otra parte, cuando el cinturón de seguridad no se coloca correctamente, los ocupantes no quedan bien sujetos y, en caso de accidente o incidente, se puede dar el fenómeno conocido como efecto submarino, que consiste en el deslizamiento del cuerpo por debajo de la banda abdominal del cinturón."
+  },
+  {
+    "n": 63,
+    "tipo": "video",
+    "titulo": "Colocación del cinturón de seguridad",
+    "texto": "En este video se observa como, antes de iniciar la marcha, la conductora se coloca y abrocha correctamente el cinturón en su anclaje.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/mtsyuDj6_6Y?si=dogG5xhUhTKvBKc1"
+  },
+  {
+    "n": 64,
+    "tipo": "imagen",
+    "titulo": "Cinturones de seguridad u otros sistemas de retención homologados. Obligatoriedad",
+    "texto": "El conductor y los ocupantes de los vehículos estarán obligados a utilizar, debidamente abrochados, los cinturones de seguridad homologados, tanto en la circulación por vías urbanas como interurbanas, salvo en aquellos vehículos que no los lleven instalados."
+  },
+  {
+    "n": 65,
+    "tipo": "imagen",
+    "titulo": "Cinturón de seguridad. Exenciones a la obligatoriedad",
+    "texto": "No obstante, pueden circular sin llevar puesto el cinturón de seguridad, tanto dentro como fuera de poblado:\n\n- los conductores al efectuar la maniobra de marcha atrás o de estacionamiento.\n- Las personas provistas de un certificado de exención por razones médicas graves."
+  },
+  {
+    "n": 66,
+    "tipo": "imagen",
+    "titulo": "Cinturón de seguridad. Exenciones dentro de poblado",
+    "texto": "- Los conductores y pasajeros de vehículos en servicio de urgencia.\n- Los conductores de taxis en servicio.\n- Los distribuidores de mercancías, cuando realicen sucesivas operaciones de carga y descarga de mercancías en lugares situados a corta distancia unos de otros.\n- Las personas que acompañan a un alumno o aprendiz durante el proceso de aprendizaje de la conducción o durante las pruebas de aptitud, y estén a cargo de los mandos adicionales del automóvil, responsabilizándose de la seguridad de la circulación."
+  },
+  {
+    "n": 67,
+    "tipo": "imagen",
+    "titulo": "Algunos datos en relación con el uso del cinturón de seguridad",
+    "texto": "Un vehículo que impacta frontalmente a 50 km/h contra un objeto indeformable, puede detenerse en apenas una décima de segundo sufriendo una deceleración semejante a 15 veces la fuerza de la gravedad terrestre.\n\nLa probabilidad de sufrir una lesión medular al salir despedido de un vehículo, es 1.300% mayor que si se permanece en el interior. Lo mismo ocurre con la posibilidad de muerte que aumenta en un 300%.\n\nEn un impacto frontal, la probabilidad de que un pasajero de los asientos traseros, que no lleva el cinturón de seguridad, golpee mortalmente a otro ocupante de los asientos delanteros puede ser hasta 8 veces mayor."
+  },
+  {
+    "n": 68,
+    "tipo": "imagen",
+    "titulo": "Dispositivos de retención infantil",
+    "texto": "Para que los niños viajen con seguridad es necesario disponer de un dispositivo de retención infantil adecuado al peso y a la talla del niño.\n\nEs fundamental tener presente que si un pequeño viaja en brazos, y el vehículo sufre un accidente a sólo 5 km/h, es prácticamente imposible retenerlo.\n\nLa ubicación más recomendable para los sistemas de retención infantil son los asientos traseros, especialmente el asiento central, debido a que ofrece mayor seguridad en caso de impacto lateral o cuando la carrocería se ve sometida a deformaciones importantes."
+  },
+  {
+    "n": 69,
+    "tipo": "imagen",
+    "titulo": "Utilización de los dispositivos de retención infantil",
+    "texto": "En los vehículos de hasta nueve plazas, incluido el conductor, los menores de edad de estatura igual o inferior a 1,35 metros deberán utilizar sistemas de retención infantil homologados, adaptados a su talla y peso.\n\nDichos ocupantes deberán situarse en los asientos traseros.\n\nExcepcionalmente, podrán ocupar el asiento delantero, siempre que utilicen sistemas de retención infantil homologados adaptados a su talla y peso, en los siguientes casos:\n\n- Cuando el vehículo no disponga de asientos traseros.\n- Cuando todos los asientos traseros estén ocupados por menores de edad.\n- Cuando no sea posible instalar en los asientos traseros todos los sistemas de retención infantil.\n \nEn el caso de que ocupen los asientos delanteros y el vehículo disponga de airbag frontal, únicamente podrán utilizarse sistemas de retención orientados hacia atrás si el airbag ha sido desactivado.\n \nLos sistemas de retención se instalarán en el vehículo siempre de acuerdo a las instrucciones del fabricante. Las instrucciones indicarán de qué forma y en qué tipo de vehículos se pueden instalar de forma segura."
+  },
+  {
+    "n": 70,
+    "tipo": "imagen",
+    "titulo": "Airbags",
+    "texto": "El airbag es una bolsa de gas que se infla automáticamente en milésimas de segundo al producirse un impacto, protegiendo a los ocupantes del vehículo.\n\nEste dispositivo complementa la acción del cinturón de seguridad, evitando el impacto de los ocupantes contra algún elemento del interior del vehículo, en caso de detención brusca o colisión.\n\nExisten varios tipos de airbags: airbag frontal de conductor y acompañante, de gran eficacia en impactos frontales; airbag lateral, eficaz en colisiones laterales y airbag de techo o cortina, destinado a proteger a los ocupantes en caso de vuelco.\n\nPara obtener la mayor efectividad del airbag, el conductor debe situarse a no menos de 10 centímetros del volante (25 centímetros es la distancia ideal) y llevar abrochado el cinturón de seguridad. Se estima que el airbag frontal actuando conjuntamente con el cinturón de seguridad puede reducir en un 20% la probabilidad de sufrir lesiones mortales."
+  },
+  {
+    "n": 71,
+    "tipo": "imagen",
+    "titulo": "Anexo: La motocicleta",
+    "texto": "La motocicleta es un vehículo menos visible y más inestable y frágil que un turismo, por lo que requiere una técnica de conducción distinta."
+  },
+  {
+    "n": 72,
+    "tipo": "imagen",
+    "titulo": "Casco de protección",
+    "texto": "La finalidad del casco es proteger la cabeza del conductor y del acompañante, evitando lesiones o reduciendo su gravedad, en caso de accidente de circulación.\n\nSegún diversos estudios, las lesiones en la cabeza son la principal causa de muerte entre los accidentados en vehículos de dos ruedas. El uso correcto del casco puede reducir casi en un 30% la probabilidad de sufrir lesiones mortales, así como aumentar en un 20% la probabilidad de salir ileso en un accidente.\n\nPara que el casco cumpla con su finalidad, debe reunir los siguientes requisitos:\n\n- Debe estar homologado.\n\n- Es preferible que sea de colores claros y llamativos, para que aumente la visibilidad.\n\n- Su talla debe ser la adecuada para que encaje bien sobre la cabeza, sin que se incline hacia delante sobre los ojos, ni hacia atrás.\n\n- Debe tener suficientes orificios que posibiliten la entrada y salida del aire para permitir que el conductor respire adecuadamente y evitar que la visera se empañe.\n\n- Se debe abrochar correctamente, antes de iniciar la marcha."
+  },
+  {
+    "n": 73,
+    "tipo": "imagen",
+    "titulo": "Dispositivos inalámbricos en el casco",
+    "texto": "Se permite la utilización de dispositivos inalámbricos certificados u homologados para la utilización en el casco de protección de los conductores de motocicletas y ciclomotores, con fines de comunicación o navegación, siempre que no afecten a la seguridad en la conducción.\n\nQueda expresamente prohibido utilizar, durante la conducción, dispositivos de telefonía móvil manteniéndolo ajustado entre el casco y la cabeza del usuario."
+  },
+  {
+    "n": 74,
+    "tipo": "imagen",
+    "titulo": "Casco de protección. Obligatoriedad",
+    "texto": "Según la legislación vigente, deberán utilizar cascos de protección homologados los conductores y pasajeros de los siguientes vehículos:\n\n- Motocicletas, con y sin sidecar.\n- Vehículos de tres ruedas.\n- Cuadriciclos.\n- Ciclomotores y vehículos especiales tipo quad."
+  },
+  {
+    "n": 75,
+    "tipo": "imagen",
+    "titulo": "Vehículos con estructuras de autoprotección",
+    "texto": "Cuando estos vehículos cuenten con estructuras de autoprotección y estén dotados de cinturones de seguridad, y así conste en la correspondiente tarjeta de inspección técnica o en el certificado de características del ciclomotor, sus conductores y pasajeros quedarán exentos de utilizar el casco de protección pero estarán obligados a usar el cinturón de seguridad."
+  },
+  {
+    "n": 76,
+    "tipo": "imagen",
+    "titulo": "Indumentaria. El traje",
+    "texto": "El uso del traje es opcional y su finalidad es proteger al conductor y ocupantes de las inclemencias del tiempo y evitar, o reducir la gravedad, de lesiones por abrasión en caso de caída sobre el asfalto.\n\nEl traje debe ser resistente, puede estar fabricado en piel, fibras textiles o material sintético y es preferible que sea de colores claros y llamativos, para que los demás usuarios puedan distinguir al motociclista a una distancia suficiente."
+  },
+  {
+    "n": 77,
+    "tipo": "imagen",
+    "titulo": "Indumentaria. Los guantes y las botas",
+    "texto": "Los guantes\nLos guantes protegen las manos del frío en invierno y evitan las rozaduras en caso de caída o accidente.\n\nDeben ser de cuero y tener la menor masa posible para permitir el tacto necesario para utilizar los mandos de la motocicleta.\n\nLas botas\nLas botas tienen como función proteger los tobillos y las piernas en caso de caída así como evitar posibles deslizamientos de los pies sobre los reposapiés. Es aconsejable que sean altas, ceñidas a las piernas y con tacón. No es recomendable conducir con sandalias."
+  },
+  {
+    "n": 78,
+    "tipo": "imagen",
+    "titulo": "Mandos de la motocicleta",
+    "texto": "Los mandos más importantes de la motocicleta son los siguientes:\n\nEl acelerador: situado en la parte derecha del manillar, se acciona con la mano derecha.\n\nEl freno delantero: consta de una pequeña maneta que se encuentra en la parte derecha del manillar. Su finalidad es accionar el mecanismo que frena la rueda delantera.\n\nEl embrague: situado en la parte izquierda del manillar se acciona mediante una maneta. Su función es permitir la transmisión de movimiento del motor a la rueda trasera."
+  },
+  {
+    "n": 79,
+    "tipo": "imagen",
+    "titulo": "Mandos de la motocicleta. Pedal de cambio de velocidades",
+    "texto": "Este pedal se encuentra situado en la parte izquierda de la motocicleta a la altura del reposapiés izquierdo."
+  },
+  {
+    "n": 80,
+    "tipo": "imagen",
+    "titulo": "Mandos de la motocicleta. Pedal de freno de la rueda trasera",
+    "texto": "El pedal de freno trasero está situado en la parte derecha de la motocicleta a la altura del reposapiés derecho.\n\nEnhorabuena, has superado el 80% del tema\n\nOk"
+  },
+  {
+    "n": 81,
+    "tipo": "imagen",
+    "titulo": "Utilización de los frenos en condiciones normales",
+    "texto": "Para frenar de forma eficaz y sin riesgo de aumentar la distancia de frenado, se debe distribuir la frenada de modo que se ejerza una presión de entre el 60 y el 80% sobre la rueda delantera, y entre el 20 y el 40% sobre la rueda trasera. De no ser así, la distancia de frenado será mayor.\n\nNo se debe apretar demasiado fuerte la maneta del freno delantero, especialmente, al realizar un giro muy cerrado a poca velocidad, porque la rueda se puede bloquear provocando una caída.\n\nAlgunas motocicletas disponen de sistema antibloqueo de frenos (ABS) que, como se ha explicado anteriormente, tiene como función evitar el bloqueo de las ruedas."
+  },
+  {
+    "n": 82,
+    "tipo": "imagen",
+    "titulo": "Distancia de frenado en función de los frenos utilizados",
+    "texto": "En este cuadro se puede ver la variación que sufre la distancia de frenado según los frenos que se utilicen:\n\nA una velocidad de 60 km/h, si se frena solo con el freno trasero la distancia de frenado es de 35 metros aproximadamente; si se frena solamente con el freno delantero, la distancia es de 24 metros aproximadamente y si se frena con ambos frenos simultáneamente la distancia de frenado disminuye hasta los 18 metros."
+  },
+  {
+    "n": 83,
+    "tipo": "imagen",
+    "titulo": "Partes de la motocicleta. El Carenado",
+    "texto": "El carenado es la protección exterior que suelen llevar algunas motocicletas con fines aerodinámicos y estéticos, siendo un accesorio más de las mismas.\n\nComo el coeficiente aerodinámico en las motocicletas es menor que en los turismos, si el carenado se modifica por razones estéticas el coeficiente aerodinámico también se verá afectado, lo que repercutirá negativamente tanto en el consumo como en la estabilidad."
+  },
+  {
+    "n": 84,
+    "tipo": "imagen",
+    "titulo": "Partes de la motocicleta. Los espejos retrovisores",
+    "texto": "Cuando la velocidad máxima de una motocicleta no supere los 100 km/h, esta deberá llevar un espejo retrovisor en el lado izquierdo pudiendo, opcionalmente, llevar otro en el lado derecho.\n\nNo obstante, si la velocidad máxima supera los 100 km/h, las motocicletas estarán obligadas a llevar dos espejos retrovisores situados uno a cada lado de la motocicleta."
+  },
+  {
+    "n": 85,
+    "tipo": "imagen",
+    "titulo": "Partes de la motocicleta. Los soportes",
+    "texto": "Para que la motocicleta no se caiga cuando esté inmovilizada dispone de uno o dos soportes: uno lateral, también conocido como pata de cabra, y otro central, también conocido como caballete.\n\nA la hora de estacionar una motocicleta y colocarla sobre alguno de los soportes es importante hacer una valoración de la superficie donde se va a estacionar porque, si el terreno no es firme o estable, el caballete puede hundirse provocando la caída de la motocicleta."
+  },
+  {
+    "n": 86,
+    "tipo": "imagen",
+    "titulo": "Partes de la motocicleta. El asiento del conductor",
+    "texto": "Como el asiento de la motocicleta no es regulable, para que la conducción resulte cómoda, relajada y segura, el conductor deberá mantener una posición corporal que le permita utilizar los mandos de la motocicleta sin dificultad."
+  },
+  {
+    "n": 87,
+    "tipo": "imagen",
+    "titulo": "Partes de la motocicleta. El alumbrado",
+    "texto": "Cuando circulen por cualquier vía pública durante el día, las motocicletas deben llevar encendidas las luces de cruce o de corto alcance junto con las de posición."
+  },
+  {
+    "n": 88,
+    "tipo": "imagen",
+    "titulo": "Conducción con pasajero",
+    "texto": "Conducir una motocicleta con un pasajero es más complejo que conducir solo. Cuando se transporta a otra persona, el centro de gravedad de la motocicleta se ve modificado y resulta más difícil inclinar el vehículo o sortear un obstáculo. Además, la distancia de frenado aumenta, la potencia de la motocicleta queda reducida y la aceleración es menor, aunque también es menor el riesgo de que las ruedas se bloqueen."
+  },
+  {
+    "n": 89,
+    "tipo": "imagen",
+    "titulo": "Conducción con equipaje",
+    "texto": "El equipaje debe distribuirse de manera que no comprometa la estabilidad de la motocicleta, y debe colocarse lo más próximo posible al centro de gravedad de la misma.\n\nExisten varios tipos de portaequipajes entre los que se encuentran la bolsa fijada al depósito de combustible, las maletas y el portaequipaje trasero o trasportín."
+  },
+  {
+    "n": 90,
+    "tipo": "imagen",
+    "titulo": "El tema 14 ha finalizado\n\nA continuación, vamos a realizar un resumen",
+    "texto": null
+  },
+  {
+    "n": 91,
+    "tipo": "imagen",
+    "titulo": "Notas sobre mantenimiento de seguridad del vehículo",
+    "texto": "Si la amortiguación está en mal estado, en las curvas, el vehículo perderá estabilidad.\n\nEl estado de los neumáticos influye de manera decisiva en la distancia de frenado, de modo que unos neumáticos en buen estado tienen mayor adherencia y frenan mejor.\n\nLa presión de inflado de los neumáticos debe ser la recomendada por el fabricante, siendo aconsejable comprobarla una o dos veces al mes.\n\nMontar un neumático con un código de velocidad distinto al recomendado por el fabricante está permitido, siempre que dicho código sea superior al recomendado."
+  },
+  {
+    "n": 92,
+    "tipo": "imagen",
+    "titulo": "Actuación en caso de fallo del freno de servicio",
+    "texto": "Si circulando a velocidades elevadas se rompe el freno de servicio, se deben utilizar marchas cortas para reducir la velocidad y, finalmente, se debe accionar el freno de mano."
+  },
+  {
+    "n": 93,
+    "tipo": "imagen",
+    "titulo": "Campo de visión hacia atrás",
+    "texto": "El campo de visión hacia atrás no debe ser disminuido en ningún caso. Por lo tanto, sólo si el vehículo dispone de un espejo retrovisor exterior en el lado derecho, estará permitido colocar cortinillas contra el sol en los cristales traseros.\n\nPara comprobar que no hay ningún vehículo en el ángulo muerto del espejo retrovisor, el conductor debe mirar directamente hacia atrás girando la cabeza."
+  },
+  {
+    "n": 94,
+    "tipo": "imagen",
+    "titulo": "Función de los elementos de seguridad pasiva",
+    "texto": "La función de los sistemas de seguridad pasiva de los vehículos es evitar o reducir las lesiones que se producen en un accidente.\n\nLos cinturones de seguridad y los airbags son algunos de los sistemas de seguridad pasiva más importantes.\n\nLa postura en el asiento puede influir en la eficacia del cinturón de seguridad, por eso no es recomendable inclinar el asiento demasiado hacia atrás."
+  },
+  {
+    "n": 95,
+    "tipo": "imagen",
+    "titulo": "Importancia del uso correcto del reposacabezas",
+    "texto": "El uso correcto del reposacabezas reduce las lesiones cervicales.\n\nPara un ajuste óptimo, la parte superior del reposacabezas debe encontrarse a la altura de la parte superior de la cabeza del conductor.\n\nEn caso de accidente de tráfico, si el reposacabezas se encuentra mal reglado se puede sufrir un latigazo cervical."
+  },
+  {
+    "n": 96,
+    "tipo": "imagen",
+    "titulo": "Finalidad del cinturón de seguridad y colocación correcta",
+    "texto": "La finalidad principal del cinturón de seguridad es retener y proteger a los ocupantes del vehículo, en caso de accidente.\n\nSi la cinta abdominal del cinturón de seguridad se coloca sobre el abdomen, se pueden producir graves lesiones internas en caso de colisión."
+  },
+  {
+    "n": 97,
+    "tipo": "imagen",
+    "titulo": "Relación entre velocidad y gravedad de las lesiones",
+    "texto": "Existe una relación directa entre la velocidad a la que se circula y la gravedad de las lesiones: en caso de accidente, a mayor velocidad, mayor probabilidad de que se produzcan lesiones graves."
+  },
+  {
+    "n": 98,
+    "tipo": "imagen",
+    "titulo": "Emplazamiento de los niños en los vehículos",
+    "texto": "Como norma general, en los turismos no se permite que viajen niños sin un dispositivo de retención homologado y adecuado a ellos.\n\nLa ubicación más segura para los dispositivos de retención infantil es el asiento trasero central, ya que está menos expuesto en caso de impactos laterales."
+  },
+  {
+    "n": 99,
+    "tipo": "imagen",
+    "titulo": "combinado de airbag y cinturón de seguridad",
+    "texto": "La eficacia del airbag está garantizada cuando se usa junto con el cinturón de seguridad."
+  },
+  {
+    "n": 100,
+    "tipo": "imagen",
+    "titulo": "Muchas gracias por tu atención.\n\nA continuación puedes hacer el test de repaso de este tema.",
+    "texto": null
+  }
+]

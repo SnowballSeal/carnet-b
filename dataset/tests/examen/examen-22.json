@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 22,
+  "nombre": "Test de examen 22",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "El conductor de un turismo utilizará un chaleco reflectante de alta visibilidad cuando salga del vehículo y ocupe...",
+      "imagen": "examen-22_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la calzada o el arcén de las vías interurbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "la calzada de las vías interurbanas, pero no cuando ocupe el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "la calzada o el arcén de todo tipo de vías, tanto urbanas como interurbanas."
+        }
+      ],
+      "ayuda": "Como norma general, los conductores deberán utilizar un chaleco reflectante de alta visibilidad cuando salgan del vehículo y ocupen la calzada o el arcén de las vías interurbanas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Para transportar una mascota, salvo que exista en el vehículo un lugar destinado para su transporte, debe estar...",
+      "imagen": "examen-22_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "controlada obligatoriamente por un pasajero."
+        },
+        {
+          "letra": "B",
+          "texto": "situada obligatoriamente en los asientos traseros y con el cinturón de seguridad del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "sujeta de forma que no interfiera en el conductor para evitar perder el control del vehículo."
+        }
+      ],
+      "ayuda": "Las mascotas podrán transportarse en el vehículo siempre que vayan sujetas de forma que no interfieran en la capacidad del conductor para conducir con seguridad ni dificulten sus movimientos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Cuando se consume alcohol, ¿se producen alteraciones en la visión?",
+      "imagen": "examen-22_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, puede aparecer la visión túnel."
+        },
+        {
+          "letra": "B",
+          "texto": "No, solamente afecta a la capacidad motora."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solamente con tasas de alcohol por encima de las permitidas."
+        }
+      ],
+      "ayuda": "Bajo los efectos del alcohol los conductores pueden experimentar el efecto conocido como: visión túnel (estrechamiento del campo visual que impide la correcta visión de los estímulos laterales).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Detiene su vehículo en una calzada con nieve, ¿Cómo debe volver a iniciar la marcha?",
+      "imagen": "examen-22_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Seleccionando la segunda velocidad y acelerando suavemente."
+        },
+        {
+          "letra": "B",
+          "texto": "Poniendo la primera velocidad y acelerando a fondo."
+        },
+        {
+          "letra": "C",
+          "texto": "Poniendo la cuarta velocidad y acelerando a fondo."
+        }
+      ],
+      "ayuda": "Para iniciar la marcha en una calzada cubierta de nieve se debe seleccionar la marcha más alta posible (pero que resulte suficiente para poner en marcha en el vehículo), normalmente la segunda velocidad y acelerar suave y progresivamente para evitar que las ruedas pierdan adherencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "En una vía interurbana de sentido único, está permitido estacionar en el lado...",
+      "imagen": "examen-22_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "derecho o izquierdo, fuera de la calzada y del arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "derecho o izquierdo."
+        },
+        {
+          "letra": "C",
+          "texto": "derecho."
+        }
+      ],
+      "ayuda": "La parada o el estacionamiento de un vehículo en vías interurbanas debe efectuarse siempre fuera de la calzada, en el lado derecho de la misma y dejando libre, cuando exista, la parte transitable del arcén.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Dónde se debe colocar un ciclomotor de dos ruedas para girar a la izquierda en una vía interurbana?",
+      "imagen": "examen-22_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el eje de la calzada si la calzada es de doble sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "En la parte central de su carril."
+        },
+        {
+          "letra": "C",
+          "texto": "Si no existe carril específico para hacer el giro, se situará en la derecha, fuera de la calzada."
+        }
+      ],
+      "ayuda": "En vías interurbanas, los ciclos y ciclomotores de dos ruedas, si no existe un carril especialmente acondicionado para el giro a la izquierda, deberán situarse a la derecha, fuera de la calzada siempre que sea posible, e iniciarlo desde ese lugar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Si por circunstancias del tráfico prevé que va a tener que reducir considerablemente la velocidad, ¿qué debe hacer?",
+      "imagen": "examen-22_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Advertirlo mediante señales acústicas."
+        },
+        {
+          "letra": "B",
+          "texto": "Deberá advertirlo mediante el uso reiterado de las luces de freno."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular con la marcha más corta posible."
+        }
+      ],
+      "ayuda": "Si por circunstancias del tráfico prevé que va a tener que reducir considerablemente la velocidad, deberá advertirlo, siempre que sea posible, mediante el uso reiterado de las luces de freno.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Le estaría permitido sustituir el espejo exterior izquierdo por uno interior panorámico teniendo en cuenta que con este último el campo de visión es mayor?",
+      "imagen": "examen-22_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, ya que tanto el espejo retrovisor interior como el exterior izquierdo son obligatorios."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que el espejo interior panorámico anule todos los ángulos muertos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en cualquier caso."
+        }
+      ],
+      "ayuda": "El espejo retrovisor exterior izquierdo es siempre obligatorio para un turismo, no pudiendo ser sustituido por uno interior panorámico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Cuál de estos accesorios es obligatorio llevar, en todo caso, entre la dotación de un turismo?\n",
+      "imagen": "examen-22_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un extintor."
+        },
+        {
+          "letra": "B",
+          "texto": "Un chaleco reflectante de alta visibilidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Una rueda completa de repuesto con las herramientas necesarias."
+        }
+      ],
+      "ayuda": "\tLos turismos llevarán la siguiente dotación:\n\t \n\ta) El dispositivo luminoso de preseñalización de peligro V-16.\n\t \n\tb) Un chaleco reflectante de alta visibilidad.\n\t \n\tc) Una rueda completa de repuesto o una rueda de uso temporal, con las herramientas necesarias para el cambio de ruedas, o un sistema alternativo al cambio de las mismas que ofrezca suficientes garantías para la movilidad del vehículo. En estos casos se circulará respetando las limitaciones propias de cada alternativa.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Las altas temperaturas pueden suponer un riesgo para la seguridad durante la conducción. ¿Debe adoptar medidas preventivas para circular?\n",
+      "imagen": "examen-22_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, se debe conducir durante la noche, ya que la temperatura al ser inferior permite al conductor un tiempo de reacción mayor."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, el conductor debe extremar las precauciones y realizar los descansos y paradas recomendados."
+        }
+      ],
+      "ayuda": "Las altas temperaturas ambientales constituyen un peligro para la circulación ya que reducen la capacidad para conducir en adecuadas condiciones de seguridad. En estas circunstancias, se deben extremar las precauciones y realizar los descansos y paradas recomendados. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Quién tiene preferencia?",
+      "imagen": "examen-22_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El turismo número 2."
+        },
+        {
+          "letra": "B",
+          "texto": "El turismo que circule a mayor velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "El turismo número 1."
+        }
+      ],
+      "ayuda": "De acuerdo a la situación que se observa en el gráfico, el turismo señalado con el número 1 es el que tiene la preferencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En un vehículo de anchura inferior a un metro, ¿puede sobresalir la carga por delante o por detrás?",
+      "imagen": "examen-22_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo por detrás hasta 25 centímetros."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, hasta 25 centímetros, por delante y por detrás."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en ningún caso."
+        }
+      ],
+      "ayuda": "En los vehículos de anchura inferior a un metro, la carga no podrá sobresalir por la parte delantera y, por la parte trasera, podrá sobresalir hasta un máximo de 25 centímetros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "La distancia de reacción es:",
+      "imagen": "examen-22_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La distancia que recorre el vehículo durante el tiempo de reacción."
+        },
+        {
+          "letra": "B",
+          "texto": "La distancia que recorre el vehículo desde que empieza a frenar hasta que se detiene."
+        },
+        {
+          "letra": "C",
+          "texto": "La distancia que debe guardarse con el vehículo que va delante."
+        }
+      ],
+      "ayuda": "La distancia de reacción es la distancia que recorre el vehículo durante el tiempo de reacción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Si circula conduciendo su motocicleta con lluvia intensa, ¿existe peligro de aparición de “aquaplaning”?",
+      "imagen": "examen-22_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, ya que este fenómeno solo tiene relación con el sobrecalentamiento de los frenos, no con la lluvia."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque ese fenómeno sucede solo en la conducción de turismos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, especialmente al circular a velocidad elevada."
+        }
+      ],
+      "ayuda": "Al circular por una calzada mojada, especialmente cuando se hace a velocidad elevada, aumenta peligrosamente el riesgo de que se produzca el fenómeno conocido como aquaplaning (pérdida de contacto de la banda de rodadura del neumático con el pavimento debido a un exceso de agua).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Los peatones de edad avanzada...",
+      "imagen": "examen-22_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "nunca tienen problemas de orientación."
+        },
+        {
+          "letra": "B",
+          "texto": "a veces encuentran difícil apreciar la velocidad a la que se acercan los vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "distinguen perfectamente los colores de los semáforos."
+        }
+      ],
+      "ayuda": "Los peatones de edad avanzada conforman un grupo de usuarios especialmente vulnerable. El deterioro de ciertas funciones perceptivas debido a la edad hace que, en ocasiones, les resulte difícil apreciar la velocidad a la que se acercan los vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Es obligatorio ponerse el cinturón de seguridad en un vehículo que dispone de airbag?",
+      "imagen": "examen-22_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque mejora la eficacia del airbag."
+        },
+        {
+          "letra": "B",
+          "texto": "Es aconsejable, pero no obligatorio."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque el airbag sustituye al cinturón."
+        }
+      ],
+      "ayuda": "El airbag es un dispositivo de seguridad pasiva que mejora y complementa la eficacia del cinturón de seguridad. En ningún caso este elemento sustituye al cinturón.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-22_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el carril derecho solo lo pueden utilizar las bicicletas y los ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "Que por el carril derecho se llega a una senda ciclista."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el carril derecho solo lo pueden utilizar los ciclos."
+        }
+      ],
+      "ayuda": "Vía reservada y obligatoria para ciclos adosada a calzada de un único sentido de circulación.\nIndica, en calzadas de un único sentido de circulación, la obligación para los conductores de ciclos de circular por el carril sobre el que está situada la señal y la prohibición a los demás usuarios de la vía de utilizarlo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Si la antigüedad de su primer permiso de conducción es menor de 2 años, la tasa máxima de alcohol permitida para poder conducir es de...",
+      "imagen": "examen-22_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0,25 miligramos de alcohol por litro de aire espirado."
+        },
+        {
+          "letra": "B",
+          "texto": "0,15 miligramos de alcohol por litro de aire espirado."
+        },
+        {
+          "letra": "C",
+          "texto": "0,3 miligramos de alcohol por litro de aire espirado."
+        }
+      ],
+      "ayuda": "Los conductores de cualquier vehículo no podrán superar la tasa de alcohol en sangre de 0,3 gramos por litro ni de alcohol en aire espirado de 0,15 miligramos por litro durante los dos años siguientes a la obtención del permiso o licencia que les habilita para conducir.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Una vez inmovilizado el vehículo, los usuarios deberán entrar o salir...",
+      "imagen": "examen-22_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "por cualquier lado del vehículo, tomando las debidas precauciones."
+        },
+        {
+          "letra": "B",
+          "texto": "por el lado más próximo a la acera o al arcén, como norma general."
+        },
+        {
+          "letra": "C",
+          "texto": "por el lado del conductor siempre."
+        }
+      ],
+      "ayuda": "Como norma general, se entrará y saldrá del vehículo por el lado más próximo al borde de la vía y sólo cuando aquél se halle inmovilizado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "En una calzada con nieve, ¿el uso brusco e inadecuado de los frenos puede ser causa de derrape?",
+      "imagen": "examen-22_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si se frena bruscamente, los neumáticos pueden perder la adherencia sobre el pavimento."
+        },
+        {
+          "letra": "B",
+          "texto": "No, si la ruedas están perfectamente alineadas y equilibradas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, si los neumáticos tienen la presión de inflado recomendada."
+        }
+      ],
+      "ayuda": "Las calzadas con nieve son especialmente deslizantes. En estas condiciones, se debe conducir con extrema precaución, acelerando y frenando con suavidad para evitar pérdidas de adherencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Según las estadísticas, ¿qué grupo de personas es más proclive a sufrir un siniestro?",
+      "imagen": "examen-22_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los conductores de entre 30 y 50 años."
+        },
+        {
+          "letra": "B",
+          "texto": "Los conductores profesionales."
+        },
+        {
+          "letra": "C",
+          "texto": "Los ciclistas."
+        }
+      ],
+      "ayuda": "Según las estadísticas, existen determinados grupos de personas que, por sus características, son más proclives a sufrir un accidente. Entre estos grupos vulnerables se encuentran los niños, los jóvenes y las personas mayores, así como los ciclistas, los conductores de motocicletas y los de ciclomotores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "La distancia de frenado, ¿puede estar influenciada por las condiciones meteorológicas?",
+      "imagen": "examen-22_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, depende solamente de la velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Entre otros factores, como la velocidad y la carga, la distancia de frenado puede verse influenciada por las condiciones meteorológicas existentes (lluvia, hielo, nieve, etc.). Estas circunstancias pueden ocasionar una disminución de la adherencia y producir un aumento de la distancia de frenado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "En algunos casos hay que poner a los heridos en posición de defensa, ¿para qué?",
+      "imagen": "examen-22_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para que estén conscientes."
+        },
+        {
+          "letra": "B",
+          "texto": "Para que no se asfixien."
+        },
+        {
+          "letra": "C",
+          "texto": "Para que circule mejor la sangre."
+        }
+      ],
+      "ayuda": "Para evitar la asfixia cuando un herido esté inconsciente, se le debe colocar en la denominada posición de defensa o posición lateral de seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Un rebaño, en una carretera convencional en la que no existe vía pecuaria, ¿por dónde debe circular?",
+      "imagen": "examen-22_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el arcén derecho o izquierdo, indistintamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la parte transitable del arcén izquierdo."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el arcén derecho."
+        }
+      ],
+      "ayuda": "Los animales conducidos en manada o en rebaño irán al paso, lo más cerca posible del borde derecho de la vía y de forma que nunca ocupen más de la mitad derecha de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Además del recibo del seguro obligatorio y del permiso de conducción, ¿qué otra documentación debe llevar el conductor de un turismo?",
+      "imagen": "examen-22_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No es obligatorio llevar ningún documento más."
+        },
+        {
+          "letra": "B",
+          "texto": "El permiso de circulación y la tarjeta ITV."
+        },
+        {
+          "letra": "C",
+          "texto": "El permiso de circulación, solamente."
+        }
+      ],
+      "ayuda": "Cuando se conduce un vehículo, se debe llevar consigo el permiso de conducción y la documentación del mismo (permiso de circulación y tarjeta de inspección técnica (ITV)), y se recomienda llevar también el recibo de haber pagado el seguro obligatorio.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "La depresión hace que...",
+      "imagen": "examen-22_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "resulte fácil mantener la concentración."
+        },
+        {
+          "letra": "B",
+          "texto": "las decisiones sean más rápidas."
+        },
+        {
+          "letra": "C",
+          "texto": "aumente la sensibilidad a la somnolencia y la fatiga."
+        }
+      ],
+      "ayuda": "Entre otros factores negativos, la depresión aumenta las distracciones, la predisposición a la fatiga y la somnolencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Cuál es la función del cinturón de seguridad?",
+      "imagen": "examen-22_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Inmovilizar el asiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Evitar que el cuerpo impacte contra el volante y el parabrisas."
+        },
+        {
+          "letra": "C",
+          "texto": "Permitir un mejor apoyo."
+        }
+      ],
+      "ayuda": "La finalidad del cinturón de seguridad es retener y proteger el cuerpo del conductor y demás ocupantes del vehículo en caso de accidente, evitando que impacten contra volante y parabrisas y salgan proyectados hacia delante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Qué puede producir fatiga en el conductor?",
+      "imagen": "examen-22_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular por una carretera con la calzada en buenas condiciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Conducir durante la noche con una iluminación insuficiente."
+        },
+        {
+          "letra": "C",
+          "texto": "Ventilar correctamente el interior del vehículo."
+        }
+      ],
+      "ayuda": "La fatiga aparece con más facilidad cuando se conduce durante la noche, especialmente en condiciones deficientes de iluminación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Muchos de los atropellos a peatones se producen...",
+      "imagen": "examen-22_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en autovías."
+        },
+        {
+          "letra": "B",
+          "texto": "durante la noche."
+        },
+        {
+          "letra": "C",
+          "texto": "cuando los vehículos circulan marcha atrás."
+        }
+      ],
+      "ayuda": "La falta de observación al dar marcha atrás, es una de las causas más habituales de atropellos a peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Durante el día, ¿es recomendable llevar encendida la luz de posición y la de cruce?\n",
+      "imagen": "examen-22_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, durante el día está prohibido llevar encendido el alumbrado de posición y cruce si no existen condiciones de baja visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, especialmente si nuestro vehículo no dispone de sistema de luces diurnas (DRL)."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, es obligatorio llevarlo encendido durante el invierno."
+        }
+      ],
+      "ayuda": "Aunque no es obligatorio, cuando el vehículo no está equipado con luces de día (diurnas), sí que resulta recomendable llevar encendidas durante el día las luces de cruce o corto alcance. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

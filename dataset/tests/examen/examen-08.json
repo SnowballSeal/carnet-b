@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 8,
+  "nombre": "Test de examen 8",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "El consumo de drogas, ¿afecta a la seguridad vial?",
+      "imagen": "examen-08_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, de manera importante."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero de manera poco importante."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en absoluto. "
+        }
+      ],
+      "ayuda": "Los efectos de las drogas alteran negativamente las capacidades necesarias para conducir con seguridad, por lo que su consumo afecta de forma importante a la seguridad vial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Una alergia respiratoria, ¿puede reducir la capacidad para  mantener la concentración en el tráfico?",
+      "imagen": "examen-08_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque no es una enfermedad. "
+        }
+      ],
+      "ayuda": "Los síntomas de las alergias respiratorias (estornudos, tos, lagrimeo, etc.) constituyen una importante fuente de distracción y pérdida de concentración para el conductor. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Esta señal indica la situación de un...",
+      "imagen": "examen-08_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "área de descanso."
+        },
+        {
+          "letra": "B",
+          "texto": "albergue de juventud."
+        },
+        {
+          "letra": "C",
+          "texto": "merendero fuera de la vía de servicio."
+        }
+      ],
+      "ayuda": "La señal de la imagen indica la situación de un área de descanso. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Si estaciona un turismo con remolque ligero en una pendiente sensible, debe...",
+      "imagen": "examen-08_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "calzar el vehículo con cualquier elemento que sirva para ello."
+        },
+        {
+          "letra": "B",
+          "texto": "accionar el freno de mano, únicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "colocar calzos o apoyar las ruedas directrices en el bordillo."
+        }
+      ],
+      "ayuda": "El conductor que pare o estacione un conjunto de vehículos en una pendiente sensible, además de accionar el freno de mano y de colocar una marcha (según el tipo de pendiente), deberá dejarlo calzado mediante calzos adecuados o bien apoyando las ruedas directrices en el bordillo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Este vehículo está inmovilizado por avería. ¿Debe advertirlo?",
+      "imagen": "examen-08_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En autopista y autovía sí, en carretera no."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, con el dispositivo de preseñalización de peligro reglamentario."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque el vehículo no es un camión. "
+        }
+      ],
+      "ayuda": "Con carácter general, todo vehículo que, por emergencia o avería, se encuentre inmovilizado en la vía debe advertir de su situación encendiendo las luces de emergencia y colocando y activando el dispositivo luminoso de preseñalización de peligro previsto reglamentariamente. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Cuándo puede utilizar el teléfono móvil?",
+      "imagen": "examen-08_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para leer o enviar mensajes."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando esté parado en un semáforo en rojo."
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizando el dispositivo manos libres, durante periodos cortos de tiempo."
+        }
+      ],
+      "ayuda": "Como norma general, el uso del teléfono móvil durante la conducción está prohibido, incluso durante las detenciones. Excepcionalmente, se permite utilizarlo únicamente cuando se disponga de un dispositivo de manos libres, durante breves periodos de tiempo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "El agente mueve el brazo alternativamente de arriba abajo, ¿a qué obliga esta señalización a los conductores de los vehículos que se aproximan de frente?",
+      "imagen": "examen-08_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A detenerse."
+        },
+        {
+          "letra": "B",
+          "texto": "A reanudar la marcha."
+        },
+        {
+          "letra": "C",
+          "texto": "A disminuir la velocidad. "
+        }
+      ],
+      "ayuda": "Cuando un agente de tráfico mueve el brazo de arriba abajo, indica que los vehículos que se acerquen a él por el lado del brazo que hace la señal, deben moderar su velocidad. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "En un día de frío y lluvia, circula conduciendo su motocicleta. En estas circunstancias...",
+      "imagen": "examen-08_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "al frenar, la distancia de detención es siempre menor, sobre todo si la motocicleta dispone de frenos de tambor."
+        },
+        {
+          "letra": "B",
+          "texto": "conviene tomar algún estimulante para combatir el frío."
+        },
+        {
+          "letra": "C",
+          "texto": "la conducción será más cómoda y segura si la motocicleta dispone de carenado de protección."
+        }
+      ],
+      "ayuda": "En días de lluvia y frío el carenado de protección de una motocicleta contribuye a que la conducción sea más cómoda y segura ya que protege al conductor de las inclemencias del tiempo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Con niebla, cuando el vehículo no dispone de alumbrado antiniebla delantero, ¿qué alumbrado debe utilizar?",
+      "imagen": "examen-08_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El de posición junto con el de corto alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "El de posición y las luces de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo el de corto alcance y el de largo alcance."
+        }
+      ],
+      "ayuda": "Cuando se circule con niebla, si el vehículo no dispone de luz antiniebla delantera, es obligatorio encender, al menos, las luces de posición junto con las de corto alcance. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "Esta señal indica fin de...",
+      "imagen": "examen-08_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la limitación de velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "todas las prohibiciones indicadas por anteriores señales."
+        },
+        {
+          "letra": "C",
+          "texto": "la prohibición de adelantar. "
+        }
+      ],
+      "ayuda": "La señal de fin de prohibiciones de la imagen, señala el lugar desde el que todas las prohibiciones específicas indicadas por anteriores señales de prohibición para vehículos en movimiento, dejan de tener aplicación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Al efectuar una parada, ¿puede dejar la luz de largo alcance encendida?",
+      "imagen": "examen-08_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en vías interurbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando la vía esté insuficientemente iluminada. "
+        }
+      ],
+      "ayuda": "Está prohibido el uso del alumbrado de largo alcance con el vehículo parado o estacionado. Cuando un vehículo se encuentre en uno de estos supuestos, en caso de ser necesario, se deben dejar encendidas las luces de posición.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Un agente con los dos brazos extendidos horizontalmente...",
+      "imagen": "examen-08_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "prohíbe el paso a todos los usuarios de la vía, salvo los que estén ya dentro de la intersección."
+        },
+        {
+          "letra": "B",
+          "texto": "indica alto a los vehículos cuya trayectoria corte a la indicada por los brazos."
+        },
+        {
+          "letra": "C",
+          "texto": "indica alto solo a los vehículos que se acerquen de frente al agente. "
+        }
+      ],
+      "ayuda": "Un agente con los dos brazos extendidos horizontalmente obliga a detenerse a todos los usuarios de la vía que se acerquen a él, desde direcciones que corten a la indicada por los brazos y cualquiera que sea el sentido de su marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Fumar mientras conduce, ¿qué efectos puede producir en la conducción?",
+      "imagen": "examen-08_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Provoca una mayor resistencia a la fatiga."
+        },
+        {
+          "letra": "B",
+          "texto": "Disminuye la capacidad de concentración."
+        },
+        {
+          "letra": "C",
+          "texto": "Aumenta la agresividad. "
+        }
+      ],
+      "ayuda": "Si bien no está prohibido, fumar mientras se conduce no es aconsejable porque, entre otras cosas, disminuye la capacidad de concentración del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Cuándo se circula a velocidad anormalmente reducida?",
+      "imagen": "examen-08_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando se circula a velocidad superior a la mínima permitida."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando se circula a velocidad inferior a la máxima permitida."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando se circula a velocidad inferior a la mínima permitida. "
+        }
+      ],
+      "ayuda": "Se considera que un vehículo circula a velocidad anormalmente reducida cuando circula a una velocidad inferior a la mínima fijada para el tipo de vía (por ejemplo, si circula a menos de 60 km/h por una autovía o autopista). ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Para circular de noche por una travesía, ¿qué luces son obligatorias?",
+      "imagen": "examen-08_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las de posición y las cortas."
+        },
+        {
+          "letra": "B",
+          "texto": "Las de posición solamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Las de posición y las largas."
+        }
+      ],
+      "ayuda": "De noche, por una travesía, es obligatorio circular con el alumbrado de posición y cruce encendido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Circula conduciendo una motocicleta y, como se ve en la fotografía, la calzada se encuentra mojada. En caso de frenada, esta situación provocará...",
+      "imagen": "examen-08_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que no aumente la distancia de detención."
+        },
+        {
+          "letra": "B",
+          "texto": "un aumento de la distancia de frenado."
+        },
+        {
+          "letra": "C",
+          "texto": "una disminución de la distancia de reacción. "
+        }
+      ],
+      "ayuda": "Cuando la calzada se encuentra mojada, se produce una pérdida de adherencia que, entre otros efectos, provoca un aumento de la distancia de frenado y, en consecuencia, de la distancia de detención. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Las personas mayores como peatones...",
+      "imagen": "examen-08_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "pueden no distinguir bien los colores de los semáforos cuando la calzada es muy ancha."
+        },
+        {
+          "letra": "B",
+          "texto": "suelen tener pocos accidentes porque tienen más cuidado."
+        },
+        {
+          "letra": "C",
+          "texto": "suelen tener más accidentes cuando van acompañados de niños. "
+        }
+      ],
+      "ayuda": "Las personas mayores como peatones, tienen mayores probabilidades de sufrir un atropello. Una de las causas de dichos accidentes, es la dificultad para distinguir bien los colores de los semáforos en las calzadas muy anchas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Esta señal indica la proximidad de un peligro por...",
+      "imagen": "examen-08_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la existencia de un puente."
+        },
+        {
+          "letra": "B",
+          "texto": "suelo irregular."
+        },
+        {
+          "letra": "C",
+          "texto": "estrechamiento de la vía"
+        }
+      ],
+      "ayuda": "La señal de la imagen indica peligro por la proximidad de una zona de la vía en la que se estrecha la calzada. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "La inspección técnica para una motocicleta...",
+      "imagen": "examen-08_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es obligatoria y se realiza periódicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "es voluntaria y se realiza periódicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo es obligatoria antes de su matriculación."
+        }
+      ],
+      "ayuda": "Las inspecciones técnicas periódicas son obligatorias para todos los ciclomotores y motocicletas. La periodicidad concreta está determinada por el tipo de vehículo y la antigüedad del mismo.\nComo norma general, las motocicletas están exentas de inspecciones hasta los cuatro años (contados desde su primera matriculación) y a partir de dicha antigüedad tienen que pasar inspecciones cada dos años.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Cuál es una de las primeras causas de mortalidad juvenil en España?",
+      "imagen": "examen-08_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los accidentes de tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "Las enfermedades infecciosas."
+        },
+        {
+          "letra": "C",
+          "texto": "Las enfermedades cardiovasculares."
+        }
+      ],
+      "ayuda": "Los accidentes de tráfico constituyen una de las principales causas de mortalidad juvenil en España.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Si estaciona su vehículo en un lugar de limitación horaria sin colocar el ticket que lo habilite, ¿pueden los agentes proceder a la retirada del vehículo? ",
+      "imagen": "examen-08_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, sólo me sancionan."
+        }
+      ],
+      "ayuda": "La Autoridad encargada de la gestión del tráfico podrá proceder, si el obligado a ello no lo hiciera, a la retirada del vehículo de la vía y su depósito en el lugar que se designe, entre otros casos, cuando un vehículo permanezca estacionado en lugares habilitados por la autoridad municipal como de estacionamiento con limitación horaria sin colocar el distintivo que lo autoriza, o cuando se rebase el triple del tiempo abonado conforme a lo establecido en la Ordenanza Municipal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Para evitar los accidentes con motocicletas es recomendable...",
+      "imagen": "examen-08_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circular en paralelo con estos vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "reducir la distancia de seguridad para ver mejor a la motocicleta."
+        },
+        {
+          "letra": "C",
+          "texto": "no circular en paralelo con los vehículos de dos ruedas. "
+        }
+      ],
+      "ayuda": "Una de las medidas que se pueden tomar para evitar accidentes con motocicletas es no circular en paralelo a ellas y guardar distancias de seguridad adecuadas al adelantarles. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Esta señal indica...",
+      "imagen": "examen-08_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la prohibición de utilizar la calzada para peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "la proximidad de un lugar frecuentado por niños, como escuelas o zonas de juego."
+        },
+        {
+          "letra": "C",
+          "texto": "la proximidad de un lugar frecuentado por peatones. "
+        }
+      ],
+      "ayuda": "La señal de advertencia de peligro que se observa en la imagen, indica la proximidad de un lugar o tramo con elevado tránsito de peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Como norma general, el pedal de cambio de velocidades de una motocicleta, ¿con qué pie se acciona?",
+      "imagen": "examen-08_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con el pie derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "El cambio de velocidades de una motocicleta no se acciona con el pie."
+        },
+        {
+          "letra": "C",
+          "texto": "Con el pie izquierdo. "
+        }
+      ],
+      "ayuda": "Normalmente, el pedal de cambio de velocidades de una motocicleta se acciona con el pie izquierdo. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Qué vehículos no pueden circular por esta calzada?",
+      "imagen": "examen-08_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los vehículos de anchura superior a 2 metros incluida la carga."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo los turismos de anchura superior a 2 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "Los camiones, únicamente. "
+        }
+      ],
+      "ayuda": "La señal que se observa indica la prohibición de circular a aquellos vehículos que tengan una anchura superior a la indicada en la señal. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "La marca vial amarilla, ¿qué significa?",
+      "imagen": "examen-08_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que está prohibido entrar en ella, si existe la posibilidad de quedar detenido obstruyendo la circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "Que no puede parar ni estacionar en la zona marcada."
+        },
+        {
+          "letra": "C",
+          "texto": "Que puede entrar en la intersección, si tiene prioridad de paso. "
+        }
+      ],
+      "ayuda": "Una cuadrícula amarilla pintada en una intersección recuerda la prohibición de entrar en la intersección si previsiblemente se puede quedar detenido en ella.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-08_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La desaparición del carril derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Que la vía va a tener un único sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "La proximidad de un carril de entrada a la autopista. "
+        }
+      ],
+      "ayuda": "Final de carril destinado a la circulación.\nIndica en una calzada de tres carriles con un único sentido de circulación la desaparición del carril derecho y el cambio de carril preciso. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "La señal que lleva el vehículo, ¿qué indica?",
+      "imagen": "examen-08_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que es un conductor novel."
+        },
+        {
+          "letra": "B",
+          "texto": "Que no permite circular los fines de semana."
+        },
+        {
+          "letra": "C",
+          "texto": "Que es un vehículo de autoescuela. "
+        }
+      ],
+      "ayuda": "La placa que se observa, indica que el vehículo es conducido por un conductor novel, es decir, que tiene menos de un año de antigüedad con el permiso de conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Con el permiso B, ¿se puede conducir un turismo con remolque que pesa menos de 750 kg de  M.M.A.?",
+      "imagen": "examen-08_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero debe obtenerse autorización especial "
+        }
+      ],
+      "ayuda": "El permiso de la clase B, como norma general, permite la conducción de conjuntos de vehículos compuestos por un turismo y un remolque ligero.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Los accidentes debidos al sueño, ¿suceden también durante el día?",
+      "imagen": "examen-08_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, solo suceden por las noches."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero únicamente a las primeras horas de la tarde. "
+        }
+      ],
+      "ayuda": "Contrariamente a lo que se pueda pensar, los accidentes causados por el sueñoo se producen a cualquier hora del día y no solamente por la noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

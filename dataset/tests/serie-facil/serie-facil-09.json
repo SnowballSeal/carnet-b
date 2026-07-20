@@ -1,0 +1,633 @@
+{
+  "categoria_id": 2,
+  "test_id": 9,
+  "nombre": "Serie fácil 9",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿A qué vehículos les está permitido circular por este carril?",
+      "imagen": "serie-facil-09_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los ciclos."
+        },
+        {
+          "letra": "B",
+          "texto": "A ciclos y ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "A vehículos de dos ruedas."
+        }
+      ],
+      "ayuda": "Dos líneas transversales discontinuas y paralelas sobre la calzada indican un paso para ciclistas, donde éstos tienen preferencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Se prohíbe circular por las autopistas a los...",
+      "imagen": "serie-facil-09_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "vehículos que transporten mercancías peligrosas."
+        },
+        {
+          "letra": "B",
+          "texto": "vehículos con remolque."
+        },
+        {
+          "letra": "C",
+          "texto": "vehículos que no sean capaces de alcanzar en llano 60 kilómetros por hora."
+        }
+      ],
+      "ayuda": "Los vehículos que en terreno llano no sean capaces de desarrollar una velocidad de 60 kilómetros por hora, no podrán circular por las autopistas y autovías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "En una motocicleta con mandos independientes para cada uno de los frenos, ¿dónde se acciona generalmente el freno delantero?",
+      "imagen": "serie-facil-09_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En un pedal, con el pie izquierdo."
+        },
+        {
+          "letra": "B",
+          "texto": "En el manillar, con la mano derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "En el manillar, con la mano izquierda."
+        }
+      ],
+      "ayuda": "En una motocicleta con mandos independientes, el freno de la rueda delantera se encuentra en el manillar y se acciona con la mano derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "El equipaje en la baca de un turismo, ¿puede sobresalir por los lados?",
+      "imagen": "serie-facil-09_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando el equipaje es ancho y no se puede dividir."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero el ancho total tiene que ser menor de 2,5 metros."
+        }
+      ],
+      "ayuda": "La carga en los turismos, no podrá sobresalir por sus borde laterales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "En las travesías, ¿está permitido circular con la luz de largo alcance?",
+      "imagen": "serie-facil-09_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Está prohibido utilizar las luces de largo alcance en vías urbanas y travesías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Qué debe hacer para avisar que va a disminuir la velocidad de su vehículo?",
+      "imagen": "serie-facil-09_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Encender las luces de posición."
+        },
+        {
+          "letra": "B",
+          "texto": "Pisar varias veces el pedal del freno. "
+        }
+      ],
+      "ayuda": "Para avisar de que se va a disminuir la velocidad de modo considerable, se debe advertir con las luces de frenado de forma reiterada (varias veces).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Hay nieve y solo tiene cadenas para dos ruedas, ¿dónde debe ponerlas?",
+      "imagen": "serie-facil-09_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En las ruedas delanteras siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "En las ruedas motrices siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "En las ruedas traseras siempre."
+        }
+      ],
+      "ayuda": "Cuando sea obligatorio el uso de cadenas para nieve, se deben poner en las ruedas motrices del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "En esta zona con línea amarilla en zig-zag, ¿qué está prohibido?",
+      "imagen": "serie-facil-09_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hacer una parada."
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionar."
+        }
+      ],
+      "ayuda": "En la zona amarilla en zig-zag que se observa en la fotografía, queda prohibido estacionar. Parar, se permite.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Realizar por las vías públicas carreras y competiciones no autorizadas, ¿puede acarrear la pérdida de puntos del permiso de conducción?",
+      "imagen": "serie-facil-09_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, solamente tendría una sanción económica."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, además están prohibidas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, puesto que se trata de competiciones deportivas."
+        }
+      ],
+      "ayuda": "Las competiciones de velocidad en las vías públicas están prohibidas, por lo cual dicha infracción es sancionada con la pérdida de puntos y económicamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Cuándo está permitido estacionar en un túnel?",
+      "imagen": "serie-facil-09_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando el túnel está suficientemente iluminado."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando la calzada tiene dos carriles de circulación para cada sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "Nunca."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido parar y estacionar en los túneles.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "En esta intersección, ¿se puede adelantar?",
+      "imagen": "serie-facil-09_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque tengo prioridad de paso señalizada por el semáforo."
+        },
+        {
+          "letra": "B",
+          "texto": "No, está prohibido en todo caso."
+        }
+      ],
+      "ayuda": "Si las demás circunstancias lo permiten, se permite adelantar en las intersecciones que tengan el semáforo verde.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "En una carretera convencional, ¿está permitido que un peatón circule por la calzada?",
+      "imagen": "serie-facil-09_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando no exista arcén o no sea transitable."
+        }
+      ],
+      "ayuda": "Si no existe arcén o no es transitable en carreteras convencionales, los peatones podrán circular por la parte izquierda de la calzada según el sentido de la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Qué indican las flechas situadas en el eje de la calzada?",
+      "imagen": "serie-facil-09_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una próxima salida."
+        },
+        {
+          "letra": "B",
+          "texto": "La proximidad de una línea longitudinal continua."
+        }
+      ],
+      "ayuda": "Las flechas que se observan en el centro de esta calzada, indican la proximidad de una línea longitudinal continua.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "serie-facil-09_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Peligro por la proximidad de curvas peligrosas, la primera hacia la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Zona de curvas que no son peligrosas."
+        },
+        {
+          "letra": "C",
+          "texto": "Peligro, intersección con prioridad."
+        }
+      ],
+      "ayuda": "Esta señal indica peligro por la proximidad de una sucesión de curvas peligrosas próximas entre sí, la primera es hacia la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "Un conductor que padece una depresión...",
+      "imagen": "serie-facil-09_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tiene menos distracciones."
+        },
+        {
+          "letra": "B",
+          "texto": "tiene más inseguridad a la hora de tomar decisiones."
+        }
+      ],
+      "ayuda": "Un conductor que padece una depresión, tiene más inseguridad a la hora de tomar decisiones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "En un paso a nivel, ¿está permitido realizar un cambio de sentido?",
+      "imagen": "serie-facil-09_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en los pasos a nivel sin barreras."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido cambiar el sentido de la marcha en los pasos a nivel.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Con esta señal, ¿está permitido utilizar con su turismo el carril de la derecha?",
+      "imagen": "serie-facil-09_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si no está ocupado por ningún ciclo."
+        },
+        {
+          "letra": "B",
+          "texto": "No, ese carril está reservado solo para ciclos."
+        }
+      ],
+      "ayuda": "Por el carril de la derecha donde aparece la señal con la silueta de un ciclo, sólo podrán circular los ciclos. Los turismos tienen prohibido la circulación por dicho carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿En qué tipo de trazados se produce un mayor número de accidentes de tráfico?",
+      "imagen": "serie-facil-09_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En las rectas."
+        },
+        {
+          "letra": "B",
+          "texto": "En las curvas."
+        }
+      ],
+      "ayuda": "Al contrario de lo que podría pensarse, el mayor número de accidentes, especialmente aquellos relacionados con las distracciones, suelen producirse en las rectas con buena visibilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Ante la señal del agente, ¿deben detenerse los peatones?",
+      "imagen": "serie-facil-09_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, solamente deben detener su marcha los conductores de vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando se acerquen a él desde cualquier dirección."
+        }
+      ],
+      "ayuda": "Los peatones y vehículos que se acerquen al agente desde cualquier dirección, deben detenerse.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Si no está implicado en un accidente, ¿debe prestar auxilio a los heridos?",
+      "imagen": "serie-facil-09_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque solo están obligados los conductores implicados en el mismo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, salvo que la ayuda esté organizada."
+        }
+      ],
+      "ayuda": "Aun sin estar implicado en un accidente de tráfico, los conductores deben detenerse salvo que la ayuda esté organizada y no sea necesaria su presencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "En vías de dos calzadas separadas por medianas, como norma general, se circulará...",
+      "imagen": "serie-facil-09_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la calzada de la derecha en el sentido de la marcha."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la calzada de la izquierda en el sentido de la marcha."
+        }
+      ],
+      "ayuda": "En vías divididas en dos calzadas por medianas u otros medios, como norma general, se debe circular por la calzada de la derecha según el sentido de la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Un amortiguador en malas condiciones, ¿qué consecuencias puede tener?",
+      "imagen": "serie-facil-09_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que las luces oscilen durante la marcha y puedan deslumbrar."
+        },
+        {
+          "letra": "B",
+          "texto": "Que disminuya la distancia de frenado."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el vehículo gane estabilidad."
+        }
+      ],
+      "ayuda": "Si circula con un amortiguador en malas condiciones, debe saber que entre otros efectos, las luces pueden oscilar durante la marcha y pueden deslumbrar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Qué protege un casco integral?",
+      "imagen": "serie-facil-09_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente la parte trasera del cráneo."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo la parte superior del cráneo."
+        },
+        {
+          "letra": "C",
+          "texto": "La cara y la cabeza."
+        }
+      ],
+      "ayuda": "Los cascos integrales ofrecen mejor protección ya que, protegen tanto la cabeza como la cara.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "En la entrada de un garaje, ¿está permitido estacionar el vehículo?",
+      "imagen": "serie-facil-09_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero debo encender la luz de emergencia."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido estacionar en la entrada de un garaje.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Puede una motocicleta circular por un carril VAO?",
+      "imagen": "serie-facil-09_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Las motocicletas podrán circular por los carriles VAO si llevan el número de pasajeros que se exija al principio de carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "De noche, ¿qué debe hacer para no deslumbrar?",
+      "imagen": "serie-facil-09_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular con la luz corta en carretera y con la de posición en ciudad."
+        },
+        {
+          "letra": "B",
+          "texto": "Cambiar la luz larga por la corta cuando me acerco a otro vehículo en carretera."
+        }
+      ],
+      "ayuda": "Para evitar deslumbramientos durante la noche, se debe cambiar la luz larga por la corta, bien cuando nos acerquemos por detrás a otro vehículo, o bien cuando otro vehículo se aproxime en sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Encender el intermitente, ¿da preferencia siempre para hacer maniobras?",
+      "imagen": "serie-facil-09_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque he avisado."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero debo hacer la maniobra rápidamente."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El hecho de encender el intermitente, no otorga preferencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Qué se debe hacer con el aceite usado?",
+      "imagen": "serie-facil-09_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Entregarlo en un contendor de recuperación de aceite."
+        },
+        {
+          "letra": "B",
+          "texto": "Tirarlo a una alcantarilla o desagüe."
+        },
+        {
+          "letra": "C",
+          "texto": "Tirarlo en tierra."
+        }
+      ],
+      "ayuda": "Al cambiar el aceite al vehículo, el usado se debe entregar en un contenedor de recuperación de aceite.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Una luz roja intermitente o dos luces rojas alternativamente intermitentes de un semáforo...",
+      "imagen": "serie-facil-09_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Permiten el paso con precaución."
+        },
+        {
+          "letra": "B",
+          "texto": "Prohíben temporalmente el paso."
+        },
+        {
+          "letra": "C",
+          "texto": "Obligan a moderar la velocidad antes de pasar."
+        }
+      ],
+      "ayuda": "Una luz roja intermitente o dos luces rojas alternativamente intermitentes de un semáforo, prohíben temporalmente el paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Para ahorrar combustible, ¿cómo se debe ventilar el vehículo?",
+      "imagen": "serie-facil-09_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Abriendo todas las ventanillas."
+        },
+        {
+          "letra": "B",
+          "texto": "Con la entrada de aire que hay en el salpicadero."
+        }
+      ],
+      "ayuda": "Para ahorrar combustible se debe ventilar el vehículo con la entrada de aire que hay en el salpicadero.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

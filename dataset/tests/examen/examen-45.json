@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 45,
+  "nombre": "Test de examen 45",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "El conductor, ¿está obligado a cuidar que el resto de pasajeros mantengan una posición adecuada en el vehículo?",
+      "imagen": "examen-45_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si el vehículo es de transporte colectivo de personas."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "El conductor es el responsable de que las personas transportadas en su vehículo ocupen el lugar y la posición adecuada para una circulación segura.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Está permitido transportar personas en el remolque de una motocicleta?",
+      "imagen": "examen-45_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que se circule de día y en condiciones que no disminuyan la visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando el peso del remolque no supere el 50 % de la masa en vacío de la motocicleta."
+        }
+      ],
+      "ayuda": "Las motocicletas, los vehículos de tres ruedasy los ciclomotores podrán arrastrar un remolque o semirremolque, siempre que no superen el 50 por ciento de la masa en vacío del vehículo tractor y se cumplan las siguientes condiciones:\n\na) que la circulación sea de día y en condiciones que no disminuyan la visibilidad. \n\tb) que la velocidad a la que se circule en estas condiciones quede reducida en un 10 por ciento respecto a las velocidades genéricas establecidas para estos vehículos.\nc) que en ningún caso transporten personas en el vehículo remolcado. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "En esta vía, ¿a qué velocidad máxima le está permitido circular a un turismo con remolque?",
+      "imagen": "examen-45_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 90 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "A 100 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A 80 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima establecida con carácter general para automóviles con remolque, en carreteras convencionales, es de 80 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En condiciones meteorológicas especialmente desfavorables, como en caso de fuerte granizada, ¿qué precauciones, entre otras, debe tomar? ",
+      "imagen": "examen-45_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Acercarse al vehículo de delante y encender el dispositivo de preseñalización de peligro."
+        },
+        {
+          "letra": "B",
+          "texto": "Disminuir la velocidad, evitando pisar el freno, y aumentar la distancia de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular con cambios frecuentes de dirección para evitar que se produzca \"aquaplaning\"."
+        }
+      ],
+      "ayuda": "En condiciones meteorológicas especialmente desfavorables, como en caso de fuerte granizada, se debe disminuir la velocidad, evitando pisar el freno, y aumentar la distancia de seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Esta señal indica la dirección y sentido que los vehículos...",
+      "imagen": "examen-45_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "pueden seguir de forma opcional."
+        },
+        {
+          "letra": "B",
+          "texto": "tienen la obligación de seguir."
+        },
+        {
+          "letra": "C",
+          "texto": "tienen prohibido seguir."
+        }
+      ],
+      "ayuda": "En las señales de sentido obligatorio la flecha señala la dirección y sentido que los vehículos tienen la obligación de seguir.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Si sufre una enfermedad crónica, ¿qué es aconsejable hacer para disminuir el riesgo de sufrir un accidente?",
+      "imagen": "examen-45_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Conocer los posibles efectos secundarios de los medicamentos que consume."
+        },
+        {
+          "letra": "B",
+          "texto": "Tomar los medicamentos con alcohol para combatir sus efectos secundarios."
+        },
+        {
+          "letra": "C",
+          "texto": "Suspender la medicación siempre que vaya a conducir un vehículo."
+        }
+      ],
+      "ayuda": "A fin de disminuir los riesgos de sufrir un accidente, en caso de padecer una enfermedad crónica, entre otras medidas, se deben conocer los efectos secundarios de los medicamentos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Durante la carga de combustible en una motocicleta, ¿es obligatorio apagar las luces?",
+      "imagen": "examen-45_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, se debe dejar encendida la luz de posición."
+        },
+        {
+          "letra": "C",
+          "texto": "No, se debe dejar encendida la luz de cruce."
+        }
+      ],
+      "ayuda": "Cuando se cargue combustible en nuestro vehículo, debemos tener la precaución de apagar las luces y los demás dispositivos que puedan emitir radiación electromagnética (teléfonos móviles, equipos portátiles de comunicación, radio, etc.)",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Cuando sea obligatorio el uso del alumbrado, deberán llevar encendidas las luces de posición y las de gálibo los vehículos…",
+      "imagen": "examen-45_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "con una anchura superior a 1,80 metros y una altura superior a 4 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "con una altura superior a 4 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "con una anchura superior a 2,10 metros."
+        }
+      ],
+      "ayuda": "La utilización de las luces de gálibo es obligatoria para aquellos vehículos que tengan una anchura superior a 2.10 metros, y opcional para los de anchura comprendida entre 1.80 y 2.10 metros. Este alumbrado deberá ser utilizado en todos aquellos casos en los que proceda la utilización de las luces de posición.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Qué velocidad de marchas da más fuerza al vehículo?",
+      "imagen": "examen-45_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La 4ª o la 5ª."
+        },
+        {
+          "letra": "B",
+          "texto": "La 1ª o la 2ª."
+        },
+        {
+          "letra": "C",
+          "texto": "La 3ª o la 4ª."
+        }
+      ],
+      "ayuda": "Las marchas que aportan más fuerza son aquellas conocidas como \"marchas cortas\", es decir la primera o la segunda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "En caso de accidente, ¿cuál es la finalidad principal del airbag?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Impedir que los ocupantes del vehículo sufran el denominado efecto submarino."
+        },
+        {
+          "letra": "B",
+          "texto": "Evitar que los ocupantes de los vehículos sufran el denominado latigazo cervical."
+        },
+        {
+          "letra": "C",
+          "texto": "Evitar el impacto de los ocupantes del vehículo contra los elementos del automóvil."
+        }
+      ],
+      "ayuda": "Una de las principales funciones del airbag en caso de accidente es evitar el impacto de los ocupantes del vehículo contra los distintos elementos del automóvil.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Un conductor que ha dormido una cantidad de horas suficientes para descansar, ¿puede sentir somnolencia al volante?",
+      "imagen": "examen-45_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solo ocurre cuando se duerme de día y se conduce durante la noche."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando la calidad del sueño no es buena."
+        }
+      ],
+      "ayuda": "La calidad del sueño es tan importante como la cantidad. Si se duermen las horas necesarias pero el sueño no ha sido reparador, el conductor puede sentir somnolencia durante el día.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Qué precauciones debe adoptar todo conductor para reducir el riesgo de atropello a ciclistas?",
+      "imagen": "examen-45_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Utilizar señales acústicas cerca de ellos antes de adelantarlos."
+        },
+        {
+          "letra": "B",
+          "texto": "Extremar la precaución al adelantarles, especialmente en días de lluvia o viento fuerte ."
+        },
+        {
+          "letra": "C",
+          "texto": "Dejar una distancia lateral inferior a 1,5 metros al adelantarles."
+        }
+      ],
+      "ayuda": "Entre las precauciones que debe adoptar todo conductor para reducir el riesgo de atropello a ciclistas, está la de extremar la precaución al adelantarles, especialmente en días lluvia o viento fuerte.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Las señales de la imagen, indican…",
+      "imagen": "examen-45_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "curvas e intersección a la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "curvas y estrechamiento por obras."
+        },
+        {
+          "letra": "C",
+          "texto": "obras a 300 metros."
+        }
+      ],
+      "ayuda": "Las señales de advertencia de peligro que se observan en la imagen indican: curvas (señal de la derecha) y estrechamiento por obras (señal de la izquierda). ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "En la medida de lo posible, todo usuario de la vía implicado en un accidente de circulación deberá…",
+      "imagen": "examen-45_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "comunicar su identidad a las personas implicadas en el accidente que lo soliciten."
+        },
+        {
+          "letra": "B",
+          "texto": "cambiar de sitio los objetos que ayuden a determinar responsabilidades."
+        },
+        {
+          "letra": "C",
+          "texto": "trasladar a los heridos en su vehículo antes de la llegada de la ayuda sanitaria."
+        }
+      ],
+      "ayuda": "En la medida de lo posible, todo usuario de la vía implicado en un accidente de circulación deberá comunicar su identidad a las personas implicadas en el accidente que lo soliciten.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿En qué lado de la motocicleta debe llevar obligatoriamente y en todo caso un espejo retrovisor?",
+      "imagen": "examen-45_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el lado derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "En el lado izquierdo."
+        },
+        {
+          "letra": "C",
+          "texto": "En el lado derecho o en el izquierdo, es indiferente."
+        }
+      ],
+      "ayuda": "Las motocicletas, cuya velocidad máxima no supere los 100 km/h, deberán llevar un espejo retrovisor en el lado izquierdo, y dos, uno en cada lado, cuando puedan superar dicha velocidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Al circular en marcha atrás observa una señal de aviso de otro vehículo, ¿qué debe hacer?",
+      "imagen": "examen-45_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Señalizar la maniobra con las luces de emergencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Terminar la maniobra lo más rápido posible."
+        },
+        {
+          "letra": "C",
+          "texto": "Detener el vehículo, desistiendo de la maniobra si fuera preciso."
+        }
+      ],
+      "ayuda": "Si al utilizar la marcha atrás se observa una señal de aviso de otro vehículo, se debe detener el vehículo, desistiendo de la maniobra si fuera preciso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Según la Organización Mundial de la Salud, la depresión afecta a más de 300 millones de personas. Si sufrimos un trastorno depresivo debemos saber que un conductor con esta enfermedad...",
+      "imagen": "examen-45_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no puede renovar en ningún caso el permiso de conducción de la clase B."
+        },
+        {
+          "letra": "B",
+          "texto": "mantiene intactas todas sus capacidades para conducir con seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "se muestra más inseguro, por lo que es más probable que cometa errores."
+        }
+      ],
+      "ayuda": "\tLa depresión es un trastorno mental cada vez más frecuente en nuestra sociedad, que afecta a gran parte de la misma. Incide directamente sobre el estado anímico de las personas ocasionando tristeza, apatía y falta de energía vital, entre otros sentimientos negativos.\n\t \n\tLos conductores que padezcan depresión, se muestran más inseguros, por lo que es más probable que cometan errores.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Qué precauciones deben adoptar los conductores para reducir el riesgo de atropello a los peatones?",
+      "imagen": "examen-45_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Acelerar ante la presencia de peatones distraídos hablando por el móvil."
+        },
+        {
+          "letra": "B",
+          "texto": "Extremar la precaución al adelantar un autobús detenido en su parada."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular marcha atrás sin mirar por los espejos retrovisores ni girando el cuerpo."
+        }
+      ],
+      "ayuda": "Los conductores, entre otras medidas que pueden adoptar para evitar el atropello a los peatones, deben extremar la precaución al adelantar un autobús detenido en su parada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "El vehículo estacionado va a incorporarse a la circulación, ¿qué debe hacer el conductor?",
+      "imagen": "examen-45_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tiene que incorporarse sin advertir de su intención, ya que no es obligatorio."
+        },
+        {
+          "letra": "B",
+          "texto": "Tiene que advertir su intención mediante señales acústicas."
+        },
+        {
+          "letra": "C",
+          "texto": "Tiene que advertir su intención mediante los indicadores de dirección."
+        }
+      ],
+      "ayuda": "Los conductores deben advertir su intención de incorporarse a la circulación mediante los indicadores de dirección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Un vehículo especial de reparación de las vías accede a una autopista para hacer obras. ¿Cuándo tiene que encender la señal luminosa V-2?",
+      "imagen": "examen-45_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No tiene que encenderla hasta llegar a la zona de obras."
+        },
+        {
+          "letra": "B",
+          "texto": "Desde el momento en que accede a la autopista."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo cuando circule entra la puesta y la salida de sol."
+        }
+      ],
+      "ayuda": "Todo vehículo especial destinado a la reparación o conservación de las vías, debe llevar encendida la señal luminosa V-2 desde el momento en que se incorpora a una autopista o autovía, a fin de advertir e indicar al resto de usuarios la situación de riesgo que él mismo genera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "En relación con la velocidad anormalmente reducida, ¿a qué velocidad mínima, salvo causa justificada, deberá circular una furgoneta por una autovía?",
+      "imagen": "examen-45_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "45 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "60 km/h."
+        }
+      ],
+      "ayuda": "La velocidad mínima establecida con carácter general en autopistas y autovías es de 60 km/h. Salvo causa justificada, los vehículos que circulen por dichas vías no deben hacerlo a velocidad anormalmente reducida (por debajo de la mínima).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Si al frenar observa que el vehículo tiende a desviarse hacia un lado, puede ser debido a...",
+      "imagen": "examen-45_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "una diferente presión de inflado en los neumáticos."
+        },
+        {
+          "letra": "B",
+          "texto": "la falta de líquidos de freno."
+        },
+        {
+          "letra": "C",
+          "texto": "un calentamiento excesivo de los sistemas frenantes."
+        }
+      ],
+      "ayuda": "Si al frenar el vehículo tiende a desviarse hacia un lado, puede ser debido a una presión de inflado distinta en los neumáticos de un mismo eje.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Por qué no se debe pisar el pedal de embrague durante más tiempo que el necesario para realizar los cambios de marcha?",
+      "imagen": "examen-45_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque aumenta el desgaste del mecanismo del embrague."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque disminuye la adherencia de los neumáticos."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque aumenta el desgaste de la caja de cambios."
+        }
+      ],
+      "ayuda": "No se debe pisar el pedal de embrague más tiempo del necesario porque puede causar desgastes prematuros y otros problemas mecánicos, como desgaste del sistema de embrague (disco y collarin de empuje), calentamiento excesivo, pérdida de control del vehículo y consumo innecesario de combustible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Cuáles son las alteraciones más características producidas por las anfetaminas en la conducción de vehículos?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pueden aparecer movimientos repetitivos y estereotipados que limiten la movilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Las anfetaminas aumentan las capacidades perceptivas al volante."
+        },
+        {
+          "letra": "C",
+          "texto": "Las anfetaminas producen una depresión del Sistema Nervioso Central."
+        }
+      ],
+      "ayuda": "Uno de los efectos de las anfetaminas es que pueden aparecer movimientos repetitivos y estereotipados que limiten la movilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "En un turismo, en caso de que no fuese posible situar la placa de matrícula trasera de forma centrada y en el espacio habilitado para ello, ¿en qué lugar alternativo debe colocarse? ",
+      "imagen": "examen-45_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se podrá situar en el lado izquierdo o derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "En el lado izquierdo."
+        },
+        {
+          "letra": "C",
+          "texto": "En el lado derecho."
+        }
+      ],
+      "ayuda": "Los automóviles en general deberán llevar dos placas de matrícula. Una se colocará en la parte delantera y otra en la parte posterior, que se colocará de manera que su eje vertical esté situado en el plano longitudinal mediano del vehículo, y si no fuese posible, en el lado izquierdo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Una línea continua dispuesta a lo ancho de un carril, indica el lugar de detención en cumplimiento de la obligación impuesta por:",
+      "imagen": "examen-45_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un paso de peatones en el que hay que detenerse siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "un semáforo."
+        },
+        {
+          "letra": "C",
+          "texto": "una señal de Stop o de Ceda el Paso."
+        }
+      ],
+      "ayuda": "Marca transversal continua.\nUna línea continua, dispuesta a lo ancho de uno o varios carriles, es una línea de detención que indica que ningún vehículo o animal ni su carga debe franquearla en cumplimiento de la obligación impuesta por una señal horizontal o vertical de detención obligatoria, una señal de prohibición de pasar sin detenerse, un paso para peatones indicado por una marca vial, un semáforo o una señal de detención efectuada por un agente de la circulación o por la existencia de un paso a nivel o puente móvil.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Esta señal indica...",
+      "imagen": "examen-45_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Peligro por la proximidad de una intersección con prioridad sobre la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Prohibido girar a la izquierda, debiendo continuar de frente."
+        },
+        {
+          "letra": "C",
+          "texto": "La existencia a la izquierda de una vía sin salida."
+        }
+      ],
+      "ayuda": "Esta señal indica peligro por la proximidad de una intersección con una vía a la izquierda, cuyos usuarios deben ceder el paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "En relación con la conducción y como norma general, un consumo inadecuado de medicamentos aumenta...",
+      "imagen": "examen-45_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la resistencia física del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "la capacidad de reacción del conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "el riesgo de sufrir un accidente."
+        }
+      ],
+      "ayuda": "El consumo de medicamentos puede incidir en la capacidad de las personas para conducir con seguridad, por lo que podría aumementar el riesgo de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Podrán conducir por territorio nacional, una motocicleta de hasta 125 cc, los titulares de un permiso de conducción de la clase B con una antigüedad superior a...",
+      "imagen": "examen-45_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "2 años."
+        },
+        {
+          "letra": "B",
+          "texto": "1 año."
+        },
+        {
+          "letra": "C",
+          "texto": "3 años."
+        }
+      ],
+      "ayuda": "Las personas que estén en posesión del permiso de la clase B en vigor, con una antigüedad superior a tres años, podrán conducir dentro del territorio nacional las motocicletas cuya conducción autoriza el permiso de la clase A1.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "En relación con la señalización de balizamiento, ¿cuál de los siguientes son dispositivos delimitadores y prohíben el paso a través de la línea real o imaginaria que los une?",
+      "imagen": "examen-45_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los captafaros horizontales (ojos de gato)."
+        },
+        {
+          "letra": "B",
+          "texto": "Los hitos de arista o de vértice."
+        },
+        {
+          "letra": "C",
+          "texto": "Los conos."
+        }
+      ],
+      "ayuda": "Las banderitas, conos u otros dispositivos análogos, son dispositivos delimitadores que prohíben el paso a través de la línea real o imaginaria que los une.\nPor el contrario, los captafaros, los hitos de vértice o de arista, los paneles direccionales, etc. son dispositivos de guía. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

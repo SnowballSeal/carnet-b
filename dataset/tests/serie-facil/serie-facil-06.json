@@ -1,0 +1,633 @@
+{
+  "categoria_id": 2,
+  "test_id": 6,
+  "nombre": "Serie fácil 6",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En un accidente, si lleva el cinturón con holgura...",
+      "imagen": "serie-facil-06_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "evitará lesiones por quemaduras del cinturón."
+        },
+        {
+          "letra": "B",
+          "texto": "mantiene su eficacia gracias al efecto submarino."
+        },
+        {
+          "letra": "C",
+          "texto": "el cuerpo recorre mayor distancia y puede impactar contra el volante."
+        }
+      ],
+      "ayuda": "Para que el cinturón de seguridad cumpla su función con eficacia debe colocarse bien ceñido al cuerpo. Si se lleva un cinturón con holgura, en caso de accidente, el cuerpo puede recorrer una distancia mayor pudiendo impactar contra las estructuras internas del vehículo como, por ejemplo, el volante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "La depresión, ¿influye en la somnolencia y la fatiga?",
+      "imagen": "serie-facil-06_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, no tiene ninguna influencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siendo aconsejable no conducir de noche."
+        }
+      ],
+      "ayuda": "La depresión influye en la somnolencia y en la fatiga. Por tanto, se aconseja no conducir durante la noche en estas circunstancias.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Uno de los efectos de la fatiga en el conductor es...",
+      "imagen": "serie-facil-06_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la disminución de las distracciones."
+        },
+        {
+          "letra": "B",
+          "texto": "la disminución del número de correcciones en la trayectoria."
+        }
+      ],
+      "ayuda": "Entre otros efectos, la fatiga produce una disminución del número de correcciones de la trayectoria, por lo que el vehículo se desvía de su recorrido ya que el conductor corrige menos veces y más tarde.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Un vehículo consume mucho carburante. ¿Qué se debe revisar?",
+      "imagen": "serie-facil-06_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El circuito de escape."
+        },
+        {
+          "letra": "B",
+          "texto": "El circuito de refrigeración y el de lubricación."
+        },
+        {
+          "letra": "C",
+          "texto": "El circuito de encendido y el de alimentación."
+        }
+      ],
+      "ayuda": "Una de las posibles causas por las que un vehículo puede consumir demasiado carburante es el mal funcionamiento del sistema de encendido o del sistema de alimentación, por lo que resulta conveniente realizar una revisión de dichos sistemas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Para reducir los accidentes de tráfico, ¿deben colaborar todos los agentes sociales?",
+      "imagen": "serie-facil-06_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque solo depende de los conductores."
+        },
+        {
+          "letra": "C",
+          "texto": "No, es un problema que debe resolver la Administración."
+        }
+      ],
+      "ayuda": "Parar reducir los accidentes de tráfico, deben colaborar todos los agentes sociales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Las técnicas de conducción eficiente, ¿son complementarias a las técnicas de conducción preventiva?",
+      "imagen": "serie-facil-06_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Las técnicas de conducción eficiente, son técnicas complementarias de las técnicas de conducción preventiva. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Para estacionar, ¿está permitido circular marcha atrás atravesando una intersección?",
+      "imagen": "serie-facil-06_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "El recorrido hacia atrás, como maniobra complementaria de la parada, el estacionamiento o la incorporación a la circulación, no podrá ser superior a 15 metros ni invadir un cruce de vías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Se considera que un estacionamiento obstaculiza gravemente la circulación cuando se realiza en...",
+      "imagen": "serie-facil-06_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "medio de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "doble fila con conductor."
+        }
+      ],
+      "ayuda": "Se considera que un estacionamiento obstaculiza gravemente la circulación cuando se realiza en medio de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Es necesario revisar el funcionamiento del sistema de alumbrado?",
+      "imagen": "serie-facil-06_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, es parte del mantenimiento preventivo del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "No es necesario."
+        }
+      ],
+      "ayuda": "Forma parte del mantenimiento del vehículo, revisar el funcionamiento del sistema de alumbrado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "En detenciones de más de 60 segundos, es importante...",
+      "imagen": "serie-facil-06_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "encender todas las luces."
+        },
+        {
+          "letra": "B",
+          "texto": "apagar el motor."
+        },
+        {
+          "letra": "C",
+          "texto": "conectar la señal de emergencia."
+        }
+      ],
+      "ayuda": "A fin de disminuir la contaminación y el consumo innecesario de combustible, en detenciones de más de 60 segundos es conveniente apagar el motor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "En el cruce, ¿qué debe hacer el conjunto de vehículos situado en el carril derecho?",
+      "imagen": "serie-facil-06_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Girar a la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Puede seguir recto o girar a la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Puede ir hacia cualquier dirección indicada por las flechas en la calzada."
+        }
+      ],
+      "ayuda": "Desde el carril en el que está situado el vehículo que se observa en el gráfico, solo podrá girar a la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Entre otros lugares, ¿dónde está prohibido estacionar en zona urbana?",
+      "imagen": "serie-facil-06_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En curvas y cambios de rasante."
+        },
+        {
+          "letra": "B",
+          "texto": "En vía calificada de atención preferente."
+        },
+        {
+          "letra": "C",
+          "texto": "Sobre las aceras y paseos."
+        }
+      ],
+      "ayuda": "Entre otros casos, en vías urbanas queda prohibido estacionar sobre las aceras y paseos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "En un turismo ¿puede la carga sobresalir por su parte posterior?",
+      "imagen": "serie-facil-06_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, no está permitido que sobresalga la carga del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, hasta un 10% de su longitud y, si la carga es indivisible hasta un 15%."
+        }
+      ],
+      "ayuda": "En los turismos, la carga podrá sobresalir por su parte posterior un 10% de su longitud y, si la carga es indivisible un 15%.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "El conductor debe...",
+      "imagen": "serie-facil-06_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mirar siempre hacia los lados."
+        },
+        {
+          "letra": "B",
+          "texto": "Observar constantemente lo que sucede en la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "Observar solo a los conductores que se aproximan por detrás."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo que circule por cualquier vía, debe observar constantemente lo que sucede en la misma (tráfico, señales, estado de la vía, etc.).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Los animales, ¿cuándo tienen preferencia de paso?",
+      "imagen": "serie-facil-06_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando haya señal de animales domésticos con el cartel \"cañada\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Nunca tienen preferencia de paso."
+        }
+      ],
+      "ayuda": "Entre otros casos, los animales tendrán preferencia de paso en las cañadas debidamente señalizadas, tal y como se observa en el gráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Como norma general, ¿dónde está prohibido adelantar?",
+      "imagen": "serie-facil-06_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En los pasos para peatones y cerca de ellos."
+        },
+        {
+          "letra": "B",
+          "texto": "En las vías de menos de 6 metros de anchura."
+        },
+        {
+          "letra": "C",
+          "texto": "En vías de un carril para cada sentido."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido adelantar en los pasos para peatones y en sus proximidades.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Cualquier conductor está obligado a...",
+      "imagen": "serie-facil-06_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "comportarse de forma que no entorpezca indebidamente la circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "circular siempre a la velocidad máxima de la vía."
+        }
+      ],
+      "ayuda": "Todo conductor que circule por las vías públicas, deberá comportarse de forma que no entorpezca indebidamente la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Si se circula por una calzada mojada, ¿qué consecuencias puede tener un amortiguador en mal estado?",
+      "imagen": "serie-facil-06_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que disminuya el riesgo de aquaplaning."
+        },
+        {
+          "letra": "B",
+          "texto": "Que aumente el riesgo de aquaplaning."
+        }
+      ],
+      "ayuda": "Si la calzada está mojada, puede aumentar el riesgo de aquaplaning, sobre todo, si alguno de los amortiguadores se encuentra en mal estado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "El medio ambiente, ¿se ve afectado por los accidentes de tráfico?",
+      "imagen": "serie-facil-06_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El medio ambiente se ve también afectado por los accidentes de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "El nivel del depósito del lavaparabrisas ha de ser vigilado...",
+      "imagen": "serie-facil-06_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cada año."
+        },
+        {
+          "letra": "B",
+          "texto": "con frecuencia."
+        },
+        {
+          "letra": "C",
+          "texto": "cada seis meses."
+        }
+      ],
+      "ayuda": "El nivel del depósito del lavaparabrisas se debe comprobar con frecuencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "En los carriles reservados para bicicletas está prohibido...",
+      "imagen": "serie-facil-06_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "parar, únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "parar y estacionar."
+        },
+        {
+          "letra": "C",
+          "texto": "estacionar, únicamente."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido parar y estacionar en los carriles bici.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "En una situación de lluvia y ciclistas circulando, debemos...",
+      "imagen": "serie-facil-06_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "hacer señales acústicas cerca de ellos para indicar nuestra presencia."
+        },
+        {
+          "letra": "B",
+          "texto": "extremar la precaución porque existe más probabilidad de caídas."
+        }
+      ],
+      "ayuda": "Ante la presencia de ciclistas en días de lluvia, se debe extremar la precaución porque existe más probabilidad de que se caigan.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Cómo hay que colocarse el cinturón de seguridad?",
+      "imagen": "serie-facil-06_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Muy ajustado para estar bien sujeto."
+        },
+        {
+          "letra": "B",
+          "texto": "Ajustado al cuerpo, ni muy apretado ni muy flojo, y bien abrochado."
+        },
+        {
+          "letra": "C",
+          "texto": "Más bien flojo, para poder llegar fácilmente a todo el habitáculo del vehículo."
+        }
+      ],
+      "ayuda": "El cinturón de seguridad debe colocarse ajustado al cuerpo, ni muy apretado ni muy flojo, y bien abrochado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "La vigencia del permiso de conducción, ¿está condicionada a que su titular no haya perdido su asignación total de puntos?",
+      "imagen": "serie-facil-06_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, su vigencia solo está limitada en el tiempo."
+        }
+      ],
+      "ayuda": "La vigencia del permiso de conducción está condicionada a que su titular no haya perdido su asignación total de puntos. Es decir, si el conductor pierde la totalidad de sus puntos, el permiso pierde su validez.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Una carrocería de gran resistencia, ¿puede sustituir a otros sistemas de seguridad pasiva?",
+      "imagen": "serie-facil-06_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, por ejemplo el airbag."
+        }
+      ],
+      "ayuda": "Todos los elementos de seguridad pasiva forman un conjunto de protección y se complementan entre sí.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "En esta curva sin visibilidad, ¿cuándo se puede adelantar?",
+      "imagen": "serie-facil-06_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando para adelantar no sea necesario ocupar el carril de la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando el vehículo de delante circule despacio."
+        }
+      ],
+      "ayuda": "Como norma general, queda prohibido adelantar en las curvas de reducida visibilidad, salvo que para ello no sea necesario ocupar el carril de la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Una de las infracciones de los conductores que implica más riesgo para los peatones es...",
+      "imagen": "serie-facil-06_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "estacionar sobre la acera, obligando al peatón a invadir la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "no utilizar los cinturones de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "el exceso de velocidad en autopistas."
+        }
+      ],
+      "ayuda": "Una de las infracciones de los conductores que implica más riesgo para los peatones es estacionar sobre las aceras, obligando al peatón a invadir la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "El espejo exterior izquierdo está roto. ¿Está permitido circular así?",
+      "imagen": "serie-facil-06_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque el espejo exterior izquierdo es imprescindible."
+        }
+      ],
+      "ayuda": "Si el espejo exterior izquierdo está roto, no se debe circular ya que ese espejo es obligatorio en los turismos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Cuando se pueda prever la presencia de animales en la vía, ¿qué precauciones se deben tomar?",
+      "imagen": "serie-facil-06_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical."
+        },
+        {
+          "letra": "B",
+          "texto": "Ninguna si no vienen vehículos en sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Moderar la velocidad y si fuera preciso, detener el vehículo."
+        }
+      ],
+      "ayuda": "Ante la presencia de animales en la vía, se debe extremar la precaución, moderar la velocidad y, si fuera preciso, detener el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "En general, las carreteras convencionales son...",
+      "imagen": "serie-facil-06_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "menos seguras que las autopistas y autovías."
+        },
+        {
+          "letra": "B",
+          "texto": "más seguras que las autopistas y autovías."
+        },
+        {
+          "letra": "C",
+          "texto": "igual de seguras que las autopistas y autovías."
+        }
+      ],
+      "ayuda": "En general, las autopistas y autovías son más seguras que las carreteras convencionales, ya que éstas últimas suelen ser de doble sentido de circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

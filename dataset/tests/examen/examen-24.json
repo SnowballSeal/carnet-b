@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 24,
+  "nombre": "Test de examen 24",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "La mayoría de las muertes en accidentes de tráfico se producen:",
+      "imagen": "examen-24_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al día siguiente del accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "A las cuatro horas del accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "Durante la primera hora tras el accidente, llamada “hora de oro”."
+        }
+      ],
+      "ayuda": "El concepto de hora de oro corresponde a la primera (o incluso segunda) hora tras el accidente. Durante este período es cuando se produce el mayor porcentaje de fallecimientos, aproximadamente un 75% de los casos, y se deben generalmente a obstrucción de la vía aérea o a pérdidas de sangre. Muchos de estos fallecimientos se pueden evitar si la atención se realiza de forma rápida y adecuada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Qué peatones son más propensos a sufrir atropellos?",
+      "imagen": "examen-24_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las personas mayores y los niños."
+        },
+        {
+          "letra": "B",
+          "texto": "Los adultos, entre 30 y 40 años."
+        },
+        {
+          "letra": "C",
+          "texto": "Los jóvenes, fundamentalmente."
+        }
+      ],
+      "ayuda": "Las personas mayores, así como los niños, constituyen grupos de riesgo con mayor propensión a sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "En un accidente entre dos vehículos, ¿qué tipo de daños cubre el seguro de responsabilidad civil de suscripción obligatoria?\n",
+      "imagen": "examen-24_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solamente daños materiales."
+        },
+        {
+          "letra": "B",
+          "texto": "Los daños personales y los materiales del vehículo no causante del accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "Solamente los daños personales."
+        }
+      ],
+      "ayuda": "Como norma general, el seguro de responsabilidad civil de suscripción obligatoria (seguro obligatorio) cubre, tanto los daños materiales y personales, del vehículo no causante del accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En el entorno del tráfico, constituyen un grupo de riesgo o vulnerable...",
+      "imagen": "examen-24_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los motoristas."
+        },
+        {
+          "letra": "B",
+          "texto": "todos los peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "los conductores profesionales."
+        }
+      ],
+      "ayuda": "Según los índices de accidentalidad y mortalidad en nuestro país, los principales grupos de riesgo o colectivos vulnerables son: los niños, los jóvenes, las personas mayores, los peatones, los ciclistas y los conductores de ciclomotores y motocicletas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Al elegir un casco para conducir una motocicleta, ¿qué debe tener en cuenta?\n",
+      "imagen": "examen-24_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que se pueda sujetar sin tener que llevarlo abrochado."
+        },
+        {
+          "letra": "B",
+          "texto": "Que tenga buena ventilación para que no se empañe."
+        },
+        {
+          "letra": "C",
+          "texto": "Que proteja convenientemente de los ruidos."
+        }
+      ],
+      "ayuda": "Al comprar un casco, es importante que tenga buena ventilación para evitar que la visera se empañe durante la conducción. También es importante el color, preferiblemente de colores llamativos; la talla, preferiblemente que quede ajustado a la cabeza del conductor, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "La marca amarilla continua...\n",
+      "imagen": "examen-24_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "indica una zona reservada para un uso especial, donde sólo puedo parar."
+        },
+        {
+          "letra": "B",
+          "texto": "indica una zona donde la duración del estacionamiento está limitada."
+        },
+        {
+          "letra": "C",
+          "texto": "indica la zona de la vía donde está prohibido parar y estacionar."
+        }
+      ],
+      "ayuda": "La marca longitudinal continua, de color amarillo, indica que en la zona señalizada está prohibido parar y estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Cuándo existe obligación de llevar el vehículo a una estación ITV para que pase una inspección?",
+      "imagen": "examen-24_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando el vehículo cambie de titular o de conductor habitual."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando sufra un accidente que requiera cualquier tipo de reparación."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando se realice en el vehículo una reforma de importancia."
+        }
+      ],
+      "ayuda": "Cuando se realice una reforma de importancia en el vehículo, se debe presentar el vehículo a una inspección técnica extraordinaria antes de ponerlo en circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "En una autopista, ¿está permitido hacer un cambio de sentido de la marcha utilizando el paso de la mediana?",
+      "imagen": "examen-24_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando estén abiertos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, salvo que esté expresamente prohibido por una señal."
+        }
+      ],
+      "ayuda": "En autopistas y autovías la maniobra de cambio de sentido está prohibida. Para cambiar el sentido de la marcha, se debe abandonar la calzada por la que se circula, en un lugar habilitado para ello, y seguir el itinerario que corresponda para incorporarse posteriormente a la calzada correspondiente al sentido contrario al que se circulaba.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Cuándo está permitido utilizar las señales acústicas?\n",
+      "imagen": "examen-24_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando circulo por vías urbanas solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando circulo por cualquier vía en cualquier circunstancia."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando quiero adelantar fuera de poblado."
+        }
+      ],
+      "ayuda": "Las señales acústicas se podrán emplear para señalar el propósito de adelantamiento cuando se circule por vías situadas fuera de poblado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Con carácter general, un conductor que acaba de obtener su primer permiso de conducción no podrá superar la tasa de alcohol de...\n",
+      "imagen": "examen-24_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0,15 miligramos de alcohol por litro de aire espirado."
+        },
+        {
+          "letra": "B",
+          "texto": "0,30 miligramos de alcohol por litro de aire espirado."
+        },
+        {
+          "letra": "C",
+          "texto": "0,25 miligramos de alcohol por litro de aire espirado."
+        }
+      ],
+      "ayuda": "Aquellos conductores cuya antigüedad de su primer permiso de conducción sea inferior a dos años, tendrán limitada la tasa máxima de alcoholemia a 0.15 miligramos de alcohol por litro de aire espirado, ó 0.3 gramos de alcohol por litro de sangre, dependiendo de la técnica de detección utilizada.\n\t \n\tSi el conductor es menor de edad, la tasa máxima de alcoholemia permitida es de 0.0, tanto en aire espirado como en sangre.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Al descargar mercancías de un vehículo, ¿está permitido depositarlas en la acera?",
+      "imagen": "examen-24_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que no pasen peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "No, salvo que se señalice el lugar para evitar el peligro para los peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Las operaciones de carga y descarga se llevarán a cabo con medios suficientes para conseguir la máxima celeridad, y procurando evitar ruidos y molestias innecesarias. Queda prohibido depositar la mercancía en la calzada, arcén y zonas peatonales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Suelen tener problemas las personas mayores como peatones?",
+      "imagen": "examen-24_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, a veces los bordes de las aceras están muy altos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, solo tienen problemas como conductores."
+        },
+        {
+          "letra": "C",
+          "texto": "No, todo lo contrario, se comportan de forma más segura que otros peatones."
+        }
+      ],
+      "ayuda": "Los bordes de las aceras, que en ocasiones son demasiado altos, constituyen una dificultad adicional para las personas mayores cuando circulan como peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "El accidente de motocicleta más frecuente es...",
+      "imagen": "examen-24_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la colisión por alcance de vehículos que van a más velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "la colisión frontal o fronto-lateral con otro vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "la colisión frontal con otras motocicletas."
+        }
+      ],
+      "ayuda": "El accidente de motocicleta más frecuente es la colisión con otro vehículo (colisión frontal o fronto-lateral).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Al cruzar un arcén por el que circulan peatones en una zona en la que no existe zona peatonal, ¿qué debe hacer?",
+      "imagen": "examen-24_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ceder el paso a los peatones, pues tienen preferencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Avisar a los peatones de su presencia con señales acústicas."
+        },
+        {
+          "letra": "C",
+          "texto": "Continuar circulando, ya que tiene preferencia de paso."
+        }
+      ],
+      "ayuda": "Los peatones tendrán prioridad de paso respecto a los vehículos, entre otros casos, cuando el vehículo cruce un arcén por el que estén circulando peatones que no dispongan de zona peatonal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "Si por emergencia se queda inmovilizado con su vehículo dentro de un túnel, deberá...",
+      "imagen": "examen-24_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "conectar la señal de emergencia y mantener encendidas las luces de cruce."
+        },
+        {
+          "letra": "B",
+          "texto": "apagar el motor, conectar la señal de emergencia y mantener encendidas las luces de posición."
+        },
+        {
+          "letra": "C",
+          "texto": "conectar la señal de emergencia y hacer sonar el claxon."
+        }
+      ],
+      "ayuda": "Si por motivos de emergencia un conductor queda inmovilizado con su vehículo dentro de un túnel o paso inferior, deberá apagar el motor, conectar la señal de emergencia y mantener encendidas las luces de posición.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Fuera de poblado, como norma general, ¿por qué lado de la vía deberán circular los peatones?",
+      "imagen": "examen-24_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la derecha en casos de poca visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Indistintamente, por la derecha o por la izquierda siempre que haya un arcén."
+        }
+      ],
+      "ayuda": "Fuera de poblado, los peatones deben circular, como norma general, por su lado izquierdo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Una conducta de riesgo realizada frecuentemente por los peatones es...",
+      "imagen": "examen-24_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "respetar la luz del semáforo."
+        },
+        {
+          "letra": "B",
+          "texto": "cruzar sin mirar."
+        },
+        {
+          "letra": "C",
+          "texto": "cruzar por los pasos para peatones."
+        }
+      ],
+      "ayuda": "Una conducta de riesgo realizada frecuentemente por los peatones es cruzar la calzada sin comprobar correctamente que puede hacerse sin peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Una motocicleta, ¿puede utilizar normalmente un carril VAO?",
+      "imagen": "examen-24_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, solo pueden utilizarlo turismos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero siempre que en dicho carril no exista tráfico."
+        }
+      ],
+      "ayuda": "La utilización del carril habilitado para VAO (vehículos de alta ocupación) queda limitada a motocicletas, turismos y vehículos mixtos adaptables, y está prohibida, por tanto, al resto de los vehículos y conjuntos de vehículos, incluidos los turismos con remolque, así como a peatones, ciclos, ciclomotores, vehículos de tracción animal y animales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "En un carril bus, ¿puede un turismo realizar una parada?",
+      "imagen": "examen-24_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo cuando no obstaculice la circulación de autobuses."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en todo caso."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En un carril reservado para autobuses, los conductores de los vehículos que no sean de transporte colectivo tienen prohibida la circulación.\n\nEn los tramos en que la marca blanca longitudinal esté constituida, en el lado exterior de este carril, por una línea discontinua, se permite su utilización general exclusivamente para realizar alguna maniobra que no sea la de parar, estacionar, cambiar el sentido de la marcha o adelantar, dejando siempre preferencia a los autobuses y, en su caso, a los taxis.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Este vehículo está inmovilizado por avería. Su conductor, ¿debe advertir de su presencia a los demás usuarios de la vía?",
+      "imagen": "examen-24_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, solo están obligados los conductores de camiones y autobuses."
+        },
+        {
+          "letra": "B",
+          "texto": "Fuera de poblado sí es obligatorio, siendo opcional en vías urbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, y se empleará para ello el dispositivo luminoso de preseñalización de peligro."
+        }
+      ],
+      "ayuda": "Inmovilización del vehículo y caída de la carga\nSiempre que, por cualquier emergencia, un vehículo quede inmovilizado en la calzada o su carga haya caído sobre ésta, sin perjuicio de encender la luz de emergencia si el vehículo la lleva y, cuando proceda, las luces de posición y de gálibo, en tanto se deja expedita la vía, todo conductor deberá emplear el dispositivo de preseñalización de peligro reglamentario para advertir dicha circunstancia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Cuál es la sanción por no tener el seguro obligatorio del vehículo?",
+      "imagen": "examen-24_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una multa, pero sin inmovilización del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Una multa, y además se podrá inmovilizar el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "La inmovilización del vehículo, pero no supone sanción económica."
+        }
+      ],
+      "ayuda": "La circulación sin tener concertado el seguro de responsabilidad civil de suscripción obligatoria conllevará, además de la multa correspondiente, la inmovilización del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Hablar por un teléfono con dispositivo de manos libres durante la conducción...",
+      "imagen": "examen-24_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "permite mantener sin riesgo largas conversaciones al volante."
+        },
+        {
+          "letra": "B",
+          "texto": "tiene un cierto riesgo debido a la pérdida de atención."
+        },
+        {
+          "letra": "C",
+          "texto": "está prohibido."
+        }
+      ],
+      "ayuda": "No resulta aconsejable mantener una conversación telefónica durante la conducción, incluso si se realiza mediante un dispositivo de manos libres. En cualquier caso, se produce inevitablemente una disminución de la atención a la tarea de la conducción, lo cual puede conllevar un riesgo añadido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Respecto al tipo de vía, las que parecen presentar un menor riesgo de accidente son:",
+      "imagen": "examen-24_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "las travesías."
+        },
+        {
+          "letra": "B",
+          "texto": "las autopistas y autovías."
+        },
+        {
+          "letra": "C",
+          "texto": "las carreteras convencionales."
+        }
+      ],
+      "ayuda": "Las autopistas y autovías son, en principio, más seguras que el resto de las carreteras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "En el entorno del tráfico, constituyen un grupo de riesgo o vulnerable...",
+      "imagen": "examen-24_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "todos los peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "los conductores profesionales."
+        },
+        {
+          "letra": "C",
+          "texto": "las personas mayores cuando circulan como conductores."
+        }
+      ],
+      "ayuda": "Las personas mayores, ya sea como conductores o como peatones, constituyen uno de los denominados grupos de riesgo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Cuando termine el adelantamiento, el vehículo adelantado deberá...",
+      "imagen": "examen-24_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circular igual que lo está haciendo, con la luz de largo alcance encendida."
+        },
+        {
+          "letra": "B",
+          "texto": "reducir la velocidad, obligatoriamente."
+        },
+        {
+          "letra": "C",
+          "texto": "cambiar la luz de largo alcance por la luz de cruce."
+        }
+      ],
+      "ayuda": "Para evitar deslumbramientos del conductor del vehículo que se posiciona delante, el conductor del vehículo adelantado deberá cambiar la luz de largo alcance por la luz de cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Quiere adelantar a un ciclista que circula por el arcén; ¿qué distancia lateral debe dejar?",
+      "imagen": "examen-24_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un metro, al menos."
+        },
+        {
+          "letra": "B",
+          "texto": "Al menos metro y medio."
+        },
+        {
+          "letra": "C",
+          "texto": "No importa la distancia porque circula por el arcén."
+        }
+      ],
+      "ayuda": "Cuando se adelante fuera de poblado a peatones, animales o a vehículos de dos ruedas o de tracción animal, se deberá realizar la maniobra ocupando parte o la totalidad del carril contiguo de la calzada y la separación lateral no será inferior a 1,50 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Un neumático bajo de presión:",
+      "imagen": "examen-24_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Presenta un menor riesgo de reventar."
+        },
+        {
+          "letra": "B",
+          "texto": "Se desgasta más rápidamente por el centro de la banda de rodadura."
+        },
+        {
+          "letra": "C",
+          "texto": "Hace que aumente el consumo de combustible."
+        }
+      ],
+      "ayuda": "Los neumáticos bajos de presión tienen una mayor superficie de apoyo sobre el pavimento, por lo que se requiere un mayor esfuerzo del motor para impulsar el vehículo. Al existir un aumento del esfuerzo del motor también se produce un aumento del consumo de combustible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "En esta vía, la velocidad mínima permitida a los turismos es de...",
+      "imagen": "examen-24_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "90 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "60 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "75 km/h."
+        }
+      ],
+      "ayuda": "La velocidad mínima establecida con carácter general en autopistas y autovías es de 60 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Hay poca visibilidad por niebla. ¿Qué debe hacer?",
+      "imagen": "examen-24_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dejar más distancia de seguridad con el vehículo de delante."
+        },
+        {
+          "letra": "B",
+          "texto": "Llevar el pie siempre en el pedal del freno."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular a la velocidad mínima de la vía."
+        }
+      ],
+      "ayuda": "Cuando existan condiciones de visibilidad reducida a causa de la niebla, se deberá mantener, respecto del vehículo que circula delante, una mayor distancia de seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Un conductor preventivo...",
+      "imagen": "examen-24_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "confía siempre en el comportamiento del resto de conductores."
+        },
+        {
+          "letra": "B",
+          "texto": "evita encender las luces en el amanecer y anochecer."
+        },
+        {
+          "letra": "C",
+          "texto": "ante cualquier situación de peligro pone el pie frente al pedal del freno."
+        }
+      ],
+      "ayuda": "Una técnica eficaz para una conducción preventiva es poner el pie frente al pedal del freno ante cualquier situación de peligro. Esta estrategia permite reaccionar más rápidamente en caso de ser necesario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 60,
+  "nombre": "Test de examen 60",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Los sistemas de seguridad pasiva y activa se han diseñado para que los conductores...",
+      "imagen": "examen-60_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no tengan accidentes."
+        },
+        {
+          "letra": "B",
+          "texto": "puedan circular con mayor seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "pueden circular a altas velocidades sin peligro."
+        }
+      ],
+      "ayuda": "Los sistemas de seguridad del vehículo, han sido concebidos para circular con mayor seguridad, evitar los accidentes y proteger a los ocupantes vehículo y demás usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Está permitido parar o estacionar en un paso para peatones y en sus proximidades?",
+      "imagen": "examen-60_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "En el paso para peatones se puede parar y, en sus proximidades, se puede parar y estacionar."
+        },
+        {
+          "letra": "C",
+          "texto": "En el paso para peatones, no; pero en sus proximidades, sí."
+        }
+      ],
+      "ayuda": "La parada y el estacionamiento están prohibidos en los pasos para peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Cuando tenga que bajar del vehículo para descargar el equipaje, ¿debe apagar el motor?",
+      "imagen": "examen-60_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, sólo debe dejar accionado el freno de mano."
+        },
+        {
+          "letra": "B",
+          "texto": "No, no es necesario si se trata de una parada breve."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, y además debe desconectar el sistema de arranque o contacto."
+        }
+      ],
+      "ayuda": "Cuando se abandone el puesto de conducción, aunque sea por unos pocos minutos, es necesario apagar el motor y desconectar el sistema de arranque o contacto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Como norma general las señales se aplican...",
+      "imagen": "examen-60_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a toda la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "sólo al carril derecho."
+        },
+        {
+          "letra": "C",
+          "texto": "a toda la anchura de la calzada."
+        }
+      ],
+      "ayuda": "Como norma general y salvo indicación en contrario, las señales se aplican a toda la anchura de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Qué elementos debe revisar periódicamente para mantener la seguridad del vehículo?",
+      "imagen": "examen-60_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las luces, los retrovisores y las llantas."
+        },
+        {
+          "letra": "B",
+          "texto": "Los neumáticos, los amortiguadores y los frenos."
+        },
+        {
+          "letra": "C",
+          "texto": "La batería, el filtro de aire y la dirección."
+        }
+      ],
+      "ayuda": "Entre los elementos que deben revisarse para mantener la seguridad del vehículo están: los neumáticos, los amortiguadores y los frenos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Los costes por primeros auxilios, atención y tratamiento a los heridos, rehabilitación y adaptaciones, ¿cómo se llaman?",
+      "imagen": "examen-60_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Costes materiales."
+        },
+        {
+          "letra": "B",
+          "texto": "Costes sanitarios."
+        },
+        {
+          "letra": "C",
+          "texto": "Costes administrativos."
+        }
+      ],
+      "ayuda": "Los costes sanitarios derivados de los accidentes de tráfico, son aquellos relacionados con los primeros auxilios, la atención y tratamiento a los heridos, y la posterior rehabilitación y adaptaciones necesarias para la recuperación de los accidentados.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-60_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cambio de sentido obligatorio hacia la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Bifurcación con cambio de dirección en el carril izquierdo."
+        },
+        {
+          "letra": "C",
+          "texto": "Bifurcación hacia la izquierda sólo para los vehículos que circulan a mayor velocidad."
+        }
+      ],
+      "ayuda": "\tBifurcación hacia la izquierda en calzada de dos carriles\n\tIndica, en una calzada con dos carriles de circulación en el mismo sentido, que se producirá una bifurcación con cambio de dirección en el carril izquierdo.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "A baja velocidad, la dirección asistida progresiva...",
+      "imagen": "examen-60_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "permite un control más preciso del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "reduce al mínimo el esfuerzo necesario para mover el volante."
+        },
+        {
+          "letra": "C",
+          "texto": "hace que la dirección se endurezca."
+        }
+      ],
+      "ayuda": "El sistema de dirección asistida progresiva regula automáticamente la dureza de la dirección en función de la velocidad desarrollada. Con el vehículo parado o a baja velocidad, este sistema reduce al mínimo el esfuerzo necesario para mover el volante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Aunque esté prohibido el adelantamiento, un turismo podrá rebasar, incluso invadiendo el sentido contrario, a...",
+      "imagen": "examen-60_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cualquier camión."
+        },
+        {
+          "letra": "B",
+          "texto": "conductores de bicicletas."
+        },
+        {
+          "letra": "C",
+          "texto": "cualquier autobús o camión que circule lentamente."
+        }
+      ],
+      "ayuda": "En un tramo de vía en el que esté prohibido el adelantamiento, se podrá adelantar a conductores de bicicletas, ciclos, ciclomotores, peatones, animales y vehículos de tracción animal, cuando por la velocidad a que circulen puedan ser adelantados sin riesgo para ellos ni para la circulación en general.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Le estaría permitido al conductor de una bicicleta en algún caso, abandonar el arcén y circular por la calzada? ",
+      "imagen": "examen-60_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en los descensos prolongados."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, podrán circular por el centro de la calzada, pero únicamente en los tramos rectos con visibilidad."
+        },
+        {
+          "letra": "C",
+          "texto": "No, deben circular siempre por el arcén derecho."
+        }
+      ],
+      "ayuda": "En los descensos prolongados con curvas, cuando razones de seguridad lo permitan, los conductores de bicicletas podrán abandonar el arcén y circular por la parte derecha de la calzada que necesiten.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "En una travesía insuficientemente iluminada, ¿puede encender la luz larga?",
+      "imagen": "examen-60_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La luz larga o de carretera, no puede utilizarse para circular en vías situadas dentro de poblado. En las travesías, cuando sea obligatorio el uso del alumbrado, deberá utilizarse la luz de posición y la de cruce o corto alcance, independientemente de si la vía está suficiente o insuficientemente iluminada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Esta señal indica la situación...",
+      "imagen": "examen-60_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "de un merendero."
+        },
+        {
+          "letra": "B",
+          "texto": "de un área de descanso."
+        },
+        {
+          "letra": "C",
+          "texto": "de un área de servicio."
+        }
+      ],
+      "ayuda": "La señal que se observa indica la situación de un área de descanso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "En esta zona señalizada para carga y descarga, ¿está permitido estacionar?",
+      "imagen": "examen-60_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en cualquier caso."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero sólo fuera de las horas de utilización."
+        }
+      ],
+      "ayuda": "Si existe una prohibición de estacionar en un determinado horario por tratarse de una zona reservada para carga y descarga, los usuarios en general podrán estacionar en dicha zona fuera de los tramos horarios en los que el estacionamiento esté prohibido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "La carga transportada en una motocicleta de anchura inferior a 1 metro, ¿puede sobresalir por la parte delantera o trasera?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la parte delantera no, por la trasera sí, hasta 0,25 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, hasta 0,50 metros tanto por la parte delantera como por la trasera."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero por la parte trasera hasta 0,50 metros."
+        }
+      ],
+      "ayuda": "En las motocicletas y ciclomotores la carga en ningún caso podrá sobresalir por la parte delantera del vehículo. Excepcionalmente se permite que la carga sobresalga por la parte trasera hasta un máximo de veinticinco centímetros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "El alumbrado, ¿se considera un sistema de seguridad del vehículo?",
+      "imagen": "examen-60_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, únicamente sirve para ver y ser visto."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, de seguridad activa."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, de seguridad pasiva."
+        }
+      ],
+      "ayuda": "El alumbrado forma parte del sistema de seguridad primaria o activa de los vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Si en una primera prueba de alcoholemia no supera los límites máximos permitidos, los agentes...",
+      "imagen": "examen-60_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "realizarán una segunda prueba, si presenta síntomas de estar bajo la influencia de bebidas alcohólicas."
+        },
+        {
+          "letra": "B",
+          "texto": "no le pueden impedir continuar su marcha, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "le pueden imponer una sanción, si presenta síntomas de haber consumido alcohol."
+        }
+      ],
+      "ayuda": "Si un conductor presenta síntomas de estar bajo la influencia de bebidas alcohólicas, y en una primera prueba de alcoholemia no supera los límites máximos permitidos, los agentes realizarán una segunda prueba.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Un turismo de uso privado con once años de antigüedad, debe someterse a la inspección técnica periódica...",
+      "imagen": "examen-60_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cada año."
+        },
+        {
+          "letra": "B",
+          "texto": "cada cuatro años."
+        },
+        {
+          "letra": "C",
+          "texto": "cada dos años."
+        }
+      ],
+      "ayuda": "Una vez superada la antigüedad de diez años, los turismos deberán ser sometidos a inspecciones técnicas periódicas con una frecuencia anual.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "El vehículo rojo va a girar a la izquierda. ¿Puede circular por el arcén para adelantarlo por la derecha?",
+      "imagen": "examen-60_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque está prohibido circular por el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque el camión no me deja ver."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque es una intersección con prioridad."
+        }
+      ],
+      "ayuda": "La circulación por el arcén está, como norma general, prohibida, por lo que no puede utilizarse más que en condiciones excepcionales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Esta señal prohíbe el paso a los vehículos...",
+      "imagen": "examen-60_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cuya anchura, incluida la carga, supere la indicada."
+        },
+        {
+          "letra": "B",
+          "texto": "cuya longitud, incluida la carga, supere la indicada."
+        },
+        {
+          "letra": "C",
+          "texto": "cuya altura, incluida la carga, supere la indicada."
+        }
+      ],
+      "ayuda": "Señal de limitación de altura.\nProhibición de paso de los vehículos cuya altura máxima, incluida la carga, supere a la indicada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Cuando las indicaciones de un semáforo y una señal de balizamiento se contradicen prevalece...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la señal de balizamiento, por orden de prioridad."
+        },
+        {
+          "letra": "B",
+          "texto": "el semáforo."
+        },
+        {
+          "letra": "C",
+          "texto": "la señal más restrictiva."
+        }
+      ],
+      "ayuda": "Las señales circunstanciales o de balizamiento, prevalecerán sobre las demás señales, ya sean semáforos, señales verticales o marcas viales, excepto sobre las señales y órdenes de los Agentes que son siempre de obligado cumplimiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Los ciclistas están exentos de llevar casco cuando circulen...",
+      "imagen": "examen-60_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "por vías interurbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "por rampas ascendentes y descendentes prolongadas."
+        },
+        {
+          "letra": "C",
+          "texto": "por rampas ascendentes prolongadas."
+        }
+      ],
+      "ayuda": "Los conductores de bicicletas y, en su caso, los ocupantes estarán obligados a utilizar cascos de protección homologados o certificados según la legislación vigente, cuando circulen en vías interurbanas, salvo en rampas ascendentes prolongadas, o en condiciones extremas de calor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "La señalización vertical prevalece sobre...",
+      "imagen": "examen-60_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "las marcas viales."
+        },
+        {
+          "letra": "B",
+          "texto": "los semáforos."
+        },
+        {
+          "letra": "C",
+          "texto": "las señales de balizamiento circunstanciales."
+        }
+      ],
+      "ayuda": "En el caso que haya aparente contradicción entre dos señales de distinto tipo, la señalización vertical prevalecerá sobre las marcas viales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "En general, ¿en qué tipo de vías suelen producirse más accidentes por fatiga o somnolencia?",
+      "imagen": "examen-60_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En carreteras con trazado sinuoso."
+        },
+        {
+          "letra": "B",
+          "texto": "En vías urbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "En autopistas y autovías."
+        }
+      ],
+      "ayuda": "Debido sobre todo al carácter monótono de la conducción, la fatiga y la somnolencia suelen producir accidentes con mayor frecuencia en autopistas o autovías que en otro tipo de vías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Cuando un neumático tiene mucho aire, ¿qué ocurre?",
+      "imagen": "examen-60_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se agarra mejor a la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Se agarra peor a la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Se desgasta más por los lados."
+        }
+      ],
+      "ayuda": "Cuando los neumáticos tienen una presión de inflado excesiva, disminuye la zona de contacto del mismo con el pavimento, reduciendo por tanto las condiciones de agarre y de adherencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Qué efectos tiene en la conducción una conversación por el móvil que supera el minuto y medio?",
+      "imagen": "examen-60_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El conductor deja de percibir una parte importante de la señales, incluso con el dispositivo de manos libres."
+        },
+        {
+          "letra": "B",
+          "texto": "La velocidad media aumenta, incluso con el dispositivo de manos libres."
+        },
+        {
+          "letra": "C",
+          "texto": "El conductor no deja de percibir las señales si usa el dispositivo de manos libres."
+        }
+      ],
+      "ayuda": "La utilización del teléfono móvil es siempre peligrosa para la conducción. Si bien algunos dispositivos de manos libres están permitidos, hay que tener en cuenta que cuando la duración de la conversación supera el minuto y medio el conductor deja de percibir una parte importante de las señales, incluso cuando la conversación tiene lugar a través de un dispositivo autorizado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "Esta línea discontinua, ¿qué indica?",
+      "imagen": "examen-60_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un carril reversible."
+        },
+        {
+          "letra": "B",
+          "texto": "Un carril especial."
+        },
+        {
+          "letra": "C",
+          "texto": "La cercanía a una línea longitudinal continua."
+        }
+      ],
+      "ayuda": "Marca longitudinal discontinua.\nUna línea discontinua en la calzada está destinada a delimitar los carriles con el fin de guiar la circulación, y significa que ningún conductor debe circular con su vehículo o animal sobre ella, salvo, cuando sea necesario y la seguridad de la circulación lo permita, en calzadas con carriles estrechos (de menos de tres metros de anchura).\n\nPuede además estar destinada a indicar la existencia de un carril especial (para determinar la clase de vehículos, de entrada o salida, u otro); en este caso la marca es sensiblemente más ancha que en el caso general.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Una de las técnicas de visión en la conducción preventiva consiste en...",
+      "imagen": "examen-60_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "acostumbrarse a los deslumbramientos."
+        },
+        {
+          "letra": "B",
+          "texto": "mirar a lo lejos, a los lados y por los retrovisores."
+        },
+        {
+          "letra": "C",
+          "texto": "instalar espejos panorámicos."
+        }
+      ],
+      "ayuda": "Una de las técnicas de visión en las conducción preventiva consiste en mirar a lo lejos, a los lados y por los retrovisores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Si está lloviendo, ¿a qué prestará especial atención si conduce una motocicleta?",
+      "imagen": "examen-60_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A las marcas viales que son muy resbaladizas."
+        },
+        {
+          "letra": "B",
+          "texto": "A que se puede mojar el motor."
+        },
+        {
+          "letra": "C",
+          "texto": "A que disminuye el tiempo de reacción."
+        }
+      ],
+      "ayuda": "Cuando se conduce un vehículo de dos ruedas en un día lluvioso, hay que tener especial precaución con la pintura utilizada para señalización de las marcas viales, ya que suele resultar muy resbaladiza y puede hacer que el vehículo patine.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿En qué caso el estacionamiento perturba gravemente la circulación?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En una zona reservada a carga y descarga, fuera de las horas de utilización."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando la distancia entre el vehículo y el borde opuesto de la calzada sea inferior a 5 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando se efectúa en las medianas, separadores, isletas u otros elementos de canalización del tráfico."
+        }
+      ],
+      "ayuda": "Uno de los casos en los que el reglamento considera que un estacionamiento perturba gravemente la circulación, es cuando dicha maniobra se efectúa en las medianas, separadores, isletas u otros elementos de canalización del tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Se debe circular a velocidad moderada y, si fuera preciso, detener el vehículo, al aproximarse a un...",
+      "imagen": "examen-60_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "paso a nivel."
+        },
+        {
+          "letra": "B",
+          "texto": "vehículo inmovilizado en la calzada, fuera o dentro de poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "semáforo."
+        }
+      ],
+      "ayuda": "Entre otros casos, se debe circular a velocidad moderada y, si fuera preciso, detener el vehículo, al aproximarse a un paso a nivel.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

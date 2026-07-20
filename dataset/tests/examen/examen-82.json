@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 82,
+  "nombre": "Test de examen 82",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "A partir de la señal de la imagen, ¿cuál es la distancia mínima obligatoria a mantener con la motocicleta?",
+      "imagen": "examen-82_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Una separación que permita al vehículo que circula detrás realizar un adelantamiento con seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Una separación que me permita detenerme, en caso de frenado brusco de la motocicleta, sin colisionar con ella."
+        }
+      ],
+      "ayuda": "En los tramos en lo que el adelantamiento esté prohibido, el conductor de un vehículo que circule detrás de otro debe dejar entre ambos un espacio libre que le permita detenerse, en caso de frenado brusco, sin colisionar con él.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Existen sistemas de asistencia a la conducción que mejoren la visibilidad del conductor en áreas donde puede tener dificultades para ver durante las maniobras? ",
+      "imagen": "examen-82_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, como la cámara de marcha atrás."
+        },
+        {
+          "letra": "B",
+          "texto": "No, aunque algunos sistemas emiten señales sonoras en caso de riesgo de colisión."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, como el control de crucero adaptativo o Tempomat."
+        }
+      ],
+      "ayuda": "Existen dispositivos de asistencia a la conducción que mejoran la visibilidad del conductor en áreas donde puede tener dificultades para ver durante las maniobras, por ejemplo, la cámara trasera que ayuda a maniobrar marcha atrás. Las más completas asisten al aparcar mediante líneas auxiliares de guía que marcan la trayectoria, orientando sobre la dirección adecuada en sintonía con los puntos de giro del volante. Se activa cuanto el conductor inserta la marcha atrás o conectando el sistema al pulsar un botón en el interior.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Escribir un mensaje de texto con el teléfono móvil mientras se conduce, ¿es un riesgo para la seguridad vial?",
+      "imagen": "examen-82_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí; mientras se escribe pueden surgir circunstancias que provoquen un accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "No; redactar mensajes de texto no altera la capacidad de atención del conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si el conductor no tiene experiencia y necesita las dos manos para escribir."
+        }
+      ],
+      "ayuda": "Utilizar aplicaciones de mensajería durante la conducción es una conducta de riesgo considerada grave para la seguridad vial, ya que mientras se escribe o se lee un mensaje, pueden surgir circunstancias que provoquen un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Si su vehículo está estacionado en oblicuo o en batería, ¿puede utilizar la marcha atrás para incorporarse al tráfico?",
+      "imagen": "examen-82_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando no invada un cruce de vías."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, un máximo de 25 metros."
+        }
+      ],
+      "ayuda": "El recorrido hacia atrás, como maniobra complementaria de la parada, el estacionamiento o la incorporación a la circulación, no podrá ser superior a 15 metros ni invadir un cruce de vías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Las distracciones son una de las principales causas de accidentes; de las siguientes acciones, ¿cuál presenta el mayor riesgo de distracción para el conductor?",
+      "imagen": "examen-82_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Observar las señales de tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "Usar el teléfono móvil."
+        },
+        {
+          "letra": "C",
+          "texto": "Escuchar la radio."
+        }
+      ],
+      "ayuda": "La utilización del teléfono móvil durante la conducción, especialmente cuando el mismo se sujeta con la mano, es uno de los factores que causan más distracciones vinculadas a accidentes de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Está permitido adelantar al vehículo rojo en esta curva sin visibilidad situada en una carretera con un carril para cada sentido de la circulación?",
+      "imagen": "examen-82_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, ya que no hay una señal vertical de prohibición de adelantamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "No, ya que para adelantar es necesario ocupar el carril de sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ya que está prohibido adelantar en todas las curvas."
+        }
+      ],
+      "ayuda": "Queda prohibido adelantar en las curvas y cambios de rasante de visibilidad reducida y, en general, en todo lugar o circunstancia en que la visibilidad disponible no sea suficiente para poder efectuar la maniobra o desistir de ella una vez iniciada, a no ser que los dos sentidos de la circulación estén claramente delimitados y la maniobra pueda efectuarse sin invadir la zona reservada al sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿En qué tipo de vías el conductor de un ciclomotor está obligado a usar el casco de protección?",
+      "imagen": "examen-82_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En todo tipo de vías, ya sean urbanas, interurbanas o travesías."
+        },
+        {
+          "letra": "B",
+          "texto": "En las vías interurbanas y las travesías; su uso no es obligatorio en vías urbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "En todo tipo de vías, excepto en condiciones extremas de calor."
+        }
+      ],
+      "ayuda": "La utilización del casco de protección por parte de los conductores y ocupantes de ciclomotores es obligatoria en todo tipo de vías, independientemente que sean urbanas, interurbanas o travesías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "El hecho de conducir a una velocidad excesiva, ¿afecta la capacidad del conductor para anticipar una situación peligrosa?",
+      "imagen": "examen-82_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si conduce en una vía saturada."
+        }
+      ],
+      "ayuda": "La velocidad afecta de forma determinante a la capacidad de anticiparse a una situación peligrosa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "En una intersección donde no se indica la prioridad, ¿se debe ceder el paso a un tranvía?",
+      "imagen": "examen-82_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, tanto si el tranvía se acerca por la derecha como por la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "No, los tranvías no tienen prioridad de paso en las intersecciones no señalizadas."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si el tranvía se acerca por la derecha."
+        }
+      ],
+      "ayuda": "Si no existe señalización, los vehículos que circulen por raíles tienen derecho de prioridad de paso sobre los demás usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "Si circula con un portaequipaje vacío montado en la parte trasera de su vehículo, ¿debe señalizarlo con el panel V-20 para cargas que sobresalen?",
+      "imagen": "examen-82_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo si el portaequipaje requiere la instalación de una bola de enganche."
+        },
+        {
+          "letra": "B",
+          "texto": "No, cuando el portaequipaje está vacío no requiere ninguna señalización."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque el portaequipaje es una carga indivisible que sobresale por la parte trasera."
+        }
+      ],
+      "ayuda": "La carga que sobresalga por detrás de los vehículos deberá ser señalizada por medio de la señal V-20. Esta señal se deberá colocar en el extremo posterior de la carga de manera que quede constantemente perpendicular al eje del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Está permitido circular por una autovía o autopista por debajo del límite de velocidad mínimo establecido, sin causa justificada?",
+      "imagen": "examen-82_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, aunque es obligatorio circular por el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo si no interfiere con el flujo normal de otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque está prohibido circular a velocidad anormalmente reducida sin causa justificada."
+        }
+      ],
+      "ayuda": "No se deberá entorpecer la marcha normal de otro vehículo circulando sin causa justificada a velocidad anormalmente reducida. A estos efectos, se prohíbe la circulación en autopistas y autovías de vehículos a motor a una velocidad inferior a 60 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Si por necesidades de la circulación, un vehículo se encuentra inmovilizado dentro de un paso inferior, entre otras medidas, el conductor deberá...",
+      "imagen": "examen-82_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "abandonar el vehículo y dirigirse al refugio más cercano."
+        },
+        {
+          "letra": "B",
+          "texto": "apagar todos los sistemas eléctricos del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "mantener las luces de posición encendidas y apagar el motor."
+        }
+      ],
+      "ayuda": "Si por necesidades de la circulación un vehículo queda inmovilizado en el interior de un túnel o paso inferior, el conductor y los pasajeros no deben abandonar el vehículo. En este caso se debe de conectar la señal de emergencia temporalmente para advertir a otros conductores que circulen detrás, mantener encendidas las luces de posición y apagar el motor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "En un terreno llano, cuando la carretera está resbaladiza debido a la nieve fina, ¿usar marchas altas facilita la tracción de las ruedas motrices?",
+      "imagen": "examen-82_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, lo que reduce el riesgo de pérdida de adherencia de los neumáticos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, y en las pendientes ascendentes se deberá conducir utilizando la marcha más corta posible."
+        },
+        {
+          "letra": "C",
+          "texto": "No; se debe conducir utilizando marchas cortas para evitar que el motor gire a altas revoluciones y aumentar la tracción."
+        }
+      ],
+      "ayuda": "Al circular por una vía con nieve o hielo en la calzada, es aconsejable hacerlo con la marcha más alta (larga) posible y acelerando de forma suave y sostenida para reducir el riesgo de pérdida de adherencia de los neumáticos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "En relación con la marcha atrás, ¿cuál es la respuesta correcta?",
+      "imagen": "examen-82_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Está prohibido circular marcha atrás invadiendo una intersección, como maniobra complementaria al estacionamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Como maniobra complementaria a una parada, la circulación marcha atrás no deberá exceder los 10 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "Está permitido circular marcha atrás en una autopista si esto no pone en peligro a otros conductores."
+        }
+      ],
+      "ayuda": "Con carácter general se prohíbe circular hacia atrás, salvo en los casos en que no sea posible marchar hacia adelante ni cambiar de dirección o sentido de marcha, y en las maniobras complementarias de otra que la exija, y siempre con el recorrido mínimo indispensable para efectuarla. El recorrido hacia atrás, como maniobra complementaria de la parada, el estacionamiento o la incorporación a la circulación, no podrá ser superior a 15 metros ni invadir un cruce de vías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Qué sistema avanzado de asistencia al conductor toma el control del vehículo para detenerlo si el conductor no reacciona ante una situación en la que existe un alto riesgo de colisión?",
+      "imagen": "examen-82_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sistema de frenado de emergencia autónomo o AEB."
+        },
+        {
+          "letra": "B",
+          "texto": "Sistema de alerta de tráfico cruzado o RCTA."
+        },
+        {
+          "letra": "C",
+          "texto": "Sistema de advertencia de somnolencia y distracción o DDR."
+        }
+      ],
+      "ayuda": "El sistema de frenado de emergencia autónomo o AEB es un sistema de asistencia al conductor que toma el control del vehículo para detenerlo, si el conductor no reacciona ante una situación en la que existe un alto riesgo de colisión.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Un vehículo construido para el transporte de mercancías, cuya cabina está integrada en el resto de la carrocería y con un máximo de nueve asientos, incluido el del conductor, es...",
+      "imagen": "examen-82_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un furgón."
+        },
+        {
+          "letra": "B",
+          "texto": "un camión."
+        },
+        {
+          "letra": "C",
+          "texto": "un vehículo tractor."
+        }
+      ],
+      "ayuda": "Un furgón es un automóvil con cuatro ruedas o más, concebido y construido para el transporte de mercancías, cuya cabina está integrada en el resto de la carrocería y con un máximo de 9 plazas, incluido el conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Mientras conduce nota un fuerte olor a gasolina proveniente de su vehículo; ¿qué debe hacer?",
+      "imagen": "examen-82_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerse en un lugar seguro y ponerse en contacto con el servicio de asistencia en carretera."
+        },
+        {
+          "letra": "B",
+          "texto": "No preocuparse, ya que se debe al olor de los gases de escape."
+        },
+        {
+          "letra": "C",
+          "texto": "Seguir conduciendo porque el olor desaparecerá después de unos pocos kilómetros."
+        }
+      ],
+      "ayuda": "Si mientras conduce, el conductor percibe un fuerte olor a gasolina procedente de su vehículo, debe detenerse en un lugar seguro y ponerse en contacto con el servicio de asistencia en carretera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Para controlar el ángulo muerto, ¿qué se puede hacer?",
+      "imagen": "examen-82_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular por el centro del carril."
+        },
+        {
+          "letra": "B",
+          "texto": "Girar un poco la cabeza para completar la visión del retrovisor."
+        },
+        {
+          "letra": "C",
+          "texto": "Mover los retrovisores hacia afuera."
+        }
+      ],
+      "ayuda": "Ante cualquier desplazamiento lateral es conveniente girar levemente la cabeza (un máximo de 45 grados) para completar la información del espejo retrovisor y poder efectuar la maniobra con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "En un paso estrecho sin señalizar coinciden un turismo y una autocaravana; si no se sabe qué vehículo ha entrado primero, ¿quién debe dar marcha atrás?",
+      "imagen": "examen-82_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El conductor del turismo."
+        },
+        {
+          "letra": "B",
+          "texto": "El conductor de la autocaravana."
+        },
+        {
+          "letra": "C",
+          "texto": "El conductor del vehículo que tenga que dar marcha atrás menos distancia."
+        }
+      ],
+      "ayuda": "Como norma general, en los estrechamientos sin señalizar, la prioridad de paso es para el vehículo que haya entrado primero. Cuando no sea posible determinarlo y se trate de vehículos de distinta clase, se debe recurrir al orden de preferencia entre vehículos según el cual las autocaravanas deben pasar antes que los turismos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "En esta vía urbana, para advertir al conductor del vehículo blanco su intención de adelantarlo, ¿puede usar las señales acústicas?",
+      "imagen": "examen-82_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo si las luces de mi vehículo están averiadas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, excepto cuando hay una señal que lo prohíba."
+        }
+      ],
+      "ayuda": "El uso de las señales acústicas (claxon) para advertir al conductor de otro vehículo el propósito de adelantarlo, solo está permitido en vías fuera de poblado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "En general, como peatones, las personas mayores...",
+      "imagen": "examen-82_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tienen más capacidad de reacción para esquivar a los vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "ven y escuchan mejor la llegada de un vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "necesitan más tiempo para cruzar una calle."
+        }
+      ],
+      "ayuda": "En general, como peatones, las personas mayores necesitan más tiempo para cruzar una calle.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿A los conductores de cuál de los siguientes vehículos se les permite circular en grupo sin dejar suficiente espacio entre ellos para poder detenerse con seguridad si tienen que frenar de forma brusca? ",
+      "imagen": "examen-82_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ciclistas y conductores de ciclomotores de dos ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo conductores de ciclomotores de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo ciclistas."
+        }
+      ],
+      "ayuda": "Solo los ciclistas tienen permitido circular en grupo sin dejar suficiente espacio entre ellos para poder detenerse con seguridad si tienen que frenar de forma brusca.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Qué indica esta señal situada a la entrada de una calle?",
+      "imagen": "examen-82_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Entrada prohibida a los automóviles."
+        },
+        {
+          "letra": "B",
+          "texto": "Entrada prohibida a vehículos en función del distintivo ambiental."
+        },
+        {
+          "letra": "C",
+          "texto": "Entrada prohibida a todos los vehículos a motor."
+        }
+      ],
+      "ayuda": "Entrada prohibida a vehículos en función de su distintivo ambiental u otros criterios ambientales.\nProhibición de acceso a vehículos en función de su distintivo ambiental u otros criterios ambientales que se establezcan.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Se permite hacer uso del alumbrado de largo alcance en forma de \"ráfagas\" para advertir al vehículo que le precede la intención de adelantar?",
+      "imagen": "examen-82_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero únicamente fuera de poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, tanto en poblado como fuera de poblado."
+        }
+      ],
+      "ayuda": "Se podrá advertir la intención de adelantar, incluso en poblado, con ráfagas de luz de corto o de largo alcance, teniendo la precaución de no deslumbrar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Cuando llueve, o poco después de haber llovido, ¿qué debe hacer antes de un cruce o adelantamiento, especialmente si se trata de vehículos voluminosos o pesados?",
+      "imagen": "examen-82_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Disminuir la velocidad, accionando el freno de estacionamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Poner en funcionamiento el limpiaparabrisas a la velocidad más rápida."
+        },
+        {
+          "letra": "C",
+          "texto": "Advertirlo mediante destellos o señales acústicas."
+        }
+      ],
+      "ayuda": "En días de lluvia al aproximarnos a otros vehículos para adelantarlos, se debe tener especial cuidado, ya que las salpicaduras pueden impedir la visibilidad. Para evitarlo, se debe utilizar el limpiaparabrisas a la velocidad más rápida y accionar el lavaparabrisas para eliminar la suciedad y el barro que pudiera depositarse sobre el cristal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Cuál es la velocidad máxima permitida en una vía de poblado que tiene plataforma única de calzada y acera?",
+      "imagen": "examen-82_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 km/h si tiene dos o más carriles."
+        },
+        {
+          "letra": "B",
+          "texto": "30 km/h si tiene un solo carril para cada sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "20 km/h. "
+        }
+      ],
+      "ayuda": "El límite genérico de velocidad en vías urbanas será de 20 km/h en aquellas vías que dispongan de plataforma única de calzada y acera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Qué significa esta señal?",
+      "imagen": "examen-82_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Control de velocidad por radar."
+        },
+        {
+          "letra": "B",
+          "texto": "Zona de frenado de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Carril para el pago automático del peaje."
+        }
+      ],
+      "ayuda": "Esta señal indica la situación de una zona de escape de la calzada, acondicionada para que un vehículo pueda ser detenido en caso de fallo de su sistema de frenado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Las condiciones meteorológicas desfavorables, como lluvia, viento o hielo, aumentan la probabilidad de tener un accidente si circula en motocicleta?",
+      "imagen": "examen-82_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, el conductor tiene más posibilidades de caer si realiza movimientos bruscos."
+        },
+        {
+          "letra": "B",
+          "texto": "No; el mal tiempo no afecta a la conducción de motocicletas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo si el conductor no lleva el equipamiento adecuado."
+        }
+      ],
+      "ayuda": "Las condiciones meteorológicas desfavorables, como lluvia, viento o hielo, aumentan la probabilidad de tener un accidente de motocicleta, dado que el conductor tiene más posibilidades de caer si realiza movimientos bruscos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Cuando exista nieve en la calzada, ¿cómo se debe iniciar la marcha para evitar que las ruedas patinen y se hundan?",
+      "imagen": "examen-82_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con la marcha más alta que sea posible, que normalmente será la segunda."
+        },
+        {
+          "letra": "B",
+          "texto": "Pisando a fondo el acelerador para aumentar la fuerza motriz de las ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "Con la primera marcha engranada y soltando rápidamente el pedal de embrague."
+        }
+      ],
+      "ayuda": "Para iniciar la marcha sobre una calzada con nieve, se debe utilizar la marcha más larga posible (normalmente la 2ª) y soltar el embrague lentamente, acelerando de forma suave y uniforme.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Si transporta a un único pasajero en su motocicleta con sidecar, ¿dónde viajará este?",
+      "imagen": "examen-82_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el asiento de la motocicleta, detrás del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "En el sidecar."
+        },
+        {
+          "letra": "C",
+          "texto": "Es indiferente."
+        }
+      ],
+      "ayuda": "Si se lleva un pasajero, éste debe ir en el sidecar y no en la motocicleta porque, al viajar en la misma y con el sidecar vacío, repercute negativamente en la estabilidad y en el equilibrio dinámico del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

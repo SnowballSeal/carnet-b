@@ -1,0 +1,338 @@
+[
+  {
+    "n": 1,
+    "tipo": "imagen",
+    "titulo": "Bienvenido al Tema 16",
+    "texto": "Tema 16\n\nEstado psicofísico del Conductor"
+  },
+  {
+    "n": 2,
+    "tipo": "imagen",
+    "titulo": "Capacidades psicofísicas en la conducción. Capacidades físicas",
+    "texto": "Para una conducción segura, además del buen mantenimiento del vehículo, es importante el estado del conductor pues de este dependerá su forma de conducir."
+  },
+  {
+    "n": 3,
+    "tipo": "imagen",
+    "titulo": "Capacidades físicas. La vista",
+    "texto": "La visión es el sentido más importante para una conducción segura, puesto que los ojos son los órganos que permiten percibir los estímulos ópticos. Se trata de un sentido predominante en la tarea de la conducción a tal punto que, mientras se conduce, el 90% de la información que recibe el conductor es visual."
+  },
+  {
+    "n": 4,
+    "tipo": "imagen",
+    "titulo": "Campo visual. Concepto",
+    "texto": "El campo visual es todo aquello que abarca la vista alrededor de un punto fijo al que se está mirando.\n\nEn general, el campo visual horizontal de un individuo es de 140 grados cuando se encuentra detenido. Sin embargo, una vez que comienza a desplazarse el campo visual se reduce a medida que aumenta la velocidad a la que circula."
+  },
+  {
+    "n": 5,
+    "tipo": "imagen",
+    "titulo": "Relación entre velocidad y campo visual",
+    "texto": "En este cuadro se presentan algunos ejemplos que ilustran la relación entre campo visual y velocidad.\n\n- A 35 km/h, el campo visual es de 104 grados.\n- A 65 km/h, el campo visual es de 70 grados.\n- A 100 km/h, el campo visual es de 42 grados.\n- A 130 km/h, el campo visual es de 30 grados.\n\nCuando la reducción del campo visual alcanza el 70%, se habla de efecto túnel. En estas circunstancias, el conductor centra su visión en el frontal de la vía dejando de percibir elementos situados en los laterales.\n\nEn definitiva: a mayor velocidad, menor campo visual, menor capacidad para percibir y reaccionar ante cualquier imprevisto, y mayor probabilidad de cometer errores."
+  },
+  {
+    "n": 6,
+    "tipo": "imagen",
+    "titulo": "Capacidades psicofísicas en la conducción. Tiempo de reacción",
+    "texto": "Tiempo de reacción: es el tiempo que transcurre desde que el conductor percibe un obstáculo hasta que responde al mismo.\n\nEn condiciones normales, el tiempo de reacción de una persona oscila entre medio y un segundo, aproximadamente; 0,75 segundos se considera un tiempo de reacción normal. Sin embargo, dicho tiempo puede variar según las circunstancias y el estado psicofísico del individuo: el sueño, el cansancio, la ingesta de alcohol o drogas, las preocupaciones, etc. pueden causar un aumento del tiempo de reacción."
+  },
+  {
+    "n": 7,
+    "tipo": "imagen",
+    "titulo": "Distancia de reacción",
+    "texto": "Es la distancia, en metros, que recorre un vehículo durante el tiempo de reacción. Por lo tanto, depende del tiempo de reacción (a mayor intervalo de tiempo, mayor distancia recorrida) y de la velocidad a la que se circula (para un mismo intervalo de tiempo, a mayor velocidad, mayor distancia)."
+  },
+  {
+    "n": 8,
+    "tipo": "imagen",
+    "titulo": "Distancia de frenado",
+    "texto": "Es la distancia, en metros, que el vehículo recorre desde que el conductor empieza a frenar hasta que el vehículo queda detenido.\n\nEn la distancia de frenado influyen factores, tales como:\n\n- La velocidad y la carga transportada.\n- La eficacia de los frenos y el estado de los neumáticos.\n- La suspensión en mal estado, la cual puede provocar un incremento de la distancia de frenado de hasta un 50%."
+  },
+  {
+    "n": 9,
+    "tipo": "imagen",
+    "titulo": "Distancia de detención o de parada técnica. Concepto",
+    "texto": "Es la distancia, en metros, que recorre un vehículo desde que el conductor percibe un obstáculo hasta que queda detenido. Dicho de otro modo, es la suma de la distancia de reacción y la distancia de frenado, por lo que aumentará siempre que aumente el tiempo de reacción o la distancia de frenado."
+  },
+  {
+    "n": 10,
+    "tipo": "imagen",
+    "titulo": "Ejemplo de distancia de detención para un vehículo que circula a 80 km/h",
+    "texto": "En condiciones normales, un vehículo que circule a ochenta kilómetros por hora, en caso de frenada de emergencia, tendrá una distancia de reacción de 24 metros y una distancia de frenado de 32 metros. \n\nPor lo tanto, su distancia de detención será de 56 metros."
+  },
+  {
+    "n": 11,
+    "tipo": "imagen",
+    "titulo": "Distancia frontal de seguridad",
+    "texto": "La distancia frontal de seguridad es la distancia mínima que, por motivos de seguridad, un conductor debe dejar con el vehículo que circula delante.\n\nComo norma general, esta debe ser el doble de la distancia de reacción. Por ejemplo, si para una velocidad de 80 km/h la distancia de reacción es de 24 metros, la distancia frontal de seguridad debe ser de 48 metros, aproximadamente."
+  },
+  {
+    "n": 12,
+    "tipo": "imagen",
+    "titulo": "Factores que afectan negativamente a las capacidades psicofísicas",
+    "texto": "Existen factores o estados transitorios que pueden alterar las capacidades físicas y psicológicas de los individuos, aumentando así el riesgo de sufrir un accidente."
+  },
+  {
+    "n": 13,
+    "tipo": "imagen",
+    "titulo": "Fatiga o cansancio",
+    "texto": "La fatiga es un estado de agotamiento físico o mental que aparece como consecuencia de la ejecución de una tarea prolongada o de un esfuerzo. Los síntomas de la fatiga pueden aparecer a partir de los 30 minutos de conducción; algunos de ellos son los movimientos constantes en el asiento, las molestias en la nuca y espalda, el aumento del parpadeo, la pesadez en los ojos, etc.\n\nLa fatiga constituye un riesgo añadido en la conducción porque siempre implica un descenso de la capacidad para conducir con seguridad. Como consecuencia de la fatiga disminuye la atención y la capacidad de concentración, los movimientos son más lentos y menos precisos, aumenta el tiempo de reacción y los conductores, en general, se muestran más agresivos e irritables."
+  },
+  {
+    "n": 14,
+    "tipo": "imagen",
+    "titulo": "Factores que propician la aparición de la fatiga",
+    "texto": "Algunos de los factores que propician la aparición de la fatiga o su aumento son:\n\n- Conducir durante largos periodos sin realizar los descansos recomendados.\n\n- Conducir con deficiencias de sueño o previamente fatigado.\n\n- Una alimentación inadecuada o la ingesta de bebidas alcohólicas.\n\n- La monotonía de la vía (especialmente en autopista o autovía).\n\n- Mantener en el habitáculo una temperatura inadecuada como, por ejemplo, un exceso de calefacción."
+  },
+  {
+    "n": 15,
+    "tipo": "imagen",
+    "titulo": "Medidas para combatir la fatiga y el cansancio",
+    "texto": "Para combatir la fatiga y evitar el cansancio, se debe:\n\n- Evitar conducir si no se está suficientemente descansado.\n\n- Mantener ventilado el habitáculo del vehículo y con una temperatura adecuada.\n\n- Descansar 20 o 30 minutos cada 2 horas de conducción o cada 200 kilómetros de recorrido.\n\n- Durante el descanso, dar un pequeño paseo para estirar las piernas y respirar aire puro, realizar algún ejercicio e incluso dormir dentro del vehículo hasta recuperarse, si fuera necesario."
+  },
+  {
+    "n": 16,
+    "tipo": "imagen",
+    "titulo": "La alimentación",
+    "texto": "Una alimentación sana debe ser variada y aportar todos los nutrientes necesarios para el organismo de modo que éste pueda obtener la energía óptima necesaria para su actividad.\n\nUna alimentación inadecuada puede influir negativamente en las capacidades necesarias para la conducción segura, ya que produce efectos como:\n\n- molestias digestivas o jaquecas que ocasionan un desvío de la atención.\n\n- deterioro de los reflejos.\n\n- somnolencia y aparición del sueño.\n\n- aumento de la fatiga.\n\n- disminución de la capacidad de reacción y, en consecuencia, aumento del tiempo de reacción."
+  },
+  {
+    "n": 17,
+    "tipo": "imagen",
+    "titulo": "La somnolencia y el sueño",
+    "texto": "La somnolencia es el estado de necesidad de dormir previo al sueño, el cual disminuye sensiblemente las capacidades para conducir en condiciones de seguridad. Los riesgos asociados a sus efectos aparecen mucho antes de que el conductor se quede dormido.\n\nEntre las causas de la somnolencia se encuentran la falta de sueño, lógicamente, el cambio de hábitos de sueño, el momento del día, la estimulación ambiental, la ingesta de alcohol y medicamentos, la fatiga, la edad, etc."
+  },
+  {
+    "n": 18,
+    "tipo": "imagen",
+    "titulo": "Algunos de los efectos del sueño sobre la conducción",
+    "texto": "Algunos de los efectos del sueño sobre el conductor son los siguientes:\n\n- Aumenta el tiempo de reacción y el número de distracciones.\n\n- Se altera la capacidad de toma de decisiones, por lo que aumentan los errores.\n\n- Se perciben peor tanto las señales de circulación como los sonidos.\n\n- Pueden aparecer microsueños que son pequeños periodos de tiempo, fracciones de segundos, durante los cuales el conductor se queda dormido sin ser plenamente consciente de ello."
+  },
+  {
+    "n": 19,
+    "tipo": "imagen",
+    "titulo": "Relación del sueño con la accidentalidad vial. Recomendaciones",
+    "texto": "El sueño está relacionado con un porcentaje situado entre el 15 y el 30% de la accidentalidad vial, por lo que es conveniente conocer algunas recomendaciones para evitar sus efectos.\n\n- Evitar conducir o extremar las precauciones entre las 3 y las 5 de la mañana y entre las 2 y las 4 de la tarde, cuando la aparición del sueño es más probable, incluso si se ha dormido correctamente la noche anterior.\n\n- Evitar los trayectos largos, especialmente si no se está acostumbrado.\n\n- Dormir lo suficiente antes de emprender un viaje.\n\n- No comer en exceso y evitar la ingesta de alcohol.\n\n- Realizar paradas frecuentes."
+  },
+  {
+    "n": 20,
+    "tipo": "imagen",
+    "titulo": "Las enfermedades",
+    "texto": "Algunas enfermedades, simples malestares e incluso determinados estados anímicos, influyen de forma decisiva en la capacidad de las personas para realizar una conducción segura.\n\nLas enfermedades mentales y los trastornos neurológicos, las enfermedades cardíacas y las respiratorias son las que tienen mayor riesgo de afectar las capacidades necesarias para conducir.\n\nLos conductores que padezcan una enfermedad crónica, deben evitar las situaciones desencadenantes de una crisis."
+  },
+  {
+    "n": 21,
+    "tipo": "imagen",
+    "titulo": "Las alergias respiratorias",
+    "texto": "Los síntomas de las alergias resultan tan familiares para quienes los padecen que, muchas veces, se minimiza su importancia aunque pueden ocasionar distracciones y dificultar la concentración propiciando que ocurra un accidente.\n\nDe hecho, se estima que el 2% de los siniestros mortales y entre el 2 y el 5% de los accidentes en los que resultan personas heridas pueden estar asociadas a esta enfermedad."
+  },
+  {
+    "n": 22,
+    "tipo": "imagen",
+    "titulo": "Alergias respiratorias. Recomendaciones",
+    "texto": "Los conductores que padezcan alergias respiratorias deben evitar conducir en las primeras horas de la mañana y por lugares húmedos donde la concentración de polen es muy alta.\n\nAdemás, es aconsejable conducir con las ventanillas cerradas, utilizando de forma moderada el aire acondicionado, y mantener el interior del vehículo limpio y libre de polvo.\n\nTambién es importante tener presente que los síntomas de las alergias alcanzan su fase más crítica en primavera y verano."
+  },
+  {
+    "n": 23,
+    "tipo": "imagen",
+    "titulo": "El estrés",
+    "texto": "El estrés es un proceso psicológico que se manifiesta cuando las exigencias del entorno superan la capacidad de respuesta de un individuo."
+  },
+  {
+    "n": 24,
+    "tipo": "imagen",
+    "titulo": "Estrés. Alteraciones en las capacidades necesarias para conducir",
+    "texto": "El estrés implica una serie de alteraciones que pueden tener efectos directos sobre las capacidades necesarias para la conducción, de modo que el conductor estresado:\n\n- ve reducida su capacidad de reacción.\n- se encuentra más agresivo y hostil.\n- acepta y asume mayores riesgos al volante, volviéndose más temerario e imprudente.\n- tiende a no respetar las señales de tráfico."
+  },
+  {
+    "n": 25,
+    "tipo": "imagen",
+    "titulo": "La depresión",
+    "texto": "La depresión es un trastorno mental cada vez más frecuente en nuestra sociedad, que afecta a gran parte de la misma. Incide directamente sobre el estado anímico de las personas ocasionando tristeza, apatía y falta de energía vital, entre otros sentimientos negativos.\n\nAlgunos de los efectos de la depresión en la conducción son los siguientes:\n\n- Aumento de la predisposición a la fatiga y la somnolencia.\n\n- Disminución de la atención y de la concentración y, por lo tanto, aumento de las distracciones.\n\n- Pérdida de capacidades perceptivas y de informaciones relevantes para la conducción.\n\n- Inseguridad e indecisión.\n\n- Impulsividad, irritabilidad y ansiedad."
+  },
+  {
+    "n": 26,
+    "tipo": "imagen",
+    "titulo": "Drogas de uso recreativo",
+    "texto": "Las drogas de uso recreativo, también conocidas como drogas de abuso, provocan una importante alteración de las capacidades psicofísicas necesarias para conducir, estimándose que un 10% de los accidentes de tráfico de mayor gravedad están relacionados directa o indirectamente con el consumo de estas sustancias."
+  },
+  {
+    "n": 27,
+    "tipo": "imagen",
+    "titulo": "Efectos de las drogas sobre la capacidad para conducir",
+    "texto": "Los efectos de las drogas varían dependiendo del tipo de droga consumida, no obstante, estos son algunos de los efectos más comunes:\n\n- Disminución de la capacidad de concentración.\n\n- Aumento del tiempo de reacción.\n\n- Alteraciones perceptivas como ilusiones ópticas, cálculo erróneo de distancias, etc.\n\n- Alteraciones emocionales tales como agresividad, ansiedad, irritabilidad o depresión.\n\n- Comportamientos impulsivos, conductas competitivas y tendencia a sobrevalorar las propias capacidades.\n\n- Somnolencia y agotamiento físico.\n\nPor todo esto, la Ley establece que no podrá circular por las vías públicas, el conductor de cualquier vehículo con presencia de drogas en el organismo.\n\nSe excluyen aquellas sustancias que se utilicen bajo prescripción facultativa y con una finalidad terapéutica, siempre que el conductor se encuentre en condiciones de utilizar el vehículo."
+  },
+  {
+    "n": 28,
+    "tipo": "imagen",
+    "titulo": "Pruebas para la detección de drogas y sustancias psicoactivas",
+    "texto": "Al igual que en el caso de la investigación del alcohol, toda persona implicada directamente como posible responsable de un accidente de tráfico y todo conductor que presente síntomas evidentes de encontrarse bajo la influencia de otras drogas, que haya cometido alguna infracción o que, simplemente, sea requerido en un control preventivo, queda obligado a someterse a las pruebas para la detección de drogas o sustancias psicoactivas. En los casos de negativa a efectuar dichas pruebas, el agente podrá proceder a la inmediata inmovilización del vehículo.\n\nLas pruebas de detección consistirán preferentemente en una prueba salival indiciaria que, en caso de que arroje un resultado positivo o el interesado presente signos de haber consumido alguna de aquellas sustancias, implicará la obligación de facilitar saliva en cantidad suficiente para ser analizada.\n\nEl interesado podrá solicitar una prueba de contraste que consistirá en la realización de un análisis de sangre."
+  },
+  {
+    "n": 29,
+    "tipo": "imagen",
+    "titulo": "Alcohol y accidentalidad",
+    "texto": "El alcohol es una de las principales causas de los accidentes de tráfico. Se estima que entre 30 y 50 accidentes de cada 100 son consecuencia, directa o indirecta, del consumo de alcohol.\n\nSegún datos estadísticos, un porcentaje cercano al 40% de los conductores fallecidos tenía una tasa de alcoholemia superior a 0,3 g/l en el momento de producirse el accidente."
+  },
+  {
+    "n": 30,
+    "tipo": "imagen",
+    "titulo": "Tasa de alcoholemia. Concepto",
+    "texto": "La tasa de alcoholemia es la concentración de alcohol que hay en la sangre.\n\nNormalmente, se mide mediante la proporción existente entre gramos de alcohol por litro de sangre, o miligramos de alcohol por litro de aire espirado.\n\nPara detectar y cuantificar la presencia de alcohol en el organismo, habitualmente, en los controles de alcoholemia se utiliza un instrumento denominado etilómetro, que mide la cantidad de alcohol en aire espirado."
+  },
+  {
+    "n": 31,
+    "tipo": "imagen",
+    "titulo": "Tasa máximas de alcoholemia permitidas",
+    "texto": "En nuestro país, las tasas máximas de alcoholemia son las siguientes:\n\n- Para los conductores en general, incluidos los ciclistas, cero coma cinco gramos de alcohol por litro de sangre o cero coma veinticinco miligramos de alcohol por litro de aire espirado.\n\n- Para los conductores noveles, conductores con una antigüedad inferior a 2 años en el permiso de conducción y los conductores profesionales, cero coma tres gramos de alcohol por litro de sangre o cero como quince miligramos de alcohol por litro de aire espirado.\n\nLos conductores menores de edad NO podrán circular con una tasa de alcohol en sangre superior a cero gramos por litro o de alcohol en aire espirado superior a cero milígramos por litro."
+  },
+  {
+    "n": 32,
+    "tipo": "imagen",
+    "titulo": "Factores que influyen en la tasa de alcoholemia. Tipo de bebida",
+    "texto": "No todas las bebidas alcohólicas contienen la misma cantidad de alcohol. Las bebidas fermentadas como el vino o la cerveza tienen graduaciones de entre 5 y 15 grados, mientras que las bebidas destiladas como el tequila o el vodka oscilan entre 15 y 45 grados. Además, las bebidas destiladas pasan antes al organismo que las fermentadas.\n\nLa mezcla de alcohol con refrescos gasificados o la ingesta de bebidas a temperaturas altas, calientes o templadas, son elementos que también favorecen la aparición temprana de alcohol en sangre."
+  },
+  {
+    "n": 33,
+    "tipo": "imagen",
+    "titulo": "La hora del día y el tiempo trascurrido desde el consumo de alcohol",
+    "texto": "Durante las horas de sueño el organismo se ralentiza por lo que el proceso de eliminación del alcohol ingerido será sensiblemente más lento que en estado de vigilia. En consecuencia, es posible que tras un importante consumo de alcohol antes de acostarse, a la mañana siguiente los valores de alcoholemia sigan siendo positivos.\n\nLa detección de alcohol puede realizarse a partir de los cinco minutos posteriores a ser ingerido. Entonces, la alcoholemia aumenta rápidamente hasta alcanzar su pico más alto entre 30 y 90 minutos después de la ingesta. Sin embargo, la eliminación del alcohol se produce lentamente, siendo necesarias varias horas para su completa eliminación del organismo."
+  },
+  {
+    "n": 34,
+    "tipo": "imagen",
+    "titulo": "Otros factores: peso corporal, sexo, edad, comidas, circunstancias personales",
+    "texto": "El peso corporal. A idénticas cantidades de alcohol, una persona delgada alcanzará una tasa de alcoholemia superior a una persona con mayor peso corporal.\n\nEl sexo. Debido a determinadas diferencias fisiológicas, es más probable que una mujer alcance valores más altos de alcoholemia que un hombre de igual peso e idéntica cantidad de alcohol ingerida.\n\nLa edad. Los jóvenes menores de 18 años y los adultos mayores de 65 son los grupos más sensibles a los efectos del alcohol.\n\nLas comidas. Cuando los órganos encargados de la digestión, estómago e intestinos, están vacíos el alcohol pasa antes y más rápidamente a la sangre que si hubiera alimentos en ellos. Por ello, no resulta recomendable ingerir alcohol con el estómago vacío.\n\nCircunstancias personales. Algunos factores como la fatiga, el estrés, la ansiedad, la falta de sueño, el cansancio, el hábito de beber y ciertas enfermedades, pueden tener incidencia en los efectos del alcohol sobre el organismo."
+  },
+  {
+    "n": 35,
+    "tipo": "imagen",
+    "titulo": "La tasa de alcoholemia más segura",
+    "texto": "La única tasa de alcohol segura y recomendable para conducir es CERO.\n\nA pesar de que legalmente se permite cierto consumo y se establecen los límites correspondientes, es necesario tener en cuenta que el alcohol, aunque sea en pequeñas cantidades, siempre disminuye las capacidades para conducir con seguridad."
+  },
+  {
+    "n": 36,
+    "tipo": "imagen",
+    "titulo": "Efectos del alcohol",
+    "texto": "El alcohol es capaz de alterar notoriamente la capacidad para conducir con seguridad, produciendo los siguientes efectos:\n\n- Transmite un falso estado de euforia, seguridad y confianza en sí mismo, por lo que aumenta el riesgo aceptado y se asumen conductas imprudentes.\n\n- Se tiende a cometer infracciones, desobedeciendo las normas y las indicaciones de las señales.\n\n- Se experimentan alteraciones en la visión como, por ejemplo, la visión túnel.\n\n- Se perciben peor los elementos de la señalización en general, especialmente las indicaciones de los semáforos y las luces del resto de los usuarios.\n\n- Se calculan peor las distancias y la velocidad.\n\n- Aumenta la sensibilidad a los deslumbramientos.\n\n- Favorece la aparición del sueño y la fatiga.\n\n- Aumenta las distracciones, el tiempo de reacción y el número de errores cometidos."
+  },
+  {
+    "n": 37,
+    "tipo": "imagen",
+    "titulo": "Pruebas de alcoholemia",
+    "texto": "Quedan obligados a someterse a las pruebas de detección alcohólica:\n\n- Cualquier usuario de la vía o conductor de vehículo (incluidas las bicicletas y los vehículos de tracción animal) implicado directamente como posible responsable de un accidente de tráfico.\n\n- Todos los conductores que presenten síntomas evidentes de encontrarse bajo la influencia de bebidas alcohólicas, que hayan cometido alguna infracción o que, simplemente, sean requeridos en un control preventivo."
+  },
+  {
+    "n": 38,
+    "tipo": "imagen",
+    "titulo": "Resultado de las pruebas de detección",
+    "texto": "Si el resultado de las pruebas es positivo, se considerará como infracción muy grave, pudiendo sancionarse con multas y pérdida de puntos.\n\nCuando el resultado de la prueba sea negativo y, sin embargo, el conductor presente síntomas evidentes de encontrarse bajo los efectos del alcohol, los agentes de la autoridad podrán recoger datos sintomatológicos y comunicarlos al juzgado."
+  },
+  {
+    "n": 39,
+    "tipo": "imagen",
+    "titulo": "Confirmación y contraste de las pruebas de detección",
+    "texto": "En ambos casos, el agente encargado someterá al interesado, para una mayor garantía y a efectos de contraste, a una segunda prueba mediante un procedimiento similar al que sirvió para efectuar la primera, debiendo transcurrir un tiempo mínimo de 10 minutos entre la primera y la segunda prueba.\n\nEl agente podrá proceder a la inmediata inmovilización del vehículo a no ser que pueda hacerse cargo de su conducción otra persona debidamente habilitada."
+  },
+  {
+    "n": 40,
+    "tipo": "imagen",
+    "titulo": "Sanciones de las infracciones relacionadas con alcohol y conducción",
+    "texto": "En la actualidad, la tendencia es sancionar con mayor dureza este tipo de infracciones y conductas imprudentes, pudiendo, incluso, llegar a ser constitutivas de delito con las correspondientes penas de prisión."
+  },
+  {
+    "n": 41,
+    "tipo": "imagen",
+    "titulo": "Medicamentos",
+    "texto": "Es indudable la gran utilidad que los medicamentos tienen en la prevención y tratamiento de enfermedades u otras dolencias. No obstante, también es importante tener en cuenta que el uso inadecuado de los mismos, la automedicación, los efectos secundarios de algunos de ellos y, sobre todo, la falta de información y el desconocimiento constituyen un importante riesgo para la conducción.\n\nEntre todos los medicamentos, existen dos grandes grupos que son especialmente peligrosos por su incidencia en la capacidad para conducir: los antihistamínicos y los psicofármacos."
+  },
+  {
+    "n": 42,
+    "tipo": "imagen",
+    "titulo": "Medicamentos. Antihistamínicos",
+    "texto": "Los antihistamínicos se utilizan para combatir los síntomas de las alergias.\n\nLos más antiguos, antihistamínicos de primera generación, son los más peligrosos porque producen fuertes somnolencias y alteran las funciones psicomotoras.\n\nSus efectos son similares a los de una tasa de alcoholemia de entre 0,5 y 0,8 g/l. Por el contrario, los antihistamínicos de tercera generación son más seguros ya que no producen somnolencia, aunque presentan un riesgo potencial si se mezclan con alcohol u otros principios activos."
+  },
+  {
+    "n": 43,
+    "tipo": "imagen",
+    "titulo": "Medicamentos. Psicofármacos",
+    "texto": "Los psicofármacos, indicados para el tratamiento de enfermedades y trastornos mentales, generalmente, son los que tienen mayor incidencia sobre la conducción. Entre sus posibles efectos se encuentran la somnolencia, la ralentización de reflejos, el cansancio, la visión borrosa, la falta de coordinación, etc."
+  },
+  {
+    "n": 44,
+    "tipo": "imagen",
+    "titulo": "Tratamientos farmacológicos. Precauciones",
+    "texto": "Si bien no todas las personas reaccionan de la misma manera ante un tratamiento farmacológico, los riesgos asociados al consumo de medicamentos pueden minimizarse siguiendo unas pocas pautas:\n\n- No automedicarse. Se debe consultar con el médico o farmacéutico sobre los posibles efectos del medicamento sobre la capacidad para conducir.\n- Utilizar adecuadamente el medicamento, respetando las dosis e instrucciones dadas por el médico.\n- Consultar el prospecto para comprobar si puede afectar a la conducción.\n- No mezclar medicamentos con otras sustancias, especialmente, alcohol.\n- Adoptar una actitud responsable."
+  },
+  {
+    "n": 45,
+    "tipo": "imagen",
+    "titulo": "El tabaco",
+    "texto": "Aunque no está prohibido, se aconseja no fumar mientras se conduce porque el tabaco, además de perjudicar la salud, tiene los siguientes efectos:\n\n- Provoca distracciones tanto al coger el cigarrillo como al encenderlo, descargar la ceniza, echar el humo, etc.\n\n- Propicia la aparición de la fatiga y del sueño.\n\n- Irrita los ojos y produce cansancio ocular.\n\nEstudios realizados confirman que los conductores fumadores se ven implicados en el doble de accidentes de tráfico que los no fumadores.\n\nAdemás, los conductores fumadores evalúan las situaciones de tráfico como menos peligrosas y asumen mayor riesgo en la conducción.\n\nEnhorabuena, has superado el 80% del tema\n\nOk"
+  },
+  {
+    "n": 46,
+    "tipo": "imagen",
+    "titulo": "El café y otras sustancias estimulantes",
+    "texto": "El café, el té, los refrescos de cola y las bebidas energizantes pueden ser favorables para mantener la vigilia y unas adecuadas condiciones de alerta a corto plazo.\n\nEl problema de estas sustancias es que pueden producir un efecto rebote una vez que sus efectos estimulantes han desaparecido."
+  },
+  {
+    "n": 47,
+    "tipo": "imagen",
+    "titulo": "El tema 16 ha finalizado.\n\nA continuación, vamos a realizar un resumen.",
+    "texto": null
+  },
+  {
+    "n": 48,
+    "tipo": "imagen",
+    "titulo": "Velocidad y campo visual",
+    "texto": "El campo visual del conductor disminuye a medida que aumenta la velocidad a la que circula."
+  },
+  {
+    "n": 49,
+    "tipo": "imagen",
+    "titulo": "Síntomas y efectos de la fatiga",
+    "texto": "Entre otros, algunos síntomas que pueden anunciar la aparición de la fatiga son los bostezos, los movimientos frecuentes en el asiento y las molestias en la nuca.\n\nLa fatiga durante la conducción produce agarrotamiento muscular ya que los músculos no están relajados. Para evitarla, conviene descansar cada 2 horas o cada 200 kilómetros aproximadamente."
+  },
+  {
+    "n": 50,
+    "tipo": "imagen",
+    "titulo": "Riesgos asociados a la somnolencia",
+    "texto": "Los riesgos asociados a la somnolencia durante la conducción pueden aparecer mucho antes de que el conductor llegue a quedarse dormido."
+  },
+  {
+    "n": 51,
+    "tipo": "imagen",
+    "titulo": "Enfermedades que presentan mayor riesgo para la conducción",
+    "texto": "Las enfermedades mentales y los trastornos neurológicos, las enfermedades cardíacas y las respiratorias son las que tienen mayor riesgo de afectar las capacidades necesarias para conducir."
+  },
+  {
+    "n": 52,
+    "tipo": "imagen",
+    "titulo": "Efectos de la depresión sobre la capacidad para conducir",
+    "texto": "La depresión produce irritabilidad y ansiedad. En esas circunstancias, el conductor que padece depresión puede tomar decisiones erróneas desencadenando un accidente."
+  },
+  {
+    "n": 53,
+    "tipo": "imagen",
+    "titulo": "Consumo de alcohol y conducción",
+    "texto": "Como norma general, está prohibido conducir con una tasa de alcohol superior a 0,5 gramos por litro de sangre.\n\nLos conductores de vehículos que sean requeridos en controles preventivos están obligados a someterse a las pruebas de alcoholemia.\n\nEl alcohol desaparece de la sangre muy lentamente, siendo necesario el paso de varias horas para su completa eliminación."
+  },
+  {
+    "n": 54,
+    "tipo": "imagen",
+    "titulo": "Conducción bajo los efectos de las drogas",
+    "texto": "Todas las drogas no son iguales pero todas son peligrosas para la seguridad vial.\n\nLas personas que conducen bajo los efectos de las drogas, ponen a todos los que le rodean en grave riesgo de accidente.\n\nUn conductor que ha consumido drogas puede volverse más competitivo y agresivo."
+  },
+  {
+    "n": 55,
+    "tipo": "imagen",
+    "titulo": "Consumo de medicamentos y conducción",
+    "texto": "Si bien algunos medicamentos pueden afectar negativamente al comportamiento del conductor, el consumo de fármacos no tiene porqué impedir la conducción.\n\nSólo hace falta adoptar las precauciones necesarias para minimizar los riesgos, entre las que se encuentra consultar al médico o farmacéutico acerca de los efectos que pueden tener sobre la conducción."
+  },
+  {
+    "n": 56,
+    "tipo": "imagen",
+    "titulo": "Muchas gracias por tu atención.\n\nA continuación puedes hacer el test de repaso de este tema.",
+    "texto": null
+  }
+]

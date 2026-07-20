@@ -1,0 +1,234 @@
+[
+  {
+    "n": 1,
+    "tipo": "imagen",
+    "titulo": "Bienvenido al Tema 13",
+    "texto": "Tema 13\n\nTransporte de personas y mercancías o cosas. Señalización de los vehículos."
+  },
+  {
+    "n": 2,
+    "tipo": "imagen",
+    "titulo": "Transporte en turismos. Transporte de personas",
+    "texto": "Transporte de personas;\nSe prohíbe cargar o transportar en los vehículos personas, mercancías o cosas de forma distinta a la reglamentaria. Entre las medidas que los conductores deben respetar se encuentran las siguientes:\n\n- El número de personas transportadas en un vehículo no puede ser superior al de plazas autorizadas.\n\n- Está prohibido transportar personas en emplazamiento distinto al destinado para ellas en los vehículos.\n\n- En ningún caso puede sobrepasarse, entre viajeros y equipaje, la masa máxima autorizada para el vehículo.\n\n- Los pasajeros deberán ubicarse, y el equipaje deberá colocarse, de forma tal que no afecte al campo visual y a la libertad de movimientos del conductor."
+  },
+  {
+    "n": 3,
+    "tipo": "imagen",
+    "titulo": "Transporte de equipaje y carga",
+    "texto": "Los turismos podrán transportar carga siempre que vaya debidamente sujeta y que no comprometa su estabilidad; con esta finalidad, y como norma general, la carga deberá colocarse en el maletero.\n\nCuando esto último no sea posible, la carga o el equipaje podrán colocarse en los asientos traseros siempre que no estorben a los ocupantes. Sin embargo, se debe tener presente que, en caso de choque o frenado brusco, dicha carga puede salir proyectada hacia delante y lesionar o dañar a los ocupantes de los asientos delanteros.\n\nTambién se puede transportar carga o equipajes en la baca del vehículo, tumbados y apoyados sobre su mayor superficie o sobre el lado más ancho, aunque, en este caso, el vehículo consumirá más combustible."
+  },
+  {
+    "n": 4,
+    "tipo": "video",
+    "titulo": "Transporte de equipaje en la baca",
+    "texto": "En este video, el conductor de la furgoneta ha decidido transportar la carga en la baca, para lo cual la ha colocado tumbada sobre su mayor superficie y la ha sujetado de forma que no pueda caerse.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/711sGB-C8sQ?si=sDdGNNGoNOSsjW52"
+  },
+  {
+    "n": 5,
+    "tipo": "imagen",
+    "titulo": "Transporte en ciclomotores y motocicletas",
+    "texto": "Transporte de personas:\n\nLos conductores de ciclomotores y los de motocicletas podrán transportar, además del ocupante del sidecar de éstas (en su caso), un pasajero mayor de 12 años, que utilice un casco de protección homologado y que cumpla las siguientes condiciones:\n\n- que vaya a horcajadas y con los pies apoyados en los reposapiés laterales.\n\n- que utilice el asiento correspondiente detrás del conductor.\n\nEl pasajero no podrá situarse, en ningún caso, entre la persona que conduce y el manillar de dirección."
+  },
+  {
+    "n": 6,
+    "tipo": "imagen",
+    "titulo": "Transporte en ciclomotores y motocicletas",
+    "texto": "Excepcionalmente, los niños mayores de 7 años podrán circular en ciclomotores y motocicletas conducidos por su padre, madre o tutor o por personas mayores de edad por ellos autorizadas, siempre que utilicen cascos homologados."
+  },
+  {
+    "n": 7,
+    "tipo": "imagen",
+    "titulo": "Remolques y semirremolques",
+    "texto": "Las motocicletas, los vehículos de tres ruedas, los ciclomotores y los ciclos, podrán arrastrar un remolque o semirremolque homologado, siempre que no supere el 50% de la masa en vacío del vehículo tractor y se cumplan las siguientes condiciones:\n\n- que circulen de día y en condiciones que no disminuyan la visibilidad.\n\n- que la velocidad a que se circule en estas condiciones quede reducida en un 10% respecto a las velocidades genéricas en vías fuera de poblado.\n\n- que, en ningún caso, transporten personas en el vehículo remolcado."
+  },
+  {
+    "n": 8,
+    "tipo": "imagen",
+    "titulo": "Dimensiones máximas de los vehículos",
+    "texto": "Dimensiones de los vehículos en general\n\nLa longitud máxima de un vehículo depende de su tipo, aunque, como norma general, los vehículos rígidos no excederán de 12 metros.\n\nEn cuanto a la anchura máxima permitida, los vehículos no podrán superar los 2,55 metros, incluida la carga, excepto los autobuses acondicionados para el transporte de reclusos y los vehículos isotermos que podrán alcanzar los 2,60 metros."
+  },
+  {
+    "n": 9,
+    "tipo": "imagen",
+    "titulo": "Dimensiones máximas de los vehículos",
+    "texto": "Como norma general, la altura máxima de los vehículos, incluida la carga, es de 4 metros.\n\nNo obstante, los autobuses urbanos tendrán una altura máxima permitida de 4,20 metros.\n\nLos camiones rígidos, vehículos articulados y trenes de carretera, cuando estén especializados en el transporte de vehículos, podrán tener una altura máxima de 4,50 metros.\n\nLos vehículos grúa destinados a la retirada de vehículos accidentados o averiados y los vehículos que transporten contenedores cerrados homologados para el transporte combinado o intermodal, también podrán alcanzar los 4,50 metros de altura."
+  },
+  {
+    "n": 10,
+    "tipo": "imagen",
+    "titulo": "Colocación y dimensiones de la carga",
+    "texto": "La carga transportada en los vehículos no puede:\n\n- Comprometer la estabilidad del mismo.\n\n- Caer total o parcialmente sobre la calzada, ni desplazarse de manera peligrosa.\n\n- Producir ruido, polvo u otras molestias.\n\n- Ocultar los dispositivos de alumbrado, placas o distintivos obligatorios así como tampoco las advertencias manuales de sus conductores.\n\n- Como norma general, sobresalir de la proyección en planta del vehículo, salvo excepciones."
+  },
+  {
+    "n": 11,
+    "tipo": "imagen",
+    "titulo": "Cargas que sobresalen. Excepciones",
+    "texto": "En los vehículos destinados exclusivamente al transporte de mercancías, como camiones y furgones, la carga podrá sobresalir de la proyección en planta de los mismos cuando se trate de cargas indivisibles.\n\nEn el caso de vigas, postes, tubos, u otros objetos de longitud indivisible, la carga podrá sobresalir:\n\n- En vehículos de longitud igual o inferior a 5 metros, un tercio de la longitud del vehículo tanto por delante como por detrás.\n\n- En vehículos de longitud superior a 5 metros, 2 metros por la parte delantera y 3 por la parte posterior.\n\nEn ningún caso se permite sobrepasar la longitud máxima permitida de 12 metros."
+  },
+  {
+    "n": 12,
+    "tipo": "imagen",
+    "titulo": "Cargas que sobresalen. Excepciones",
+    "texto": "Cuando la dimensión menor de la carga indivisible sea superior al ancho del vehículo, ésta podrá sobresalir hasta 0,40 metros por cada lateral, siempre que la anchura total no supere los 2,55 metros."
+  },
+  {
+    "n": 13,
+    "tipo": "imagen",
+    "titulo": "Cargas que sobresalen. Precauciones",
+    "texto": "Las cargas que sobresalgan de la proyección en planta del vehículo deberán ir resguardadas en la extremidad saliente para reducir los efectos de un posible roce o choque."
+  },
+  {
+    "n": 14,
+    "tipo": "imagen",
+    "titulo": "Vehículos no destinados exclusivamente al transporte de mercancías",
+    "texto": "En los vehículos no destinados exclusivamente al transporte de mercancías, como turismos, vehículos mixtos, etc., la carga podrá sobresalir por la parte posterior hasta un 10% de su longitud, y si fuera indivisible, un 15%.\n\nEn estos vehículos, la carga no podrá sobresalir por la parte delantera ni por los laterales."
+  },
+  {
+    "n": 15,
+    "tipo": "imagen",
+    "titulo": "Vehículos de anchura inferior a un metro",
+    "texto": "En vehículos de anchura inferior a un metro, la carga podrá sobresalir por los laterales 50 centímetros a cada lado de su eje longitudinal.\n\nPor la parte posterior, la carga solo podrá sobresalir 25 centímetros y no podrá sobresalir nada por la parte delantera del vehículo."
+  },
+  {
+    "n": 16,
+    "tipo": "imagen",
+    "titulo": "Señalización de la carga que sobresale",
+    "texto": "De día y en condiciones óptimas de visibilidad, no es necesario señalizar la carga que sobresalga por delante del vehículo.\n\nNo obstante, la carga que sobresalga por la parte posterior de los vehículos, incluidos los turismos, se señalizará mediante un panel reglamentario, cuadrado con bandas alternas rojas y blancas.\n\nCuando la carga sobresalga por toda la anchura del vehículo, se señalizará con dos de estos paneles.\n\nEn vehículos de anchura inferior a un metro, no es necesario señalizar la carga."
+  },
+  {
+    "n": 17,
+    "tipo": "imagen",
+    "titulo": "Señalización de la carga durante la noche",
+    "texto": "De noche o en condiciones meteorológicas o ambientales que dificulten la visibilidad, la carga que sobresalga por delante del vehículo se debe señalizar con una luz blanca.\n\nCuando sobresalga por los laterales más de 40 centímetros, respecto de las luces delanteras de posición, se señalizará con luces y reflectantes blancos.\n\nDel mismo modo, la carga que sobresalga por detrás del vehículo, además de llevar el panel o paneles reglamentarios, debe ir señalizada con una luz roja, y si sobresale por los laterales más de 40 centímetros, respecto de las luces traseras de posición, se señalizará con luces y reflectantes rojos."
+  },
+  {
+    "n": 18,
+    "tipo": "imagen",
+    "titulo": "Operaciones de carga y descarga",
+    "texto": "Las operaciones de carga y descarga deberán llevarse a cabo fuera de la vía. Cuando esto no sea posible se observarán las siguientes normas:\n\n- Se respetarán las disposiciones sobre paradas y estacionamientos, y sobre horas y lugares adecuados.\n\n- Se efectuarán, en lo posible, por el lado del vehículo más próximo al borde de la calzada, con el vehículo inmovilizado y el motor parado.\n\n- Se llevarán a cabo con medios suficientes para conseguir la máxima celeridad evitando ruidos o molestias innecesarias.\n\n- Queda prohibido depositar la mercancía en la calzada, arcén y zonas peatonales.\n\nLas operaciones de carga y descarga de mercancías molestas, nocivas, insalubres o peligrosas se regirán, además, por las disposiciones específicas que regulan la materia. Las mercancías que produzcan polvo o que puedan caerse se cubrirán total y eficazmente."
+  },
+  {
+    "n": 19,
+    "tipo": "imagen",
+    "titulo": "Señalización de los vehículos. Placas de matrícula",
+    "texto": "Los turismos llevarán dos placas de matrícula, una en la parte delantera y otra en la parte trasera, mientras que las motocicletas llevarán una sola placa en su parte posterior.\nLos ciclomotores también llevarán una sola placa de matrícula en la parte posterior, pero de color amarillo.\n\nLos vehículos especiales, por su parte, deben llevar una única placa en la parte trasera, con los números en rojo."
+  },
+  {
+    "n": 20,
+    "tipo": "imagen",
+    "titulo": "Señalización de los vehículos. Placas de matrícula",
+    "texto": "Los remolques y semirremolques de hasta 750 kg de masa máxima autorizada llevarán una sola placa de matrícula en su parte posterior, con el mismo contenido que la placa del vehículo que lo arrastra.\n\nSin embargo, los remolques y semirremolques de más de 750 kg de masa máxima autorizada llevarán su propia placa de matrícula, de color rojo, en el centro de la parte trasera, y otra idéntica a la del vehículo que lo arrastra en el lado derecho."
+  },
+  {
+    "n": 21,
+    "tipo": "imagen",
+    "titulo": "Señales en los vehículos",
+    "texto": "V-1 Vehículo prioritario: indica que se trata de un vehículo de los servicios de policía, de extinción de incendios, de protección civil y salvamento o de asistencia sanitaria, en servicio urgente."
+  },
+  {
+    "n": 22,
+    "tipo": "video",
+    "titulo": "Señales en los vehículos",
+    "texto": "Las motocicletas que se ven en el video llevan encendida la señal luminosa de color azul V-1 porque circulan en servicio de urgencia.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/tDYO-ut-7NQ?si=NqJn-yy6GPQPgSWY"
+  },
+  {
+    "n": 23,
+    "tipo": "imagen",
+    "titulo": "Señales en los vehículos",
+    "texto": "V-2 Vehículo-obstáculo en la vía: indica que se trata de un vehículo para obras o servicios, tractores agrícolas, maquinaria agrícola automotriz, demás vehículos especiales, transportes especiales y columnas militares.\n\nTendrán que utilizar esta señal los vehículos que habitualmente desarrollen en la vía un servicio, actividad u operación de trabajo en situación de parada o estacionamiento, o a una velocidad que no supere los 40 km/h."
+  },
+  {
+    "n": 24,
+    "tipo": "imagen",
+    "titulo": "Señales en los vehículos",
+    "texto": "V-4 Limitación de velocidad: Indica que el vehículo no debe circular a velocidad superior, en kilómetros por hora, a la cifra que figura en la señal.\n\nV-5 Vehículo lento: Indica que se trata de un vehículo de motor o conjunto de vehículos que, por construcción, no puede sobrepasar la velocidad de 40 km/h.\n\nV-6 Vehículo largo: Indica que el vehículo o conjunto de vehículos tiene una longitud superior a 12 metros."
+  },
+  {
+    "n": 25,
+    "tipo": "imagen",
+    "titulo": "Señales en los vehículos",
+    "texto": "V- 11 Transporte de mercancías peligrosas: Indica que el vehículo transporta mercancías peligrosas. Este distintivo se fijará en la parte delantera y en la parte trasera de la unidad de transporte, debiendo ser claramente visible.\n\nV- 13 Conductor novel:\nIndica que el vehículo está conducido por una persona cuyo permiso de conducción tiene menos de un año de antigüedad.\n\nV-15 Minusválido:\nIndica que el conductor del vehículo es una persona con discapacidades que reducen su movilidad y que, por tanto, puede beneficiarse de las facultades que se le otorguen con carácter general o específico.\n\nV-16 Dispositivo de preseñalización de peligro:\nIndica que el vehículo ha quedado inmovilizado en la calzada o que su carga se encuentra caída sobre la misma. Este dispositivo, de color amarillo auto, se colocará en la parte más alta posible del vehículo inmovilizado garantizado su máxima visibilidad."
+  },
+  {
+    "n": 26,
+    "tipo": "imagen",
+    "titulo": "Señales en los vehículos",
+    "texto": "V-19 Distintivo de inspección técnica periódica del vehículo: Indica que el vehículo ha pasado favorablemente la inspección técnica periódica, así como la fecha en que debe pasar la próxima inspección.\n\nV-20 Panel para cargas que sobresalen: Indica que la carga sobresale posteriormente.\n\nV- 21 Cartel avisador de acompañamiento de vehículo especial o de vehículos en régimen de transporte especial: Indica la circulación próxima de un vehículo en régimen de transporte especial o de un vehículo especial.\n\nV-24 Vehículo de servicio de auxilio en vías públicas: Indica que se trata de un vehículo de servicio de auxilio en vías públicas."
+  },
+  {
+    "n": 27,
+    "tipo": "imagen",
+    "titulo": "ambiental y distintivo de uso compartido",
+    "texto": "Distintivo ambiental (V-25)\nIdentifica la clasificación ambiental que el vehículo tiene en el Registro de Vehículos: 0 emisiones, ECO, C y B. \n\nDistintivo de uso compartido (V-26)\nIdentifica la clasificación del vehículo en el Registro de Vehículos como vehículo de uso compartido.\n\nColocación de los distintivos v-25 y V-26\nSi el vehículo dispone de parabrisas delantero, el distintivo irá colocado en el ángulo inferior derecho del mismo, por su cara interior. La cara impresa del distintivo será autoadhesiva.\n\nEn el caso de que el vehículo no disponga de parabrisas, el distintivo se colocará en sitio bien visible. En este supuesto, la cara sin imprimir será autoadhesiva."
+  },
+  {
+    "n": 28,
+    "tipo": "imagen",
+    "titulo": "virtual",
+    "texto": "V-27 Triángulo Virtual\nEsta señal, de carácter voluntario, solo se visualizará en aquellos vehículos que estén conectados por medios telemáticos con el Punto de Acceso Nacional de Información de Tráfico y Movilidad.\n\nLa señal se activará en el sistema de a bordo del vehículo para advertir la presencia de un peligro próximo, cuando este hecho haya sido informado por un tercero a la plataforma de vehículo conectado de la Dirección General de Tráfico."
+  },
+  {
+    "n": 29,
+    "tipo": "imagen",
+    "titulo": "El tema 13 ha finalizado.\n\nA continuación, vamos a realizar un resumen.",
+    "texto": null
+  },
+  {
+    "n": 30,
+    "tipo": "imagen",
+    "titulo": "Limitaciones de carga en los vehículos",
+    "texto": "En ningún caso se permite sobrepasar, entre viajeros y equipaje, la masa máxima autorizada para el vehículo, ni transportar más personas que las plazas autorizadas tenga el vehículo.\n\nEnhorabuena, has superado el 80% del tema\n\nOk"
+  },
+  {
+    "n": 31,
+    "tipo": "imagen",
+    "titulo": "Limitaciones de carga en los vehículos",
+    "texto": "Circular con un vehículo sobrecargado, disminuye la estabilidad y la capacidad de frenado.\n\nEn los turismos, el equipaje o la carga deben ir colocados, preferentemente, en el maletero salvo que no quepan, en cuyo caso pueden ir en la baca o en los asientos traseros, sin olvidar que, en caso de frenado brusco, pueden salir proyectados dañando a los ocupantes de los asientos delanteros.\n\nSi se transporta carga en la baca, hay que tener en cuenta que aumentará el consumo de combustible."
+  },
+  {
+    "n": 32,
+    "tipo": "imagen",
+    "titulo": "Carga que produzca polvo o pueda caerse",
+    "texto": "Cuando la carga transportada produzca polvo o pueda caerse, se debe cubrir total y eficazmente con una lona o tejido similar."
+  },
+  {
+    "n": 33,
+    "tipo": "imagen",
+    "titulo": "Carga indivisible que sobresalga del vehículo",
+    "texto": "La carga indivisible en los camiones de hasta 5 metros de longitud, podrá sobresalir un tercio de la longitud del vehículo tanto por delante como por detrás.\n\nEn los camiones de más de 5 metros de longitud, la carga indivisible podrá sobresalir 2 metros por la parte delantera y 3 por la parte trasera.\n\nEn ningún caso, se permite sobrepasar la longitud máxima permitida para el vehículo."
+  },
+  {
+    "n": 34,
+    "tipo": "imagen",
+    "titulo": "Carga que sobresalga del vehículo",
+    "texto": "La carga en los turismos no podrá sobresalir por su parte delantera ni por sus bordes laterales, pero sí podrá salir por su parte trasera un 10% de su longitud, si la carga es divisible, y hasta un 15%, si dicha carga es indivisible."
+  },
+  {
+    "n": 35,
+    "tipo": "imagen",
+    "titulo": "Vehículos de anchura inferior a 1 metro",
+    "texto": "En los vehículos con anchura inferior a 1 metro, la carga puede sobresalir por los laterales 0,50 metros, contados desde el eje longitudinal del vehículo.\n\nPor la parte posterior sólo puede sobresalir 25 centímetros y, por la parte delantera no puede sobresalir nada."
+  },
+  {
+    "n": 36,
+    "tipo": "imagen",
+    "titulo": "Operaciones de carga y descarga",
+    "texto": "Las operaciones de carga y descarga se llevarán a cabo por el lado más próximo al borde derecho de la calzada, procurando evitar ruidos o molestias innecesarias y respetando siempre las normas de parada y estacionamiento.\n\nAsimismo, se debe evitar depositar la mercancía sobre las aceras, paseos y demás zonas peatonales."
+  },
+  {
+    "n": 37,
+    "tipo": "imagen",
+    "titulo": "Vehículos de transporte de mercancías peligrosas. Señalización",
+    "texto": "Los vehículos que transporten mercancías peligrosas deberán llevar dos paneles rectangulares de color naranja reflectante, uno colocado en la parte delantera y otro en la parte trasera del vehículo.\n\nCuando estos vehículos circulen vacíos y limpios, dichos paneles deberán ser retirados o cubiertos."
+  },
+  {
+    "n": 38,
+    "tipo": "imagen",
+    "titulo": "Muchas gracias por tu atención.\n\nA continuación puedes hacer el test de repaso de este tema.",
+    "texto": null
+  }
+]

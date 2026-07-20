@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 16,
+  "nombre": "Test de examen 16",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Alterar las horas habituales de sueño puede ser...",
+      "imagen": "examen-16_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "peligroso para la seguridad al volante, excepto para las personas que cambian con frecuencia de horario."
+        },
+        {
+          "letra": "B",
+          "texto": "peligroso para la seguridad vial."
+        },
+        {
+          "letra": "C",
+          "texto": "beneficioso para la seguridad vial."
+        }
+      ],
+      "ayuda": "Alterar las horas habituales de sueño puede ser peligroso para la seguridad vial, ya que en momentos en los que se suele dormir el sueño aparece con mayor facilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "La mayor parte de los accidentes de circulación tienen lugar...",
+      "imagen": "examen-16_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en los cambios de rasante."
+        },
+        {
+          "letra": "B",
+          "texto": "en las rectas."
+        },
+        {
+          "letra": "C",
+          "texto": "en las curvas."
+        }
+      ],
+      "ayuda": "Contrariamente a lo que podría pensarse, la mayor parte de los accidentes ocurren en las rectas. Las curvas y los cambios de rasante, no son lugares en los que se registre un elevado porcentaje de los accidentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "En los coches con motor de gasolina es recomendable, para reducir las emisiones contaminantes, iniciar la marcha...",
+      "imagen": "examen-16_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "después de arrancar el motor acelerando a fondo."
+        },
+        {
+          "letra": "B",
+          "texto": "inmediatamente después de arrancar el motor."
+        },
+        {
+          "letra": "C",
+          "texto": "unos segundos después de haber arrancado el motor."
+        }
+      ],
+      "ayuda": "En los coches con motor de gasolina es recomendable, para reducir las emisiones contaminantes, iniciar la marcha inmediatamente después de arrancar el motor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Un turismo, ¿puede circular por un carril BUS señalizado con una línea longitudinal continua?",
+      "imagen": "examen-16_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para girar a la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando el carril está en una vía urbana."
+        }
+      ],
+      "ayuda": "Los turismos no podrán circular por los carriles reservados para autobuses.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "En una vía urbana con dos o más carriles delimitados en el mismo sentido de la marcha, ¿está permitido adelantar por la derecha?",
+      "imagen": "examen-16_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si adelanta a bicicletas, ciclos, ciclomotores o vehículos de tracción animal."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, siempre tiene que adelantarse por la izquierda."
+        }
+      ],
+      "ayuda": "En las vías urbanas que dispongan de más de un carril para el mismo sentido, está permitido adelantar por la derecha cuando los carriles estén delimitados por marcas longitudinales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "En una vía interurbana, ¿dónde está permitido hacer una parada que no esté motivada por razones de emergencia?",
+      "imagen": "examen-16_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fuera de la calzada, en el arcén derecho o en el izquierdo."
+        },
+        {
+          "letra": "B",
+          "texto": "En el lado derecho, fuera de la calzada y de la parte transitable del arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "En la parte transitable del arcén cuando sea por necesidades del tráfico."
+        }
+      ],
+      "ayuda": "La parada o el estacionamiento de un vehículo en vías interurbanas deberá efectuarse siempre fuera de la calzada, en el lado derecho de ésta y dejando libre la parte transitable del arcén.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Esta señal preseñaliza una...",
+      "imagen": "examen-16_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "vía cerrada a la circulación de vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "vía de sentido único."
+        },
+        {
+          "letra": "C",
+          "texto": "calzada sin salida."
+        }
+      ],
+      "ayuda": "La señal que se observa, indica que la calzada que figura en la señal con un recuadro rojo no tiene salida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Por qué se debe tener mayor precaución con los ciclistas en caso de lluvia o viento?",
+      "imagen": "examen-16_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque pueden salpicar."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque tienen más probabilidades de sufrir una caída."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque generalmente perturban el tráfico."
+        }
+      ],
+      "ayuda": "En caso de que existan condiciones meteorológicas adversas, como lluvia o viento, es imprescindible extremar la precaución con los ciclistas, ya que en estas condiciones, tienen mayores probabilidades de caerse.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "En esta autovía, ¿qué debe hacer para adelantar al vehículo blanco?",
+      "imagen": "examen-16_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Adelantar por el carril izquierdo."
+        },
+        {
+          "letra": "B",
+          "texto": "Esperar porque está prohibido adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "Adelantar por el carril derecho."
+        }
+      ],
+      "ayuda": "En todas las carreteras, como norma general, el adelantamiento debe efectuarse por la izquierda del vehículo que se pretenda adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Puede el vehículo verde adelantar al vehículo blanco que circula a 90 km/h?",
+      "imagen": "examen-16_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, la línea discontinua lo prohíbe."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, sin rebasar los 120 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque el vehículo blanco ya circula a la velocidad máxima permitida."
+        }
+      ],
+      "ayuda": "No está permitido adelantar a un vehículo que ya circula a la velocidad máxima permitida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Las circunstancias que aumentan la probabilidad de accidente reciben el nombre de...",
+      "imagen": "examen-16_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Factores directos de accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "Marcadores de riesgo."
+        },
+        {
+          "letra": "C",
+          "texto": "Factores de riesgo."
+        }
+      ],
+      "ayuda": "Las circunstancias que aumentan la probabilidad de accidente reciben el nombre de factores de riesgo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Puede circular por una autovía, sin causa justificada, por debajo de la velocidad mínima establecida para este tipo de vía?",
+      "imagen": "examen-16_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque es circular a velocidad anormalmente reducida."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, aunque en este caso estoy obligado a circular por el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que no obstruya la circulación."
+        }
+      ],
+      "ayuda": "No está permitido circular a una velocidad inferior a la mínima establecida para la vía, excepto cuando exista una causa justificada para ello.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Qué significa esta señal?",
+      "imagen": "examen-16_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Velocidad mínima recomendada."
+        },
+        {
+          "letra": "B",
+          "texto": "Velocidad máxima permitida."
+        },
+        {
+          "letra": "C",
+          "texto": "Velocidad máxima recomendada."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen indica la velocidad máxima permitida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Está permitido estacionar en una zona de estacionamiento tarifado sin colocar el ticket correspondiente?",
+      "imagen": "examen-16_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, y solo puedo ser sancionado con una multa."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, por un período corto de tiempo."
+        },
+        {
+          "letra": "C",
+          "texto": "No, y además de ser sancionado con una multa, el vehículo puede ser inmovilizado."
+        }
+      ],
+      "ayuda": "No está permitido estacionar en los lugares habilitados por la autoridad municipal como de estacionamiento con limitación horaria sin colocar el distintivo que lo autoriza. Además de la multa correspondiente, esta infracción puede llevar aparejada la retirada del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Es obligatorio abrocharse el cinturón de seguridad si se dispone de un certificado de exención por razones médicas graves?",
+      "imagen": "examen-16_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo fuera de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Las personas provistas de un certificado de exención por razones médicas graves o discapacitadas podrán circular sin los cinturones u otros sistemas de retención homologados. Dicho certificado deberá ser presentado cuando lo requiera cualquier agente de la autoridad responsable del tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Está prohibido conducir un camión de menos de 3.500 kg de masa máxima autorizada con una tasa de alcohol en aire espirado superior a...",
+      "imagen": "examen-16_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0,25 miligramos por litro."
+        },
+        {
+          "letra": "B",
+          "texto": "0,15 miligramos por litro."
+        },
+        {
+          "letra": "C",
+          "texto": "0,3 miligramos por litro."
+        }
+      ],
+      "ayuda": "La tasa máxima de alcohol en aire espirado, establecida con carácter general, es de 0,25 miligramos por litro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Si observa que un vehículo con las luces de emergencia encendidas transporta a una persona herida, ¿debe facilitarle el paso?",
+      "imagen": "examen-16_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Si un vehículo realiza un traslado de emergencia, los demás conductores adoptarán las medidas adecuadas, según las circunstancias del momento y lugar, para facilitarles el paso, apartándose normalmente a su derecha o deteniéndose si fuera preciso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Cuándo están prohibidos los cambios de sentido?",
+      "imagen": "examen-16_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando puedan crear peligro u obstruir a otros usuarios de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "En vías de doble sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando no sea posible abandonar la vía por la derecha para hacer el giro."
+        }
+      ],
+      "ayuda": "Los cambios de sentido están prohibidos cuando puedan crear peligro u obstruir a otros usuarios de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Los peatones tienen el mismo derecho que los conductores a usar las vías públicas?",
+      "imagen": "examen-16_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo en las zonas peatonales."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Todos los usuarios, ya sean peatones o conductores, tienen los mismos derechos de usar las vías públicas, respetando, cada uno de ellos, las obligaciones normativas relacionadas con su condición de usuario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Existe algún dispositivo de seguridad del vehículo que pueda sustituir el cinturón de seguridad?",
+      "imagen": "examen-16_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, los asientos posteriores."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, el airbag del conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "No, todos están diseñados para funcionar de forma complementaria."
+        }
+      ],
+      "ayuda": "El cinturón de seguridad es un elemento de seguridad pasiva insustituible. Existen otros dispositivos de protección de los ocupantes, como el airbag, que complementan la acción protectora del cinturón pero no lo sustituyen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Cómo se debe actuar cuando las ruedas traseras derrapan? ",
+      "imagen": "examen-16_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Girar el volante al máximo hacia el lado contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Girar el volante hacia el mismo lado."
+        },
+        {
+          "letra": "C",
+          "texto": "Agarrar el volante fuerte y no girarlo."
+        }
+      ],
+      "ayuda": "Si un vehículo derrapa de las ruedas traseras, se debe dejar de acelerar y girar el volante hacia el mismo lado que han derrapado las ruedas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "El riesgo de accidente por el uso del teléfono móvil al volante es debido principalmente a:",
+      "imagen": "examen-16_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que se tienen problemas de maniobrabilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "que es más fácil mantener una velocidad adecuada."
+        },
+        {
+          "letra": "C",
+          "texto": "que disminuye el tiempo de reacción."
+        }
+      ],
+      "ayuda": "Uno de los riesgos más importantes para la seguridad de la conducción, cuando se utiliza el teléfono móvil, es que se pierde capacidad de maniobrabilidad por lo que se tarda más tiempo en reaccionar ante un peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Qué puede acelerar el desgaste de los neumáticos?",
+      "imagen": "examen-16_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular con la presión que indica el fabricante."
+        },
+        {
+          "letra": "B",
+          "texto": "Circular a velocidad moderada."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular con poca presión de aire."
+        }
+      ],
+      "ayuda": "La utilización de los neumáticos con una presión de inflado incorrecta, acelera el desgaste de los mismos y aumenta el peligro de sufrir un reventón o tener pérdidas de adherencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "En vías con tráfico denso, ¿se puede hacer uso del claxon?",
+      "imagen": "examen-16_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo dentro de una población."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solo fuera de poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "No, salvo que sea estrictamente necesario."
+        }
+      ],
+      "ayuda": "Como norma general el uso del claxon está prohibido. Salvo que sea estrictamente necesario para evitar un accidente, no debe utilizarse en estas condiciones de circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Los conductores de vehículos prioritarios que circulen en servicio urgente...",
+      "imagen": "examen-16_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "obedecerán los semáforos en todo caso."
+        },
+        {
+          "letra": "B",
+          "texto": "procurarán no vulnerar la prioridad de paso en las intersecciones."
+        },
+        {
+          "letra": "C",
+          "texto": "están exentos de cumplir cualquier norma de circulación."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos prioritarios, aunque circulen en servicio urgente, deben procurar respetar las normas de circulación, especialmente las relacionadas con la prioridad de paso en las intersecciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "El vehículo rojo, ¿está correctamente estacionado?",
+      "imagen": "examen-16_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si la duración del estacionamiento es inferior a dos minutos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque está en doble fila."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si no hay espacio disponible para estacionar en las proximidades."
+        }
+      ],
+      "ayuda": "El estacionamiento en doble fila está prohibido en todo caso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Qué luces debe encender si tiene que detenerse para retirar una carga que ha caído en la vía?",
+      "imagen": "examen-16_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ninguna si la vía está suficientemente iluminada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo las luces de emergencia si es de noche."
+        },
+        {
+          "letra": "C",
+          "texto": "Las luces de posición y las de emergencia."
+        }
+      ],
+      "ayuda": "En caso de realizar una inmovilización por razones de emergencia, como caída de la carga, se deben encender las luces de emergencia y, cuando proceda, las luces de posición (entre la puesta y la salida del sol o en condiciones meteorológicas adversas).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "En zona urbana, ¿por dónde están obligados a circular los peatones, como norma general?",
+      "imagen": "examen-16_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por las aceras."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Es indiferente."
+        }
+      ],
+      "ayuda": "En zona urbana, los peatones deben circular por las aceras y demás zonas destinadas específicamente para ello.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "En esta autovía, el vehículo que circula por el carril izquierdo no está adelantando, ¿circula correctamente?",
+      "imagen": "examen-16_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque debe circular por el carril de la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque no impide el paso a otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque puede utilizar cualquier carril."
+        }
+      ],
+      "ayuda": "Como norma general se debe circular por el carril más próximo a la derecha. Si no se está realizando un adelantamiento o no existe otra circunstancia que lo justifique, la circulación por el o los carriles de la izquierda está prohibida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Para un vehículo con carga, ¿cuál es la altura máxima permitida?",
+      "imagen": "examen-16_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "2,5 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "4 metros, como norma general."
+        },
+        {
+          "letra": "C",
+          "texto": "3 metros."
+        }
+      ],
+      "ayuda": "La altura máxima permitida, en general, es de 4 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 12,
+  "nombre": "Test de examen 12",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Un camión de 3.500 kg de masa máxima autorizada de nueva matriculación, ¿está exento de pasar inspecciones periódicas (ITV)?",
+      "imagen": "examen-12_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, hasta los cuatro años."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, hasta los dos años."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Los camiones de hasta 3500 kg de masa máxima autorizada deberán someterse a inspecciones técnicas periódicas, de acuerdo a la siguiente frecuencia:\nExentos: hasta los dos años de antigüedad.\nBienales: entre dos y seis años de antigüedad.\nAnuales: entre seis y diez años de antigüedad.\nSemestrales: más de 10 años de antigüedad.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Con nivel de circulación verde por nevada, la velocidad máxima recomendada en una autopista o autovía es de:",
+      "imagen": "examen-12_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "60 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "80 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "100 km/h."
+        }
+      ],
+      "ayuda": "La circulación condicionada a causa de la nieve se clasifica en cuatro niveles de dificultad en función de la intensidad de la nevada.\n\nCuando existe Nivel Verde quiere decir que está comenzando a nevar y, aunque la circulación no se vea afectada, conviene extremar la precaución. En estos casos, se recomienda no sobrepasar la velocidad de 100 kilómetros por hora en autopistas y autovías y de 80 kilómetros por hora en el resto de las carreteras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-12_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Zona de estancia y juego."
+        },
+        {
+          "letra": "B",
+          "texto": "Zona reservada para el uso peatonal."
+        },
+        {
+          "letra": "C",
+          "texto": "Calle residencial."
+        }
+      ],
+      "ayuda": "Señal de Zona peatonal\nIndica una zona reservada para el uso peatonal. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Esta señal prohíbe el paso a...",
+      "imagen": "examen-12_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "camiones y furgones, solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "los vehículos cuya masa en carga sea superior a la indicada."
+        },
+        {
+          "letra": "C",
+          "texto": "cualquier vehículo cuya masa máxima autorizada sea superior a la indicada."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen prohíbe la entrada a todos los vehículos cuya masa en carga sea superior a la indicada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Circular demasiado cerca del vehículo de delante, ¿puede ser peligroso?",
+      "imagen": "examen-12_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, por el riesgo de alcance en caso de frenada."
+        },
+        {
+          "letra": "B",
+          "texto": "No, cuando los frenos de mi vehículo estén en buen estado."
+        },
+        {
+          "letra": "C",
+          "texto": "No, cuando circule a la misma velocidad que el vehículo de delante."
+        }
+      ],
+      "ayuda": "Cuando se circula detrás de un vehículo, se debe mantener siempre la distancia de seguridad suficiente para no colisionar con él en el caso de que frene bruscamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Los reflejos del sol directo sobre el conductor, ¿pueden tener un efecto negativo en la conducción?",
+      "imagen": "examen-12_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, por lo que debe encender la luz de largo alcance para facilitar la visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "No, ninguno."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, afectan a la visión haciendo difícil distinguir los vehículos sobre el pavimento."
+        }
+      ],
+      "ayuda": "Cuando los reflejos del sol inciden directamente en la vista del conductor resulta muy peligroso y negativo para la conducción, ya que esta circunstancia afecta la visión, haciendo difícil ver y distinguir correctamente a los demás vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Si conduciendo le sorprende una lluvia torrencial...",
+      "imagen": "examen-12_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "debe estacionar en un lugar permitido y seguro, manteniendo encendidas las luces de posición."
+        },
+        {
+          "letra": "B",
+          "texto": "debe acelerar para pasar la tormenta."
+        },
+        {
+          "letra": "C",
+          "texto": "debe parar en todo caso, aunque sea en la calzada."
+        }
+      ],
+      "ayuda": "Si circulando nos sorprende una tormenta con lluvia torrencial, se debe extremar la precaución y estacionar el vehículo en un lugar permitido, manteniendo encendidas las luces de posición si fuera preciso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "El viento por la derecha en los adelantamientos a vehículos grandes, ¿por qué es peligroso?",
+      "imagen": "examen-12_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque frena mi vehículo y no me deja adelantar."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque puedo perder el control del vehículo y salirme de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque no me deja ver la calzada."
+        }
+      ],
+      "ayuda": "La maniobra de adelantamiento cuando existe fuerte viento transversal resulta especialmente peligrosa, sobre todo al adelantar a vehículos de grandes dimensiones. Estos vehículos actúan como “pantalla” modificando la incidencia del viento sobre mi vehículo, pudiendo ocasionar una pérdida de control del mismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Qué remolques están obligados a llevar Tarjeta de Inspección Técnica?",
+      "imagen": "examen-12_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo los remolques de más de 750 kg."
+        },
+        {
+          "letra": "B",
+          "texto": "Todos los remolques."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo los remolques ligeros."
+        }
+      ],
+      "ayuda": "Los remolques en general, independientemente de su masa, están obligados a llevar su propia tarjeta de inspección técnica ITV.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Como norma general, ¿le está permitido transportar en el asiento delantero de su turismo a un menor de 12 años de edad, cuya estatura sea de 1,30 metros?",
+      "imagen": "examen-12_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que utilice el cinturón de seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando utilice un dispositivo de retención homologado al efecto."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En los vehículos de hasta nueve plazas, incluido el conductor, los menores de edad de estatura no superior a 135 centímetros deberán utilizar sistemas de retención infantil homologados debidamente adaptados a su talla y peso. Dichos ocupantes deberán situarse en los asientos traseros como norma general. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Una furgoneta de hasta 3.500 Kg de M.M.A. que tiene más de 10 años de antigüedad, ¿cuándo tiene que pasar la siguiente ITV?",
+      "imagen": "examen-12_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al año siguiente."
+        },
+        {
+          "letra": "B",
+          "texto": "A los dos años siguientes."
+        },
+        {
+          "letra": "C",
+          "texto": "A los seis meses siguientes."
+        }
+      ],
+      "ayuda": "Vehículos y conjuntos de vehículos dedicados al transporte de mercancías o cosas, de hasta 3.500 kg de M.M.A. deberán someterse a inspecciones técnicas periódicas, de acuerdo a la siguiente frecuencia:\n\n- Exentos: hasta los dos años de antigüedad.\n- Bienales: entre dos y seis años de antigüedad.\n- Anuales: entre seis y diez años de antigüedad.\n- Semestrales: más de 10 años de antigüedad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Cuál es la finalidad principal del cinturón de seguridad?",
+      "imagen": "examen-12_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dar sensación de seguridad y evitar las multas."
+        },
+        {
+          "letra": "B",
+          "texto": "Mejorar la atención del conductor en la conducción."
+        },
+        {
+          "letra": "C",
+          "texto": "Retener y proteger los cuerpos de los ocupantes del vehículo en caso de accidente."
+        }
+      ],
+      "ayuda": "La finalidad principal del cinturón de seguridad es retener y proteger los cuerpos de los ocupantes del vehículo en caso de accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Dónde se producen con mayor frecuencia los accidentes de ciclistas con víctimas mortales?",
+      "imagen": "examen-12_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En las carreteras convencionales."
+        },
+        {
+          "letra": "B",
+          "texto": "En las autopistas."
+        },
+        {
+          "letra": "C",
+          "texto": "En poblado."
+        }
+      ],
+      "ayuda": "En relación a los ciclistas, la mayor mortalidad se registra en carreteras convencionales, especialmente en rectas e intersecciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "El conductor de un turismo, ¿está obligado a mantener la adecuada colocación de los animales que transporta?",
+      "imagen": "examen-12_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, los animales deben ir correctamente colocados en todo momento."
+        },
+        {
+          "letra": "B",
+          "texto": "No, no está obligado."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo al iniciar la marcha."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo está obligado a mantener su propia libertad de movimientos, el campo necesario de visión y la atención permanente a la conducción.\n\nA estos efectos, deberá mantener la adecuada colocación de los objetos o animales transportados para que no haya interferencia entre el conductor y cualquiera de ellos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "En un accidente de tráfico, ¿de qué forma puede resultar dañada una persona (mecanismos lesionales)?",
+      "imagen": "examen-12_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente como consecuencia de los impactos directos que recibe el cuerpo dentro del habitáculo."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente como consecuencia de los golpes del cuerpo contra los distintos elementos de la vía (por ejemplo, el asfalto)."
+        },
+        {
+          "letra": "C",
+          "texto": "Como consecuencia de los distintos impactos directos que recibe el cuerpo, pero también por el efecto de las fuerzas de aceleración y deceleración que se implican en el accidente."
+        }
+      ],
+      "ayuda": "Existen tres formas en las cuales el ocupante de un vehículo puede resultar herido. Dichas formas reciben el nombre de mecanismos lesionales y son los siguientes:\n- Mecanismos directos (impactos sufridos por el cuerpo desde el exterior).\n- Mecanismos indirectos (originados por los procesos de aceleración y deceleración brusca).\n- Mecanismos mixtos (aquellos en los que se produce una combinación de mecanismos directos e indirectos).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Qué vehículos están obligados a circular por la calzada?",
+      "imagen": "examen-12_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todos los vehículos especiales."
+        },
+        {
+          "letra": "B",
+          "texto": "Los vehículos especiales de más de 3.500 kg de masa máxima autorizada."
+        },
+        {
+          "letra": "C",
+          "texto": "Los vehículos especiales de hasta 3.500 kg de masa máxima autorizada."
+        }
+      ],
+      "ayuda": "El conductor de un automóvil o de un vehículo especial con masa máxima autorizada superior a 3.500 kilogramos circulará por la calzada y no por el arcén.\n\nLos conductores de vehículos especiales con masa máxima autorizada no superior a 3.500 kilogramos, entre otros, en el caso de que no exista vía o parte de ella que les esté especialmente destinada, circularán por el arcén de su derecha, si fuera transitable y suficiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-12_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La situación de transitabilidad del puerto o tramo definido en la parte superior de la señal.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "Que ningún vehículo puede circular por ese tramo o puerto.\n"
+        },
+        {
+          "letra": "C",
+          "texto": "Que, por ese tramo o puerto, solo pueden circular los turismos y los camiones \n"
+        }
+      ],
+      "ayuda": "Transitabilidad en tramo o puerto de montaña.\nIndica la situación de transitabilidad del puerto o tramo definido en la parte superior de la señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Es obligatorio apagar el motor cuando está cargando combustible?",
+      "imagen": "examen-12_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero no es necesario si es el empleado de la gasolinera quien llena el depósito."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre."
+        }
+      ],
+      "ayuda": "Para cargar combustible en el depósito de su vehículo, además de apagar el motor y las luces, se deben apagar también los sistemas eléctricos como la radio y los dispositivos emisores de radiaciones electromagnéticas como los teléfonos móviles.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Qué efectos puede producir un resfriado en la conducción?",
+      "imagen": "examen-12_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Desorientación."
+        },
+        {
+          "letra": "B",
+          "texto": "Somnolencia y pérdida de concentración."
+        },
+        {
+          "letra": "C",
+          "texto": "Impulsividad."
+        }
+      ],
+      "ayuda": "Los síntomas de un resfriado y los medicamentos para su tratamiento, pueden producir somnolencia y pérdida de capacidad de concentración, lo cual en los conductores resulta especialmente peligroso y multiplica las posibilidades de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Las colisiones laterales son más frecuentes...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en carretera."
+        },
+        {
+          "letra": "B",
+          "texto": "en autopistas."
+        },
+        {
+          "letra": "C",
+          "texto": "en la ciudad."
+        }
+      ],
+      "ayuda": "Las colisiones laterales son especialmente frecuentes en las vías urbanas, donde la cantidad de cruces e intersecciones es muchísimo mayor que en las carreteras y autopistas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Si un agente le detiene por no haber pasado la inspección técnica de su vehí­culo, le concederá un plazo para pasar la inspección técnica de...",
+      "imagen": "examen-12_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "30 días."
+        },
+        {
+          "letra": "B",
+          "texto": "24 horas."
+        },
+        {
+          "letra": "C",
+          "texto": "10 días."
+        }
+      ],
+      "ayuda": "Cuando un vehículo no haya pasado la inspección técnica en los plazos previstos, los agentes de la autoridad competente, además de proceder a la correspondiente sanción económica, concederán un plazo de 10 días para pasar la inspección técnica.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "De los vehículos que se citan, ¿cuáles deben guardar al menos 50 metros de distancia de seguridad respecto a los vehículos que circulan delante, en carreteras convencionales que dispongan de un carril para cada sentido, y cuando esté permitido el adelantamiento?",
+      "imagen": "examen-12_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los turismos de menos de 3.500 kg de M.M.A."
+        },
+        {
+          "letra": "B",
+          "texto": "Los camiones de más de 3.500 kg de M.M.A."
+        },
+        {
+          "letra": "C",
+          "texto": "Los camiones de menos de 3.500 kg de M.M.A."
+        }
+      ],
+      "ayuda": "La separación que debe guardar todo conductor de vehículo que circule detrás de otro sin señalar su propósito de adelantamiento deberá ser tal que permita al que a su vez le siga adelantarlo con seguridad. Los vehículos con masa máxima autorizada superior a 3.500 kilogramos y los vehículos y conjuntos de vehículos de más de 10 metros de longitud total deberán guardar, a estos efectos, una separación mínima de 50 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "En vías urbanas de doble sentido de circulación, ¿en qué lado de la calzada podrá estacionar su turismo, si no existe señalización que lo prohíba?",
+      "imagen": "examen-12_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En ambos lados, en todo caso."
+        },
+        {
+          "letra": "B",
+          "texto": "En el lado derecho en el mismo sentido de la marcha."
+        },
+        {
+          "letra": "C",
+          "texto": "En ambos lados, pero solo cuando no obstaculice la circulación."
+        }
+      ],
+      "ayuda": "La parada y/o el estacionamiento en vías urbanas debe realizarse situando el vehículo lo más cerca posible de su borde derecho, salvo en las vías de único sentido, en las que se podrá situar también en el lado izquierdo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Como norma general, ¿cómo debe avisar que va a hacer una maniobra?",
+      "imagen": "examen-12_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con el brazo, preferentemente."
+        },
+        {
+          "letra": "B",
+          "texto": "Con las luces."
+        },
+        {
+          "letra": "C",
+          "texto": "Con la bocina."
+        }
+      ],
+      "ayuda": "El conductor está obligado a advertir al resto de los usuarios de la vía acerca de las maniobras que vaya a efectuar con su vehículo. Como norma general, dichas advertencias se harán utilizando la señalización luminosa del vehículo o, en su defecto, con el brazo.\n\nExcepcionalmente o cuando así se prevea legal o reglamentariamente se podrán emplear señales acústicas, quedando prohibido su uso inmotivado o exagerado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "En este tramo de autopista no quiere adelantar. ¿Puede circular por el carril izquierdo?",
+      "imagen": "examen-12_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo si circula a la velocidad máxima permitida."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En las autopistas, se debe circular por el carril derecho como norma general. Si no se pretende adelantar o no existen otras circunstancias que requieran la utilización de los carriles situados a la izquierda, es obligatorio circular por el carril de la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Un vehículo obstruye gravemente la circulación cuando hace un estacionamiento...",
+      "imagen": "examen-12_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "por un tiempo inferior a 2 minutos."
+        },
+        {
+          "letra": "B",
+          "texto": "en zonas de carga y descarga fuera de las horas de utilización."
+        },
+        {
+          "letra": "C",
+          "texto": "en los separadores u otros elementos utilizados para canalizar el tráfico."
+        }
+      ],
+      "ayuda": "Un vehículo obstruye gravemente la circulación cuando hace una parada o un estacionamiento en los separadores u otros elementos utilizados para canalizar el tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Cuando el semáforo se ponga en verde, ¿qué debe hacer?",
+      "imagen": "examen-12_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obedecer el semáforo, pero tiene que ceder el paso."
+        },
+        {
+          "letra": "B",
+          "texto": "Obedecer el semáforo, ya que tiene prioridad sobre la señal de Stop."
+        },
+        {
+          "letra": "C",
+          "texto": "Obedecer la señal de Stop."
+        }
+      ],
+      "ayuda": "Las indicaciones de los semáforos prevalecen sobre las señales verticales por lo que, cuando el semáforo se ponga en verde, el conductor podrá pasar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Un vehículo con esta señal indica que...",
+      "imagen": "examen-12_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es especial y está realizando trabajos en la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "es lento y no puede superar los 40 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "transporta mercancías peligrosas."
+        }
+      ],
+      "ayuda": "La señal que se observa indica que se trata de un vehículo lento que no puede superar los 40 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Cuando se deba poner un juego de cadenas para circular en calzadas heladas, se deben colocar...",
+      "imagen": "examen-12_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En las ruedas motrices."
+        },
+        {
+          "letra": "B",
+          "texto": "En las ruedas directrices."
+        },
+        {
+          "letra": "C",
+          "texto": "En las ruedas delanteras, siempre."
+        }
+      ],
+      "ayuda": "Cuando se deba poner un juego de cadenas para circular en calzadas heladas, se deben colocar, al menos, en las ruedas motrices.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Los vehículos que circulan por los arcenes de una vía en la que se ha habilitado un carril adicional deberán llevar encendido, al menos...",
+      "imagen": "examen-12_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el alumbrado de cruce, tanto de día como de noche."
+        },
+        {
+          "letra": "B",
+          "texto": "el alumbrado de cruce solo durante el día."
+        },
+        {
+          "letra": "C",
+          "texto": "el alumbrado de cruce durante la noche y el de posición durante el día."
+        }
+      ],
+      "ayuda": "Los vehículos que circulan por los arcenes de una vía en la que se ha habilitado un carril adicional deberán llevar encendido, al menos, el alumbrado de cruce, tanto de día como de noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

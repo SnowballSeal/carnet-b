@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 17,
+  "nombre": "Test de examen 17",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Los peatones tienen preferencia...",
+      "imagen": "examen-17_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "al bajar de cualquier vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "en las zonas peatonales."
+        },
+        {
+          "letra": "C",
+          "texto": "en la vías urbanas."
+        }
+      ],
+      "ayuda": "En las zonas peatonales, como aceras, paseos, etc., los peatones tienen preferencia sobre los vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Es necesario comprobar si un herido en un accidente está consciente o respira?",
+      "imagen": "examen-17_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para valorar la gravedad de su estado."
+        },
+        {
+          "letra": "B",
+          "texto": "No, eso es responsabilidad de los servicios de urgencia."
+        },
+        {
+          "letra": "C",
+          "texto": "No es necesario, como norma general."
+        }
+      ],
+      "ayuda": "Antes de realizar ninguna actuación sobre los heridos es preciso realizar una adecuada valoración de los mismos. Esta valoración debe centrarse sobre la apreciación de tres funciones vitales: consciencia (Sistema Nervioso), respiración (Aparato Respiratorio) y circulación (Aparato Circulatorio). Si falla cualquiera de estas funciones, el accidentado se encuentra en una situación de peligro inminente para su vida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Esta señal, ¿puede indicar el comienzo de un paso inferior?",
+      "imagen": "examen-17_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, y también el comienzo de un túnel o de un tramo equiparado a túnel."
+        },
+        {
+          "letra": "B",
+          "texto": "No, indica el final de un túnel o un paso inferior."
+        },
+        {
+          "letra": "C",
+          "texto": "No, solo indica el comienzo de un túnel."
+        }
+      ],
+      "ayuda": "Señal de Túnel\nIndica el principio y eventualmente el nombre de un túnel, de un paso inferior o de un tramo de vía equiparado a túnel. Podrá llevar en su parte inferior la indicación de la longitud del túnel en metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Qué puede favorecer la aparición de la fatiga?",
+      "imagen": "examen-17_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La existencia de defectos en la dirección o la suspensión del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Un buen diseño de los elementos interiores del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Una vía en perfecto estado."
+        }
+      ],
+      "ayuda": "La existencia de defectos mecánicos en el vehículo, especialmente en el sistema de dirección o de suspensión, pueden favorecer la aparición temprana de la fatiga en los conductores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Para qué sirve el carril de aceleración?",
+      "imagen": "examen-17_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para incorporarse a la vía a una velocidad adecuada a las circunstancias de circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "Para incorporarse lentamente a la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "Para alcanzar 120 km/h antes de incorporarse a la vía."
+        }
+      ],
+      "ayuda": "El carril de aceleración sirve para que los vehículos puedan alcanzar la velocidad adecuada antes de incorporarse a una determinada vía, de forma de hacerlo con seguridad y sin entorpecer al resto de vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "En vías urbanas, utilizar el cinturón de seguridad...",
+      "imagen": "examen-17_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no es obligatorio, aunque sí es recomendable."
+        },
+        {
+          "letra": "B",
+          "texto": "solo es obligatorio para los pasajeros."
+        },
+        {
+          "letra": "C",
+          "texto": "es obligatorio."
+        }
+      ],
+      "ayuda": "La utilización del cinturón de seguridad es obligatoria, en todos los asientos del vehículo y en cualquier tipo de vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "En esta vía de doble sentido, el camión circula muy lentamente y obstaculiza la circulación. En esta circunstancia, ¿se le puede adelantar?",
+      "imagen": "examen-17_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque circula por un tramo de vía en el que está prohibido el adelantamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque supone un obstáculo para los otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si tiene suficiente visibilidad y no se aproxima ningún vehículo de frente."
+        }
+      ],
+      "ayuda": "En el tramo de vía que se observa no está permitido adelantar. Ante esta situación, se debe esperar a que exista un tramo donde el adelantamiento no esté prohibido y la maniobra pueda hacerse con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "En esta curva de visibilidad reducida, ¿puede un turismo adelantar a una motocicleta ocupando el carril reservado para la circulación en sentido contrario?",
+      "imagen": "examen-17_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que deje una separación lateral mínima de 1,5 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo si al adelantar no ocupa la totalidad del carril de sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido, ya que no puede hacer la maniobra con seguridad."
+        }
+      ],
+      "ayuda": "Dado que se trata de una curva de visibilidad reducida, no se debe invadir en ningún caso el carril reservado para la circulación en sentido contrario. Para adelantar, se debe esperar a que exista un tramo en el que la maniobra pueda hacerse en condiciones de seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Para qué sirven los indicadores?",
+      "imagen": "examen-17_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para señalizar las maniobras durante la noche solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Para señalizar las maniobras tanto de día como de noche."
+        },
+        {
+          "letra": "C",
+          "texto": "Para ser visto durante la noche."
+        }
+      ],
+      "ayuda": "Los indicadores de dirección sirven para advertir a los demás usuarios de la vía las maniobras y demás desplazamientos laterales que el vehículo vaya a realizar. Los indicadores de dirección deben utilizarse tanto de día como de noche e independientemente de las condiciones de visibilidad existentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Un mal estado del vehículo constituye un factor de riesgo?",
+      "imagen": "examen-17_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, si el vehículo circula a poca velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "El mal estado de mantenimiento de un vehículo es un importante factor de riesgo que aumenta de forma significativa la posibilidad de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Mantener una correcta distancia de seguridad, sobre todo en aglomeraciones, ¿es una buena recomendación para evitar los accidentes con las motocicletas?",
+      "imagen": "examen-17_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque se pueden evitar colisiones."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque la distancia de seguridad no influye sobre los accidentes de motocicletas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque esta recomendación es para cuando se circula sin aglomeraciones."
+        }
+      ],
+      "ayuda": "Para evitar los accidentes con motocicletas (y con otros vehículos en general) se debe mantener en todo momento una correcta distancia de seguridad, especialmente en aglomeraciones de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Los camiones con una masa máxima autorizada que no excedan de 3.500 kilogramos, ¿pueden utilizar un carril habilitado a la circulación en sentido contrario al habitual?",
+      "imagen": "examen-17_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, nunca."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando el carril está habilitado en sentido contrario por obras en la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que circulen con las luces de corto alcance encendidas."
+        }
+      ],
+      "ayuda": "La utilización de los carriles habilitados para la circulación en sentido contrario al habitual queda limitada, como norma general, a las motocicletas y turismos.\n\nNo obstante, cuando dichos carriles se habiliten para la realización de trabajos en la calzada, podrán circular todos los tipos de vehículos que estén autorizados a circular por la vía en obra, salvo prohibición expresa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Los límites de velocidad establecidos en las vías se fijan...",
+      "imagen": "examen-17_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "por una serie de criterios, como son la velocidad de diseño de la vía o el grado de congestión."
+        },
+        {
+          "letra": "B",
+          "texto": "sin ningún criterio específico, porque en otros países no existen límites."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo según el criterio de si son urbanas o interurbanas."
+        }
+      ],
+      "ayuda": "Los límites de velocidad establecidos en las vías se fijan teniendo en cuenta una serie de criterios, como la velocidad de diseño de la vía o el grado de congestión y de tránsito previsto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "En un vehículo es obligatorio colocar y sujetar la carga de manera que no pueda...",
+      "imagen": "examen-17_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "caer o desplazarse de manera peligrosa, solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "arrastrarse, caer o desplazarse de manera peligrosa."
+        },
+        {
+          "letra": "C",
+          "texto": "desplazarse de manera peligrosa, solamente."
+        }
+      ],
+      "ayuda": "En un vehículo es obligatorio colocar y sujetar la carga de manera que no pueda arrastrarse, caer o desplazarse de manera peligrosa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Si es necesario, ¿cómo debe incorporarse a la circulación desde un estacionamiento para asegurarse de que puede hacerlo sin peligro para los otros usuarios?",
+      "imagen": "examen-17_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Extendiendo el brazo con la palma de la mano hacia atrás."
+        },
+        {
+          "letra": "B",
+          "texto": "Con la luz de emergencia encendida."
+        },
+        {
+          "letra": "C",
+          "texto": "Siguiendo las indicaciones de otra persona."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo parado o estacionado en una vía o procedente de las vías de acceso a ésta, de sus zonas de servicio o de una propiedad colindante, que pretenda incorporarse a la circulación, deberá cerciorarse previamente, incluso siguiendo las indicaciones de otra persona en caso necesario, de que puede hacerlo sin peligro para los demás usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "La distancia que recorre un vehículo desde que el conductor percibe un estímulo hasta que responde al mismo se llama...",
+      "imagen": "examen-17_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "distancia de frenada."
+        },
+        {
+          "letra": "B",
+          "texto": "distancia de reacción."
+        },
+        {
+          "letra": "C",
+          "texto": "distancia de detención.\n"
+        }
+      ],
+      "ayuda": "La distancia de reacción es la distancia que recorre un vehículo desde que el conductor percibe un estímulo hasta que responde al mismo (distancia recorrida por el vehículo durante el tiempo de reacción).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Si se mezclan drogas con alcohol...",
+      "imagen": "examen-17_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "las reacciones pueden ser imprevisibles y, por tanto, peligrosas."
+        },
+        {
+          "letra": "B",
+          "texto": "no se producen reacciones porque las drogas anulan la acción del alcohol."
+        },
+        {
+          "letra": "C",
+          "texto": "las reacciones pueden ser previsibles y, por tanto, controlables."
+        }
+      ],
+      "ayuda": "La mezcla de alcohol y drogas puede ocasionar importantes alteraciones en el comportamiento, desencadenando reacciones imprevisibles y peligrosas para la conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Cuando se padece una alergia respiratoria y se tiene una crisis de estornudos...",
+      "imagen": "examen-17_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la capacidad de concentración del conductor aumenta."
+        },
+        {
+          "letra": "B",
+          "texto": "la capacidad del conductor para mantener la concentración en el tráfico disminuye."
+        },
+        {
+          "letra": "C",
+          "texto": "el conductor mantiene la misma concentración en el tráfico."
+        }
+      ],
+      "ayuda": "Las reacciones alérgicas pueden suponer un riesgo para la conducción, especialmente cuando se sufre una crisis de estornudos, ya que la capacidad para mantener la concentración en el tráfico disminuye.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "La luz antiniebla trasera deberá utilizarse en caso de...",
+      "imagen": "examen-17_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "heladas nocturnas. "
+        },
+        {
+          "letra": "B",
+          "texto": "nubes densas de humo."
+        },
+        {
+          "letra": "C",
+          "texto": "frenada brusca."
+        }
+      ],
+      "ayuda": "Las luces de antiniebla trasera sólo se deben llevar encendidas en caso de que haya niebla densa, lluvia muy intensa, fuerte nevada, o densas nubes de polvo o de humo. Su utilización en los casos mencionados es obligatoria.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Qué distancia de seguridad debe dejar con el vehículo que circula delante en esta vía?",
+      "imagen": "examen-17_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 metros, como mínimo."
+        },
+        {
+          "letra": "B",
+          "texto": "La suficiente para no colisionar con él, en caso de frenada brusca."
+        },
+        {
+          "letra": "C",
+          "texto": "La que permita hacer un adelantamiento con seguridad."
+        }
+      ],
+      "ayuda": "Dentro de poblado, se debe guardar con el vehículo que circula delante una distancia suficiente para no colisionar con él, en caso de frenada brusca.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "La depresión es una grave enfermedad que se sufre cada vez con más frecuencia. Si se padece debemos saber que...",
+      "imagen": "examen-17_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los medicamentos para su tratamiento pueden producir alteraciones que afectan a la conducción."
+        },
+        {
+          "letra": "B",
+          "texto": "si no nos medicamos no tiene efectos sobre la conducción."
+        },
+        {
+          "letra": "C",
+          "texto": "no debemos conducir hasta pasada al menos una hora de habernos medicado."
+        }
+      ],
+      "ayuda": "La depresión es un trastorno mental cada día más frecuente en nuestra sociedad y que afecta a una gran parte de ella. La depresión incide directamente sobre el estado anímico de las personas ocasionando tristeza, apatía, falta de energía vital y un sin número de sentimientos negativos ocasionando, en casos extremos, la aparición de tendencias suicidas que intervienen en el 2% de los accidentes graves.\n\nEn caso de padecer esta enfermedad, se debe tener en cuenta que los medicamentos  para su tratamiento pueden producir alteraciones que afectan a la conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Circular a una velocidad adecuada permite...",
+      "imagen": "examen-17_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "controlar el vehículo ante cualquier imprevisto."
+        },
+        {
+          "letra": "B",
+          "texto": "evitar atascos."
+        },
+        {
+          "letra": "C",
+          "texto": "ahorrarse el mantenimiento preventivo del vehículo."
+        }
+      ],
+      "ayuda": "La circulación a velocidad adecuada, permite, ante un imprevisto o una situación de riesgo, mantener el control del vehículo y evitar un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "El vehículo blanco, ¿debe desplazarse al carril derecho después de adelantar al otro vehículo?",
+      "imagen": "examen-17_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para no obstaculizar al vehículo que circula detrás."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque hay un carril libre a la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "No, puede continuar circulando por el carril central."
+        }
+      ],
+      "ayuda": "Después de adelantar a un vehículo, se debe volver al carril derecho tan pronto como sea posible, especialmente, cuando detrás circule un vehículo a mayor velocidad. Excepcionalmente, se puede permanecer en el carril derecho si se pretende realizar un nuevo adelantamiento, siempre que no se obstaculice a los vehículos que circulan detrás más rápidamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Cuándo pueden los agentes de tráfico inmovilizar una motocicleta? ",
+      "imagen": "examen-17_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solamente cuando el pasajero no esté usando el casco."
+        },
+        {
+          "letra": "B",
+          "texto": "Nunca."
+        },
+        {
+          "letra": "C",
+          "texto": "Si el conductor no está usando el casco."
+        }
+      ],
+      "ayuda": "Entre otros casos, los agentes podrán inmovilizar un ciclomotor o una motocicleta cuando el conductor o el pasajero viajen sin llevar colocado el casco de protección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Se pueden dejar abiertas las puertas o el maletero para aumentar la capacidad de carga?",
+      "imagen": "examen-17_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Las puertas no, pero el maletero puede ir abierto si se asegura la carga de modo que no pueda caer a la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "No, excepto en los vehículos destinados al transporte de mercancías."
+        }
+      ],
+      "ayuda": "Está prohibido circular tanto con el maletero como con las puertas del vehículo abiertas, así como abrirlas antes de su completa inmovilización.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Que indica la flecha pintada en el carril derecho cuando circula por el mismo?",
+      "imagen": "examen-17_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No obliga, solo le informa acerca de la dirección a seguir."
+        },
+        {
+          "letra": "B",
+          "texto": "Le obliga a seguir la dirección indicada."
+        },
+        {
+          "letra": "C",
+          "texto": "Le obliga a seguir la dirección indicada, aunque puede circular en una dirección diferente siempre que no haya peligro."
+        }
+      ],
+      "ayuda": "Las flechas pintadas en el pavimento limitan las direcciones que el conductor puede tomar al llegar a la intersección. Por ejemplo, en este caso solo se podrá girar a la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Circula en un ciclomotor. ¿Dónde es obligatorio usar el casco de protección?",
+      "imagen": "examen-17_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo cuando circule a más de 40 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo en carreteras."
+        },
+        {
+          "letra": "C",
+          "texto": "En todo tipo de vías."
+        }
+      ],
+      "ayuda": "El uso del casco de protección por parte de los conductores y pasajeros de ciclomotores y motocicletas es obligatorio en todo tipo de vías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Una de las principales causas de muerte en los accidentes de motocicleta o ciclomotor es...",
+      "imagen": "examen-17_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "golpearse con la calzada durante las caídas."
+        },
+        {
+          "letra": "B",
+          "texto": "ser atropellado por otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "la falta del uso del casco de protección."
+        }
+      ],
+      "ayuda": "Una de las principales causas de muerte en los accidentes de motocicleta o ciclomotor es la omisión del uso del casco de protección, tanto por parte del conductor como del pasajero.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Un conductor se ve obligado a realizar un servicio de emergencia. ¿Qué luces debe encender?",
+      "imagen": "examen-17_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las luces laterales."
+        },
+        {
+          "letra": "B",
+          "texto": "Las luces de largo alcance."
+        },
+        {
+          "letra": "C",
+          "texto": "Las luces de emergencia."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos no prioritarios que deban realizar un servicio prioritario indicarán su especial circunstancia encendiendo la señal de emergencia y utilizando el avisador acústico (claxon) de forma intermitente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Es peligroso mandar un mensaje con el teléfono móvil mientras se conduce?",
+      "imagen": "examen-17_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque puede provocar la distracción del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque el conductor estará más atento a la conducción."
+        },
+        {
+          "letra": "C",
+          "texto": "No, si se circula despacio."
+        }
+      ],
+      "ayuda": "Hablar por teléfono durante la conducción o mandar mensajes cortos (sms) provocan distracciones del conductor con el consiguiente riesgo de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

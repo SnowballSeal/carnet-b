@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 3,
+  "nombre": "Test de examen 3",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En poblado, ¿está permitido que los vehículos hagan uso de las advertencias acústicas?",
+      "imagen": "examen-03_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, salvo que exista señal que lo prohíba."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para advertir al conductor de otro vehículo el propósito de adelantarlo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo excepcionalmente, para evitar un posible accidente."
+        }
+      ],
+      "ayuda": "El uso de las advertencias acústicas está, como norma general, prohibido. La utilización del claxon en vías de poblado está reservada a situaciones excepcionales como evitar un posible accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Fumar durante la conducción...",
+      "imagen": "examen-03_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "puede disminuir el nivel de atención."
+        },
+        {
+          "letra": "B",
+          "texto": "está prohibido."
+        },
+        {
+          "letra": "C",
+          "texto": "proporciona tranquilidad."
+        }
+      ],
+      "ayuda": "Estadísticamente se ha demostrado que los conductores fumadores se ven implicados en un número mayor de accidentes que los no fumadores. Fumar, es una tarea que puede provocar una disminución significativa en el nivel de atención, lo cual puede resultar peligroso para la seguridad vial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-03_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que termina una serie de curvas peligrosas al lado derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Peligro por la existencia de curvas peligrosas, la primera hacia la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "La dirección que debo de seguir en el próximo cruce."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen, advierte del peligro por la existencia de una sucesión de curvas peligrosas, la primera de ellas hacia la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Si se incorpora a la circulación desde un camino privado, ¿qué debe hacer?",
+      "imagen": "examen-03_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Asegurarse de que puede realizar la incorporación sin peligro y ceder el paso a los demás vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "Advertir de la maniobra con la señal de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Asegurarse de que no hay peligro, y ceder el paso sólo a los vehículos que se aproximen por la izquierda."
+        }
+      ],
+      "ayuda": "Al incorporarse a la circulación desde un camino privado, es imprescindible asegurarse previamente que dicha maniobra se puede realizar sin peligro y ceder el paso a los demás vehículos que circulen por la vía a la cual pretendo incorporarme.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Un accidente por fallo de los frenos...",
+      "imagen": "examen-03_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "puede evitarse con un correcto mantenimiento."
+        },
+        {
+          "letra": "B",
+          "texto": "es imposible que suceda."
+        },
+        {
+          "letra": "C",
+          "texto": "es inevitable."
+        }
+      ],
+      "ayuda": "Los accidentes debidos al factor vehículo, como fallos en los frenos, en el sistema de dirección, etc. pueden evitarse mediante un correcto mantenimiento preventivo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-03_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una bifurcación con cambio de dirección en el carril derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Una bifurcación hacia la derecha para vehículos especiales."
+        },
+        {
+          "letra": "C",
+          "texto": "El inicio de un carril reservado para vehículos lentos."
+        }
+      ],
+      "ayuda": "Bifurcación hacia la derecha en calzada de tres carriles.\nIndica, en una calzada con tres carriles de circulación en el mismo sentido, que se producirá una bifurcación con cambio de dirección en el carril derecho. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Descansar durante un viaje...",
+      "imagen": "examen-03_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sólo es aconsejable para conductores noveles."
+        },
+        {
+          "letra": "B",
+          "texto": "es una forma de evitar la aparición de fatiga."
+        },
+        {
+          "letra": "C",
+          "texto": "únicamente es necesario para conductores profesionales."
+        }
+      ],
+      "ayuda": "Realizar descansos frecuentes y suficientes durante un viaje, es una buena medida para evitar la aparición de la fatiga y sus consecuencias negativas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "En esta intersección, ¿qué vehículos están obligados a detenerse?",
+      "imagen": "examen-03_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todos."
+        },
+        {
+          "letra": "B",
+          "texto": "El rojo y el azul."
+        },
+        {
+          "letra": "C",
+          "texto": "El verde y el rojo."
+        }
+      ],
+      "ayuda": "De acuerdo a la situación que se observa en la imagen, tanto el vehículo verde como el rojo, están obligados a detenerse.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Como norma general, ¿en qué vías está prohibido circular marcha atrás?",
+      "imagen": "examen-03_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo en las vías urbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo en las autopistas y autovías."
+        },
+        {
+          "letra": "C",
+          "texto": "En todas las vías, salvo como complemento a determinadas maniobras."
+        }
+      ],
+      "ayuda": "Como norma general, la marcha atrás está prohibida en todas las vías. Excepcionalmente, la marcha atrás podrá utilizarse como complemento a determinadas maniobras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Cuál es el mejor remedio para combatir el sueño?",
+      "imagen": "examen-03_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dormir."
+        },
+        {
+          "letra": "B",
+          "texto": "Ventilar bien el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Tomar algún estimulante."
+        }
+      ],
+      "ayuda": "Conducir con sueño resulta extremadamente peligroso. No existe ninguna estrategia eficaz para \"luchar\" contra el sueño. La única alternativa verdaderamente eficaz es dormir.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "El casco de protección que utiliza este motorista, ¿es recomendable?",
+      "imagen": "examen-03_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque protege la cabeza y el mentón o barbilla."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque proporciona escasa aireación."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque en caso de accidente, es difícil de extraer."
+        }
+      ],
+      "ayuda": "El casco de protección integral que se observa en la imagen, es recomendable porque ofrece protección tanto para la cabeza, como para el mentón y la barbilla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "La densidad del tráfico en zona urbana produce frecuentes zonas de incertidumbre, por lo que el conductor de una motocicleta deberá:",
+      "imagen": "examen-03_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Advertir su presencia a los demás usuarios accionando la luz de largo alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentar la velocidad para evitar cuando antes esta situación."
+        },
+        {
+          "letra": "C",
+          "texto": "Prever y anticiparse a los posibles comportamientos de los demás usuarios."
+        }
+      ],
+      "ayuda": "La densidad del tráfico en zona urbana produce frecuentes zonas de incertidumbre, por lo que el conductor de una motocicleta deberá prever y anticiparse a los posibles comportamientos de los demás usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Se considera que se obstaculiza gravemente a la circulación con el hecho de efectuar una parada...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en una zona reservada a carga y descarga."
+        },
+        {
+          "letra": "B",
+          "texto": "en doble fila."
+        },
+        {
+          "letra": "C",
+          "texto": "impidiendo la entrada o salida de personas a un inmueble."
+        }
+      ],
+      "ayuda": "Realizar una parada o un estacionamiento, impidiendo la entrada o salida de personas a un inmueble, además de estar prohibido, se considera una inmovilización que obstaculiza gravemente la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Cargar un vehículo con más carga de la autorizada...",
+      "imagen": "examen-03_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "solo afecta a los neumáticos, por lo que se deberá incrementar su presión."
+        },
+        {
+          "letra": "B",
+          "texto": "no influye para nada en la seguridad vial."
+        },
+        {
+          "letra": "C",
+          "texto": "influye, especialmente, en la aceleración, frenado y estabilidad del vehículo."
+        }
+      ],
+      "ayuda": "Cargar un vehículo con más carga de la autorizada , influye especialmente en la aceleración, frenado y estabilidad, lo cual constituye un riesgo para la seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Si se encuentra con un ciclista circulando en sentido contrario, ¿qué debe hacer?",
+      "imagen": "examen-03_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No iniciar ni continuar un adelantamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Hacer destellos con la luz de largo alcance para avisarle de su presencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Avisar al ciclista con el claxon para que se aparte al arcén."
+        }
+      ],
+      "ayuda": "Cuando se tenga intención de realizar un adelantamiento en una calzada de doble sentido, se debe tener la precaución de comprobar que no circulen ciclistas en sentido contrario, ya que con la realización de la maniobra se les puede poner en peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Cuando su ciclomotor arrastre un remolque, fuera de poblado, ¿podrá alcanzar los 45 kilómetros por hora?",
+      "imagen": "examen-03_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "La velocidad máxima, fijada con carácter general para los ciclomotores, es de 45 kilómetros por hora. Cuando lleven remolque, la velocidad máxima debe reducirse en un 10 por 100 respecto a las velocidades genéricas que para estos vehículos se establecen reglamentariamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Cuántos chalecos reflectantes debe llevar obligatoriamente en un turismo?",
+      "imagen": "examen-03_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dos."
+        },
+        {
+          "letra": "B",
+          "texto": "Uno, aunque es recomendable llevar dos."
+        },
+        {
+          "letra": "C",
+          "texto": "Ninguno, ya que no es obligatorio."
+        }
+      ],
+      "ayuda": "La normativa vigente obliga a llevar un chaleco reflectante homologado a bordo del vehículo. No obstante, resulta recomendable llevar dos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Quién es la persona responsable de la infracción de no llevar consigo la documentación del vehículo?",
+      "imagen": "examen-03_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La persona que figure en la factura de compra del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "El titular."
+        },
+        {
+          "letra": "C",
+          "texto": "El conductor."
+        }
+      ],
+      "ayuda": "El conductor es responsable de llevar consigo toda la documentación el vehículo necesaria para circular.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "La distancia de detención puede variar en función...",
+      "imagen": "examen-03_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "del mal estado del vehículo, del conductor o de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "del mal estado de la vía únicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "del mal estado del vehículo solamente."
+        }
+      ],
+      "ayuda": "La distancia de detención, puede variar en función de diversos factores, como el estado psicofísico del conductor, las condiciones de adherencia, el mal estado de diversos sistemas del vehículo como frenos, suspensión, etc.; la existencia de hielo, barro, agua u otros elementos en la calzada, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Con carácter general, los conductores, durante los dos años siguientes a la obtención de su primer permiso o licencia de conducción no podrán superar la tasa de...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0,7 gramos de alcohol por litro de sangre."
+        },
+        {
+          "letra": "B",
+          "texto": "0,5 gramos de alcohol por litro de sangre."
+        },
+        {
+          "letra": "C",
+          "texto": "0,3 gramos de alcohol por litro de sangre."
+        }
+      ],
+      "ayuda": "Los conductores, durante los dos años siguientes a la obtención de su primer permiso o licencia de conducción no podrán superar la tasa de 0,3 gramos de alcohol por litro de sangre.\n\t \n\tSi el conductor es menor de edad, la tasa máxima de alcoholemia permitida es de 0.0, tanto en aire espirado como en sangre.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Cuándo debe pasar un turismo la primera inspección técnica?",
+      "imagen": "examen-03_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los 4 años, a partir de la fecha de fabricación o importación."
+        },
+        {
+          "letra": "B",
+          "texto": "A los 3 años, a partir de la fecha de la primera matriculación."
+        },
+        {
+          "letra": "C",
+          "texto": "A los 4 años, a partir de la fecha de la primera matriculación."
+        }
+      ],
+      "ayuda": "Los turismos están exentos de pasar inspecciones técnicas periódicas durante los primeros cuatro años contados a partir de su fecha de matriculación.\n\n\n\n#14",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "En general, el sueño aparece con mayor frecuencia...",
+      "imagen": "examen-03_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en las primeras horas de la mañana y al final de la tarde."
+        },
+        {
+          "letra": "B",
+          "texto": "durante la madrugada y en las primeras horas de la tarde."
+        },
+        {
+          "letra": "C",
+          "texto": "durante las horas centrales de la mañana y en las primeras horas de la tarde."
+        }
+      ],
+      "ayuda": "Existen periodos a lo largo del día en que el sueño aparece con mayor facilidad. Entre las 3 y las 5 de la madrugada, y entre las 14 y las 16 horas, la aparición de la somnolencia se hace más probable, incluso cuando se ha dormido correctamente la noche anterior. En estos periodos, el riesgo de sufrir un accidente por esta causa aumenta considerablemente, especialmente cuando se ha dormido poco o de forma inadecuada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Qué vehículos son los más afectados por el viento lateral?",
+      "imagen": "examen-03_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los turismos."
+        },
+        {
+          "letra": "B",
+          "texto": "Los camiones."
+        },
+        {
+          "letra": "C",
+          "texto": "Las motocicletas y los ciclomotores."
+        }
+      ],
+      "ayuda": "El viento lateral es un factor de riesgo para la conducción, especialmente cuando sopla en forma de rachas. Los vehículos de dos ruedas, como las motocicletas y ciclomotores, se ven especialmente afectados por este factor de riesgo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Si circulando por una vía saturada observa que se acerca un vehículo policial que circula en servicio de urgencia, ¿qué debe hacer?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Facilitarle el paso, en la medida de lo posible."
+        },
+        {
+          "letra": "B",
+          "texto": "Continuar la marcha porque no tiene preferencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Detener el vehículo hasta que sea adelantado."
+        }
+      ],
+      "ayuda": "A los vehículos prioritarios que circulen en servicio de urgencia siempre se les debe facilitar el paso en la medida de lo posible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Un neumático con una presión de inflado incorrecta...",
+      "imagen": "examen-03_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se desgasta menos y tiene menor riesgo de reventón."
+        },
+        {
+          "letra": "B",
+          "texto": "normalmente consume menos carburante."
+        },
+        {
+          "letra": "C",
+          "texto": "se desgasta de forma irregular y tiene mayor riesgo de reventón."
+        }
+      ],
+      "ayuda": "Los neumáticos que tengan una presión de inflado incorrecta, se desgastan de forma prematura e irregular, además de que presentan un mayor riesgo de sufrir un reventón (especialmente cuando tienen menos presión de aire que la indicada).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "El alcohol, ¿puede disminuir el campo de visión del conductor?",
+      "imagen": "examen-03_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo cuando se circula de noche."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El consumo de alcohol, aún en pequeñas cantidades, puede disminuir de forma peligrosa el campo de visión del conductor, ocasionando el efecto visual conocido como \"visión túnel\".",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Cuando un carril está delimitado a ambos lados por doble línea discontinua, ¿qué deben hacer los conductores?",
+      "imagen": "examen-03_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Utilizarlo sólo para adelantar a una velocidad máxima de 80 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "No circular por él porque la circulación está prohibida."
+        },
+        {
+          "letra": "C",
+          "texto": "Entre otras normas, si la circulación está regulada por semáforos de carril, obedecer sus indicaciones."
+        }
+      ],
+      "ayuda": "Cuando un carril está delimitado a ambos lados por marcas longitudinales discontinuas dobles, es un carril reversible. Por lo tanto, los conductores deberán respetar todas las normas que sean aplicables y, si la circulación por dicho carril está regulada por semáforos, obedecer sus indicaciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "A la vista de la señalización, ¿quién tiene preferencia de paso?",
+      "imagen": "examen-03_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los vehículos de dos ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "Los automóviles."
+        },
+        {
+          "letra": "C",
+          "texto": "Los peatones."
+        }
+      ],
+      "ayuda": "\tZona de estancia y juego\n\tIndica las zonas de circulación que están destinadas en primer lugar a los peatones.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Los síntomas de la alergia, pueden producir en la conducción...",
+      "imagen": "examen-03_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mayor dificultad para mantener la concentración."
+        },
+        {
+          "letra": "B",
+          "texto": "menor sensación de somnolencia."
+        },
+        {
+          "letra": "C",
+          "texto": "un aumento de la capacidad de reacción."
+        }
+      ],
+      "ayuda": "Los síntomas de la alergia son especialmente peligrosos para la conducción ya que, entre otros efectos negativos, provocan una mayor dificultad para mantener la concentración.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Cuál es la tasa máxima de alcohol en sangre permitida para los conductores en general?",
+      "imagen": "examen-03_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0.25 miligramos por litro."
+        },
+        {
+          "letra": "B",
+          "texto": "0.3 gramos por litro."
+        },
+        {
+          "letra": "C",
+          "texto": "0.5 gramos por litro."
+        }
+      ],
+      "ayuda": "La tasa máxima permitida de alcohol para los conductores en general es de 0.5 gramos de alcohol por litro de sangre o 0.25 miligramos de alcohol por litro de aire espirado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

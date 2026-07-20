@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 66,
+  "nombre": "Test de examen 66",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "El conductor con el brazo extendido está indicando que va a...\n",
+      "imagen": "examen-66_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "girar a la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "girar a la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "frenar."
+        }
+      ],
+      "ayuda": "Un conductor con el brazo en posición horizontal con la palma de la mano extendida hacia abajo, indica que va a realizar un cambio de dirección a la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "El vehículo lleva dos rectángulos amarillos con borde rojo. ¿Qué indica?\n",
+      "imagen": "examen-66_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que es un vehículo ancho y mide más de 2 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Que es un vehículo largo y mide más de 12 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el vehículo transporta mercancías peligrosas."
+        }
+      ],
+      "ayuda": "Los paneles que lleva el vehículo de la imagen, indican que se trata de un vehículo o conjunto de vehículos con una longitud superior a 12 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Qué le está indicando el agente desde el vehículo?\n",
+      "imagen": "examen-66_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que me detenga detrás del coche policial."
+        },
+        {
+          "letra": "B",
+          "texto": "Que va a girar a la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Que me detenga en el lado derecho."
+        }
+      ],
+      "ayuda": "Un agente en su vehículo con el brazo extendido hacia abajo inclinado y fijo, indica la obligación de detenerse en el lado derecho a aquellos usuarios a los que va dirigida la señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "El ciclista de la fotografía, ¿circula correctamente?\n",
+      "imagen": "examen-66_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, pues lo debería hacer por el arcén aunque éste no sea transitable."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pues lo hace junto al borde derecho de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pues sólo cuando le adelanta un vehículo debe circular junto al borde derecho de la calzada."
+        }
+      ],
+      "ayuda": "Entre otros, los conductores de bicicletas y ciclomotores, deberán circular por el arcén de su derecha, si fuera transitable y suficiente, y, si no lo fuera, por la parte imprescindible de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Por el \"carril BUS\", ¿se puede circular para adelantar?",
+      "imagen": "examen-66_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero debo adelantar rápidamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando no circulan autobuses cerca."
+        }
+      ],
+      "ayuda": "En un carril reservado para autobuses (carril BUS), está prohibida la circulación de vehículos que no sean de transporte colectivo de viajeros. Excepcionalmente, cuando la marca blanca longitudinal del lado exterior del carril sea discontinua, se permitirá su utilización general exclusivamente para realizar alguna maniobra que no sea la de parar, estacionar, cambiar el sentido de la marcha o adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Puede instalar en su turismo vidrios tintados o coloreados?\n",
+      "imagen": "examen-66_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo si no circula de noche."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que la visibilidad no disminuya sensiblemente."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido."
+        }
+      ],
+      "ayuda": "Como norma general, está prohibido instalar vidrios tintados o coloreados en un turismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Cómo suele ser el comportamiento de los conductores bajo los efectos del alcohol?",
+      "imagen": "examen-66_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Suelen ser más prudentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Suelen ser menos prudentes."
+        },
+        {
+          "letra": "C",
+          "texto": "Cometen menos errores."
+        }
+      ],
+      "ayuda": "Los conductores bajo los efectos del alcohol suelen comportarse de forma menos prudente y, por ello, suelen cometer más infracciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Los conductores que llegan a un paso a nivel cerrado deben...\n",
+      "imagen": "examen-66_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cambiar el sentido de la marcha y buscar un itinerario alternativo."
+        },
+        {
+          "letra": "B",
+          "texto": "Detenerse uno detrás de otro en el carril que corresponda."
+        },
+        {
+          "letra": "C",
+          "texto": "Avisar a los demás conductores con las luces de emergencia."
+        }
+      ],
+      "ayuda": "Los usuarios que al llegar a un paso a nivel o a un puente móvil lo encuentren cerrado o con la barrera en movimiento deberán detenerse uno detrás de otro en el carril correspondiente hasta que tengan paso libre.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Qué significan estas señales?\n",
+      "imagen": "examen-66_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que cuando llueve no puede superar la velocidad indicada."
+        },
+        {
+          "letra": "B",
+          "texto": "Que no puede superar la velocidad indicada si la calzada está inundada."
+        },
+        {
+          "letra": "C",
+          "texto": "Que en caso de niebla, no puede superar la velocidad indicada."
+        }
+      ],
+      "ayuda": "Las señales de la imagen indican que está prohibido circular a más de 80 km/h cuando haya niebla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Cómo puede advertirse previamente al conductor del vehículo que circula delante de la intención de adelantar?",
+      "imagen": "examen-66_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mediante los intermitentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Mediante las oportunas señales acústicas, fuera de poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "Mediante las oportunas señales acústicas u ópticas tanto dentro como fuera de poblado."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos no prioritarios, fuera de poblado, podrán realizar advertencias acústicas, para advertir al conductor de otro vehículo el propósito de adelantarlo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Un dispositivo delimitador consistente en una luz roja fija, indica que...\n",
+      "imagen": "examen-66_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la calzada está totalmente cerrada al tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "a partir de ella, hay que reducir la velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "hay que detenerse hasta que se encienda la luz verde."
+        }
+      ],
+      "ayuda": "El dispositvo delimitador constituido por una luz roja fija, indica que la calzada está totalmente cerrada al tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Los vehículos de tracción animal, ¿pueden circular por autopistas y autovías?\n",
+      "imagen": "examen-66_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Por autopistas no, por autovías sí."
+        }
+      ],
+      "ayuda": "Los animales y vehículos de tracción animal, tienen prohibida la circulación por autopistas o autovías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Qué vehículos deben tener contratado el Seguro Obligatorio?\n",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los vehículos de motor y ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "Todos los vehículos a motor, excepto los ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "Todos los vehículos que circulen por las vías públicas."
+        }
+      ],
+      "ayuda": "Como norma general, deben estar asegurados todos los vehículos impulsados a motor, incluidos los ciclomotores, vehículos especiales, remolques y semirremolques.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Al cruzar un arcén por el que transitan animales que no disponen de cañada, ¿qué debe hacer?\n",
+      "imagen": "examen-66_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cederles el paso."
+        },
+        {
+          "letra": "B",
+          "texto": "Cederles el paso solamente cuando formen grupo."
+        },
+        {
+          "letra": "C",
+          "texto": "Hacerles señales para que se aparten."
+        }
+      ],
+      "ayuda": "Como norma general, los vehículos tienen prioridad de paso respecto de los animales excepto en las cañadas debidamente señalizadas, cuando vayan a girar para entrar en otra vía y haya animales cruzándola (aunque no exista paso para éstos) o cuando el vehículo cruce un arcén por el que estén circulando animales que no dispongan de cañada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "El conductor de un camión, ¿está obligado a llevar un chaleco reflectante en su vehículo?\n",
+      "imagen": "examen-66_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "No, pero lo puede llevar cuando circule por vía interurbana."
+        }
+      ],
+      "ayuda": "Los camiones, al igual que los demás vehículos de motor, deben llevar entre su dotación un chaleco reflectante homologado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Si conduce una motocicleta, debe tener en cuenta que...\n",
+      "imagen": "examen-66_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es menos estable y más frágil que el resto de los vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "es más visible que otros automóviles."
+        },
+        {
+          "letra": "C",
+          "texto": "cuanto mayor es la velocidad, hay mayor dificultad para mantener el equilibrio."
+        }
+      ],
+      "ayuda": "El conductor de una motocicleta debe tener presente que se trata de un vehículo menos estable y más frágil que el resto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Es necesario revisar los latiguillos del sistema de frenado?\n",
+      "imagen": "examen-66_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, ya que si el líquido está bien, su estado no importa."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, deben estar limpios, sin grietas y sin fugas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ya que estos elementos no se deterioran."
+        }
+      ],
+      "ayuda": "Dentro de las tareas de mantenimiento del sistema de frenado de un vehículo, es necesario controlar el estado de los latiguillos, ya que éstos deben mantenerse limpios, y sin grietas ni fugas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Con hielo en la calzada, si el vehículo no tiene ABS, es preferible...\n",
+      "imagen": "examen-66_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "usar el freno de mano."
+        },
+        {
+          "letra": "B",
+          "texto": "pisar el freno a fondo, junto con el pedal de embrague."
+        },
+        {
+          "letra": "C",
+          "texto": "evitar pisar el freno."
+        }
+      ],
+      "ayuda": "En caso de circular sobre una calzada helada, si el vehículo que se conduce no dispone de ABS, es preferible evitar pisar el pedal de freno, ya que en estas circunstancias la pérdida de adherencia es muy importante, y se podrían bloquear las ruedas perdiendo el control sobre la dirección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Los fármacos hipnóticos hacen que...\n",
+      "imagen": "examen-66_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aumente el tiempo de reacción."
+        },
+        {
+          "letra": "B",
+          "texto": "aumente el campo visual."
+        },
+        {
+          "letra": "C",
+          "texto": "disminuya el tiempo de reacción."
+        }
+      ],
+      "ayuda": "Entre otros efectos, los fármacos hipnóticos producen un aumento del tiempo de reacción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Para incorporarse a la circulación, ¿se puede dar marcha atrás?\n",
+      "imagen": "examen-66_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, es una de las maniobras en las que está permitido."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo en vías urbanas."
+        }
+      ],
+      "ayuda": "Excepcionalmente, se podrá circular marcha atrás al parar, estacionar o incorporarse a la circulación, siempre que esta maniobra no se realice en autovías ni autopistas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Adelantar detrás de otro vehículo que está adelantando, ¿cuándo está prohibido?\n",
+      "imagen": "examen-66_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nunca.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "Siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando no tengo visibilidad suficiente."
+        }
+      ],
+      "ayuda": "Está prohibido adelantar a un vehículo que está adelantando a otro, cuando las dimensiones de éste impidan la visibilidad de la parte delantera de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "En una zona de obras se encuentra un panel direccional provisional, ¿qué indica?\n",
+      "imagen": "examen-66_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Advierte del peligro por obras."
+        },
+        {
+          "letra": "B",
+          "texto": "La presencia de una curva y su dirección en una zona de obras."
+        },
+        {
+          "letra": "C",
+          "texto": "Prohíbe el paso e informa sobre el sentido de la circulación."
+        }
+      ],
+      "ayuda": "Un panel direccional provisional prohíbe el paso e informa, además, sobre el sentido de la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "En una vía urbana, las operaciones de carga y descarga se realizarán...\n",
+      "imagen": "examen-66_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "siempre por el lado del vehículo más alejado del borde de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "respetando las disposiciones que dicten las autoridades municipales."
+        },
+        {
+          "letra": "C",
+          "texto": "depositando las mercancías en la calzada o en zonas peatonales."
+        }
+      ],
+      "ayuda": "Cuando, excepcionalmente, sea inevitable realizar las operaciones de carga o descarga en la vía, entre otras medidas, se deberán respetar las disposiciones sobre paradas y estacionamientos, y, además, en poblado, las que dicten las autoridades municipales sobre horas y lugares adecuados.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Negarse a realizar la prueba de alcoholemia...\n",
+      "imagen": "examen-66_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "solamente supone una multa de hasta 300 euros."
+        },
+        {
+          "letra": "B",
+          "texto": "es un delito castigado por el código penal."
+        },
+        {
+          "letra": "C",
+          "texto": "no tiene importancia cuando no se ha producido un accidente."
+        }
+      ],
+      "ayuda": "La negativa a realizar las pruebas de control de alcoholemia puede ser constitutivo de un delito castigado por el Código Penal.\n\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Si el equipaje disminuye la visibilidad por el espejo interior, ¿a qué está obligado?\n",
+      "imagen": "examen-66_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A tener instalados dos espejos retrovisores, uno a cada lado del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "A tener instalado el espejo retrovisor interior y el exterior."
+        },
+        {
+          "letra": "C",
+          "texto": "En ningún caso la carga puede disminuir la visibilidad."
+        }
+      ],
+      "ayuda": "Cuando la visión a través del espejo retrovisor interior se vea disminuida (al transportar carga, arrastrar un remolque, etc.) éste será opcional y deberá colocarse un segundo retrovisor exterior en el lado derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "En una autopista, ¿dónde se puede estacionar?\n",
+      "imagen": "examen-66_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "Dentro de la mediana, pero fuera del arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "En el área de descanso o de servicio."
+        }
+      ],
+      "ayuda": "En autopistas y autovías, sólo se podrá estacionar en las zonas habilitadas para ello (áreas de servicio o áreas de descanso).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Si conduce una motocicleta y tiene que atravesar una zona con poca adherencia, debe hacerlo...\n",
+      "imagen": "examen-66_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "con la motocicleta perpendicular al suelo y sin acelerar o frenar bruscamente."
+        },
+        {
+          "letra": "B",
+          "texto": "aumentando la velocidad para pasar rápidamente."
+        },
+        {
+          "letra": "C",
+          "texto": "frenando para disminuir el peligro."
+        }
+      ],
+      "ayuda": "Cuando se circule en motocicleta, y sea necesario atravesar una zona con poca adherencia, se debe situar la motocicleta perpendicular al suelo, evitando acelerar o frenar bruscamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Fuera de poblado se pueden utilizar las señales acústicas...\n",
+      "imagen": "examen-66_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "como señal de llamada."
+        },
+        {
+          "letra": "B",
+          "texto": "para evitar un accidente o advertir la intención de adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo para evitar un accidente."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos no prioritarios, fuera de poblado, podrán realizar advertencias acústicas para evitar un accidente o para advertir al conductor de otro vehículo el propósito de adelantarlo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "En un túnel, esta señal indica...\n",
+      "imagen": "examen-66_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la dirección y distancia a una salida de emergencia."
+        },
+        {
+          "letra": "B",
+          "texto": "la situación de un teléfono de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "la situación de una salida de emergencia."
+        }
+      ],
+      "ayuda": "Indica la dirección en que se encuentra la salida de emergencia más cercana y la distancia que resta hasta alcanzarla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "La distracción es el factor de riesgo que...\n",
+      "imagen": "examen-66_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "menos incidencia tiene a la hora de analizar las causas de los accidentes."
+        },
+        {
+          "letra": "B",
+          "texto": "más ha aumentado en la última década."
+        },
+        {
+          "letra": "C",
+          "texto": "más ha disminuido en la última década."
+        }
+      ],
+      "ayuda": "Las distracciones en la conducción constituyen el factor de riesgo que más ha aumentado en los últimos diez años.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

@@ -1,0 +1,685 @@
+{
+  "categoria_id": 1,
+  "test_id": 11,
+  "nombre": "Test de examen 11",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Es recomendable hacer una puesta a punto del vehículo después de las vacaciones estivales?",
+      "imagen": "examen-11_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, si se ha hecho antes del periodo vacacional."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, sobre todo si ha estado en zona de playa porque la arena y la sal pueden acelerar la aparición de puntos de corrosión en la carrocería."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo es recomendable revisar la presión de los neumáticos si ha realizado muchos kilómetros."
+        }
+      ],
+      "ayuda": "Después de unas vacaciones estivales, se recomienda hacer una puesta a punto al vehículo, especialmente si se han visitado zonas de costa y/o playa, ya que la arena y la sal pueden acelerar la aparición de puntos de corrosión en la carrocería.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Si conduce una motocicleta y la calzada está mojada, ¿es necesario incrementar la presión de inflado de los neumáticos por encima de la recomendada por el fabricante?",
+      "imagen": "examen-11_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, ya que una mayor presión de inflado no contribuye a aumentar la seguridad de circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque aumenta la adherencia de los neumáticos y mejorará la seguridad de circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, ya que aumenta la seguridad de circulación y así se evitan los derrapes."
+        }
+      ],
+      "ayuda": "Los neumáticos deben llevarse con la presión indicada por el fabricante. Una mayor presión de inflado no contribuye a una mayor seguridad y además provoca una pérdida de la superficie de adherencia y un desgaste prematuro de la banda de rodadura.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Al inmovilizar un vehículo en una autopista es obligatorio señalizar la presencia del mismo...",
+      "imagen": "examen-11_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "con la luz de posición, siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "con la luz de emergencia si se dispone de ella y, en su caso, con la de posición."
+        },
+        {
+          "letra": "C",
+          "texto": "únicamente con la luz de emergencia."
+        }
+      ],
+      "ayuda": "Para inmovilizar un vehículo en una autopista, en caso de ser necesario, se deben utilizar las luces de emergencia y, cuando proceda, las luces de posición.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Durante el día, con niebla densa o lluvia intensa, ¿se puede circular con la luz de largo alcance encendida?",
+      "imagen": "examen-11_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, sólo puede encenderse la luz de corto alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "No, la luz de largo alcance sólo puede encenderse de noche."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero es aconsejable encender la luz de cruce."
+        }
+      ],
+      "ayuda": "No es aconsejable utilizar el alumbrado de largo alcance cuando exista niebla o lluvia, ya que puede producir autodeslumbramiento. Para circular en estas condiciones atmosféricas es más adecuado utilizar la luz de corto alcance o la antiniebla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "La amortiguación, ¿contribuye a prevenir los accidentes?",
+      "imagen": "examen-11_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "No, sólo contribuye al confort."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "El sistema de suspensión y todo el conjunto de amortiguación de los vehículos contribuyen a mantener condiciones de adherencia óptimas de los neumáticos con la calzada, lo cual redunda en un aumento de la seguridad en la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Fuera de poblado, los peatones deberán circular siempre por su derecha cuando...",
+      "imagen": "examen-11_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la vía sea de sentido único, solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "sean impedidos y se desplacen en una silla de ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "la circulación sea nocturna."
+        }
+      ],
+      "ayuda": "Los impedidos que circulen haciendo uso de una silla de ruedas, deben hacerlo por su derecha como norma general.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Los agentes encargados de la vigilancia del tráfico, ¿pueden someter a un conductor a una segunda prueba de detección alcohólica por aire espirado a efectos de contraste y para una mayor garantía?",
+      "imagen": "examen-11_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo si en la primera prueba practicada supera el límite legalmente establecido y presenta síntomas evidentes de encontrarse bajo la influencia de bebidas alcohólicas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando el conductor presente síntomas evidentes de encontrarse bajo la influencia de bebidas alcohólicas, aunque no supere el límite legalmente establecido."
+        }
+      ],
+      "ayuda": "Si el resultado de la prueba practicada diera un grado de impregnación alcohólica superior a 0,5 gramos de alcohol por litro de sangre o a 0,25 miligramos de alcohol por litro de aire espirado, o al previsto para determinados conductores en el artículo 20 o, aun sin alcanzar estos límites, presentara la persona examinada síntomas evidentes de encontrarse bajo la influencia de bebidas alcohólicas, el agente someterá al interesado, para una mayor garantía y a efecto de contraste, a la práctica de una segunda prueba de detección alcohólica por el aire espirado, mediante un procedimiento similar al que sirvió para efectuar la primera prueba, de lo que habrá de informarle previamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿A qué velocidad máxima le está permitido circular a un autobús en el que viajen pasajeros de pie porque así esté autorizado?",
+      "imagen": "examen-11_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 90 km/h, en autopistas y autovías."
+        },
+        {
+          "letra": "B",
+          "texto": "A 80 km/h en vías convencionales."
+        },
+        {
+          "letra": "C",
+          "texto": "A 100 km/h, en autopistas y autovías."
+        }
+      ],
+      "ayuda": "En el supuesto de que en un autobús viajen pasajeros de pie porque así esté autorizado o en caso de que el autobús no esté dotado de cinturón de seguridad, la velocidad máxima en vías convencionales será de 80 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Los conductores de bicicletas...",
+      "imagen": "examen-11_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "están exentos de someterse a las pruebas que se establezcan para la detección de las posibles intoxicaciones por alcohol."
+        },
+        {
+          "letra": "B",
+          "texto": "pueden circular por los arcenes de las autopistas y autovías siempre que, por razones de seguridad vial, no esté prohibido por señal."
+        },
+        {
+          "letra": "C",
+          "texto": "deben utilizar generalmente casco de protección cuando circulen por vías interurbanas."
+        }
+      ],
+      "ayuda": "Como norma general, los conductores de bicicletas y, en su caso, los ocupantes estarán obligados a utilizar cascos de protección homologados o certificados según la legislación vigente, cuando circulen en vías interurbanas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Para efectuar una conducción eficiente y segura, al iniciar la marcha, es recomendable...",
+      "imagen": "examen-11_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mantener la primera velocidad hasta alcanzar los 40 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "pasar de primera a segunda velocidad lo antes posible, en torno a los dos segundos."
+        },
+        {
+          "letra": "C",
+          "texto": "pisar el acelerador en el momento del arranque del motor."
+        }
+      ],
+      "ayuda": "Para optimizar el ahorro de combustible, es conveniente, al iniciar la marcha, pasar de primera a segunda velocidad lo antes posible (luego de dos segundos aproximadamente).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Qué ciclistas están obligados a utilizar el casco dentro y fuera de poblado?",
+      "imagen": "examen-11_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los mayores de edad."
+        },
+        {
+          "letra": "B",
+          "texto": "Los menores de 16 años."
+        },
+        {
+          "letra": "C",
+          "texto": "Todos."
+        }
+      ],
+      "ayuda": "Los ciclistas menores de 16 años están obligados a utilizar el casco en todas las vías, tanto dentro como fuera de poblado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Un camión de 2.000 kg de masa máxima autorizada y que tiene una antigüedad superior a los diez años, ¿con qué frecuencia debe realizar la I.T.V. reglamentaria?",
+      "imagen": "examen-11_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Anualmente."
+        },
+        {
+          "letra": "B",
+          "texto": "Cada seis meses."
+        },
+        {
+          "letra": "C",
+          "texto": "Cada dos años."
+        }
+      ],
+      "ayuda": "Los camiones de hasta 3500 kg de masa máxima autorizada deberán someterse a inspecciones técnicas periódicas, de acuerdo a la siguiente frecuencia:\n\n- Exentos: hasta los dos años de antigüedad.\n- Bienales: entre dos y seis años de antigüedad.\n- Anuales: entre seis y diez años de antigüedad.\n- Semestrales: más de 10 años de antigüedad.\n\n\n#14",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Qué tiene que hacer si se le caduca la vigencia de su permiso y quiere seguir conduciendo?",
+      "imagen": "examen-11_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Examinarse de nuevo de las pruebas prácticas."
+        },
+        {
+          "letra": "B",
+          "texto": "Solicitar una prórroga proporcionando la documentación necesaria."
+        },
+        {
+          "letra": "C",
+          "texto": "Presentarse a un nuevo examen teórico."
+        }
+      ],
+      "ayuda": "El permiso o licencia de conducción cuya vigencia hubiese vencido no autoriza a su titular a conducir. Para seguir conduciendo, se debe tramitar la correspondiente prórroga de vigencia mediante solicitud dirigida a la Jefatura Provincial de Tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Si tiene un accidente y no lleva puesto el cinturón de seguridad, la posibilidad de morir en el siniestro es casi el doble en...",
+      "imagen": "examen-11_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la plaza del conductor, únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "las plazas delanteras, únicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "todas las plazas del vehículo."
+        }
+      ],
+      "ayuda": "En general, se estima que el uso correcto del cinturón puede reducir casi a la mitad la probabilidad de resultar muerto en un accidente de circulación, independientemente de la plaza del vehículo que se esté ocupando.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Una de las causas principales de los accidentes de las personas mayores es...",
+      "imagen": "examen-11_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la menor percepción del riesgo."
+        },
+        {
+          "letra": "B",
+          "texto": "la falta de paciencia."
+        },
+        {
+          "letra": "C",
+          "texto": "el deterioro de las capacidades psicomotoras."
+        }
+      ],
+      "ayuda": "El deterioro de las capacidades perceptivas y psicomotoras de las personas mayores es una de las principales causas de accidente dentro de este colectivo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "En esta intersección entre una vía pavimentada y otra sin pavimentar, ¿tiene que cederle el paso a este vehículo?",
+      "imagen": "examen-11_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, ya que se incorpora desde una vía sin pavimentar."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque se incorpora por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque en las intersecciones sin señalizar tiene que ceder el paso a todos los vehículos que se aproximen por la derecha."
+        }
+      ],
+      "ayuda": "Los vehículos que se incorporen desde una vía sin pavimentar, a una vía pavimentada, deberán ceder el paso independientemente desde el lado desde el cual se aproximen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Está permitido llevar en un ciclomotor a un niño en lugar intermedio entre la persona que conduce y el manillar de dirección del ciclomotor?",
+      "imagen": "examen-11_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero únicamente si el ciclomotor es conducido por el padre del niño."
+        }
+      ],
+      "ayuda": "En los ciclomotores y en las motocicletas, además del conductor y, en su caso, del ocupante del sidecar de éstas, puede viajar, siempre que así conste en su licencia o permiso de circulación, un pasajero que sea mayor de 12 años, utilice casco de protección y cumpla las siguientes condiciones:\n\na) Que vaya a horcajadas y con los pies apoyados en los reposapiés laterales.\nb) Que utilice el asiento correspondiente detrás del conductor. En ningún caso podrá situarse el pasajero en lugar intermedio entre la persona que conduce y el manillar de dirección del ciclomotor o motocicleta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Los niños suelen tener problemas en el tráfico porque...",
+      "imagen": "examen-11_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "su campo visual es mayor."
+        },
+        {
+          "letra": "B",
+          "texto": "su visión periférica es mayor."
+        },
+        {
+          "letra": "C",
+          "texto": "no conocen todos los comportamientos adecuados para circular."
+        }
+      ],
+      "ayuda": "Los niños suelen tener problemas en el tráfico porque su campo visual es reducido y, además, no conocen todos los comportamientos adecuados para circular.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "La señalización de tráfico sirve para...",
+      "imagen": "examen-11_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "confirmar las excepciones de las normas."
+        },
+        {
+          "letra": "B",
+          "texto": "completar las normas."
+        },
+        {
+          "letra": "C",
+          "texto": "advertir, informar, ordenar o reglamentar el comportamiento de los usuarios de la vía."
+        }
+      ],
+      "ayuda": "Las finalidades de la señalización en el tráfico son, advertir, informar, ordenar o reglamentar el comportamiento de los usuarios de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Los antihistamínicos más modernos son más seguros para la conducción?",
+      "imagen": "examen-11_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque provocan menos efectos secundarios."
+        },
+        {
+          "letra": "B",
+          "texto": "No, consumir cualquier tipo de antihistamínico impide conducir."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque no provocan efectos secundarios que afecten a la conducción."
+        }
+      ],
+      "ayuda": "Los antihistamínicos más modernos son más seguros para la conducción, ya que provocan menos efectos secundarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "A la vista de la señalización existente en la calzada, ¿puede hacer una parada?",
+      "imagen": "examen-11_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, está prohibido parar y estacionar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, está permitido parar y estacionar."
+        }
+      ],
+      "ayuda": "La marca vial amarilla en forma de zigzag, indica que queda prohibido estacionar. La parada está permitida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Después de adelantar al camión y al turismo, el conductor del turismo negro desea seguir adelantando a otros vehículos, ¿debe regresar antes al carril derecho?",
+      "imagen": "examen-11_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solamente cuando circulen vehículos detrás a mayor velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque en autopistas y autovías no es obligatorio en ningún caso."
+        }
+      ],
+      "ayuda": "En las calzadas que tengan, por lo menos, dos carriles reservados a la circulación en el sentido de su marcha, el conductor que vaya a efectuar un nuevo adelantamiento podrá permanecer en el carril que haya utilizado para el anterior, a condición de cerciorarse de que puede hacerlo sin molestia indebida para los conductores de vehículos que circulen detrás del suyo más velozmente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "La señal de V-27 de “triángulo virtual” ¿de qué advierte?",
+      "imagen": "examen-11_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De la proximidad de un punto negro o tramo de concentración de accidentes."
+        },
+        {
+          "letra": "B",
+          "texto": "De la presencia de un peligro próximo informado por un tercero a la plataforma de vehículo conectado de la DGT."
+        },
+        {
+          "letra": "C",
+          "texto": "De la proximidad de un tramo especialmente peligroso."
+        }
+      ],
+      "ayuda": "La señal V-27 de triángulo virtual tiene carácter voluntario y solo se visualizará en aquellos vehículos que estén conectados por medios telemáticos, de forma directa o a través de un proveedor de servicios, con el Punto de Acceso Nacional de Información de Tráfico y Movilidad.\n\nEsta señal se activará en el sistema de a bordo del vehículo para advertir la presencia de un peligro próximo, cuando este hecho haya sido informado por un tercero a la plataforma de vehículo conectado de la Dirección General de Tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Le está permitido realizar una parada en los lugares habilitados por la autoridad municipal como estacionamiento con limitación horaria? ",
+      "imagen": "examen-11_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En los lugares habilitados por la autoridad municipal como de estacionamiento con limitación horaria, está prohibido estacionar sin disponer del título que lo autorice. En cambio, sí que es posible realizar una parada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "A la edad mínima requerida obtiene el permiso que autoriza a conducir ciclomotores, ¿le está permitido transportar a un pasajero? ",
+      "imagen": "examen-11_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El permiso de la clase AM autoriza a conducir ciclomotores que transporten pasajeros, siempre que el vehículo esté autorizado para ello.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "Estaciona su turismo en doble fila y se va a hacer algunos recados, ¿se considera que dicho estacionamiento constituye un riesgo u obstáculo a la circulación? ",
+      "imagen": "examen-11_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, únicamente se considera estacionamiento prohibido."
+        }
+      ],
+      "ayuda": "Estacionar en doble fila está prohibido en todo caso. Además, cuando el estacionamiento se efectúe en doble fila sin conductor se considerará que constituye un riesgo u obstáculo a la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Un turismo de uso privado dedicado al transporte de personas con capacidad para nueve plazas, incluido el conductor, ¿cuándo debe pasar la primera ITV?",
+      "imagen": "examen-11_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los tres años de antigüedad."
+        },
+        {
+          "letra": "B",
+          "texto": "A los cuatro años de antigüedad."
+        },
+        {
+          "letra": "C",
+          "texto": "A los dos años de antigüedad."
+        }
+      ],
+      "ayuda": "Frecuencia de las inspecciones técnicas\n\nTurismos de uso privado dedicados al transporte de personas con capacidad de hasta nueve plazas, incluido el conductor:\n\nHasta cuatro años: exento.\nDe más de cuatro años: bienal.\nDe más de diez años: anual.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Con nivel de circulación verde por nevada, la velocidad máxima recomendada en una carretera que no sea autopista ni autovía es de: ",
+      "imagen": "examen-11_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "60 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "80 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "90 km/h."
+        }
+      ],
+      "ayuda": "La circulación condicionada a causa de la nieve se clasifica en cuatro niveles de dificultad en función de la intensidad de la nevada.\n\nCuando existe Nivel verde quiere decir que está comenzando a nevar y, aunque la circulación no se vea afectada, conviene extremar la precaución. En estos casos, se recomienda no sobrepasar la velocidad de 100 kilómetros por hora en autopistas y autovías y de 80 kilómetros por hora en el resto de las carreteras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Cuándo está bien colocado en el asiento para conducir?",
+      "imagen": "examen-11_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando llevo las piernas un poco dobladas y el cuerpo recto."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando llevo las piernas rectas y el cuerpo hacia atrás."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando llevo las piernas dobladas y el cuerpo hacia adelante."
+        }
+      ],
+      "ayuda": "Al regular el asiento antes de conducir, se debe buscar una posición que resulte cómoda y que asegure que se puede llegar de manera segura, fácil y segura a los mandos del vehículo. Las piernas deben quedar ligeramente flexionadas a la altura de la rodilla y el cuerpo recto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-11_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Control de velocidad en carretera convencional o carretera multicarril."
+        },
+        {
+          "letra": "B",
+          "texto": "Control de velocidad en autopista o autovía."
+        },
+        {
+          "letra": "C",
+          "texto": "Control de separación mínima en carretera convencional o carretera multicarril."
+        }
+      ],
+      "ayuda": "Control de velocidad en carretera convencional o carretera multicarril.\nIndica la existencia de un dispositivo de control de velocidad en un punto o tramo de una carretera convencional o una carretera multicarril. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

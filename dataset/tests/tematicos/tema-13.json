@@ -1,0 +1,697 @@
+{
+  "categoria_id": 3,
+  "test_id": 14,
+  "nombre": "Tema 13 — Transporte de personas y mercancías. Señalización de los vehículos",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Si un agente le detiene por no haber pasado la inspección técnica de su vehí­culo, le concederá un plazo para pasar la inspección técnica de...",
+      "imagen": "tema-13_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "30 días."
+        },
+        {
+          "letra": "B",
+          "texto": "24 horas."
+        },
+        {
+          "letra": "C",
+          "texto": "10 días."
+        }
+      ],
+      "ayuda": "Cuando un vehículo no haya pasado la inspección técnica en los plazos previstos, los agentes de la autoridad competente, además de proceder a la correspondiente sanción económica, concederán un plazo de 10 días para pasar la inspección técnica.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Qué remolques están obligados a llevar Tarjeta de Inspección Técnica?",
+      "imagen": "tema-13_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo los remolques de más de 750 kg."
+        },
+        {
+          "letra": "B",
+          "texto": "Todos los remolques."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo los remolques ligeros."
+        }
+      ],
+      "ayuda": "Los remolques en general, independientemente de su masa, están obligados a llevar su propia tarjeta de inspección técnica ITV.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Con el permiso de la clase B, ¿está permitido conducir un turismo de 3.000 kg de M.M.A. y un remolque de 800 kg de M.M.A.?",
+      "imagen": "tema-13_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, el permiso de la clase B no autoriza nunca a llevar un remolque no ligero."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo si el conductor también es titular de la autorización que lo complementa (B96)."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si el permiso tiene una antigüedad superior a 3 años."
+        }
+      ],
+      "ayuda": "Con el permiso de la clase B podrá conducirse un conjunto de vehículos compuesto por un turismo de 3.000 kg de masa máxima autorizada y un remolque de 800 kg, siempre que el conductor sea titular de la autorización complementaria de dicho permiso (B96).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "El seguro obligatorio, ¿cubre los daños ocasionados en el vehículo asegurado?",
+      "imagen": "tema-13_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando su conductor no sea culpable del accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "El seguro obligatorio no cubre los daños ocasionados en el vehículo asegurado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Con el permiso B para conducir turismo, ¿qué otros vehículos se pueden conducir?",
+      "imagen": "tema-13_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Motocicletas de más de 125 c.c."
+        },
+        {
+          "letra": "B",
+          "texto": "Ciclomotores de dos y tres ruedas y cuatriciclos ligeros."
+        },
+        {
+          "letra": "C",
+          "texto": "Todos los vehículos que se pueden conducir con el permiso A."
+        }
+      ],
+      "ayuda": "El permiso de conducción de la clase B, además de conducir turismos, permite conducir ciclomotores de dos y  tres ruedas y cuatriciclos lligeros entre otros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Una furgoneta de hasta 3.500 Kg de M.M.A. que tiene más de 10 años de antigüedad, ¿cuándo tiene que pasar la siguiente ITV?",
+      "imagen": "tema-13_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al año siguiente."
+        },
+        {
+          "letra": "B",
+          "texto": "A los dos años siguientes."
+        },
+        {
+          "letra": "C",
+          "texto": "A los seis meses siguientes."
+        }
+      ],
+      "ayuda": "Vehículos y conjuntos de vehículos dedicados al transporte de mercancías o cosas, de hasta 3.500 kg de M.M.A. deberán someterse a inspecciones técnicas periódicas, de acuerdo a la siguiente frecuencia:\n\n- Exentos: hasta los dos años de antigüedad.\n- Bienales: entre dos y seis años de antigüedad.\n- Anuales: entre seis y diez años de antigüedad.\n- Semestrales: más de 10 años de antigüedad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué documento acredita la matriculación de un turismo y autoriza la circulación del mismo por las vías públicas?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El certificado del seguro obligatorio."
+        },
+        {
+          "letra": "B",
+          "texto": "La tarjeta de inspección técnica."
+        },
+        {
+          "letra": "C",
+          "texto": "El permiso de circulación."
+        }
+      ],
+      "ayuda": "El permiso de circulación es el documento que autoriza la circulación de los vehículos, siendo expedido por la Jefatura de Tráfico tras comprobar que el vehículo reúne las condiciones técnicas necesarias para circular.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Un camión de 3.500 kg de masa máxima autorizada de nueva matriculación, ¿está exento de pasar inspecciones periódicas (ITV)?",
+      "imagen": "tema-13_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, hasta los cuatro años."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, hasta los dos años."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Los camiones de hasta 3500 kg de masa máxima autorizada deberán someterse a inspecciones técnicas periódicas, de acuerdo a la siguiente frecuencia:\nExentos: hasta los dos años de antigüedad.\nBienales: entre dos y seis años de antigüedad.\nAnuales: entre seis y diez años de antigüedad.\nSemestrales: más de 10 años de antigüedad.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "El permiso de la clase B, ¿autoriza a conducir motocicletas?",
+      "imagen": "tema-13_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, para conducir motocicletas necesito un permiso de las clases A1 o A2."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, las que autoriza el permiso A1, por el territorio nacional, si el permiso tiene una antigüedad superior a 3 años."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si tiene un permiso con una antigüedad inferior a 2 años."
+        }
+      ],
+      "ayuda": "El permiso de la clase B, autoriza a conducir las motocicletas ligeras que autoriza a conducir el permiso de la clase A1, siempre que el titular tenga una antigüedad superior a 3 años y se circule dentro del territorio nacional.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Para saber la fecha en que se debe pasar la primera ITV, la antigüedad de un vehículo empieza a contar a partir de...",
+      "imagen": "tema-13_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la fecha en que pasó la inspección técnica."
+        },
+        {
+          "letra": "B",
+          "texto": "el día de compra del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "la fecha de su primera matriculación."
+        }
+      ],
+      "ayuda": "Para saber la fecha en que se debe pasar la primera ITV, la antigüedad del vehículo se computará a partir de la primera matriculación del mismo, que consta en el permiso de circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Una furgoneta, con una antigüedad de más de 10 años, ¿con qué frecuencia pasará la inspección técnica periódica (ITV)?",
+      "imagen": "tema-13_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al cabo de cuatro años."
+        },
+        {
+          "letra": "B",
+          "texto": "Semestralmente."
+        },
+        {
+          "letra": "C",
+          "texto": "Cada dos años."
+        }
+      ],
+      "ayuda": "Los vehículos y conjuntos de vehículos dedicados al transporte de mercancías o cosas, que tengan una antigüedad superior a los diez años e independientemente de su masa máxima autorizada, tendrán que someterse a inspecciones técnicas periódicas de forma semestral.\n\n\n\n#14",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Si un conductor pierde su saldo total de puntos, ¿puede perder la vigencia de su permiso de conducir?",
+      "imagen": "tema-13_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, la vigencia se pierde automáticamente cuando el saldo es de cero puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, el permiso solo pierde su vigencia cuando caduca."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, una vez notificada la resolución de la declaración de pérdida de vigencia."
+        }
+      ],
+      "ayuda": "Tras la pérdida de la totalidad de puntos asignados, los conductores perderán la vigencia de su permiso de conducir cuando les sea notificada la resolución correspondiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "El permiso B, ¿autoriza a conducir un camión de 3.000 kg de M.M.A. que arrastra un remolque ligero?",
+      "imagen": "tema-13_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo cuando la masa máxima del remolque supera la masa en vacío del camión."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Con el permiso de la clase B, se permite conducir camiones de hasta 3.500 kg y que arrastren un remolque ligero (cuya masa máxima autorizada no exceda de 750 kilogramos).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "En caso de siniestro, el seguro obligatorio del vehículo responsable del accidente cubrirá los daños producidos a la parte contraria...",
+      "imagen": "tema-13_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "solo cuando el conductor del vehículo causante sea el tomador del seguro."
+        },
+        {
+          "letra": "B",
+          "texto": "en todo caso."
+        },
+        {
+          "letra": "C",
+          "texto": "hasta los límites máximos establecidos."
+        }
+      ],
+      "ayuda": "En caso de siniestro, el seguro obligatorio del vehículo responsable del accidente cubrirá los daños producidos a la parte contraria, hasta los límites máximos establecidos en la Ley.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Una motocicleta tiene 5 años de antigüedad, ¿cuándo debe pasarle la siguiente inspección técnica?",
+      "imagen": "tema-13_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cada dos años."
+        },
+        {
+          "letra": "B",
+          "texto": "Al año siguiente."
+        },
+        {
+          "letra": "C",
+          "texto": "Cada cuatro años."
+        }
+      ],
+      "ayuda": "Las motocicletas deberán pasar su primera inspección técnica a los cuatro años de antigüedad, y a partir de los cuatro años, cada dos años (bienal). Por tanto, si una motocicleta tiene cinco años, la siguiente inspección técnica la pasará al año siguiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Para circular con su turismo, ¿qué documentos necesita en todo caso, además del permiso de conducción?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El permiso de circulación y la tarjeta de inspección técnica."
+        },
+        {
+          "letra": "B",
+          "texto": "El impuesto de vehículos de tracción mecánica (impuesto municipal de circulación) del año en curso."
+        },
+        {
+          "letra": "C",
+          "texto": "El permiso de circulación solamente."
+        }
+      ],
+      "ayuda": "Para poder circular con un turismo, además del permiso de conducción, se necesita llevar el permiso de circulación y la tarjeta de inspección técnica del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Si han cambiado sus condiciones físicas y necesita adaptar su vehículo, ¿tiene que comunicarlo a la Jefatura de Tráfico?",
+      "imagen": "tema-13_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, mientras el permiso de circulación esté en vigor."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, debo comunicarlo."
+        },
+        {
+          "letra": "C",
+          "texto": "No, basta con que lleve un certificado médico en el que conste mi deficiencia física."
+        }
+      ],
+      "ayuda": "Si en un conductor cambia sus condiciones físicas y necesita adaptar su vehículo a dichas condiciones, debe comunicarlo a la Jefatura Provincial de Tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Qué sanción se impondrá a un turismo que circula sin seguro?",
+      "imagen": "tema-13_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solamente multa al conductor del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Una multa al titular del vehículo y los agentes podrán inmovilizar el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Inmovilización inmediata del vehículo siempre."
+        }
+      ],
+      "ayuda": "El incumplimiento de la obligación de asegurar el vehículo lleva consigo la prohibición de circular y una sanción, así como la posible inmovilización por parte de los agentes de la autoridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Qué documento acredita que un vehículo reúne las condiciones necesarias para circular?",
+      "imagen": "tema-13_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La tarjeta de ITV."
+        },
+        {
+          "letra": "B",
+          "texto": "El permiso de circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "El recibo del impuesto de vehículos de tracción mecánica."
+        }
+      ],
+      "ayuda": "La Tarjeta de Inspección Técnica (ITV) y el certificado de características técnicas son los documentos que acreditan que el vehículo reúne las condiciones técnicas necesarias para circular.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Puede llevar aparejada la pérdida de puntos del permiso de conducir, conducir bajos los efectos de las drogas?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo cuando se circule fuera de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en todo caso."
+        },
+        {
+          "letra": "C",
+          "texto": "No, puesto que no es una infracción grave."
+        }
+      ],
+      "ayuda": "Conducir bajo los efectos de estupefacientes, psicotrópicos, estimulantes y otras sustancias de efectos análogos, lleva aparejada la pérdida de 6 puntos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Cuando el titular de un permiso de conducir pierda parte de su asignación total de puntos, ¿podrá recuperarlos?",
+      "imagen": "tema-13_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, realizando un curso de sensibilidad y reeducación vial."
+        },
+        {
+          "letra": "B",
+          "texto": "No, una vez perdido, ya no es posible recuperarlos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, obteniendo de nuevo el permiso de conducir."
+        }
+      ],
+      "ayuda": "El conductor que pierda parte de su asignación total de puntos, podrá recuperar hasta un máximo de 4 puntos por una solo vez cada dos años realizando un curso de sensibilización y reeducación vial en un centro autorizado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Si el resultado de la inspección realizada a su vehículo en una estación ITV es desfavorable, ¿podrá circular por las vías públicas?",
+      "imagen": "tema-13_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si el defecto observado no impide la marcha del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "No, salvo para su traslado al taller y la vuelta a una ITV para nueva inspección."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en absoluto, porque el vehículo causará baja definitiva."
+        }
+      ],
+      "ayuda": "Si el resultado de una inspección técnica fuese desfavorable, el vehículo no podrá circular por las vías públicas salvo para su traslado al taller (a fin de subsanar los desperfectos detectados) y para su regreso a una estación ITV con el fin de someterse a una nueva inspección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Para que pueda circular un ciclomotor, ¿es obligatorio que esté asegurado?",
+      "imagen": "tema-13_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solamente los que tienen más de dos ruedas."
+        }
+      ],
+      "ayuda": "Para que un ciclomotor pueda circular, debe estar matriculado y asegurado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Acaba de comprar un turismo nuevo; ¿cuándo debe presentarlo a la primera inspección tecnica reglamentaria?",
+      "imagen": "tema-13_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los cuatro años, a contar desde la fecha de compra."
+        },
+        {
+          "letra": "B",
+          "texto": "A los dos años, a contar desde la fecha de matriculación."
+        },
+        {
+          "letra": "C",
+          "texto": "A los cuatro años, a contar desde la fecha de matriculación."
+        }
+      ],
+      "ayuda": "Los turismos de nueva matriculación, están exentos de pasar la ITV hasta los cuatro años desde su primera matriculación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Si cambia alguno de los datos que aparecen en el permiso de conducción, ¿qué debe hacer?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Actualizar los datos en la próxima renovación."
+        },
+        {
+          "letra": "B",
+          "texto": "Comunicarlo a la Jefatura Provincial de Tráfico correspondiente."
+        },
+        {
+          "letra": "C",
+          "texto": "No debe hacer nada, no es necesario hacer ningún trámite."
+        }
+      ],
+      "ayuda": "Cualquier variación de los datos que figuren en el permiso o licencia de conducción deberá ser comunicada por su titular a la Jefatura Provincial de Tráfico dentro de un plazo de 15 días, contados desde la fecha en que se produzca.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Con el permiso B, ¿le está permitido conducir un turismo de 3.500 kg de M.M.A. y un remolque de 800 kg de M.M.A.?",
+      "imagen": "tema-13_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque excede la masa máxima autorizada del conjunto."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, con una antigüedad del permiso superior a 3 años."
+        },
+        {
+          "letra": "C",
+          "texto": "No, para conducir este conjunto es necesario el permiso B+E."
+        }
+      ],
+      "ayuda": "Para conducir un turismo de 3.500 kilogramos de masa máxima autorizada y un remolque de 800 kilogramos, es necesario ser titular del permiso de la clase B+E.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Un turismo acaba de pasar la primera ITV, la próxima inspección la realizará...",
+      "imagen": "tema-13_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "al año siguiente."
+        },
+        {
+          "letra": "B",
+          "texto": "a los 2 años."
+        },
+        {
+          "letra": "C",
+          "texto": "a los 4 años."
+        }
+      ],
+      "ayuda": "Si un turismo acaba de pasar su primera inspección técnica, la siguiente debe pasarla a los dos años.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Quién tiene la responsabilidad de las infracciones cometidas sobre las normas de circulación?",
+      "imagen": "tema-13_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El conductor y, si es menor de edad, sus padres o tutores legales."
+        },
+        {
+          "letra": "B",
+          "texto": "El conductor causante de la infracción cometida."
+        },
+        {
+          "letra": "C",
+          "texto": "El titular del vehículo."
+        }
+      ],
+      "ayuda": "La responsabilidad de las infracciones sobre las normas de circulación, recaerán directamente sobre el autor del hecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Con el permiso B, ¿puede conducir una motocicleta de más de 125 centímetros cúbicos?",
+      "imagen": "tema-13_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo si tiene una antigüedad superior a 3 años."
+        },
+        {
+          "letra": "C",
+          "texto": "No, es necesario obtener el permiso de la clase A2 o A."
+        }
+      ],
+      "ayuda": "El permiso de la clase B, no autoriza a conducir motocicletas de más de 125 centímetros cúbicos. Estas motocicletas se podrán conducir con el permiso A2 o A.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Qué debe hacer si el resultado de la inspección ITV es desfavorable?",
+      "imagen": "tema-13_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Llevar el vehículo al taller para repararlo en una grúa obligatoriamente y volver a pasar la inspección en un plazo inferior a dos meses."
+        },
+        {
+          "letra": "B",
+          "texto": "Llevar el vehículo a un taller para repararlo y volver a pasar la inspección en un plazo no superior a dos meses."
+        },
+        {
+          "letra": "C",
+          "texto": "Llevar el vehículo a un taller para repararlo y volver a pasar la inspección en un plazo inferior a un mes."
+        }
+      ],
+      "ayuda": "Los defectos calificados como graves son defectos que inhabilitan al vehículo para circular por las vías públicas excepto para su traslado al taller o, en su caso, para la regularización de su situación y vuelta a una Estación ITV para nueva inspección en un plazo no superior a dos meses, contados desde la primera inspección técnica desfavorable.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

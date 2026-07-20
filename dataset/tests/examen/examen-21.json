@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 21,
+  "nombre": "Test de examen 21",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Ante estas diferentes señales, ¿qué deben hacer los conductores en el cruce?",
+      "imagen": "examen-21_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerse porque así lo indica el agente de circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "Detenerse porque así lo indica la señal vertical de STOP."
+        },
+        {
+          "letra": "C",
+          "texto": "Pasar porque el semáforo está verde."
+        }
+      ],
+      "ayuda": "Las señales de los Agentes de circulación prevalecen sobre cualquier otra señal, por lo que, en la situación que se observa en la imagen, los conductores deberán detenerse de acuerdo a lo indicado por el Agente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "En un vehículo de más de 5 metros, destinado al transporte de mercancías, una carga indivisible puede sobresalir...",
+      "imagen": "examen-21_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "2 metros por la parte anterior y 3 por la posterior."
+        },
+        {
+          "letra": "B",
+          "texto": "el 15% de la longitud del vehículo por delante y por detrás."
+        },
+        {
+          "letra": "C",
+          "texto": "3 metros por la parte anterior y 2 por la posterior."
+        }
+      ],
+      "ayuda": "En los vehículos exclusivamente destinados al transporte de mercancías que tengan una longitud superior a cinco metros, la carga, cuando sea indivisible, podrá sobresalir dos metros por la parte delantera y tres metros por la parte posterior del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "La circulación por un carril en sentido contrario al habitual...\n",
+      "imagen": "examen-21_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "está reservada únicamente a los turismos.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "no está sujeta a limitación de velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "obliga a llevar encendidas, al menos, las luces de cruce."
+        }
+      ],
+      "ayuda": "Entre otras obligaciones, los vehículos que circulen por un carril habilitado en sentido contrario al habitual, deberán llevar encendida, independientemente de la hora del día y de las condiciones de visibilidad, la luz de corto alcance o cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "La velocidad, ¿influye en la capacidad de anticipación del conductor?\n",
+      "imagen": "examen-21_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Depende de las condiciones de la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, a mayor velocidad menor capacidad de anticipación."
+        }
+      ],
+      "ayuda": "La velocidad influye de forma determinante en la capacidad de anticipación del conductor ante un posible peligro. Cuanto mayor sea la velocidad, menor será la capacidad de anticiparse ante un posible peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "La luz antiniebla trasera deberá utilizarse en caso de...\n",
+      "imagen": "examen-21_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "niebla espesa."
+        },
+        {
+          "letra": "B",
+          "texto": "circular de noche por una vía sin asfaltar."
+        },
+        {
+          "letra": "C",
+          "texto": "circular al anochecer por una vía sin arcén."
+        }
+      ],
+      "ayuda": "La luz antiniebla trasera solamente deberá llevarse encendida cuando las condiciones meteorológicas o ambientales sean especialmente desfavorables, como en caso de niebla espesa, lluvia muy intensa, fuerte nevada o nubes densas de polvo o humo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "El uso del teléfono móvil mientras conduce, ¿supone un aumento del riesgo de accidente?\n",
+      "imagen": "examen-21_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente mientras marca el número."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si escribe un mensaje."
+        }
+      ],
+      "ayuda": "El uso del teléfono móvil durante la conducción, es un factor de distracción que supone un importante aumento del riesgo de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Las advertencias acústicas pueden utilizarse...\n",
+      "imagen": "examen-21_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "para advertir del propósito de adelantar únicamente dentro de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "en vías estrechas con muchas curvas."
+        },
+        {
+          "letra": "C",
+          "texto": "en vías anchas con pocas curvas."
+        }
+      ],
+      "ayuda": "Las advertencias acústicas sólo se podrán hacer para evitar un posible accidente y, de modo especial, en vías estrechas con muchas curvas. También podrán utilizarse para advertir, fuera de poblado, al conductor de otro vehículo el propósito de adelantarlo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Qué indica la señal de peligro?\n",
+      "imagen": "examen-21_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Estrechamiento por el lado izquierdo de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Estrechamiento por el lado derecho de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Estrechamiento por el lado derecho y por el lado izquierdo de la calzada."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen indica peligro por estrechamiento de calzada por la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Puede parar o estacionar su vehículo junto a esta línea amarilla?\n",
+      "imagen": "examen-21_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí puedo estacionar, pero no parar."
+        },
+        {
+          "letra": "C",
+          "texto": "No puedo estacionar, pero sí parar."
+        }
+      ],
+      "ayuda": "Una línea continua de color amarillo, en el bordillo o junto al borde de la calzada, significa que la parada y el estacionamiento están prohibidos o sometidos a alguna restricción temporal, indicada por señales, en toda la longitud de la línea y en el lado en que esté dispuesta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Qué indican los conos en la calzada?\n",
+      "imagen": "examen-21_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nada, no son señales de circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "Refuerzan el significado de las líneas discontinuas del carril."
+        },
+        {
+          "letra": "C",
+          "texto": "La prohibición de superar la línea imaginaria que los une."
+        }
+      ],
+      "ayuda": "Las banderitas, conos u otros dispositivos análogos, prohíben el paso a través de la línea real o imaginaria que los une.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Para las motocicletas, ¿es obligatorio el uso del alumbrado de corto alcance durante el día?\n",
+      "imagen": "examen-21_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, pero es aconsejable."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero únicamente en vía urbana."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Las motocicletas deberán llevar encendida durante el día e independientemente de las condiciones de visibilidad, la luz de corto alcance o cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En esta zona de la calzada con marcas azules...\n",
+      "imagen": "examen-21_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "está permitido el estacionamiento, pero por tiempo limitado."
+        },
+        {
+          "letra": "B",
+          "texto": "está prohibido el estacionamiento, pero no la parada."
+        },
+        {
+          "letra": "C",
+          "texto": "está prohibida tanto la parada como el estacionamiento."
+        }
+      ],
+      "ayuda": "Las marcas que delimitan los lugares en que el estacionamiento está permitido, que sean de color azul en lugar del normal color blanco, indican que, en ciertos periodos del día, la duración del estacionamiento autorizado está limitada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "La cinta abdominal del cinturón de seguridad debe colocarse sobre...",
+      "imagen": "examen-21_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los huesos de la cadera."
+        },
+        {
+          "letra": "B",
+          "texto": "los muslos."
+        },
+        {
+          "letra": "C",
+          "texto": "el abdomen."
+        }
+      ],
+      "ayuda": "Para asegurar que la protección del cinturón de seguridad sea la adecuada, y evitar lesiones, la banda abdominal debe pasar por encima de la pelvis (huesos de la cadera).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "En caso de emergencia, ¿cómo se debe frenar?\n",
+      "imagen": "examen-21_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pisando el pedal del freno suavemente y de forma continua."
+        },
+        {
+          "letra": "B",
+          "texto": "Pisando y soltando el pedal de freno de manera intermitente hasta detener el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Pisando el pedal de freno con fuerza pero sin llegar a bloquear las ruedas."
+        }
+      ],
+      "ayuda": "La técnica que debe utilizarse en una frenada de emergencia es diferente, dependiendo del tipo de sistema de frenado con que esté equipado el vehículo. En los vehículos de frenos convencionales, se debe frenar evitando que las ruedas se bloqueen, mientras que en aquellos vehículos que equipen sistemas de frenado antibloqueo (ABS), se debe frenar a fondo con toda la potencia que sea posible y no soltar el pedal durante el proceso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Qué comportamiento como conductor puede poner en riesgo a los peatones?",
+      "imagen": "examen-21_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Extremar la atención al acercarse a un autobús."
+        },
+        {
+          "letra": "B",
+          "texto": "No hacer señales para que atraviesen la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Estacionar sobre la acera."
+        }
+      ],
+      "ayuda": "Estacionar sobre las aceras, además de estar prohibido, representa un peligro para los peatones, ya que éstos, para poder circular, tendrán que irrumpir en la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Esta señal indica:",
+      "imagen": "examen-21_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Entrada prohibida a toda clase de vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "Entrada destinada a los vehículos de mercancías únicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Entrada prohibida a los vehículos destinados al transporte de mercancías."
+        }
+      ],
+      "ayuda": "Esta señal indica la prohibición de acceso a vehículos destinados al transporte de mercancías, entendiéndose como tales camiones, tractocamiones y furgones o furgonetas, independientemente de su masa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "En caso de niebla espesa, ¿qué iluminación es obligatoria para circular con su turismo?",
+      "imagen": "examen-21_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las luces antiniebla traseras, junto con las de posición y las de corto alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "Las luces antiniebla delanteras."
+        },
+        {
+          "letra": "C",
+          "texto": "Las luces antiniebla delanteras, junto con las de posición y las de corto alcance."
+        }
+      ],
+      "ayuda": "Si existe niebla espesa, se debe circular con las luces de posición encendidas conjuntamente con las de corto alcance y antiniebla posterior.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "En los desplazamientos laterales, ¿es suficiente con mirar por los espejos retrovisores?",
+      "imagen": "examen-21_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, es conveniente girar la cabeza para controlar adecuadamente el ángulo muerto."
+        },
+        {
+          "letra": "B",
+          "texto": "No, no es necesario."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en cualquier caso."
+        }
+      ],
+      "ayuda": "En los desplazamientos laterales, además de observar por los espejos retrovisores, se debe girar un poco la cabeza para asegurarse de que no existe ningún vehículo en los llamados ángulos muertos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Estas líneas pintadas en la calzada, ¿dan preferencia de paso a los peatones?\n",
+      "imagen": "examen-21_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo en las vías urbanas."
+        }
+      ],
+      "ayuda": "Marca de paso para peatones\nLa marca vial que se observa indica un paso para peatones, donde los conductores de vehículos o animales deben dejarles paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Está permitido circular con un vehículo que supera los límites permitidos de emisión de humo?",
+      "imagen": "examen-21_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en todo caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, mientras no se trate de una avería."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido."
+        }
+      ],
+      "ayuda": "Los vehículos no podrán circular por las vías públicas con niveles de emisiones de gases o humos en valores superiores a los límites establecidos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Esta señal...",
+      "imagen": "examen-21_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "prohíbe la parada y el estacionamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "prohíbe el estacionamiento en el lado de la calzada en que esté situada."
+        },
+        {
+          "letra": "C",
+          "texto": "prohíbe el estacionamiento los días pares."
+        }
+      ],
+      "ayuda": "Esta señal indica la prohibición de estacionamiento en el lado de la calzada en que esté situada la señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Al acercarse a los pasos de peatones que no están regulados por semáforos, ¿qué precauciones debe tomar?",
+      "imagen": "examen-21_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Moderar la velocidad y, si fuera necesario, detener el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Mantener la velocidad y estar atento para cumplir la señalización vertical."
+        },
+        {
+          "letra": "C",
+          "texto": "Hacer señales acústicas para indicar nuestra presencia."
+        }
+      ],
+      "ayuda": "Entre otros casos, se deberá circular a velocidad moderada y si fuera preciso se detendrá el vehículo, al aproximarse a los pasos para peatones no regulados por semáforos ni por agentes de circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "En esta curva de visibilidad reducida, ¿puede adelantar al vehículo que se observa?",
+      "imagen": "examen-21_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque al adelantar necesito ocupar el carril del sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque no hay una señal vertical que prohíba adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque no hay línea continua."
+        }
+      ],
+      "ayuda": "En las curvas y cambios de rasante de reducida visibilidad, no se permite adelantar si para ello es necesario invadir el sentido contrario. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "Para evitar que el vehículo, en caso de lluvia, se deslice sobre el agua...",
+      "imagen": "examen-21_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "debe usar cadenas."
+        },
+        {
+          "letra": "B",
+          "texto": "debe aumentar la velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "debe disminuir la velocidad."
+        }
+      ],
+      "ayuda": "Para evitar posibles deslizamientos cuando existe agua sobre la calzada, se debe circular con precaución y reducir la velocidad adaptándola a las circunstancias.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "A un ciclomotor, ¿a qué velocidad máxima le está permitido circular en esta vía?",
+      "imagen": "examen-21_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 60 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "A 45 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "Un ciclomotor no puede circular por esta vía."
+        }
+      ],
+      "ayuda": "La velocidad máxima permitida para los ciclomotores, con carácter general, es de 45 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Está prohibido hacer un cambio de dirección a la izquierda cuando no existe...",
+      "imagen": "examen-21_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "visibilidad suficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "una señal que lo autorice expresamente."
+        },
+        {
+          "letra": "C",
+          "texto": "un lugar acondicionado expresamente para hacerlo."
+        }
+      ],
+      "ayuda": "Los conductores deben abstenerse de realizar la maniobra de cambio de dirección a la izquierda cuando no exista visibilidad suficiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "En las personas que consumen drogas y conducen, la probabilidad de sufrir un accidente es...",
+      "imagen": "examen-21_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "menor."
+        },
+        {
+          "letra": "B",
+          "texto": "mayor."
+        },
+        {
+          "letra": "C",
+          "texto": "igual."
+        }
+      ],
+      "ayuda": "Si un conductor conduce después de haber consumido drogas o alcohol, la probabilidad que este tiene de sufrir un accidente aumenta exponencialmente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Cuáles son los daños no cubiertos por el seguro obligatorio al causante de un accidente?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los daños personales que sufran los ocupantes del vehículo causante del accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "Los daños personales que sufra el conductor responsable."
+        },
+        {
+          "letra": "C",
+          "texto": "Los daños que se produzcan en el vehículo contrario."
+        }
+      ],
+      "ayuda": "Los daños personales que sufra el conductor responsable del accidente, no están incluidos en la cobertura del seguro obligatorio.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "La cinta torácica del cinturón de seguridad puede provocar lesiones graves durante un accidente si se coloca...",
+      "imagen": "examen-21_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sobre el hombro."
+        },
+        {
+          "letra": "B",
+          "texto": "sobre el cuello."
+        },
+        {
+          "letra": "C",
+          "texto": "sobre la clavícula."
+        }
+      ],
+      "ayuda": "El cinturón de seguridad debe ir siempre correctamente colocado. Si se regula de forma que la banda torácica pasa por el cuello, existirá un elevado riesgo de de sufrir lesiones muy graves en caso de accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "En un paso de peatones, ¿puede cambiar de sentido?",
+      "imagen": "examen-21_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando no haya peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí cuando no se acerque ningún vehículo en sentido contrario."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido cambiar el sentido de la marcha en los pasos para peatones señalizados como tales y en las intersecciones con vías para ciclistas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+[
+  {
+    "n": 1,
+    "tipo": "imagen",
+    "titulo": "Bienvenido al Tema 6",
+    "texto": null
+  },
+  {
+    "n": 2,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 3,
+    "tipo": "video",
+    "titulo": "Aspectos generales sobre el alumbrado",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/FO8D-vBfzYM?si=djAUd2PSBvyAZHPB"
+  },
+  {
+    "n": 4,
+    "tipo": "imagen",
+    "titulo": "Reglaje de los faros",
+    "texto": "Aunque los proyectores o faros del alumbrado de corto y largo alcance vienen reglados de fábrica, posteriormente, pueden perder su orientación, por lo que se deben revisar periódicamente.\n\nSe debe tener en cuenta que si el reglaje del sistema de alumbrado es incorrecto, y se encuentra demasiado bajo, el conductor necesitará más tiempo para percibir un obstáculo, con el riesgo que ello implica.\n\nAdemás, las luces de largo alcance pueden producir deslumbramientos aunque estén bien regladas.\n\nPara un funcionamiento adecuado del sistema de alumbrado, se debe revisar, regularmente, la regulación, el funcionamiento y el estado del sistema, sustituyendo las lámparas cuando disminuyan su intensidad luminosa."
+  },
+  {
+    "n": 5,
+    "tipo": "imagen",
+    "titulo": "Inutilización o avería del alumbrado.",
+    "texto": "Si, por inutilización o avería irreparable en ruta del alumbrado correspondiente, se hubiera de circular con alumbrado de intensidad inferior, se deberá reducir la velocidad hasta la que permita la detención del vehículo dentro de la zona iluminada."
+  },
+  {
+    "n": 6,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 7,
+    "tipo": "imagen",
+    "titulo": "Uso obligatorio del alumbrado",
+    "texto": "El sistema de alumbrado se debe llevar encendido cuando se circule entre el ocaso y la salida del sol o, a cualquier hora del día, por túneles, pasos inferiores y tramos de vía afectados por la señal Túnel."
+  },
+  {
+    "n": 8,
+    "tipo": "imagen",
+    "titulo": "Alumbrado obligatorio en bicicletas.",
+    "texto": "Las bicicletas, para circular de noche, por tramos de vías señalizados con la señal de «túnel» o cuando existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, deberán disponer de luz de posición delantera y trasera, catadióptrico trasero, y podrán disponer de: catadióptricos en los radios de las ruedas y en los pedales.\n\nCuando circule por vía interurbana y sea obligatorio el uso de alumbrado, el conductor de bicicleta debe llevar colocada, además, alguna prenda o elemento reflectante que sea visible a 150 metros."
+  },
+  {
+    "n": 9,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 10,
+    "tipo": "imagen",
+    "titulo": "Alumbrado de posición",
+    "texto": "Alumbrado de posición. El alumbrado de posición tiene por finalidad indicar la presencia y anchura de un vehículo.\n\nLas luces de posición delanteras son de color blanco, las traseras de color rojo y las laterales amarillo auto. Se podrán utilizar con el vehículo inmovilizado o en movimiento."
+  },
+  {
+    "n": 11,
+    "tipo": "imagen",
+    "titulo": "Uso de las luces de posición con el vehículo inmovilizado",
+    "texto": "Si el vehículo se encuentra inmovilizado, se deben encender las luces de posición en los siguientes casos:\n\n- Cuando el vehículo esté detenido, parado o estacionado, entre la puesta y la salida del sol, en la calzada o el arcén de una vía interurbana suficiente o insuficientemente iluminada.\n\n- Cuando se inmovilice el vehículo y exista niebla, lluvia intensa, nevada, nubes de humo o polvo, o cualquier otra circunstancia análoga.\n\n- Cuando el vehículo esté detenido o parado en la calzada o el arcén de una travesía suficientemente iluminada.\n\n- Cuando el vehículo esté detenido, parado o estacionado, entre la puesta y la salida del sol, en una travesía insuficientemente iluminada. Las luces de posición se podrán sustituir por las de estacionamiento, o por las dos de posición del lado correspondiente a la calzada, cuando el vehículo se halle estacionado en línea, en travesías insuficientemente iluminadas.\n\n- Cuando el vehículo se encuentre detenido o parado en una vía urbana, suficiente o insuficientemente iluminada. En estas vías, no será obligatorio que los vehículos estacionados tengan encendidas las luces de posición cuando la iluminación permita a otros usuarios distinguirlos a una distancia suficiente."
+  },
+  {
+    "n": 12,
+    "tipo": "imagen",
+    "titulo": "Cuadro resumen",
+    "texto": null
+  },
+  {
+    "n": 13,
+    "tipo": "imagen",
+    "titulo": "Uso de las luces de posición con el vehículo en movimiento",
+    "texto": "Si el vehículo se encuentra en movimiento, se deben llevar encendidas las luces de posición, junto con las de corto alcance según corresponda, en los siguientes casos:\n\n- Entre el ocaso y la salida del sol.\n\n- Bajo condiciones meteorológicas o ambientales adversas.\n\n- En túneles, pasos inferiores y tramos de vía afectados por la señal túnel.\n\nQueda prohibido circular con las luces de posición encendidas aisladamente.\n\nEs decir que estas luces siempre deben ir encendidas junto con las luces de corto o de largo alcance, o con las luces de antiniebla delanteras, según proceda."
+  },
+  {
+    "n": 14,
+    "tipo": "imagen",
+    "titulo": "Alumbrado de estacionamiento",
+    "texto": "Alumbrado de estacionamiento: tiene por finalidad señalizar la presencia de un vehículo estacionado en una zona edificada, sustituyendo así a las luces de posición delanteras y traseras.\n\nEstas luces son color blanco en la parte delantera del vehículo, rojo en su parte posterior y amarillo auto en los laterales.\n\nLas luces de estacionamiento solo pueden sustituir a las luces de posición, cuando el vehículo se encuentre estacionado en línea en travesías insuficientemente iluminadas."
+  },
+  {
+    "n": 15,
+    "tipo": "video",
+    "titulo": "Alumbrado de corto alcance o de cruce",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/Of0_rUsAv_E?si=KqZ_3VZftQs7BPss"
+  },
+  {
+    "n": 16,
+    "tipo": "imagen",
+    "titulo": "Utilización del alumbrado de corto alcance o cruce",
+    "texto": "Las luces de corto alcance o de cruce se deben encender, junto con las luces de posición, en las siguientes situaciones:\n\n- Entre el ocaso y la salida del sol, en vías urbanas y travesías suficiente e insuficientemente iluminadas.\n\n- A cualquier hora del día, por túneles, pasos inferiores y tramos de vía afectados por la señal Túnel suficientemente iluminados.\n\n- Entre el ocaso y la salida del sol, por vías interurbanas suficientemente iluminadas."
+  },
+  {
+    "n": 17,
+    "tipo": "imagen",
+    "titulo": "Utilización del alumbrado de corto alcance o cruce",
+    "texto": "También se deben utilizar las luces de corto alcance, junto con las de posición, en caso de niebla, lluvia intensa, nevada, nubes de polvo o de humo, o cualquier otra circunstancia análoga.\n\nAsimismo, se debe llevar encendido este alumbrado al circular, entre el ocaso y la salida del sol, por vías interurbanas insuficientemente iluminadas o, a cualquier hora del día, por túneles, pasos inferiores y tramos de vía afectados por la señal túnel insuficientemente iluminados, cuando concurra alguna de las siguientes circunstancias:\n\n- Que no se disponga de alumbrado de largo alcance.\n\n- Que se circule a velocidad no superior a 40 km/h y no se esté utilizando el alumbrado de largo alcance.\n\n- Que exista posibilidad de deslumbrar a otros usuarios de la vía.\n\nLas luces de corto alcance pueden ir encendidas simultáneamente con las luces de largo alcance."
+  },
+  {
+    "n": 18,
+    "tipo": "imagen",
+    "titulo": "Utilización del alumbrado de cruce durante el día",
+    "texto": "Aunque no es obligatorio, sí es recomendable llevar encendidas las luces de cruce o corto alcance durante el día, si el vehículo no dispone de luces de día (daylights)."
+  },
+  {
+    "n": 19,
+    "tipo": "imagen",
+    "titulo": "Motocicletas: utilización del alumbrado durante el día",
+    "texto": "Las motocicletas deben llevar encendidas las luces de posición y las de corto alcance o cruce durante el día, cuando circulen por cualquier vía pública.\n\nAdemás, podrán llevar una o dos luces de cruce y podrán disponer de alumbrado de antiniebla y señal de emergencia."
+  },
+  {
+    "n": 20,
+    "tipo": "video",
+    "titulo": "Alumbrado de largo alcance o carretera",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/c93ASLQ88j0?si=agcxqjhGIkGfXKpP"
+  },
+  {
+    "n": 21,
+    "tipo": "imagen",
+    "titulo": "Alumbrado de largo alcance o carretera en condiciones adversas",
+    "texto": "También está permitido el uso de este alumbrado cuando se circule con niebla, lluvia intensa, nevada, nubes de polvo o de humo, o cualquier otra circunstancia análoga.\n\nSin embargo, en estos casos, puede no ser recomendable usar las luces de carretera porque el haz luminoso podría reflejarse en la niebla o en la lluvia y deslumbrar al propio conductor."
+  },
+  {
+    "n": 22,
+    "tipo": "imagen",
+    "titulo": "Alumbrado de largo alcance o carretera. Prohibiciones",
+    "texto": "Queda prohibido el uso del alumbrado de largo alcance o carretera en los siguientes casos:\n\n- En vías urbanas y travesías.\n\n- Cuando el vehículo se encuentre parado o estacionado.\n\n- Cuando se produzca deslumbramiento a los demás usuarios de la vía.\n\nTambién se prohíbe el empleo alternativo en forma de destellos de las luces de largo y corto alcance, con finalidades distintas a las previstas reglamentariamente."
+  },
+  {
+    "n": 23,
+    "tipo": "imagen",
+    "titulo": "Deslumbramientos",
+    "texto": "El conductor que sea deslumbrado por las luces de largo alcance de otro vehículo, debe reducir su velocidad, llegando a detenerse si fuera preciso, para evitar la salida de la carretera así como el alcance de vehículos o peatones que circulen en su mismo sentido."
+  },
+  {
+    "n": 24,
+    "tipo": "imagen",
+    "titulo": "Cuadro resumen de utilización del alumbrado de corto y de largo alcance",
+    "texto": null
+  },
+  {
+    "n": 25,
+    "tipo": "video",
+    "titulo": "Luz de antiniebla delantera",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/40Pu6Gmg6_k?si=fVo-X8NBYA_rGCts"
+  },
+  {
+    "n": 26,
+    "tipo": "imagen",
+    "titulo": "Luz de antiniebla delantera",
+    "texto": "La luz delantera de antiniebla, no es obligatoria para los vehículos, y su uso, aunque es opcional, resulta muy aconsejable.\n\nEste alumbrado puede utilizarse de forma aislada (junto con las luces de posición) o simultáneamente con la luz de corto alcance o, incluso, con la de largo alcance."
+  },
+  {
+    "n": 27,
+    "tipo": "imagen",
+    "titulo": "Luz de antiniebla delantera. Prohibiciones",
+    "texto": "Si no existen condiciones meteorológicas o ambientales adversas que disminuyan sensiblemente la visibilidad, queda prohibido circular con las luces de antiniebla encendidas, excepto en el caso mencionado anteriormente (vías estrechas con muchas curvas)."
+  },
+  {
+    "n": 28,
+    "tipo": "imagen",
+    "titulo": "Luz de antiniebla posterior",
+    "texto": "La finalidad de este dispositivo de alumbrado es hacer el vehículo más visible por detrás, en caso de que se den condiciones meteorológicas o ambientales especialmente desfavorables.\n\nEn consecuencia, su uso resulta obligatorio en caso de niebla espesa, lluvia muy intensa, fuerte nevada o nubes densas de polvo o de humo.\n\nEl alumbrado de antiniebla posterior es de color rojo, con intensidad superior a las luces de posición traseras, y su puesta en servicio debe acusarse por un testigo luminoso de color amarillo auto en el tablero de instrumentos."
+  },
+  {
+    "n": 29,
+    "tipo": "video",
+    "titulo": "Luces indicadoras de dirección",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/PBozwxdQ5nM?si=7ANOrRsn-1IjOrzC"
+  },
+  {
+    "n": 30,
+    "tipo": "video",
+    "titulo": "Señal de emergencia",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/eZkxVluG00M?si=z7XfDoxRkXoXnjTH"
+  },
+  {
+    "n": 31,
+    "tipo": "video",
+    "titulo": "Luz de marcha atrás",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/T3L1EuyPJ2w?si=HHzm3dIq4MVycKCr"
+  },
+  {
+    "n": 32,
+    "tipo": "video",
+    "titulo": "Luces de frenado",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/RwV14ncebRk?si=nGYBRem5cpl59Fn-"
+  },
+  {
+    "n": 33,
+    "tipo": "imagen",
+    "titulo": "Luz de placa posterior de matrícula",
+    "texto": "La luz de la placa posterior de la matrícula es de color blanco, está situada en la parte posterior del vehículo y permite iluminar el lugar donde se encuentra la placa de matrícula.\n\nSe utiliza siempre que el vehículo tenga encendidas las luces de posición, las de corto alcance o las de largo alcance."
+  },
+  {
+    "n": 34,
+    "tipo": "imagen",
+    "titulo": "Luces de gálibo",
+    "texto": "Estas luces tienen por finalidad indicar la anchura total del vehículo, siendo obligatorias para los vehículos automóviles que midan más de 2,10 metros de ancho.\n\nSon de color blanco en la parte delantera del vehículo y rojo en la parte posterior, y se utilizan siempre que se utilicen las luces de posición."
+  },
+  {
+    "n": 35,
+    "tipo": "imagen",
+    "titulo": "Catadióptricos o retrocatadióptricos",
+    "texto": "Los catadióptricos o retrocatadióptricos se utilizan para indicar la presencia del vehículo mediante la reflexión de la luz.\n\nComo norma general, su forma es no triangular, excepto para los remolques y los semirremolques cuyos catadióptricos traseros sí serán de forma triangular.\n\nEl color de estos dispositivos depende de su ubicación en el vehículo: los situados en la parte delantera son de color blanco, los de la parte trasera rojos y los de los laterales amarillo auto."
+  },
+  {
+    "n": 36,
+    "tipo": "imagen",
+    "titulo": "Luz de alumbrado interior",
+    "texto": "Dispositivo destinado a la iluminación del habitáculo del vehículo en forma tal que no produzca deslumbramiento ni moleste indebidamente a los demás usuarios de la vía."
+  },
+  {
+    "n": 37,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  }
+]

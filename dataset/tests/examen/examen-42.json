@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 42,
+  "nombre": "Test de examen 42",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "La activación automática del limpiaparabrisas...",
+      "imagen": "examen-42_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "activa automáticamente el sistema de alumbrado, cuando el sensor detecta la disminución de la visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "activa automáticamente el limpiaparabrisas, mediante un sensor que detecta la existencia significativa de lluvia."
+        },
+        {
+          "letra": "C",
+          "texto": "activa el limpiaparabrisas solo en caso de lluvia muy intensa."
+        }
+      ],
+      "ayuda": "El sensor de lluvia es un dispositivo incluido en algunos modelos de vehículos que se encarga de activar el sistema de limpiaparabrisas cuando detecta la existencia de agua sobre las lunas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Como norma general, está prohibido cambiar el sentido de la marcha...",
+      "imagen": "examen-42_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en los tramos de vía en que esté prohibido el adelantamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "en las calzadas con prioridad."
+        },
+        {
+          "letra": "C",
+          "texto": "en las plazas de circulación giratoria."
+        }
+      ],
+      "ayuda": "En general está prohibido cambiar el sentido de la marcha en todos los tramos de la vía en que esté prohibido el adelantamiento, salvo que el cambio de sentido esté expresamente autorizado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "En cuanto a la velocidad anormalmente reducida, ¿a qué velocidad mínima, salvo causa justificada, deberá circular un automóvil que arrastra un remolque por una autovía?",
+      "imagen": "examen-42_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "55 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "60 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "50 km/h."
+        }
+      ],
+      "ayuda": "La velocidad mínima establecida con carácter general en autopistas y autovías es de 60 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Se debe dejar una separación lateral mínima de 1,50 metros, cuando adelante fuera de poblado...",
+      "imagen": "examen-42_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a vehículos de dos ruedas o vehículos pesados."
+        },
+        {
+          "letra": "B",
+          "texto": "a peatones, animales o a vehículos de dos ruedas o de tracción animal."
+        },
+        {
+          "letra": "C",
+          "texto": "a cualquier tipo de vehículo."
+        }
+      ],
+      "ayuda": "Cuando se adelante fuera de poblado a peatones, animales, a vehículos de dos ruedas o de tracción animal, a vehículos inmovilizados en la vía o a los vehículos de auxilio cuando estén realizando operaciones de auxilio y rescate, se deberá guardar una separación lateral no inferior a 1,50 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Este agente, ¿obliga a detenerse a todos los usuarios de la vía?",
+      "imagen": "examen-42_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, a todos los que se aproximen por cualquier dirección."
+        },
+        {
+          "letra": "B",
+          "texto": "No, solo obliga a los turismos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, solo a los que se aproximen por delante o por detrás."
+        }
+      ],
+      "ayuda": "Señales de los Agentes: Brazo o brazos extendidos horizontalmente.\nEsta señal obliga a detenerse a todos los usuarios de la vía que se acerquen al agente desde direcciones que corten la indicada por el brazo o los brazos extendidos y cualquiera que sea el sentido de su marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Esta señalización recomienda circular a 40 km/h...",
+      "imagen": "examen-42_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "solo cuando las condiciones meteorológicas y ambientales sean favorables."
+        },
+        {
+          "letra": "B",
+          "texto": "cuando llueve."
+        },
+        {
+          "letra": "C",
+          "texto": "en cualquier caso."
+        }
+      ],
+      "ayuda": "El panel complementario de la señal vertical que se observa en la imagen, indica en este caso que la recomendación de circular a una velocidad aproximada a la indicada, en kilómetros por hora, se aplica únicamente en caso de lluvia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Cuál es la principal causa de los accidentes por colisión posterior?",
+      "imagen": "examen-42_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular a una velocidad superior a 100 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "No guardar la distancia de seguridad con el vehículo que circula delante."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular a velocidad anormalmente reducida."
+        }
+      ],
+      "ayuda": "La insuficiente distancia frontal de seguridad respecto al vehículo que circula delante es la principal causa de las colisiones por alcance (posteriores).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿En qué tipo de vías se produce un mayor número de accidentes mortales de ciclistas?",
+      "imagen": "examen-42_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En carreteras convencionales."
+        },
+        {
+          "letra": "B",
+          "texto": "En autopistas."
+        },
+        {
+          "letra": "C",
+          "texto": "En vías urbanas."
+        }
+      ],
+      "ayuda": "Las carreteras convencionales son las vías en las que se produce un mayor número de accidentes mortales de ciclistas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "Cuando no se pueda colocar el vehículo paralelo al borde de la calzada, ¿se podrá permitir la parada o el estacionamiento dejando el vehículo en otra posición?",
+      "imagen": "examen-42_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo si hay alguna señal que permita el estacionamiento en batería."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando las características de la vía u otras circunstancias así lo aconsejen."
+        }
+      ],
+      "ayuda": "Con carácter general, la parada y el estacionamiento se realizarán situando el vehículo paralelamente al borde de la calzada. Por excepción, se permitirá otra colocación cuando las características de la vía u otras circunstancias así lo aconsejen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "La carga que sobresale de la proyección en planta del vehículo, ¿debe ir protegida?",
+      "imagen": "examen-42_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, no hace falta si va debidamente señalizada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en la parte saliente para reducir los efectos de un roce o choque posible."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente cuando se circule entre la puesta y la salida de sol."
+        }
+      ],
+      "ayuda": "Cuando la carga sobresalga de la proyección en planta del vehículo, siempre dentro de los límites reglamentariamente autorizados, se deberán adoptar todas las precauciones convenientes para evitar daños o peligros a los demás usuarios de la vía pública, y deberá ir resguardada en la extremidad saliente para aminorar los efectos de un roce o choque posibles.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Cómo podrá presentar la documentación de su vehículo a un agente de tráfico que se lo solicite?",
+      "imagen": "examen-42_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Siempre en forma física."
+        },
+        {
+          "letra": "B",
+          "texto": "En formato físico o a través de la aplicación móvil miDGT en formato digital."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo en formato digital, a través de la aplicación móvil miDGT."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo a motor o ciclomotor está obligado a estar en posesión y llevar consigo su permiso o licencia válidos para conducir. La tenencia de la autorización administrativa podrá acreditarse mediante su presentación física o digital.\n\nSe debe tener en cuenta que la acreditación en formato digital, a través de la aplicación miDGT solo es válida en España.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "El conductor de un vehículo de movilidad personal, ¿está obligado a someterse a las pruebas para la detección de alcohol en el organismo?",
+      "imagen": "examen-42_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, excepto si presenta síntomas de conducir bajo la influencia de bebidas alcohólicas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en las mismas condiciones que el resto de conductores."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo si está implicado en un accidente de tráfico."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo de movilidad personal (al igual que el conductor de cualquier otro vehículo) está obligado a someterse a las pruebas para la detección de alcohol o de la presencia de drogas en el organismo, que se practicarán por los agentes de la autoridad encargados de la vigilancia del tráfico en el ejercicio de las funciones que tienen encomendadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Cuál es la finalidad de la cámara de visión posterior que equipan algunos vehículos y que se activa al introducir la marcha atrás?",
+      "imagen": "examen-42_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Facilitar una mejor visión del entorno por la parte posterior del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "La detección automática del vehículo si existe riesgo de colisión."
+        },
+        {
+          "letra": "C",
+          "texto": "Avisar de la proximidad de un obstáculo por medio de señales acústicas."
+        }
+      ],
+      "ayuda": "La finalidad de la cámara de visión posterior que equipan algunos vehículos, y que se activa al introducir la marcha atrás, es la de facilitar una mejor visión del entorno por la parte posterior del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Qué conductores tienen prohibida la conducción de vehículos con una tasa de alcohol en sangre superior a 0 gramos por litro?",
+      "imagen": "examen-42_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los conductores menores de edad."
+        },
+        {
+          "letra": "B",
+          "texto": "Los conductores noveles."
+        },
+        {
+          "letra": "C",
+          "texto": "Los conductores profesionales."
+        }
+      ],
+      "ayuda": "En ningún caso los conductores menores de edad podrán circular por las vías con una tasa de alcohol en sangre superior a 0 gramos por litro o de alcohol en aire espirado superior a 0 miligramos por litro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "La señalización luminosa para indicar el cambio de carril, ¿cuándo deberá concluir?",
+      "imagen": "examen-42_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una vez haya rebasado al vehículo adelantado."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando el vehículo haya adoptado la nueva trayectoria."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando compruebe que los demás usuarios han percibido la señalización."
+        }
+      ],
+      "ayuda": "En las maniobras que implican desplazamiento lateral, es éste el que se señaliza, por lo que la advertencia debe concluir en cuanto el vehículo haya adoptado la nueva trayectoria.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Un vehículo de tres ruedas, ¿puede arrastrar un remolque?",
+      "imagen": "examen-42_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo remolques con una masa máxima autorizada que no supere los 50 kilogramos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, nunca."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cumpliendo determinadas condiciones."
+        }
+      ],
+      "ayuda": "Las motocicletas, los vehículos de tres ruedas y los ciclomotores podrán arrastrar un remolque o semirremolque, siempre que no superen el 50 por ciento de la masa en vacío del vehículo tractor y se cumplan las determinadas condiciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Está prohibido efectuar un cambio de sentido de la marcha...",
+      "imagen": "examen-42_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "donde sea necesario atravesar una marca longitudinal discontinua."
+        },
+        {
+          "letra": "B",
+          "texto": "en los tramos de vía afectados por la señal “túnel”."
+        },
+        {
+          "letra": "C",
+          "texto": "en los tramos de vía donde no está prohibido adelantar."
+        }
+      ],
+      "ayuda": "Entre otros supuestos, se prohíbe efectuar el cambio de sentido de la marcha en los pasos a nivel, en los túneles, pasos inferiores y tramos de vía afectados por la señal «Túnel», así como en las autopistas y autovías, salvo en los lugares habilitados al efecto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Determinados anuncios publicitarios relacionados con la conducción, ¿pueden influir en el comportamiento al volante de algunos conductores jóvenes?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, la publicidad no influye en el comportamiento de los jóvenes."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, especialmente los que incitan a conducir de forma arriesgada."
+        },
+        {
+          "letra": "C",
+          "texto": "La publicidad solo influye en el comportamiento de los conductores noveles."
+        }
+      ],
+      "ayuda": "La publicidad relacionada con los vehículos o con algunos estilos de conducción, puede influir negativamente en el comportamiento al volante de algunos conductores, especialmente en los más jóvenes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Un requisito obligatorio que debe cumplir todo casco de protección utilizado por un motorista o su acompañante es que debe ser...",
+      "imagen": "examen-42_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "integral, porque protege más que los abiertos."
+        },
+        {
+          "letra": "B",
+          "texto": "homologado."
+        },
+        {
+          "letra": "C",
+          "texto": "abierto, porque es más cómodo y fresco que el integral."
+        }
+      ],
+      "ayuda": "Los conductores y pasajeros de motocicletas o motocicletas con sidecar, de vehículos de tres ruedas y cuadriciclos, de ciclomotores y de vehículos especiales tipo «quad», deberán utilizar adecuadamente cascos de protección homologados o certificados según la legislación vigente, cuando circulen tanto en vías urbanas como en interurbanas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Se reduce la probabilidad de fallecer en un accidente de tráfico si se circula en un vehículo de dos ruedas, con respecto a cuando se circula en un vehículo de cuatro ruedas?",
+      "imagen": "examen-42_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo si se circula a velocidades superiores a 50 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque si sale despedido de la motocicleta se reduce el riesgo de sufrir lesiones graves."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque el cuerpo de un motorista absorbe una mayor parte de la energía del impacto."
+        }
+      ],
+      "ayuda": "Debido a la ausencia de estructuras de protección, las personas que viajan en vehículos de dos ruedas tienen mayores probabilidades de sufrir heridas graves o de fallecer en un accidente de tráfico que las que viajan en turismos u otros vehículos de 4 ruedas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "En un accidente de tráfico en el que la ayuda no está organizada y hay heridos graves desamparados, ¿quién puede incurrir en un delito de omisión del deber de socorro?",
+      "imagen": "examen-42_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El conductor que no se detiene a ayudar porque no puede hacerlo sin riesgo propio."
+        },
+        {
+          "letra": "B",
+          "texto": "El conductor que, fortuitamente, provoca el accidente y no se detiene a ayudar."
+        },
+        {
+          "letra": "C",
+          "texto": "El conductor que, por imprudencia, provoca el accidente y se detiene a ayudar."
+        }
+      ],
+      "ayuda": "El que no socorriere a una persona que se halle desamparada y en peligro manifiesto y grave, cuando pudiere hacerlo sin riesgo propio ni de terceros podrá incurrir en un delito de omisión del deber de socorro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Cuando por la velocidad a la que circulen puedan ser adelantados sin riesgo y aunque la línea sea continua, un turismo puede invadir el sentido contrario para adelantar a...",
+      "imagen": "examen-42_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "bicicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "vehículos pesados que circulen lentamente."
+        },
+        {
+          "letra": "C",
+          "texto": "motocicletas."
+        }
+      ],
+      "ayuda": "En los tramos de vía en el que esté prohibido el adelantamiento, se podrá adelantar a conductores de bicicletas, ciclos, ciclomotores, peatones, animales y vehículos de tracción animal, cuando por la velocidad a que circulen puedan ser adelantados sin riesgo para ellos ni para la circulación en general.\n\n----",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "El consumo de alcohol, aunque sea en pequeñas cantidades...",
+      "imagen": "examen-42_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no deteriora la capacidad para conducir."
+        },
+        {
+          "letra": "B",
+          "texto": "deteriora la capacidad para conducir."
+        },
+        {
+          "letra": "C",
+          "texto": "deteriora la capacidad para conducir sólo si se mezcla con alguna droga ilegal."
+        }
+      ],
+      "ayuda": "El consumo de alcohol, aunque sea en pequeñas cantidades, siempre produce un deterioro sobre la capacidad para conducir con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "A falta de señalización, ¿cuál es la velocidad máxima permitida para una furgoneta cuando circule por una autovía que discurra dentro del poblado?",
+      "imagen": "examen-42_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "80 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "100 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "90 km/h."
+        }
+      ],
+      "ayuda": "A falta de señalización, la velocidad máxima permitida para una furgoneta y para los automóviles en general, en autopistas o autovías que discurran por poblado, es de 80 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Los menores de edad de estatura igual o inferior a 135 centímetros deberán utilizar sistemas de retención infantil homologados debidamente adaptados a...",
+      "imagen": "examen-42_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "su talla y edad."
+        },
+        {
+          "letra": "B",
+          "texto": "su edad y peso."
+        },
+        {
+          "letra": "C",
+          "texto": "su talla y peso."
+        }
+      ],
+      "ayuda": "Los menores de edad cuya estatura no supere los 135 centímetros deben viajar en el vehículo utilizando un dispositivo de retención infantil homologado y que se adapte a su talla y peso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "En un accidente de tráfico se produce el efecto submarino cuando...",
+      "imagen": "examen-42_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el cuerpo del ocupante del vehículo se desliza por debajo del cinturón de seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "el reposacabezas está mal regulado y el cuello sufre un violento movimiento de vaivén."
+        },
+        {
+          "letra": "C",
+          "texto": "el conductor recibe un impacto directo y fuerte del airbag en la cara."
+        }
+      ],
+      "ayuda": "Si el cinturón de seguridad no se coloca correctamente, se puede dar el fenómeno conocido como efecto submarino, el cual consiste en que el cuerpo, si no está bien sujeto por el cinturón, se desliza por debajo de la banda abdominal del mismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Siempre que sea posible, ¿cómo debe inmovilizar un vehículo que se ha visto implicado en un accidente?",
+      "imagen": "examen-42_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con unos calzos o con cualquier elemento que sirva como tal."
+        },
+        {
+          "letra": "B",
+          "texto": "Cortando el contacto y accionando el freno de mano."
+        },
+        {
+          "letra": "C",
+          "texto": "Desconectando los bornes de la batería."
+        }
+      ],
+      "ayuda": "Siempre que las circunstancias lo permitan, se debe inmovilizar a los vehículos que se hayan visto implicados en un accidente de tráfico, aplicando el freno de mano y cortando el contacto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "En caso de accidente, ¿qué factor agrava severamente las lesiones de los ocupantes de vehículos de dos ruedas, convirtiéndolas incluso en mortales?",
+      "imagen": "examen-42_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No utilizar casco."
+        },
+        {
+          "letra": "B",
+          "texto": "No utilizar guantes adecuados."
+        },
+        {
+          "letra": "C",
+          "texto": "Vestir pantalones cortos."
+        }
+      ],
+      "ayuda": "El casco y demás equipamiento del motociclista, son elementos de seguridad pasiva fundamentales para evitar lesiones en caso de caída o accidente. La falta de utilización del casco puede agravar severamente las lesiones de los ocupantes de vehículos de dos ruedas, convirtiéndolas incluso en mortales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Qué puede suceder si el sensor de lluvia del limpiaparabrisas está defectuoso?",
+      "imagen": "examen-42_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el sistema no puede detectar correctamente la cantidad de lluvia caída."
+        },
+        {
+          "letra": "B",
+          "texto": "Que las escobillas no limpian correctamente el parabrisas."
+        },
+        {
+          "letra": "C",
+          "texto": "Que las escobillas funcionen bien, pero que no arrastren toda el agua acumulada en el parabrisas."
+        }
+      ],
+      "ayuda": "El sensor de lluvia es un dispositivo incluido en algunos modelos de vehículos que se encarga de activar el sistema de limpiaparabrisas cuando detecta la presencia de agua sobre las lunas. Si el sensor no funciona correctamente, el sistema no puede detectar adecuadamente la cantidad de lluvia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "En relación con la siniestralidad vial, ¿qué es la hora dorada?",
+      "imagen": "examen-42_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El tiempo que tardan los servicios de emergencia en llegar al lugar del accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "El tiempo que se tarda en llegar al hospital después de sufrir un accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "Es la hora inmediatamente posterior a un accidente y en la que una intervención rápida y eficiente aumenta la supervivencia de los heridos."
+        }
+      ],
+      "ayuda": "La hora de oro o hora dorada es la primera hora que transcurre después de un siniestro de tráfico con víctimas, tiempo durante el cual, si un lesionado grave es atendido por los servicios de emergencia y trasladado al centro sanitario dentro de ese periodo, su esperanza de supervivencia aumenta notoriamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

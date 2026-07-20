@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 9,
+  "nombre": "Test de examen 9",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En un camión de 3.500 kilogramos de masa máxima autorizada, ¿se puede llevar como repuesto una rueda de uso temporal?",
+      "imagen": "examen-09_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque es obligatorio llevar una rueda completa de repuesto."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque este tipo de ruedas sólo las pueden llevar los turismos."
+        }
+      ],
+      "ayuda": "Los turismos, vehículos mixtos, furgones y camiones de masa máxima autorizada no superior a 3.500 kg deberán llevar una rueda completa de repuesto o una rueda de uso temporal, con las herramientas necesarias para el cambio de ruedas, o un sistema alternativo al cambio de las mismas que ofrezca suficientes garantías para la movilidad del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Si un turismo circula con más ocupantes que las plazas autorizadas, ¿podrá ser inmovilizado por los Agentes de tráfico?",
+      "imagen": "examen-09_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si se aumenta en un 50% el número de plazas autorizadas, excluida la del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "No, solamente será sancionado."
+        },
+        {
+          "letra": "C",
+          "texto": "No, siempre que el trayecto que se vaya a realizar en esas condiciones sea menor de 50 kilómetros."
+        }
+      ],
+      "ayuda": "Los agentes de la autoridad, podrán inmovilizar un vehículo cuando se produzca una ocupación excesiva del mismo que suponga aumentar en un 50 por ciento el número de plazas autorizadas, excluida la del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "En un estrechamiento sin señalizar que no permite el cruce simultáneo, coinciden un autobús y una autocaravana. Si no se sabe qué vehículo ha entrado primero, ¿quién debe dar marcha atrás?",
+      "imagen": "examen-09_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El autobús."
+        },
+        {
+          "letra": "B",
+          "texto": "La autocaravana."
+        },
+        {
+          "letra": "C",
+          "texto": "El que deba recorrer menor distancia."
+        }
+      ],
+      "ayuda": "Como norma general, en los estrechamientos sin señalizar, la prioridad de paso es para el vehículo que haya entrado primero. Cuando no sea posible determinarlo y se trate de vehículos de distinta clase, se debe recurrir al orden de preferencia entre vehículos según el cual las autocaravanas deben pasar antes que los autobuses.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Una motocicleta con más de 5 años de antigüedad, ¿debe llevar obligatoriamente el distintivo de inspección técnica periódica del vehículo?",
+      "imagen": "examen-09_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en un lugar bien visible."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si dispone de cúpula o parabrisas."
+        }
+      ],
+      "ayuda": "Las motocicletas deberán pasar su primera inspección técnica periódica a los cuatro años de su primera matriculación. Por tanto, deben llevar obligatoriamente el distintivo de inspección técnica periódica en un lugar visible.\n\n#14",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "En una calzada, fuera de poblado, con tres carriles para el mismo sentido de circulación, ¿a qué vehículo no le está permitido circular por el carril de la izquierda?",
+      "imagen": "examen-09_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A un autobús con una masa máxima autorizada de 7500 kilogramos."
+        },
+        {
+          "letra": "B",
+          "texto": "A un autobús articulado de 18 metros de longitud."
+        },
+        {
+          "letra": "C",
+          "texto": "A un autobús con remolque con una longitud total de 8 metros."
+        }
+      ],
+      "ayuda": "En vías con tres o más carriles para el mismo sentido, los camiones, furgones y vehículos especiales con MMA superior a 3500 kg y los conjuntos de vehículos de más de siete metros, circularán normalmente por el carril derecho pudiendo utilizar como máximo el inmediato, cuando las circunstancias del tráfico o de la vía lo aconsejen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Si el conductor de un vehículo no prioritario, por una circunstancia especialmente grave, se viera forzado a efectuar un servicio de urgencia, advirtiéndolo adecuadamente, ¿deben facilitarle el paso los demás conductores?",
+      "imagen": "examen-09_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, como si fuese un vehículo prioritario, llegando incluso a detenerse."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, incluso desobedeciendo las órdenes de los agentes de la autoridad."
+        }
+      ],
+      "ayuda": "Al percibir la presencia de un vehículo NO prioritario en servicio de urgencia por no poder recurrir a los vehículos prioritarios, los demás conductores les deben facilitar el paso como si se tratara de un vehículo prioritario.\n#11",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Cuándo se considera que un vehículo estacionado constituye un grave obstáculo para la circulación?\n",
+      "imagen": "examen-09_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando el tiempo de estacionamiento exceda de 15 minutos."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando se efectúe en una zona reservada a carga o descarga, fuera de las horas señaladas."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando se efectúa en doble fila sin conductor."
+        }
+      ],
+      "ayuda": "Además de otros casos, se consideran estacionamientos en lugares peligrosos o que obstaculizan gravemente la circulación, los que constituyen un riesgo u obstáculo a la circulación cuando el estacionamiento se efectúe en:\n\nuna zona reservada a carga y descarga durante las horas de utilización.\ndoble fila sin conductor.\nuna parada de transporte público señalizada y delimitada.\nespacios reservados a servicios de urgencia y seguridad.\nespacios prohibidos en vía pública calificada de atención preferente y específicamente señalizados.\nmedio de la calzada.\n\nY en general las paradas y estacionamientos que, sin estar incluidos en los puntos anteriores, constituyan un peligro u obstaculicen gravemente el tráfico de peatones, vehículos o animales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Conduce un vehículo que lleva enganchado un remolque ligero. ¿Les está permitido circular por una vía a cuya entrada se encuentra esta señal?",
+      "imagen": "examen-09_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, prohíbe el acceso a todo tipo de vehículos con remolque."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si el remolque es de un solo eje."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en todo caso."
+        }
+      ],
+      "ayuda": "A partir de esta señal, prohíbe el acceso a vehículos de motor con remolque exceptuando los de un solo eje.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Si va a seguir de frente y hay un semáforo en rojo a la izquierda y otro en verde a la derecha, debe obedecer el semáforo que se encuentra...",
+      "imagen": "examen-09_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en rojo, porque está a la izquierda y va a seguir de frente."
+        },
+        {
+          "letra": "B",
+          "texto": "en verde, porque está a la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "en verde, porque permite el paso."
+        }
+      ],
+      "ayuda": "Si existen semáforos o señales verticales de circulación con indicaciones distintas a la derecha y a la izquierda, quienes pretendan girar a la izquierda o seguir de frente sólo deben obedecer las de los situados inmediatamente a su izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "En esta situación, ¿puede adelantar al vehículo inmovilizado?",
+      "imagen": "examen-09_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, después de asegurarme de que puedo realizarlo sin peligro alguno."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque la marca longitudinal lo prohíbe."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre."
+        }
+      ],
+      "ayuda": "Cuando en un tramo de vía en el que esté prohibido el adelantamiento se encuentre inmovilizado un vehículo que, en todo o en parte, ocupe la calzada en el carril del sentido de la marcha, salvo que la inmovilización venga impuesta por las necesidades del tráfico, podrá ser rebasado, aunque para ello haya que ocupar la parte de la calzada reservada al sentido contrario, después de haberse cerciorado de que se puede realizar la maniobra sin peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "En esta vía urbana con tres carriles para cada sentido, ¿cuál es la velocidad máxima permitida?",
+      "imagen": "examen-09_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 km/h porque no hay otras señales."
+        },
+        {
+          "letra": "B",
+          "texto": "60 km/h porque hay tres carriles."
+        },
+        {
+          "letra": "C",
+          "texto": "40 km/h porque hay pasos de peatones."
+        }
+      ],
+      "ayuda": "La velocidad máxima fijada con carácter general en vías urbanas y travesías (independientemente del número de carriles) es de 50 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Está permitido cambiar el sentido de la marcha en una autopista?",
+      "imagen": "examen-09_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en los lugares habilitados al efecto."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en los pasos de la mediana que estén abiertos."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido cambiar el sentido de la marcha en las autopistas y autovías, salvo en los lugares habilitados para ello.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Para mejorar la visibilidad por una nube de humo o polvo, ¿qué luces debe utilizar?",
+      "imagen": "examen-09_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La de posición y la de corto alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "La de posición y la antiniebla trasera."
+        },
+        {
+          "letra": "C",
+          "texto": "Obligatoriamente la de posición y la antiniebla delantera."
+        }
+      ],
+      "ayuda": "En caso de pérdida de visibilidad por la existencia de una nube de polvo o humo, se deberán utilizar las luces de corto alcance o cruce junto con las de posición.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Esta señalización recomienda circular a 70 kilómetros por hora...",
+      "imagen": "examen-09_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en cualquier caso."
+        },
+        {
+          "letra": "B",
+          "texto": "solo cuando las condiciones meteorológicas y ambientales sean favorables."
+        },
+        {
+          "letra": "C",
+          "texto": "solo cuando está lloviendo."
+        }
+      ],
+      "ayuda": "La señalización que se observa indica que se recomienda circular a una velocidad máxima de 70 kilómetros por hora cuando esté lloviendo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Los conductores de motocicletas con estructura de autoprotección, si utilizan el cinturón de seguridad, estarán...",
+      "imagen": "examen-09_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "exentos de llevar el casco de protección en vía urbanas, solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "obligados a llevar el casco de protección en todo tipo de vías."
+        },
+        {
+          "letra": "C",
+          "texto": "exentos de llevar el casco de protección en vías urbanas e interurbanas."
+        }
+      ],
+      "ayuda": "Los conductores y pasajeros de las motocicletas equipadas con estructura de autoprotección, no estarán obligados a utilizar el casco de protección, por lo que deberán utilizar los cinturones de seguridad en todas las vías por las que circulen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Cuando nieva intensamente, ante la posibilidad de quedar bloqueado, ¿qué es recomendable llevar en el vehículo?",
+      "imagen": "examen-09_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es muy recomendable llevar un GPS."
+        },
+        {
+          "letra": "B",
+          "texto": "Basta con llevar un teléfono móvil."
+        },
+        {
+          "letra": "C",
+          "texto": "Además del depósito lleno, ropa de abrigo, agua, una linterna y comida."
+        }
+      ],
+      "ayuda": "En invierno antes de realizar un viaje y en caso de que puedan preverse condiciones atmosféricas desfavorables con presencia de nevadas, además del depósito lleno es conveniente llevar ropa de abrigo, agua, algunos alimentos y una linterna.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Un cuadriciclo ligero es...",
+      "imagen": "examen-09_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un vehículo de motor con una cilindrada de 50 cc."
+        },
+        {
+          "letra": "B",
+          "texto": "un vehículo de motor con una cilindrada superior a 50 cc."
+        },
+        {
+          "letra": "C",
+          "texto": "un vehículo de 4 ruedas cuya masa en vacío sea inferior a 350 kg y cuya velocidad máxima por construcción no sea superior a 45 km/h, con un motor de cilindrada igual o inferior a 50cc."
+        }
+      ],
+      "ayuda": "Cuadriciclo ligero: vehículo de cuatro ruedas cuya masa en vacío sea inferior a 350 kg, excluida la masa de las baterías en el caso de vehículos eléctricos, cuya velocidad máxima por construcción no sea superior a 45 km/h y con un motor de cilindrada igual o inferior a 50 cm3 para los motores de explosión, o cuya potencia máxima neta sea igual o inferior a 4 kW, para los demás tipos de motores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Circula por esta vía y a la vista de la señal, ¿tiene prioridad de paso?",
+      "imagen": "examen-09_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En un paso estrecho, siempre tiene prioridad el vehículo que entra primero."
+        },
+        {
+          "letra": "B",
+          "texto": "No, la señal indica prioridad de paso en sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Señal de prioridad respecto al sentido contrario\nLa señal que se observa en la imagen, indica a los conductores que en el paso estrecho tienen prioridad con relación a los vehículos que circulen en sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Si observa que cuando circula en línea recta el vehículo se desvía hacia un lado, puede ser debido a...",
+      "imagen": "examen-09_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no mantener girado el volante al máximo durante las maniobras."
+        },
+        {
+          "letra": "B",
+          "texto": "un bajo nivel del líquido de frenos."
+        },
+        {
+          "letra": "C",
+          "texto": "una presión distinta en los neumáticos de un mismo eje."
+        }
+      ],
+      "ayuda": "Cuando se observe que su vehículo se desvía hacia un lado, se debe tener en cuenta que esto puede ser debido a una presión de inflado desigual entre neumáticos del mismo eje.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "En esta vía urbana con dos carriles para cada sentido que no tiene líneas de separación de carriles, ¿por qué carril se debe circular?",
+      "imagen": "examen-09_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el de su derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el carril que más convenga para mi destino."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el carril de la derecha y no puedo cambiar al segundo."
+        }
+      ],
+      "ayuda": "Dentro de poblado, cuando la calzada disponga de más de un carril para el mismo sentido de circulación, y estos no estén delimitados por líneas longitudinales, se deberá circular por el carril de la derecha como norma general.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Los límites de velocidad que se establecen para una vía, ¿de qué dependen?",
+      "imagen": "examen-09_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De criterios económicos, sobre todo."
+        },
+        {
+          "letra": "B",
+          "texto": "De su trazado y del número de curvas."
+        },
+        {
+          "letra": "C",
+          "texto": "De su trazado y del tráfico que tenga."
+        }
+      ],
+      "ayuda": "Los límites de velocidad específicos que se aplican sobre determinadas vías, se fijan teniendo en cuenta especialmente el trazado y el volumen de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "El campo visual de los niños es...",
+      "imagen": "examen-09_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "menor que el de los adultos."
+        },
+        {
+          "letra": "B",
+          "texto": "mayor que el de los adultos."
+        },
+        {
+          "letra": "C",
+          "texto": "igual que el de los adultos."
+        }
+      ],
+      "ayuda": "Una de las características de los niños, en relación con el tráfico, es que poseen un campo visual menor que el de los adultos, debido a su baja estatura y a ciertas dificultades de visión periférica.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Influyen las distracciones sobre los accidentes que sufren los ciclistas?",
+      "imagen": "examen-09_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, las distracciones de los propios ciclistas tienen relación directa."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en los accidentes de ciclistas afectan otros tipos de causas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, los ciclistas son un grupo de conductores con una tasa de distracción muy baja."
+        }
+      ],
+      "ayuda": "Las distracciones tienen una elevada incidencia en la accidentalidad de los ciclistas. Algunos accidentes sufridos por estos vehículos son debido a las distracciones de los propios ciclistas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Cómo se puede detectar que las escobillas están en mal estado?",
+      "imagen": "examen-09_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Observando si la goma está endurecida, en cuyo caso aparecerán chirridos, vibraciones y un funcionamiento defectuoso."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la fecha de caducidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Después de la época de lluvias se habrán desgastado."
+        }
+      ],
+      "ayuda": "Puede deducirse que las escobillas del limpiaparabrisas están en mal estado cuando:\n\n- hagan ruido al limpiar.\n- dejen alguna zona sin limpiar.\n- vibren cuando estén en funcionamiento por estar la goma endurecida o deteriorada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Entre los principales costes sanitarios provocados por los accidentes de circulación se encuentran...",
+      "imagen": "examen-09_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los medicamentos."
+        },
+        {
+          "letra": "B",
+          "texto": "los antidepresivos."
+        },
+        {
+          "letra": "C",
+          "texto": "aquellos de rehabilitación y adaptación para las personas discapacitadas."
+        }
+      ],
+      "ayuda": "Entre los principales costes sanitarios provocados por los accidentes de circulación se encuentran aquellos de rehabilitación y adaptación para las personas discapacitadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Es importante mantener limpio el cristal de los faros ya que la suciedad...",
+      "imagen": "examen-09_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "modifica la dirección de los rayos luminosos provocando deslumbramientos."
+        },
+        {
+          "letra": "B",
+          "texto": "provoca la corrosión del cristal disminuyendo la estanqueidad."
+        },
+        {
+          "letra": "C",
+          "texto": "elimina la superficie rugosa que forman los prismas de la superficie exterior."
+        }
+      ],
+      "ayuda": "La suciedad de los faros del vehículo modifica la dirección de los rayos luminosos provocando deslumbramiento. Para evitarlo se debe mantener limpio el cristal de los faros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "En una zona en obras hay un estrechamiento en la calzada, ¿qué vehículo tiene preferencia si no hay señal que lo regule?",
+      "imagen": "examen-09_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El que ha entrado primero."
+        },
+        {
+          "letra": "B",
+          "texto": "El que no tiene que cambiar de carril para entrar en el estrechamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "El que tiene el estrechamiento a su derecha."
+        }
+      ],
+      "ayuda": "En los estrechamientos sin señalizar la prioridad de paso, pasará primero, como norma general, el vehículo que haya entrado primero en el tramo estrecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Circulando con su motocicleta, ve a un conocido que circula por la acera. ¿Le está permitido utilizar las señales acústicas para saludarlo?",
+      "imagen": "examen-09_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nada más en vías fuera de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Las señales acústicas solo deben ser utilizadas en los casos en que resulte necesario, para evitar un accidente o en otros supuestos autorizados, estando prohibido su uso por razones distintas a las previstas reglamentariamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Al tomar una curva, nota que su vehículo no gira tanto como debería porque los neumáticos delanteros han perdido cierta adherencia; ¿qué es lo primero que debe hacer?",
+      "imagen": "examen-09_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumentar el ángulo de viraje para conseguir un mayor agarre."
+        },
+        {
+          "letra": "B",
+          "texto": "Soltar el pedal del acelerador y no tocar el pedal del freno, para conseguir más adherencia y tomar la curva."
+        },
+        {
+          "letra": "C",
+          "texto": "Pisar el pedal de freno con fuerza y corregir la trayectoria."
+        }
+      ],
+      "ayuda": "Si durante una curva los neumáticos delanteros pierden adherencia y no giran como deberían, se debe soltar el pedal del acelerador y no tocar el pedal del freno, de esta manera se consigue más adherencia durante la curva.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "A causa de la estrechez de la calzada, el cambio de sentido no se puede efectuar con un solo giro. ¿Qué está obligado a hacer el conductor?",
+      "imagen": "examen-09_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hacer el cambio de sentido con el menor número de maniobras posibles."
+        },
+        {
+          "letra": "B",
+          "texto": "Continuar la marcha hasta que haya un sitio adecuado."
+        },
+        {
+          "letra": "C",
+          "texto": "Esperar hasta que no haya tráfico para hacer el cambio de sentido."
+        }
+      ],
+      "ayuda": "El cambio de sentido debe realizarse en un lugar adecuado para efectuar la maniobra (que permita realizar la maniobra en un solo giro), de forma que se intercepte la vía el menor tiempo posible y solo cuando existan condiciones de visibilidad y seguridad adecuadas. Si la anchura de la calzada no es suficiente para realizar la maniobra en un solo giro, se deberá continuar la marcha hasta que haya un sitio adecuado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "categoria_id": 3,
+  "test_id": 8,
+  "nombre": "Tema 7 — Uso de las vías públicas",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "La utilización del carril habilitado para VAO...",
+      "imagen": "tema-07_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se limita a primeras horas de la mañana."
+        },
+        {
+          "letra": "B",
+          "texto": "está prohibida para vehículos con remolque."
+        },
+        {
+          "letra": "C",
+          "texto": "está permitida a ciclomotores."
+        }
+      ],
+      "ayuda": "La utilización del carril habilitado para VAO queda limitada a motocicletas, turismos y vehículos mixtos adaptables, y está prohibida, por tanto, al resto de los vehículos y conjuntos de vehículos, incluidos los turismos con remolque, así como a peatones, ciclos, ciclomotores, vehículos de tracción animal y animales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Para aumentar la fluidez del tráfico, se ha abierto un carril para circular en sentido contrario al habitual, ¿qué vehículos pueden circular por este carril?",
+      "imagen": "tema-07_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todos los autorizados a circular por la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Todos los que pueden circular a más de 60 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "Los turismos sin remolque y las motocicletas."
+        }
+      ],
+      "ayuda": "Como norma general y cuando se habiliten por razones de fluidez, la utilización de los carriles habilitados para la circulación en sentido contrario al habitual queda limitada a las motocicletas y turismos, y está prohibida, por lo tanto, al resto de los vehículos, incluidos los turismos con remolque.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Si debido a una avería, un turismo circula a velocidad anormalmente reducida, sin interrumpir la circulación, ¿por dónde debe circular?",
+      "imagen": "tema-07_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "No podrá seguir circulando, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Por la parte derecha de la calzada sin invadir el arcén."
+        }
+      ],
+      "ayuda": "Deberán circular por el arcén de su derecha, si es transitable y suficiente, y si no por la parte imprescindible de la calzada, los conductores de aquellos vehículos cuya M.M.A. no exceda de 3.500 kg que, por razones de emergencia, lo hagan a velocidad anormalmente reducida, perturbando con ello gravemente la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En las vías interurbanas con tres carriles para el mismo sentido, a un turismo con remolque, ¿le está permitido circular por el carril izquierdo?",
+      "imagen": "tema-07_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando la longitud del conjunto no supere los 7 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solo para adelantar a otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en ningún caso."
+        }
+      ],
+      "ayuda": "Cuando la calzada tenga tres o más carriles en el sentido de su marcha, los conductores de conjuntos de vehículos de más de siete metros de longitud, deben circular normalmente por el situado más a su derecha, pudiendo utilizar el inmediato cuando las circunstancias del tráfico o de la vía lo aconsejen, a condición de que no entorpezca la marcha de otro vehículo que le siga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "En esta autovía, el vehículo que circula por el carril izquierdo no está adelantando, ¿circula correctamente?",
+      "imagen": "tema-07_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque debe circular por el carril de la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque no impide el paso a otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque puede utilizar cualquier carril."
+        }
+      ],
+      "ayuda": "Como norma general se debe circular por el carril más próximo a la derecha. Si no se está realizando un adelantamiento o no existe otra circunstancia que lo justifique, la circulación por el o los carriles de la izquierda está prohibida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "A un peatón, ¿le está permitido circular por la derecha en una vía fuera de poblado?",
+      "imagen": "tema-07_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando lo hace por razones de seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Fuera de poblado, cuando no se disponga de espacio especialmente reservado para peatones, como norma general, la circulación de éstos se hará por la izquierda. No obstante, la circulación de peatones se hará por la derecha cuando concurran circunstancias que así lo justifiquen por razones de mayor seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Para pagar el peaje en la autopista que se observa en la fotografía, ¿qué carriles se deben utilizar?",
+      "imagen": "tema-07_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los que estén señalizados con una flecha verde."
+        },
+        {
+          "letra": "B",
+          "texto": "Los que estén señalizados con un aspa roja."
+        },
+        {
+          "letra": "C",
+          "texto": "Cualquiera de ellos."
+        }
+      ],
+      "ayuda": "Los puestos de peaje que están disponibles para pagar son los situados bajo la flecha verde del semáforo de carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Está prohibido conducir...",
+      "imagen": "tema-07_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "durante más de dos horas seguidas, sin realizar ningún descanso."
+        },
+        {
+          "letra": "B",
+          "texto": "más de una hora sin descansar, pero únicamente en vías urbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "utilizando cascos o auriculares conectados a aparatos receptores o reproductores de sonido."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo está obligado a mantener la atención permanente a la conducción, que garantice su propia seguridad, la del resto de los ocupantes del vehículo y la de los demás usuarios de la vía. Por consiguiente, está prohibido conducir utilizando cascos o auriculares conectados a aparatos receptores o reproductores de sonido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "El conductor de un turismo, ¿está obligado a mantener la adecuada colocación de los animales que transporta?",
+      "imagen": "tema-07_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, los animales deben ir correctamente colocados en todo momento."
+        },
+        {
+          "letra": "B",
+          "texto": "No, no está obligado."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo al iniciar la marcha."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo está obligado a mantener su propia libertad de movimientos, el campo necesario de visión y la atención permanente a la conducción.\n\nA estos efectos, deberá mantener la adecuada colocación de los objetos o animales transportados para que no haya interferencia entre el conductor y cualquiera de ellos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "Para abandonar la vía, ¿en qué momento debe entrar en el carril de deceleración?",
+      "imagen": "tema-07_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Lo más tarde posible para facilitar la fluidez."
+        },
+        {
+          "letra": "B",
+          "texto": "Lo antes posible para adaptar la velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "En cualquier momento mientras la línea sea discontinua, porque es indiferente."
+        }
+      ],
+      "ayuda": "Para abandonar una vía por un carril de decelaración, se debe circular por el carril más próximo a la salida y entrar en él lo antes posible para adaptar la velocidad a la nueva vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Está permitido colocar cortinillas en los cristales traseros del vehículo?",
+      "imagen": "tema-07_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si el vehículo dispone de un espejo retrovisor exterior a cada lado."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si se trata de un accesorio homologado."
+        }
+      ],
+      "ayuda": "Si no se puede evitar que el campo de visión quede anulado por cualquier objeto, es obligatorio llevar instalado un espejo retrovisor exterior bien reglado a cada lado del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En vías de dos calzadas separadas por medianas, como norma general, se circulará:",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la calzada que mejor convenga al destino del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la calzada de la derecha en el sentido de la marcha."
+        },
+        {
+          "letra": "C",
+          "texto": "Por la calzada de la izquierda en el sentido de la marcha."
+        }
+      ],
+      "ayuda": "Como norma general, en vías de dos calzadas separadas por medianas se debe circular por la calzada de la derecha en el sentido de la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Pueden los conductores de motocicletas conducir utilizando auriculares inalámbricos conectados a un teléfono móvil?",
+      "imagen": "tema-07_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque son dispositivos \"manos libres\"."
+        },
+        {
+          "letra": "B",
+          "texto": "No, la utilización de estos dispositivos está prohibida en todo caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si están certificados u homologados y no afectan a la seguridad en la conducción."
+        }
+      ],
+      "ayuda": "\tComo norma general, durante la conducción está prohibida la utilización de cascos o auriculares.\n\tNo obstante, no se considerará dentro de la prohibición la utilización de dispositivos inalámbricos certificados u homologados para la utilización en el casco de protección de los conductores de motocicletas y ciclomotores, con fines de comunicación o navegación, siempre que no afecten a la seguridad en la conducción.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Si no hay ninguna zona para los peatones, dentro de poblado, ¿por dónde deben circular los peatones?",
+      "imagen": "tema-07_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Siempre por su derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la derecha o por la izquierda, dependiendo de las circunstancias."
+        },
+        {
+          "letra": "C",
+          "texto": "Siempre por su izquierda."
+        }
+      ],
+      "ayuda": "En vías de poblado, los peatones podrán circular tanto por la derecha como por la izquierda de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Está permitido que una persona en silla de ruedas se desplace por el arcén?",
+      "imagen": "tema-07_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que adopte las debidas precauciones."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo en vías urbanas."
+        }
+      ],
+      "ayuda": "Si existe arcén suficiente y practicable, las personas que se desplacen en silla de ruedas deben circular por él, adoptando las debidas precauciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Qué vehículos están obligados a circular por la calzada?",
+      "imagen": "tema-07_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todos los vehículos especiales."
+        },
+        {
+          "letra": "B",
+          "texto": "Los vehículos especiales de más de 3.500 kg de masa máxima autorizada."
+        },
+        {
+          "letra": "C",
+          "texto": "Los vehículos especiales de hasta 3.500 kg de masa máxima autorizada."
+        }
+      ],
+      "ayuda": "El conductor de un automóvil o de un vehículo especial con masa máxima autorizada superior a 3.500 kilogramos circulará por la calzada y no por el arcén.\n\nLos conductores de vehículos especiales con masa máxima autorizada no superior a 3.500 kilogramos, entre otros, en el caso de que no exista vía o parte de ella que les esté especialmente destinada, circularán por el arcén de su derecha, si fuera transitable y suficiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Los vehículos que circulan por los arcenes de una vía en la que se ha habilitado un carril adicional deberán llevar encendido, al menos...",
+      "imagen": "tema-07_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el alumbrado de cruce, tanto de día como de noche."
+        },
+        {
+          "letra": "B",
+          "texto": "el alumbrado de cruce solo durante el día."
+        },
+        {
+          "letra": "C",
+          "texto": "el alumbrado de cruce durante la noche y el de posición durante el día."
+        }
+      ],
+      "ayuda": "Los vehículos que circulan por los arcenes de una vía en la que se ha habilitado un carril adicional deberán llevar encendido, al menos, el alumbrado de cruce, tanto de día como de noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "La celebración de marchas ciclistas organizadas, ¿requieren autorización previa?",
+      "imagen": "tema-07_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo las que se celebran en días festivos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que el número de participantes sea superior a 50."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Las marchas ciclistas organizadas, requieren la autorización previa por parte de la autoridad correspondiente. Se entenderá por marchas ciclistas organizadas aquellas actividades en las que participen más de 50 ciclistas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "En zona urbana, ¿por dónde están obligados a circular los peatones, como norma general?",
+      "imagen": "tema-07_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por las aceras."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Es indiferente."
+        }
+      ],
+      "ayuda": "En zona urbana, los peatones deben circular por las aceras y demás zonas destinadas específicamente para ello.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "El carril que se observa a la izquierda está abierto para circular en sentido contrario. ¿Cuál es la velocidad máxima permitida en ese carril?",
+      "imagen": "tema-07_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "80 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "100 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "90 kilómetros por hora."
+        }
+      ],
+      "ayuda": "En los carriles habilitados para su circulación en sentido contrario al habitual se deberá circular a una velocidad comprendida entre 60 y 80 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Para qué sirve el carril de aceleración?",
+      "imagen": "tema-07_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para incorporarse a la vía a una velocidad adecuada a las circunstancias de circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "Para incorporarse lentamente a la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "Para alcanzar 120 km/h antes de incorporarse a la vía."
+        }
+      ],
+      "ayuda": "El carril de aceleración sirve para que los vehículos puedan alcanzar la velocidad adecuada antes de incorporarse a una determinada vía, de forma de hacerlo con seguridad y sin entorpecer al resto de vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "En este tramo de autopista no quiere adelantar. ¿Puede circular por el carril izquierdo?",
+      "imagen": "tema-07_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo si circula a la velocidad máxima permitida."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En las autopistas, se debe circular por el carril derecho como norma general. Si no se pretende adelantar o no existen otras circunstancias que requieran la utilización de los carriles situados a la izquierda, es obligatorio circular por el carril de la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Como norma general, en una vía interurbana que no dispone de zona peatonal, ¿por qué lado deben circular los peatones?",
+      "imagen": "tema-07_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por su derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Indistintamente, por cualquiera de los dos lados."
+        },
+        {
+          "letra": "C",
+          "texto": "Por su izquerda."
+        }
+      ],
+      "ayuda": "Fuera de poblado, cuando no se disponga de espacio especialmente reservado para peatones, como norma general, la circulación de éstos se hará por la izquierda. No obstante, la circulación de peatones se hará por la derecha cuando concurran circunstancias que así lo justifiquen por razones de mayor seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Puede un conductor novel circular por un carril para vehículos con alta ocupación?",
+      "imagen": "tema-07_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, un conductor novel no puede circular por dicho carril durante el primer año."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque un conductor novel no puede exceder los 80 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si el vehículo transporta el número de personas establecidas."
+        }
+      ],
+      "ayuda": "En los carriles VAO (vehículos de alta ocupación) no existe ninguna limitación específica para los conductores noveles, por lo que, cuando el vehículo esté autorizado y transporte el número de personas establecidas podrá circular por dicho carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Circula por una calzada con dos sentidos y tres carriles separados por marcas longitudinales discontinuas; ¿qué carril debe usar normalmente?",
+      "imagen": "tema-07_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El carril derecho o el central, indistintamente."
+        },
+        {
+          "letra": "B",
+          "texto": "El situado más a la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "El carril por el que haya menos vehículos."
+        }
+      ],
+      "ayuda": "En calzadas con doble sentido de circulación y tres carriles separados por marcas longitudinales discontinuas, se circulará normalmente por el carril de la derecha y, en ningún caso, por el situado más a la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Los peatones tienen el mismo derecho que los conductores a usar las vías públicas?",
+      "imagen": "tema-07_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo en las zonas peatonales."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Todos los usuarios, ya sean peatones o conductores, tienen los mismos derechos de usar las vías públicas, respetando, cada uno de ellos, las obligaciones normativas relacionadas con su condición de usuario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "En una travesía de dos carriles para cada sentido, ¿puede circular por el segundo carril para girar a la izquierda?",
+      "imagen": "tema-07_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque en la travesía siempre debo circular por la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque la travesía es una vía interurbana."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque en la travesía debo circular igual que en las vías urbanas."
+        }
+      ],
+      "ayuda": "Cuando se circule por calzadas de poblado con, al menos, dos carriles reservados para el mismo sentido y delimitados por marcas longitudinales, se podrá circular por el carril que mejor convenga a su destino.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Para entrar en una autopista, ¿a qué velocidad debe hacerlo?",
+      "imagen": "tema-07_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Siempre muy despacio para entrar con seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "A la máxima velocidad permitida en la autopista."
+        },
+        {
+          "letra": "C",
+          "texto": "A la velocidad adecuada que permita incorporarse con seguridad."
+        }
+      ],
+      "ayuda": "Para entrar a una autopista por un carril de aceleración, se debe llevar una velocidad que permita incorporarse con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "En esta vía circula por el carril que mejor conviene a su destino, ¿cuándo puede abandonarlo?",
+      "imagen": "tema-07_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al prepararse para cambiar de dirección, adelantar, parar o estacionar."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente cuando pretenda parar o estacionar."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando quiera cambiar de dirección o de sentido."
+        }
+      ],
+      "ayuda": "En calzadas situadas dentro de poblado con, al menos, dos carriles reservados para el mismo sentido, delimitados por marcas longitudinales, (excepto autopistas o autovías), los conductores de automóviles podrán utilizar el que mejor convenga a su destino, pero no deberán abandonarlo más que para prepararse a cambiar de dirección, adelantar, parar o estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "En esta vía un ciclomotor debe circular por...",
+      "imagen": "tema-07_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la calzada, lo más cerca posible del borde derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "el carril derecho."
+        }
+      ],
+      "ayuda": "Cuando no exista vía especialmente destinada para ellos, los conductores de ciclos, ciclomotores, vehículos de tracción animal, vehículos para personas de movilidad reducida y vehículos especiales de M.M.A no superior a 3500 kg., deberán circular por el arcén derecho si es transitable y suficiente, y de no serlo, por la parte imprescindible de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

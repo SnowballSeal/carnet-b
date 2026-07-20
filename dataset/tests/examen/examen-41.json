@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 41,
+  "nombre": "Test de examen 41",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Un vehículo con una masa máxima que no supera los 3.500 kg, en el que las plazas de asiento y la zona de carga no están situadas en un compartimento único, es:",
+      "imagen": "examen-41_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un furgón o furgoneta."
+        },
+        {
+          "letra": "B",
+          "texto": "Una \"pick-up\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Un vehículo mixto."
+        }
+      ],
+      "ayuda": "Un vehículo pick-up es aquel cuya masa máxima no es superior a 3.500 kg y en el que las plazas de asiento y la zona de carga no están situadas en un compartimento único.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Entre otras causas, ¿cuál puede ser el motivo por el que el motor tiene un consumo de carburante superior al indicado por el fabricante?",
+      "imagen": "examen-41_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el conductor circula seleccionando preferentemente marchas largas."
+        },
+        {
+          "letra": "B",
+          "texto": "Una fuga de líquido en el sistema de dirección."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el conductor circula haciendo frecuentes frenadas y aceleraciones."
+        }
+      ],
+      "ayuda": "Para realizar una conducción eficiente, se deben evitar las frecuentes frenadas y aceleraciones. Este tipo de conducción incrementa notoriamente el consumo de combustible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Según los estudios sobre accidentalidad, el exceso de velocidad...",
+      "imagen": "examen-41_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no tiene incidencia ni en el número de accidentes ni en la gravedad de las lesiones."
+        },
+        {
+          "letra": "B",
+          "texto": "es un factor de riesgo muy presente en los accidentes con víctimas."
+        },
+        {
+          "letra": "C",
+          "texto": "está presente en todos los accidentes con víctimas."
+        }
+      ],
+      "ayuda": "El exceso de velocidad es uno de los factores de riesgo que con mayor frecuencia está presente en los accidentes viales con víctimas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Llevar el aire acondicionado encendido, ¿puede facilitar la entrada de polen al interior del vehículo, agravando los síntomas a los conductores con alergia respiratoria?",
+      "imagen": "examen-41_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, por lo que se debe llevar el filtro antipolen en el vehículo y cambiarlo periódicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "No, el polen no entra al interior del vehículo a través del sistema de ventilación."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, por lo que se debe seleccionar la ventilación exterior si el vehículo no tiene filtro antipolen."
+        }
+      ],
+      "ayuda": "Conducir con un filtro antipolen en mal estado puede hacer que los conductores que padezcan alergia noten mucho más la presencia de polen y otros alérgenos dentro del habitáculo. Este filtro debe ser cambiado periódicamente de acuerdo con las instrucciones del fabricante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿En dónde puede acreditar, ante los agentes de tráfico, que es titular de un permiso de conducción presentándolo de forma digital a través de la aplicación móvil miDGT?",
+      "imagen": "examen-41_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En todos los países del mundo."
+        },
+        {
+          "letra": "B",
+          "texto": "En todo el territorio español."
+        },
+        {
+          "letra": "C",
+          "texto": "En todo el territorio de la Unión Europea."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo a motor o ciclomotor está obligado a estar en posesión y llevar consigo su permiso o licencia válidos para conducir. La tenencia de la autorización administrativa podrá acreditarse mediante su presentación física o digital.\n\nSe debe tener en cuenta que la acreditación en formato digital, a través de la aplicación miDGT solo es válida en España. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Si se avería el motor de su vehículo, ¿está permitido repararlo en una vía pública?",
+      "imagen": "examen-41_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, a menos que, de forma excepcional, lo repare el operario de la grúa."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, como norma general."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que no se dificulte la circulación a otros usuarios de la vía."
+        }
+      ],
+      "ayuda": "Como norma general no está permitido realizar ninguna operación que tenga por objeto la reparación del vehículo en la propia vía, salvo que al operario del servicio de auxilio tal actuación le requiera menos tiempo que la retirada del vehículo o que ello sea imprescindible para efectuar la retirada del vehículo inmovilizado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "En los descensos prolongados con curvas, cuando por razones de seguridad se permita, los ciclistas, ¿pueden circular por la parte derecha de la calzada que necesiten?",
+      "imagen": "examen-41_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pueden utilizar toda la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, deben utilizar siempre el arcén."
+        }
+      ],
+      "ayuda": "En los descensos prolongados con curvas, cuando razones de seguridad lo permitan, los conductores de bicicletas podrán abandonar el arcén y circular por la parte derecha de la calzada que necesiten.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Si la parte rígida de la carrocería del vehículo es de una gran resistencia ¿es aconsejable no usar el cinturón de seguridad?",
+      "imagen": "examen-41_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque los ocupantes del vehículo están bien protegidos."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo en los vehículos todo terreno o en los de más de 3.500 kilogramos de MMA."
+        }
+      ],
+      "ayuda": "El cinturón de seguridad debe utilizarse siempre, ya que su finalidad principal es retener y proteger los cuerpos de los ocupantes del vehículo en caso de accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "En cuanto a la conducción eficiente y el uso de la caja de cambios, ¿cómo se conoce la técnica que consiste en pasar, por ejemplo, de segunda marcha a cuarta, o al reducir la velocidad de quinta a tercera?",
+      "imagen": "examen-41_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Conducción autónoma."
+        },
+        {
+          "letra": "B",
+          "texto": "Salto de marchas."
+        },
+        {
+          "letra": "C",
+          "texto": "Conducción guiada."
+        }
+      ],
+      "ayuda": "En relación con la conducción eficiente, se conoce como “salto de marchas” a aquella técnica que consiste en pasar directamente de una marcha a otra, por ejemplo, de tercera a quinta o de segunda a cuarta, sin el paso intermedio que se realiza de forma habitual. Si se hace de forma correcta, constituye una disminución en el consumo de carburante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "A la vista de estas señales, ¿en que estación de servicio podrá recargar un vehículo eléctrico o híbrido enchufable?",
+      "imagen": "examen-41_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente en una estación de servicio señalizada con la señal B."
+        },
+        {
+          "letra": "B",
+          "texto": "En cualquiera de ellas, ya que las dos disponen de estación de recarga eléctrica."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente en una estación señalizada con la señal A."
+        }
+      ],
+      "ayuda": "En ambas señales aparece el pictograma que indica la situación de una estación de recarga eléctrica (pictogramas con las siglas EV), por lo que en cualquiera de las estaciones de servicio en las que se muestre dicho símbolo se podrá recargar un vehículo eléctrico o híbrido enchufable.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Qué ocurre si el vidrio y la tulipa de los faros están sucios?",
+      "imagen": "examen-41_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que las luces pierden eficacia, especialmente si los faros son de xenón."
+        },
+        {
+          "letra": "B",
+          "texto": "Que la luz roja del freno se ve blanca, lo cual puede confundir a otros conductores."
+        },
+        {
+          "letra": "C",
+          "texto": "Que se reduce la vida útil de las luces a la mitad, ya que se funden con facilidad."
+        }
+      ],
+      "ayuda": "Las tulipas y demás elementos exteriores de las luces deben estar siempre limpios. De lo contrario, las luces pueden perder eficacia. Esto es especialmente importante en los vehículos que equipan faros de xenón, ya que además de ver reducida su capacidad de iluminar correctamente, la deformación del haz luminoso puede deslumbrar a otros usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Si el ajuste del sistema de alumbrado de su vehículo está demasiado bajo, ¿influye en la seguridad?",
+      "imagen": "examen-41_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, se percibe antes un obstáculo en la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, se tarda más en percibir un obstáculo en la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "No, llevar los faros mal reglados no influye en la seguridad."
+        }
+      ],
+      "ayuda": "El sistema de alumbrado debe estar correctamente reglado. Si el ajuste es demasiado bajo, la zona iluminada por delante del vehículo será más corta, por lo que se tardará más tiempo en percibir cualquier posible obstáculo en la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Como norma general, para el cómputo de carriles no se tendrán en cuenta los carriles...",
+      "imagen": "examen-41_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "reservados a determinados vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "adicionales."
+        },
+        {
+          "letra": "C",
+          "texto": "reversibles."
+        }
+      ],
+      "ayuda": "Para el cómputo de carriles, a efectos del régimen reglamentario de posición en la calzada, como norma general no se tendrán en cuenta los reservados a determinados vehículos o a ciertas maniobras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Cuando no sea considerado delito, conducir un vehículo con presencia de drogas en el organismo es una infracción...",
+      "imagen": "examen-41_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "grave, con pérdida de 4 puntos en el permiso de conducción."
+        },
+        {
+          "letra": "B",
+          "texto": "muy grave, con pérdida de 6 puntos de permiso de conducción."
+        },
+        {
+          "letra": "C",
+          "texto": "muy grave, con pérdida de 8 puntos en el permiso de conducción."
+        }
+      ],
+      "ayuda": "Cuando no sea constitutivo de delito, conducir con tasas de alcohol superiores a las que reglamentariamente se establezcan, o con presencia de drogas en el organismo, es una infracción calificada como muy grave que conlleva, además de la sanción económica, la pérdida de 6 puntos del permiso o licencia de conducir.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Los conductores de vehículos pesados, ¿tienen mayor dificultad de visión del entorno como consecuencia de las dimensiones del vehículo, sobre todo en los ángulos muertos?",
+      "imagen": "examen-41_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuanto más grande es el vehículo, más amplia es la zona del ángulo muerto."
+        },
+        {
+          "letra": "B",
+          "texto": "No, salvo que las dimensiones del vehículo superen las máximas autorizadas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, cuanto más grande sea el vehículo, mayor será el campo de visión del entorno."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos pesados tienen mayor dificultad de visión del entorno como consecuencia de las dimensiones del vehículo, sobre todo en los ángulos muertos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Si se observa un incremento en el consumo de carburante de un vehículo, ¿qué se debe revisar?",
+      "imagen": "examen-41_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El circuito de escape."
+        },
+        {
+          "letra": "B",
+          "texto": "El circuito de refrigeración y el de lubricación."
+        },
+        {
+          "letra": "C",
+          "texto": "El circuito de encendido y el de alimentación."
+        }
+      ],
+      "ayuda": "Si se observa un incremento en el consumo de carburante de un vehículo se debe revisar el circuito de encendido y el de alimentación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Según las estadísticas, ¿qué factores están presentes con mayor frecuencia en los accidentes con víctimas mortales?",
+      "imagen": "examen-41_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "distracciones, velocidad inadecuada y fatiga."
+        },
+        {
+          "letra": "B",
+          "texto": "distracciones, velocidad excesiva y fatiga."
+        },
+        {
+          "letra": "C",
+          "texto": "distracciones, alcohol y velocidad inadecuada."
+        }
+      ],
+      "ayuda": "Según las estadísticas, para el caso de los siniestros mortales, los factores concurrentes más habituales son: las distracciones, el consumo de alcohol y la velocidad inadecuada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Esta señal...",
+      "imagen": "examen-41_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "prohíbe el paso de animales."
+        },
+        {
+          "letra": "B",
+          "texto": "da prioridad a los animales."
+        },
+        {
+          "letra": "C",
+          "texto": "advierte de peligro por proximidad de una zona de paso frecuente de animales domésticos o ganado."
+        }
+      ],
+      "ayuda": "La señal de la imagen advierte del peligro por proximidad de una zona de paso frecuente de animales domésticos o ganado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Qué separación lateral debe dejar la motocicleta que está adelantando al camión?",
+      "imagen": "examen-41_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una separación inferior a 1,5 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Una distancia proporcional a la velocidad a la que circule."
+        },
+        {
+          "letra": "C",
+          "texto": "Un espacio no inferior a 1,50 metros."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo de dos ruedas que pretenda adelantar fuera de poblado, a otro vehículo cualquiera, lo hará de forma que entre aquel y las partes más salientes del vehículo que adelanta quede un espacio no inferior a 1,50 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "El nivel de atención de un conductor, ¿disminuye cuando utiliza el teléfono móvil?",
+      "imagen": "examen-41_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No; hablar por teléfono no afecta a la atención del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, aunque utilice un dispositivo de manos libres."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si no utiliza un sistema de manos libres o si escribe un mensaje de texto."
+        }
+      ],
+      "ayuda": "El uso del teléfono móvil, aunque se efectúe a través de un dispositivo de manos libres, siempre afecta negativamente al nivel de atención del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Los agentes de tráfico inmovilizan un vehículo porque el resultado de las pruebas de alcoholemia realizadas a su conductor es positivo. ¿Cuándo se dejará sin efecto dicha inmovilización?",
+      "imagen": "examen-41_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando el agente de tráfico entregue al conductor el boletín de denuncia."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando el conductor pague la multa."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando desaparezca la causa que motivó la inmovilización."
+        }
+      ],
+      "ayuda": "La inmovilización del vehículo se dejará sin efecto tan pronto como desaparezca la causa que la motivó o pueda sustituir al conductor otro habilitado para ello que ofrezca garantía suficiente a los agentes de la autoridad y cuya actuación haya sido requerida por el interesado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Un menor de estatura inferior a 135 centímetros podrá viajar excepcionalmente en el asiento delantero de un turismo cuando...",
+      "imagen": "examen-41_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el sistema de retención infantil esté orientado hacia adelante y el airbag esté desactivado."
+        },
+        {
+          "letra": "B",
+          "texto": "todos los asientos traseros estén ocupados por otros menores con sistemas de retención infantil."
+        },
+        {
+          "letra": "C",
+          "texto": "el vehículo no disponga de cinturones de seguridad."
+        }
+      ],
+      "ayuda": "Con carácter general, los menores de edad de estatura igual o inferior a 135 centímetros deberán situarse en los asientos traseros. Excepcionalmente podrán ocupar el asiento delantero, siempre que utilicen sistemas de retención infantil homologados debidamente adaptados a su talla y peso, en los siguientes casos:\n\n- Cuando el vehículo no disponga de asientos traseros.\n- Cuando todos los asientos traseros estén ya ocupados por menores de estatura igual o inferior a 135 centímetros.\n- Cuando no sea posible instalar en dichos asientos todos los sistemas de retención infantil.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "En general, los conductores que circulan bajo los efectos del alcohol...",
+      "imagen": "examen-41_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "son más responsables y conducen con mayor prudencia."
+        },
+        {
+          "letra": "B",
+          "texto": "valoran adecuadamente sus efectos, por lo que respetan las normas."
+        },
+        {
+          "letra": "C",
+          "texto": "no valoran adecuadamente sus efectos en la conducción."
+        }
+      ],
+      "ayuda": "Los conductores que circulan bajo los efectos del alcohol, en general, no valoran adecuadamente los efectos que el mismo produce sobre su capacidad para conducir con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Un tubo de longitud indivisible, ¿puede sobresalir por la parte delantera del vehículo?",
+      "imagen": "examen-41_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en cualquier tipo de vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "No, excepto si se trata de un transporte especial."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo en vehículos destinados exclusivamente al transporte de mercancías."
+        }
+      ],
+      "ayuda": "Únicamente en los vehículos destinados exclusivamente al transporte de mercancías, tratándose de cargas indivisibles y siempre que se cumplan las condiciones establecidas para su estiba y acondicionamiento, se permite que la carga sobresalga tanto por la parte trasera como por la delantera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Se puede continuar circulando si el sistema de aire acondicionado no funciona correctamente?",
+      "imagen": "examen-41_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero observando que la temperatura interior del vehículo siempre esté por debajo de los 10 grados."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero tanto por confort como por seguridad conviene que se lleve a revisar."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ya que podría ocasionar una grave avería en el motor."
+        }
+      ],
+      "ayuda": "El malfuncionamiento del sistema de aire acondicionado o de climatización no es un impedimento para continuar haciendo uso del vehículo. No obstante, por razones de confort y de seguridad, es conveniente revisarlo y, en su caso, repararlo lo antes posible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "En vías fuera de poblado, ¿cuál es la velocidad máxima a la que le está permitido circular con una furgoneta?",
+      "imagen": "examen-41_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "100 km/h en autopistas y autovías y 90 km/h en carreteras convencionales."
+        },
+        {
+          "letra": "B",
+          "texto": "120 km/h en autopistas y autovías y 90 km/h en carreteras convencionales."
+        },
+        {
+          "letra": "C",
+          "texto": "90 km/h en autopistas y autovías y 80 km/h en carreteras convencionales."
+        }
+      ],
+      "ayuda": "La velocidad máxima para furgonetas cuando circulen por vías fuera de poblado está fijada, con carácter genérico, en 90 km/h en autopistas y autovías y en 80 km/h en carreteras convencionales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Qué debe tener en cuenta si circula por una vía interurbana con una furgoneta cargada hasta el límite de los 3.500 kilogramos de su masa máxima autorizada?",
+      "imagen": "examen-41_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que aumenta la capacidad de aceleración del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Que, ante un imprevisto, la distancia de frenada del vehículo es menor."
+        },
+        {
+          "letra": "C",
+          "texto": "Que cambia el centro de gravedad, y es más fácil perder el control del vehículo."
+        }
+      ],
+      "ayuda": "La carga puede afectar notoriamente a la estabilidad del vehículo y a su comportamiento durante la circulación y el frenado. Si se conduce un vehículo con su capacidad de carga al límite, se deberá extremar la precaución y tener en cuenta que en estas circunstancias se puede perder el control del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Qué debe hacer si recibe una llamada de teléfono mientras conduce y no tiene dispositivo manos libres?",
+      "imagen": "examen-41_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No contestar la llamada."
+        },
+        {
+          "letra": "B",
+          "texto": "Responder y solo detenerme en caso de que la conversación se prolongue."
+        },
+        {
+          "letra": "C",
+          "texto": "Coger el teléfono y decirle a su interlocutor que está conduciendo."
+        }
+      ],
+      "ayuda": "Si no se dispone de dispositivo de manos libres, en ningún caso se debe utilizar el teléfono móvil durante la conducción. En caso de que se reciba una llamada entrante en estas circunstancias, no se deberá contestar.\n\nSi fuese estrictamente necesario utilizar el teléfono móvil durante un trayecto, se deberá buscar un lugar adecuado para parar o estacionar el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Entre los factores que favorecen la aparición de la fatiga en el conductor se encuentra:",
+      "imagen": "examen-41_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular por una vía con el firme en buen estado."
+        },
+        {
+          "letra": "B",
+          "texto": "Circular a una velocidad adaptada a las circunstancias de la vía, del tráfico y de la climatología."
+        },
+        {
+          "letra": "C",
+          "texto": "Mantener una postura inadecuada en el asiento."
+        }
+      ],
+      "ayuda": "Mantener una postura inadecuada en el asiento es uno de los múltiples factores que favorecen la aparición de la fatiga en el conductor",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Cuál de las siguientes deficiencias, relativas al vehículo, provoca un mayor número de accidentes de tráfico?",
+      "imagen": "examen-41_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La falta de mantenimiento de los neumáticos."
+        },
+        {
+          "letra": "B",
+          "texto": "La mala distribución de la carga o la sobrecarga del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "La falta de mantenimiento del alumbrado."
+        }
+      ],
+      "ayuda": "La falta de mantenimiento de los neumáticos es una de las deficiencias relativas al vehículo que provoca un mayor número de accidentes de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

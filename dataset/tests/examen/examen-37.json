@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 37,
+  "nombre": "Test de examen 37",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En esta vía, la separación entre los trazos de la línea discontinua es sensiblemente más corta que en el caso general; ¿qué puede anunciar?",
+      "imagen": "examen-37_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La proximidad de una travesía."
+        },
+        {
+          "letra": "B",
+          "texto": "La proximidad de un tramo de vía con un riesgo especial."
+        },
+        {
+          "letra": "C",
+          "texto": "La proximidad de un carril especial."
+        }
+      ],
+      "ayuda": "Cuando la separación existente entre las líneas discontinuas es más corta que en el caso general, indica al conductor que se aproxima a una línea continua o a un tramo de vía que presenta un riesgo especial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "El pictograma que se observa en la imagen indica...",
+      "imagen": "examen-37_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que el alcance de la señalización se refiere a un vehículo eléctrico."
+        },
+        {
+          "letra": "B",
+          "texto": "que existe una estación de recarga eléctrica muy cercana."
+        },
+        {
+          "letra": "C",
+          "texto": "estacionamiento reservado para vehículos con etiqueta ECO o 0 emisiones."
+        }
+      ],
+      "ayuda": "Se utilizará el pictograma de vehículo eléctrico cuando sea necesario indicar que el alcance de una determinada señalización se refiere a este tipo de vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "\tEn caso de accidente, ¿qué sistema del automóvil recopila y registra la información para poder conocer lo que ha ocurrido antes, durante y después del siniestro?\n",
+      "imagen": "examen-37_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El ABS."
+        },
+        {
+          "letra": "B",
+          "texto": "El EDR."
+        },
+        {
+          "letra": "C",
+          "texto": "El ESP. "
+        }
+      ],
+      "ayuda": "El dispositivo de \"caja negra\" EDR (Event Data Recorder o Registrador de Datos de Eventos), al ocurrir un accidente, graba todos los datos durante los 30 segundos previos al siniestro y los cinco posteriores.  ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Cuándo sufren más atropellos los peatones en vías interurbanas?",
+      "imagen": "examen-37_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Durante el día."
+        },
+        {
+          "letra": "B",
+          "texto": "En el crepúsculo y durante la noche."
+        },
+        {
+          "letra": "C",
+          "texto": "Durante las horas del amanecer y a lo largo del día."
+        }
+      ],
+      "ayuda": "En vías interurbanas, la mayor parte de los atropellos a peatones se producen en el crepúsculo y durante la noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Según las estadísticas, uno de cada cinco muertos en accidentes con furgonetas y turismos implicados...",
+      "imagen": "examen-37_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se debe a la velocidad excesiva."
+        },
+        {
+          "letra": "B",
+          "texto": "se debe a las distracciones."
+        },
+        {
+          "letra": "C",
+          "texto": "no llevaba puesto el cinturón de seguridad."
+        }
+      ],
+      "ayuda": "Según datos oficiales de la DGT, aproximadamente una quinta parte de los conductores y pasajeros fallecidos en turismos y furgonetas no llevaban puesto el cinturón de seguridad en el momento del accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Qué indica la señal?",
+      "imagen": "examen-37_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Lugar de valor histórico o cultural."
+        },
+        {
+          "letra": "B",
+          "texto": "Parque o espacio natual."
+        },
+        {
+          "letra": "C",
+          "texto": "Lugar pintoresco."
+        }
+      ],
+      "ayuda": "La señal de servicio \"lugar pintoresco\" indica un sitio pintoresco o el lugar desde el que se divisa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué vehículos pueden no llevar guardabarros?",
+      "imagen": "examen-37_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los tractores agrícolas."
+        },
+        {
+          "letra": "B",
+          "texto": "Los remolques y semirremolques."
+        },
+        {
+          "letra": "C",
+          "texto": "Algunos vehículos especiales."
+        }
+      ],
+      "ayuda": "La carrocería del vehículo estará diseñada de forma que se eviten en lo posible las salpicaduras de las ruedas o, en caso contrario, los vehículos deberán estar equipados con protecciones adecuadas a tal efecto (guardabarros). Se exceptúan de esta obligación los vehículos especiales cuando las protecciones sean incompatibles con su utilización.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Todos los vehículos están obligados a respetar la señalización de la vía?",
+      "imagen": "examen-37_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, como norma general, excepto los vehículos prioritarios en servicio urgente en algunos casos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en todo caso."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Con carácter general, todos los usuarios de las vías están obligados a obedecer las señales de la circulación que establezcan una obligación o una prohibición y a adaptar su comportamiento al mensaje del resto de las señales reglamentarias que se encuentran en las vías por las que circulan.\n\nLos conductores de los vehículos prioritarios también están obligados, si bien, a condición de haberse cerciorado de que no ponen en peligro a ningún usuario de la vía, podrán dejar de cumplir bajo su exclusiva responsabilidad alguna de las normas reglamentarias, salvo las órdenes y señales de los agentes, que son siempre de obligado cumplimiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Por qué tipo de infracciones se pueden perder puntos del permiso de conducir?",
+      "imagen": "examen-37_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "por las infracciones leves."
+        },
+        {
+          "letra": "B",
+          "texto": "solo por las infracciones muy graves."
+        },
+        {
+          "letra": "C",
+          "texto": "por determinadas infracciones graves y muy graves que tienen especial incidencia en la seguridad vial."
+        }
+      ],
+      "ayuda": "La pérdida de puntos se producirá por la comisión de infracciones graves o muy graves que lleven aparejada la pérdida de puntos, de acuerdo con el baremo establecido reglamentariamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Quiere girar a la derecha. ¿Cómo debe avisar a los demás conductores?",
+      "imagen": "examen-37_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con las luces o con el claxon."
+        },
+        {
+          "letra": "B",
+          "texto": "Con el intermitente o con el brazo."
+        },
+        {
+          "letra": "C",
+          "texto": "Con el brazo o con el claxon."
+        }
+      ],
+      "ayuda": "Para indicar a los demás usuarios de la vía que se va a realizar un cambio de dirección, se deben utilizar los indicadores de dirección (intermitentes) o, en su defecto, realizar señales con el brazo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Sobrevalorar su capacidad de conducción o una menor percepción del riesgo son conductas que, en general, hacen que los conductores jóvenes....",
+      "imagen": "examen-37_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tengan menos probabilidades de sufrir un accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "tengan más probabilidades de sufrir un accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "sean más prudentes al volante."
+        }
+      ],
+      "ayuda": "Sobrevalorar su capacidad de conducción o una menor percepción del riesgo son conductas que, en general, hacen que los conductores jóvenes tengan más probabilidades de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Los costes económicos derivados de los accidentes de tráfico representan un determinado porcentaje del PIB (producto interior bruto), ¿quién los asume?",
+      "imagen": "examen-37_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Toda la sociedad."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo los conductores."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo las víctimas."
+        }
+      ],
+      "ayuda": "Los gastos derivados de los accidentes de tráfico los pagan indirectamente todos los ciudadanos y no solo las personas implicadas en los mismos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Qué finalidad tienen las guías sonoras situadas en el eje de la calzada que, mediante vibración y sonido, alertan al conductor si, por distracción, se desvía de la trayectoria de su carril?",
+      "imagen": "examen-37_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Señalizar los tramos de vía en los que está prohibido el adelantamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Reducir los siniestros por colisión frontal en carreteras de doble sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "Mejorar la visibilidad de las líneas de separación de los sentidos de circulación."
+        }
+      ],
+      "ayuda": "Una guía sonora dispuesta en sentido longitudinal de la vía se constituye por una serie de elementos fresados destinados a alertar (por medio de vibración y sonido), a los conductores que sufren una distracción, de que su vehículo se está desviando de la trayectoria del carril. Estos elementos, cuando están ubicados en el eje de la calzada, tienen por objeto reducir los siniestros por colisión frontal en carreteras de doble sentido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "La lluvia, ¿afecta al agarre de las ruedas del vehículo a la calzada?",
+      "imagen": "examen-37_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, el agarre es el mismo que cuando la calzada está seca."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, se agarran más a la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, se agarran menos."
+        }
+      ],
+      "ayuda": "Cuando llueve las condiciones de adherencia disminuyen sensiblemente, por lo que el agarre de los neumáticos a la calzada será menor que cuando la calzada se encuentra seca.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "En relación con los radares y otros sistemas de vigilancia del tráfico, ¿cuál de estos dispositivos se puede llevar en un vehículo?",
+      "imagen": "examen-37_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un avisador de la posición de los radares fijos."
+        },
+        {
+          "letra": "B",
+          "texto": "Un inhibidor de radares o cinemómetros."
+        },
+        {
+          "letra": "C",
+          "texto": "Un detector de radares o cinemómetros."
+        }
+      ],
+      "ayuda": "Se prohíbe instalar o llevar en los vehículos inhibidores de radares o cinemómetros o cualesquiera otros instrumentos encaminados a eludir o a interferir en el correcto funcionamiento de los sistemas de vigilancia del tráfico, así como otros mecanismos de detección de radares o cinemómetros.\n\nQuedan excluidos de la prohibición los mecanismos de aviso que informan de la posición de los sistemas de vigilancia del tráfico. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "La señal a la izquierda de la fotografía indica que tienen prohibido adelantar...",
+      "imagen": "examen-37_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los turismos."
+        },
+        {
+          "letra": "B",
+          "texto": "los turismos y los camiones de menos de 3.500 kg."
+        },
+        {
+          "letra": "C",
+          "texto": "los camiones de más de 3.500 kg."
+        }
+      ],
+      "ayuda": "Adelantamiento prohibido para camiones.\nLa señal establece la prohibición a los camiones cuya masa máxima autorizada exceda de 3.500 kilogramos de adelantar a los vehículos a motor que circulen por la calzada, incluso cuando dicha maniobra no implique invadir la zona reservada al sentido contrario de circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Qué sistema de seguridad del vehículo indica que la presión de un neumático no es la adecuada?",
+      "imagen": "examen-37_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El ABS."
+        },
+        {
+          "letra": "B",
+          "texto": "El tubeless."
+        },
+        {
+          "letra": "C",
+          "texto": "El sistema de control de la presión de los neumáticos (TPMS)."
+        }
+      ],
+      "ayuda": "El sistema TPMS (Tyre Pressure Monitoring System) de control de presión de neumáticos es un dispositivo que forma parte de los sistemas básicos de seguridad del vehículo y sirve para controlar y monitorizar el nivel de presión de aire que lleva el neumático. ADAS.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "El sistema ADAS de ayuda de salida en pendiente, ¿cómo se denomina?",
+      "imagen": "examen-37_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "eCall."
+        },
+        {
+          "letra": "B",
+          "texto": "Hill Holder."
+        },
+        {
+          "letra": "C",
+          "texto": "Start-Stop."
+        }
+      ],
+      "ayuda": "Sistema de ayuda de salida en pendiente Hill Holder. Este dispositivo cuenta con un sensor que detecta el ángulo de inclinación en el que se encuentra el vehículo, impidiendo que el mismo se desplace hacia atrás al levantar el pie de freno.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "En un estacionamiento con limitación horaria, como norma general, ¿está permitido estacionar sin colocar el distintivo que lo autoriza?",
+      "imagen": "examen-37_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, aunque no se puede inmovilizar ni retirar el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, mientras permanezca un ocupante en el interior del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "No, además, se podrá ordenar la inmovilización del vehículo."
+        }
+      ],
+      "ayuda": "Está prohibido estacionar en los lugares habilitados por la autoridad municipal como de estacionamiento con limitación horaria sin colocar el distintivo que lo autoriza o cuando, colocado el distintivo, se mantenga estacionado el vehículo en exceso sobre el tiempo máximo permitido por la ordenanza municipal. En estos casos, se podrá proceder a la retirada del vehículo o su inmovilización hasta que se logre la identificación del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Cuándo sufren más atropellos los peatones en vías urbanas?",
+      "imagen": "examen-37_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Durante el día."
+        },
+        {
+          "letra": "B",
+          "texto": "Durante la noche, después del atardecer."
+        },
+        {
+          "letra": "C",
+          "texto": "Durante las horas del amanecer y del atardecer."
+        }
+      ],
+      "ayuda": "En vías urbanas, la mayor parte de los atropellos a peatones se producen durante el día.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Es aconsejable regular los reposacabezas de los asientos traseros? ",
+      "imagen": "examen-37_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo si en ellos viajan menores."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Los reposacabezas son un elemento de seguridad pasiva de vital importancia. Para que protejan de forma óptima a los ocupantes, deben estar correctamente regulados.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Qué debe hacer un peatón si, cuando va a cruzar una vía, se encuentra de frente a un agente con el brazo levantado verticalmente?",
+      "imagen": "examen-37_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerse."
+        },
+        {
+          "letra": "B",
+          "texto": "Cruzar. Las señales de los agentes solo obligan a los conductores de vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "Detenerse, excepto si un semáforo le da preferencia de paso, en cuyo caso debe cruzar."
+        }
+      ],
+      "ayuda": "Un Agente que realiza una señal con el brazo levantado verticalmente obliga a detenerse a todos los usuarios de la vía que se acerquen al agente (incluidos los peatones), salvo a los conductores que no puedan hacerlo en condiciones de seguridad suficiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "La habilitación o reserva de uno o varios carriles para la circulación de vehículos de alta ocupación (carril VAO), ¿puede tener un horario limitado?",
+      "imagen": "examen-37_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo en caso de obras en la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, dependiendo del estado de la circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "No, estos carriles siempre son permanentes."
+        }
+      ],
+      "ayuda": "La habilitación o reserva de uno o varios carriles para la circulación de VAO podrá ser permanente o temporal, con horario fijo o en función del estado de la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Cuál es la infracción más habitual entre los conductores de furgonetas?",
+      "imagen": "examen-37_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los excesos de velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "No mantener la distancia de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Llevar los bultos mal colocados."
+        }
+      ],
+      "ayuda": "Según las estadísticas, conducir por encima de los límites de velocidad es la infracción más habitual entre los conductores de furgonetas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "De los siguientes, ¿cuál es un síntoma característico de la aparición de la fatiga durante la conducción?",
+      "imagen": "examen-37_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se distingue mejor la información relevante de la irrelevante."
+        },
+        {
+          "letra": "B",
+          "texto": "La disminución en el número de correcciones de la dirección."
+        },
+        {
+          "letra": "C",
+          "texto": "El incremento de la agudeza visual."
+        }
+      ],
+      "ayuda": "La disminución en el número de correcciones de la dirección es uno de los síntomas característicos de la aparición de la fatiga durante la conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Detenido ante una señal de STOP, ¿se puede utilizar manualmente el teléfono móvil?",
+      "imagen": "examen-37_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque se está detenido."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque en vías urbanas, no está prohibido."
+        }
+      ],
+      "ayuda": "No se permite hablar por el teléfono móvil sin un dispositivo de manos libres, aunque se esté detenido ante una señal de STOP.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Es obligatorio que las motocicletas estén equipadas de un aparato para producir señales acústicas (claxon)?",
+      "imagen": "examen-37_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, sólo están obligados los turismos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, el claxon es obligatorio para todos los vehículos de motor y ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque al tener mayor maniobrabilidad no hace falta."
+        }
+      ],
+      "ayuda": "Todo vehículo de motor y los ciclomotores (excepto los motocultores conducidos a pie) debe estar provisto de un aparato productor de señales acústicas que emita un sonido continuo, uniforme y de suficiente intensidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Si tenemos una fuerte discusión antes de conducir...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es bueno tomar una copa o un medicamente tranquilizante para relajarnos."
+        },
+        {
+          "letra": "B",
+          "texto": "no tiene ninguna influencia a la hora de conducir."
+        },
+        {
+          "letra": "C",
+          "texto": "podrá influir en la concentración del conductor, aumentando el riesgo de accidente."
+        }
+      ],
+      "ayuda": "Tener una fuerte discusión antes de conducir puede alterar peligrosamente la capacidad de concentración del conductor, aumentando el riesgo de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Mientras se realiza un estacionamiento, ¿es fácil que el dispositivo del airbag se dispare?",
+      "imagen": "examen-37_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dependerá del tipo y de la marca del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, un airbag puede ponerse en funcionamiento en cualquier momento."
+        },
+        {
+          "letra": "C",
+          "texto": "No, los sistemas de airbag actuales son muy precisos a la hora de determinar cuándo deben hincharse."
+        }
+      ],
+      "ayuda": "Los sistemas de airbag actuales son muy precisos a la hora de determinar cuándo se debe hinchar la bolsa de aire, por lo que resulta muy difícil que el dispositivo se dispare en una situación inadecuada (por ejemplo, durante la maniobra de estacionamiento).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Puede un furgón o una furgoneta circular por un carril reversible?",
+      "imagen": "examen-37_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo cuando su masa máxima autorizada no supere los 3.500 kg."
+        }
+      ],
+      "ayuda": "Los carriles reversibles, como norma general, no tienen limitación de usuarios. Podrán circular por ellos todos los vehículos que estén autorizados a circular por la vía en la que se encuentra el carril, incluidos los conjuntos de vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

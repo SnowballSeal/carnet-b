@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 73,
+  "nombre": "Test de examen 73",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Cuál de estos factores favorecen las distracciones al conducir?",
+      "imagen": "examen-73_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una carretera desconocida."
+        },
+        {
+          "letra": "B",
+          "texto": "Una situación de tráfico excesivamente sencilla."
+        },
+        {
+          "letra": "C",
+          "texto": "Una situación de tráfico excesivamente compleja."
+        }
+      ],
+      "ayuda": "Las situaciones de tráfico excesivamente complejas pueden favorecer las distracciones debido a que el exceso de estimulación puede impedir que el conductor se centre en los estímulos relevantes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Los efectos del alcohol en el organismo, ¿están relacionados con el peso?",
+      "imagen": "examen-73_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, como norma general."
+        },
+        {
+          "letra": "B",
+          "texto": "Los efectos del alcohol no dependen del peso."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en ningún caso."
+        }
+      ],
+      "ayuda": "El peso corporal es uno de los factores de los que depende la tasa de alcoholemia; dadas dos personas que hayan ingerido idénticas cantidades de alcohol, como norma general, alcanzará una tasa de alcoholemia mayor la de menor peso corporal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Para estacionar, ¿está permitido circular marcha atrás atravesando una intersección?",
+      "imagen": "examen-73_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La utilización de la marcha atrás como maniobra complementaria del estacionamiento está permitida cuando no se recorran más de 15 metros de esta forma ni se invada un cruce de vías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "A un peatón de edad avanzada, ¿le afecta el exceso de ruido?",
+      "imagen": "examen-73_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, y le puede impedir oír y darse cuenta si se acerca un vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, el exceso de ruido afecta a cualquier tipo de peatón por igual."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Las personas mayores en entornos con ruido ambiental excesivo presentan grandes dificultades para advertir que se acerca un vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "En una autopista, ¿se puede hacer un cambio de sentido utilizando el paso de la mediana?",
+      "imagen": "examen-73_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solamente para salir de la autopista."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando no haya obstáculos que lo impidan."
+        }
+      ],
+      "ayuda": "En las medianas de las autopistas y autovías está prohibido parar, estacionar y cambiar el sentido de la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Está permitido circular con una lámina adhesiva que no permita la visibilidad en las ventanillas posteriores?",
+      "imagen": "examen-73_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, salvo que el vehículo disponga de dos espejos exteriores."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando lleve el espejo retrovisor izquierdo."
+        }
+      ],
+      "ayuda": "La finalidad de los espejos retrovisores es permitir una visibilidad clara hacia atrás y hacia los lados del vehículo, por lo que no se deben colocar elementos que impidan dicha función. No obstante, cuando el espejo retrovisor interior de un turismo no permita la visión de la carretera, éste pasará a ser opcional y deberá colocarse un segundo retrovisor exterior en el lado derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "En una motocicleta con mandos independientes para cada uno de los frenos, ¿dónde se acciona generalmente el freno delantero?",
+      "imagen": "examen-73_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el manillar, con la mano derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "En un pedal, con el pie izquierdo."
+        },
+        {
+          "letra": "C",
+          "texto": "En el manillar, con la mano izquierda."
+        }
+      ],
+      "ayuda": "Como norma general, el freno delantero de una motocicleta se acciona con la mano derecha mediante una pequeña maneta situada en la parte derecha del manillar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Se considera que un estacionamiento obstaculiza gravemente la circulación cuando se realiza en...",
+      "imagen": "examen-73_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "doble fila."
+        },
+        {
+          "letra": "B",
+          "texto": "una zona señalizada para uso exclusivo de minusválidos."
+        },
+        {
+          "letra": "C",
+          "texto": "medio de la calzada."
+        }
+      ],
+      "ayuda": "Entre otros casos, se considera que una parada o estacionamiento obstaculiza gravemente la circulación cuando se realiza en medio de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Fumar mientras conduce, ¿puede afectar a la conducción?",
+      "imagen": "examen-73_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, y además relaja."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, además está prohibido."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque distrae y se pierde capacidad de maniobra."
+        }
+      ],
+      "ayuda": "El conductor debe saber que no es aconsejable fumar mientras conduce porque, además de ocasionar distracciones, reduce la capacidad de maniobra.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "La maniobra de marcha atrás, ¿debe señalizarse?",
+      "imagen": "examen-73_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, con la luz de marcha atrás."
+        },
+        {
+          "letra": "B",
+          "texto": "No, no es obligatorio señalizar la maniobra de marcha atrás."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, utilizando la señal de emergencia o mediante el empleo reiterado de la luz de frenado."
+        }
+      ],
+      "ayuda": "Al igual que el resto de maniobras la circulación marcha atrás debe señalizarse, para lo cual se utiliza el alumbrado de marcha atrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Si el resultado de la inspección realizada a su vehículo en una estación ITV es desfavorable, ¿podrá circular por las vías públicas?",
+      "imagen": "examen-73_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si el defecto observado no impide la marcha del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "No, salvo para su traslado al taller y la vuelta a una ITV para nueva inspección."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en absoluto, porque el vehículo causará baja definitiva."
+        }
+      ],
+      "ayuda": "Si el resultado de una inspección técnica fuese desfavorable, el vehículo no podrá circular por las vías públicas salvo para su traslado al taller (a fin de subsanar los desperfectos detectados) y para su regreso a una estación ITV con el fin de someterse a una nueva inspección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Es necesario revisar el funcionamiento del sistema de alumbrado?",
+      "imagen": "examen-73_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No es necesario."
+        },
+        {
+          "letra": "B",
+          "texto": "No, si tiene instaladas luces de xenón."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, es parte del mantenimiento preventivo del vehículo."
+        }
+      ],
+      "ayuda": "El mantenimiento preventivo que todo conductor debe realizar a su vehículo incluye la revisión del funcionamiento del sistema de alumbrado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Cuando se aprecia fuerte viento lateral...",
+      "imagen": "examen-73_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el viento no tiene incidencia porque los vehículos pesan más que la fuerza que el viento pueda hacer."
+        },
+        {
+          "letra": "B",
+          "texto": "se deberá aumentar la velocidad para compensar la fuerza del viento."
+        },
+        {
+          "letra": "C",
+          "texto": "se deberá reducir la velocidad y corregir las ligeras desviaciones de la dirección."
+        }
+      ],
+      "ayuda": "Cuando se circule con fuerte viento lateral el conductor debe reducir la velocidad y corregir las desviaciones de la dirección que pueda ocasionar el viento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Cuando la goma de un neumático se endurece por envejecimiento, ¿es peligroso?",
+      "imagen": "examen-73_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque el vehículo puede derrapar por falta de agarre."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero sólo cuando la calzada está mojada."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque la goma dura se agarra mejor a la calzada."
+        }
+      ],
+      "ayuda": "El envejecimiento de un neumático produce un endurecimiento de los materiales que lo componen, lo cual es especialmente peligroso porque el vehículo puede derrapar por falta de adherencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "Las personas mayores...",
+      "imagen": "examen-73_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "suelen valorar correctamente la velocidad de los vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "suelen reaccionar más rápidamente."
+        },
+        {
+          "letra": "C",
+          "texto": "suelen tener un deterioro de sus capacidades que afecta a la conducción."
+        }
+      ],
+      "ayuda": "Generalmente, las personas mayores sufren el deterioro de sus capacidades psicofísicas, lo cual afecta a su capacidad para conducir.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "En un turismo, ¿es obligatorio utilizar los cinturones de seguridad?",
+      "imagen": "examen-73_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, excepto en los taxis."
+        },
+        {
+          "letra": "B",
+          "texto": "No, cuando el uso del cinturón moleste o reste libertad de movimientos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, excepto para el conductor cuando efectúe una maniobra de marcha atrás o de estacionamiento."
+        }
+      ],
+      "ayuda": "Todos los ocupantes de un turismo deben llevar abrochado el cinturón de seguridad, tanto en vías urbanas como interurbanas. Excepcionalmente, el conductor podrá prescindir de su uso cuando efectúe la maniobra de marcha atrás o de estacionamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "En detenciones de más de 60 segundos, es importante...",
+      "imagen": "examen-73_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "apagar el motor."
+        },
+        {
+          "letra": "B",
+          "texto": "encender todas las luces."
+        },
+        {
+          "letra": "C",
+          "texto": "conectar la señal de emergencia."
+        }
+      ],
+      "ayuda": "A fin de disminuir la contaminación y el consumo innecesario de combustible, en detenciones de más de 60 segundos es conveniente apagar el motor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Antes de iniciar un adelantamiento, el conductor está obligado a comprobar que...",
+      "imagen": "examen-73_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la calzada tiene más de un carril para su sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "dispone de velocidad suficiente."
+        },
+        {
+          "letra": "C",
+          "texto": "el vehículo que circule delante nos avise con señales acústicas de la posibilidad de hacerlo."
+        }
+      ],
+      "ayuda": "Antes de iniciar un adelantamiento, el conductor debe comprobar que dispone de velocidad suficiente para realizar la maniobra con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "A la vista de esta señalización, ¿está permitido circular por el carril derecho a 90 kilómetros por hora?",
+      "imagen": "examen-73_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque no hay señal que lo indique."
+        },
+        {
+          "letra": "B",
+          "texto": "No, lo prohíbe la señal."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "La señal de limitación de velocidad de la imagen solo afecta a los vehículos que circulan por el carril izquierdo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "El equipaje en la baca de un turismo, ¿puede sobresalir por los lados?",
+      "imagen": "examen-73_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando el equipaje es ancho y no se puede dividir."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero el ancho total tiene que ser menor de 2,5 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Como norma general, la carga de un vehículo no puede sobresalir de la proyección en planta del mismo. Excepcionalmente se permite que sobresalga dentro de ciertos límites, solamente, por la parte trasera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "En vías de dos calzadas separadas por medianas, como norma general, se circulará:",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la calzada que mejor convenga al destino del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la calzada de la derecha en el sentido de la marcha."
+        },
+        {
+          "letra": "C",
+          "texto": "Por la calzada de la izquierda en el sentido de la marcha."
+        }
+      ],
+      "ayuda": "Como norma general, en vías de dos calzadas separadas por medianas se debe circular por la calzada de la derecha en el sentido de la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Entre las conductas de riesgo más comunes que cometen los peatones está...",
+      "imagen": "examen-73_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "situarse correctamente en la calzada o en los arcenes."
+        },
+        {
+          "letra": "B",
+          "texto": "no utilizar los pasos para peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "respetar los semáforos."
+        }
+      ],
+      "ayuda": "Esperar en la calzada, no respetar los semáforos o no utilizar los pasos para peatones son algunas de las conductas de riesgo más frecuentes en los peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Está permitido parar y estacionar en un paso inferior?",
+      "imagen": "examen-73_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo si está suficientemente iluminado."
+        },
+        {
+          "letra": "C",
+          "texto": "Para sí; estacionar, no."
+        }
+      ],
+      "ayuda": "En los pasos inferiores al igual que en los túneles está prohibido parar, estacionar y cambiar el sentido de la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "En el cruce, ¿qué debe hacer el vehículo articulado situado en el carril derecho?",
+      "imagen": "examen-73_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Puede seguir recto o girar a la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Girar a la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Puede ir hacia cualquier dirección indicada por las flechas en la calzada."
+        }
+      ],
+      "ayuda": "La flecha situada en el carril derecho indica al conductor que circula por ese carril la dirección que debe seguir (girar a la derecha).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Hay nieve y sólo tiene cadenas para dos ruedas. ¿Dónde debe ponerlas?",
+      "imagen": "examen-73_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En las ruedas delanteras siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "En las ruedas traseras siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "En las ruedas motrices siempre."
+        }
+      ],
+      "ayuda": "En caso de no disponer de cadenas para la nieve para todas las ruedas, se deben colocar en las ruedas motrices.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Qué condición tiene que cumplir un turismo para poder circular por un carril VAO?",
+      "imagen": "examen-73_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Estar expresamente autorizado."
+        },
+        {
+          "letra": "B",
+          "texto": "Que esté ocupado por el número de personas fijado por la autoridad correspondiente."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular como mínimo a 60 Km/h y como máximo a 80 Km/h."
+        }
+      ],
+      "ayuda": "Por un carril VAO podrán circular las motocicletas, los turismos sin remolque y los vehículos mixtos adaptables, ambos con M.M.A. de hasta 3500 Kg, cuando estén ocupados por el número de personas fijado por la autoridad correspondiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "En vías interurbanas y en calzadas con más de un carril para el mismo sentido de marcha, por razones de emergencia, ¿por dónde se circulará?",
+      "imagen": "examen-73_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el carril derecho o por el arcén indistintamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el carril central."
+        }
+      ],
+      "ayuda": "Cuando motivos de emergencia impidan la circulación normal de su vehículo y se obstaculice gravemente la circulación, se debe circular por el arcén de la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "La distribución de la carga, ¿afecta significativamente al consumo de combustible?",
+      "imagen": "examen-73_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, por lo que hay que utilizar la baca como primera opción."
+        },
+        {
+          "letra": "B",
+          "texto": "No afecta al consumo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, por lo que hay que utilizar la baca como última opción."
+        }
+      ],
+      "ayuda": "Cuando se coloca carga en la baca de un vehículo aumenta su resistencia aerodinámica lo cual incrementa el consumo de combustible. Por ello, se debe intentar situar la carga en el maletero dejando la baca como última alternativa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Cuándo se producen más distracciones al volante?",
+      "imagen": "examen-73_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los meses de verano, en los trayectos de ocio."
+        },
+        {
+          "letra": "B",
+          "texto": "Los días laborales, en zona urbana."
+        },
+        {
+          "letra": "C",
+          "texto": "Los días laborales, en zona interurbana."
+        }
+      ],
+      "ayuda": "Las estadísticas indican que es en los meses de verano, en los trayectos de ocio, cuando se producen más distracciones al volante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Para evitar la contaminación acústica, es aconsejable que los conductores de motocicletas...",
+      "imagen": "examen-73_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cuiden que el tubo de escape y el silenciador estén siempre en buen estado."
+        },
+        {
+          "letra": "B",
+          "texto": "cuiden solamente el silenciador, el tubo de escape no influye en los ruidos."
+        },
+        {
+          "letra": "C",
+          "texto": "circulen con el escape libre."
+        }
+      ],
+      "ayuda": "Para evitar la contaminación acústica, es aconsejable que los conductores de motocicletas cuiden que el tubo de escape y el silenciador estén siempre en buen estado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

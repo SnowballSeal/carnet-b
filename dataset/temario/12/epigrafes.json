@@ -1,0 +1,488 @@
+[
+  {
+    "n": 1,
+    "tipo": "imagen",
+    "titulo": "Bienvenido al Tema 12",
+    "texto": "Por favor, presta atención. Vamos a explicar el tema 12.\n \nPRIORIDAD DE PASO"
+  },
+  {
+    "n": 2,
+    "tipo": "imagen",
+    "titulo": "Prioridad de paso. Concepto",
+    "texto": "Cuando dos vehículos o un vehículo y un peatón o animal se aproximan a una intersección o estrechamiento en el que han de pasar simultáneamente, se crea una situación conflictiva que las señales y normas de circulación deben resolver, a fin de que los usuarios de la vía no se entorpezcan entre sí.\n\nEs entonces cuando se establece un orden de prioridad de paso, el cual determina quién debe pasar en primer lugar sin que las distintas trayectorias y velocidades se vean bruscamente afectadas."
+  },
+  {
+    "n": 3,
+    "tipo": "imagen",
+    "titulo": "Intersecciones. Prioridad de paso en intersecciones señalizadas",
+    "texto": "En las intersecciones, la preferencia de paso se verificará siempre atendiendo a la señalización que las regule.\n\nLos conductores de vehículos que se aproximen a una intersección regulada por agentes de la circulación, deberán detener sus vehículos o pasar de acuerdo con lo que ordene el agente.\n\nEn el caso de la imagen, los conductores que se acerquen al agente deben detenerse."
+  },
+  {
+    "n": 4,
+    "tipo": "imagen",
+    "titulo": "Intersecciones reguladas por semáforo",
+    "texto": "Todo conductor de un vehículo que se aproxime a una intersección regulada mediante semáforos, debe detener su vehículo para ceder el paso cuando así lo indiquen las luces correspondientes."
+  },
+  {
+    "n": 5,
+    "tipo": "imagen",
+    "titulo": "Intersecciones con prioridad de paso",
+    "texto": "Los conductores de vehículos que se aproximen a una intersección señalizada con la señal de intersección con prioridad, tendrán prioridad de paso sobre los vehículos que circulen por otra vía o que procedan de ella.\n\nTambién tendrán preferencia de paso si la intersección está señalizada con un semáforo en verde."
+  },
+  {
+    "n": 6,
+    "tipo": "imagen",
+    "titulo": "Calzada con prioridad",
+    "texto": "Los conductores de vehículos que circulen por una vía señalizada con la señal de Calzada con prioridad, tendrán preferencia de paso sobre los vehículos que circulen por otra calzada.\n\nLa prioridad es aplicable a todas las intersecciones hasta pasar la señal de Fin de calzada con prioridad."
+  },
+  {
+    "n": 7,
+    "tipo": "imagen",
+    "titulo": "Intersecciones señalizadas con señal de Ceda el Paso",
+    "texto": "En las intersecciones señalizadas con la señal de Ceda el Paso, los conductores cederán siempre el paso a los vehículos que transiten por la vía preferente, cualquiera que sea el lado por el que se aproximen, llegando a detener por completo su marcha cuando sea preciso."
+  },
+  {
+    "n": 8,
+    "tipo": "imagen",
+    "titulo": "Intersecciones señalizadas con señal vertical de STOP",
+    "texto": "En las intersecciones de vías señalizadas con la señal vertical de Stop, los conductores se detendrán en todo caso para ceder el paso a los vehículos que transiten por la vía preferente, sea cual sea el lado por el que se aproximen."
+  },
+  {
+    "n": 9,
+    "tipo": "imagen",
+    "titulo": "Aplicación de la señales horizontales",
+    "texto": "Los vehículos que deben ceder el paso en esta situación son los que circulan por el carril donde está situada la marca vial de Ceda el paso.\n \nIgualmente, los vehículos que deben detenerse para cumplir con la señal de Stop son los que circulan por el carril donde se encuentra la señal horizontal."
+  },
+  {
+    "n": 10,
+    "tipo": "imagen",
+    "titulo": "Prioridad de paso en intersecciones sin señalizar",
+    "texto": "En las intersecciones sin señalizar la preferencia de paso, solo se debe ceder el paso a los vehículos que se aproximen por la derecha. En este ejemplo, el conductor del vehículo rojo debe ceder el paso al vehículo azul."
+  },
+  {
+    "n": 11,
+    "tipo": "video",
+    "titulo": "Prioridad de paso en intersecciones sin señalizar",
+    "texto": "En esta intersección sin señalizar la preferencia de paso se observa como el conductor del vehículo azul se detiene y cede el paso al vehículo amarillo que se aproxima por su derecha.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/mvPqbK6dIjc?si=TmBh0x7Urt7Pu-3R"
+  },
+  {
+    "n": 12,
+    "tipo": "imagen",
+    "titulo": "Intersección señalizada con señal de prioridad de la derecha",
+    "texto": "En las intersecciones señalizadas con la señal de Intersección con prioridad de la derecha rige la norma general de prioridad de paso, según la cual se debe ceder el paso a los vehículos que se aproximen por la derecha. En esta situación, el conductor del vehículo amarillo únicamente debe ceder el paso al vehículo rojo."
+  },
+  {
+    "n": 13,
+    "tipo": "video",
+    "titulo": "Intersección señalizada con señal de prioridad de la derecha",
+    "texto": "En esta intersección señalizada, el conductor del vehículo azul obedece la señal de Intersección con prioridad de la derecha, y cede el paso al vehículo gris.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/xHjspSjeTCc?si=cLcULC-tA3agdWpM"
+  },
+  {
+    "n": 14,
+    "tipo": "video",
+    "titulo": "Intersección señalizada con señal de prioridad de la derecha",
+    "texto": "En esta animación, el conductor respetando la señal vertical cede el paso al vehículo que se aproxima por su derecha.\n\nPosteriormente, mira a ambos lados y tras comprobar que no se aproxima ningún vehículo al que deba ceder el paso, reanuda la marcha.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/hBVhJNU0z3E?si=0AcweY3AkByghIYP"
+  },
+  {
+    "n": 15,
+    "tipo": "imagen",
+    "titulo": "Norma general de prioridad. Excepciones",
+    "texto": "Tendrán prioridad de paso los vehículos que circulen por una vía pavimentada frente a los procedentes de otra sin pavimentar.\n\nIgualmente, los conductores que circulen por una vía pública tendrán preferencia frente a los que lo hagan por un camino exclusivamente privado."
+  },
+  {
+    "n": 16,
+    "tipo": "video",
+    "titulo": "Norma general de prioridad. Excepciones",
+    "texto": "Independientemente del lado por el que se acerque, el conductor del vehículo rojo al proceder de un camino privado debe ceder el paso a los vehículos que circulen por la vía pavimentada.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/jNAEZLqQs9g?si=RzEaVEUKi8DeEyVp"
+  },
+  {
+    "n": 17,
+    "tipo": "imagen",
+    "titulo": "Prioridad de vehículos que circulen sobre raíles",
+    "texto": "Como norma general, y en defecto de señalización que regule la preferencia de paso, los vehículos que circulen por raíles tendrán prioridad sobre los demás usuarios.\n\nCuando exista una señal que regule la preferencia de paso, la prioridad la tendrá quien indique la señal."
+  },
+  {
+    "n": 18,
+    "tipo": "video",
+    "titulo": "Prioridad de vehículos que circulen sobre raíles",
+    "texto": "En esta intersección en la que la preferencia de paso no está señalizada, el conductor del vehículo negro debe ceder el paso al tranvía cualquiera que sea el lado por el que se aproxime.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/K2v8v1dn8tU?si=OKDkiXQkfKIMQsT1"
+  },
+  {
+    "n": 19,
+    "tipo": "imagen",
+    "titulo": "Prioridad de paso en glorietas",
+    "texto": "En las glorietas, cuando no exista señalización que regule la preferencia de paso, los vehículos que se encuentren dentro de la vía circular tendrán prioridad sobre los que pretendan acceder a aquellas.\n\nEn la situación planteada en el gráfico superior tienen preferencia de paso los vehículos que circulan por la vía circular, mientras que en el gráfico inferior la prioridad de paso es de los vehículos que pretenden incorporarse a la glorieta, ya que el semáforo está en verde."
+  },
+  {
+    "n": 20,
+    "tipo": "video",
+    "titulo": "Prioridad de paso en glorietas",
+    "texto": "En esta animación, tienen preferencia de paso los vehículos que se encuentran dentro de la vía circular de la glorieta. Los que pretenden acceder a ella, deben ceder el paso.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/VRPla8Iy48E?si=EYP1cCxliHNw03Qy"
+  },
+  {
+    "n": 21,
+    "tipo": "video",
+    "titulo": "Prioridad de paso en glorietas",
+    "texto": "En esta otra glorieta, el conductor del vehículo azul cede el paso al conductor del vehículo que ya circula por la vía circular.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/-F4IqX6mxjE?si=JGZIqtnpf3KGjr46"
+  },
+  {
+    "n": 22,
+    "tipo": "imagen",
+    "titulo": "Prioridad en incorporaciones a autopistas o autovías",
+    "texto": "Los vehículos que circulen por una autopista o autovía, tendrán preferencia de paso sobre los que pretendan acceder a la misma. Aunque, en la medida de lo posible, los vehículos que circulen por dichas vías deberán facilitar el paso a los que pretendan incorporarse a ellas."
+  },
+  {
+    "n": 23,
+    "tipo": "video",
+    "titulo": "Prioridad en incorporaciones a autopistas o autovías",
+    "texto": "En esta situación, el vehículo azul debe ceder el paso a los vehículos que circulen por la autopista o autovía.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/qpQIznpMg10?si=JZEm3sU1zOBofQOW"
+  },
+  {
+    "n": 24,
+    "tipo": "video",
+    "titulo": "Prioridad en incorporaciones a autopistas o autovías",
+    "texto": "En esta animación, el conductor que circula por la autovía tiene prioridad de paso, por lo que la furgoneta se detiene.\n\nNo obstante como, en la medida de lo posible, los vehículos que circulan por una autopista o autovía deben facilitarle la incorporación a los que pretenden acceder a ella, el conductor se desplaza al carril izquierdo permitiendo la incorporación de la furgoneta.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/-r6tqc2kvTc?si=lnbPe7rgbj0Wpj6r"
+  },
+  {
+    "n": 25,
+    "tipo": "imagen",
+    "titulo": "Comportamiento al ceder el paso. Normas generales",
+    "texto": "El conductor de un vehículo que tenga que ceder el paso a otro, no deberá iniciar o continuar su marcha o su maniobra, ni reemprenderla, hasta haberse asegurado de que con ello no fuerza al conductor del vehículo que tiene la prioridad a modificar su trayectoria o velocidad.\n\nAdemás, debe mostrar con suficiente antelación, por su forma de circular y especialmente con la reducción paulatina de velocidad, que efectivamente va a cederlo."
+  },
+  {
+    "n": 26,
+    "tipo": "imagen",
+    "titulo": "Normas de comportamiento",
+    "texto": "Aun cuando goce de prioridad de paso, ningún conductor deberá penetrar con su vehículo en una intersección o en un paso para peatones o para ciclistas, si la situación de la circulación es tal que, previsiblemente, pueda quedar detenido de forma que impida u obstruya la circulación transversal."
+  },
+  {
+    "n": 27,
+    "tipo": "imagen",
+    "titulo": "Normas de comportamiento",
+    "texto": "Todo conductor que tenga detenido su vehículo en una intersección regulada por semáforo y la situación del mismo constituya obstáculo para la circulación, deberá salir de dicha intersección sin esperar a que se permita la circulación en la dirección que se propone tomar, siempre que al hacerlo no entorpezca la marcha de los demás usuarios que avancen en el sentido permitido."
+  },
+  {
+    "n": 28,
+    "tipo": "video",
+    "titulo": "Normas de comportamiento",
+    "texto": "En esta animación, el conductor del vehículo azul se ha quedado detenido dentro de una intersección regulada por semáforo, obstaculizando la circulación transversal. Por lo tanto, debe salir de la misma para permitir el paso de los demás vehículos.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/sqa2ntFdrgA?si=O0NZhh4Hhjby9rim"
+  },
+  {
+    "n": 29,
+    "tipo": "imagen",
+    "titulo": "Estrechamientos de la calzada",
+    "texto": "Prioridad de paso en estrechamientos señalizados\n\nEn caso de encuentro de dos vehículos que no se puedan cruzar en un estrechamiento de la calzada en uno de cuyos extremos se hubiera colocado la señal de Prioridad en sentido contrario o la de Ceda el paso, el que llegue por ese extremo deberá retroceder para dejarle paso al otro.\n\nEn el estrechamiento señalizado de la imagen, se debe ceder el paso a los vehículos que se aproximen en sentido contrario."
+  },
+  {
+    "n": 30,
+    "tipo": "imagen",
+    "titulo": "Estrechamientos de la calzada. Prioridad en estrechamientos señalizados",
+    "texto": "En este otro estrechamiento señalizado, se goza de preferencia de paso sobre los vehículos que se aproximen en sentido contrario."
+  },
+  {
+    "n": 31,
+    "tipo": "video",
+    "titulo": "Estrechamientos de la calzada. Prioridad en estrechamientos señalizados",
+    "texto": "En el estrechamiento debidamente señalizado de la animación, el conductor del vehículo rojo debe retroceder para permitir el paso del vehículo amarillo que tiene prioridad.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/NqFRwvD5h0w?si=J3kToIsQjMSduhhG"
+  },
+  {
+    "n": 32,
+    "tipo": "imagen",
+    "titulo": "Orden de preferencia en estrechamientos sin señalizar",
+    "texto": "En defecto de señalización que regule la prioridad de paso en un estrechamiento, tendrá preferencia el vehículo que hubiera entrado primero en el tramo de vía estrecha.\n\nEn caso de duda sobre quién hubiese entrado primero, tendrá preferencia el vehículo con mayores dificultades de maniobra.\n\nCuando se trate de vehículos del mismo tipo, la preferencia de paso se decidirá a favor del que tuviera que dar marcha atrás mayor distancia y, en caso de igualdad, del que tenga mayor anchura, longitud o masa máxima autorizada."
+  },
+  {
+    "n": 33,
+    "tipo": "video",
+    "titulo": "Orden de preferencia en estrechamientos sin señalizar",
+    "texto": "En este estrechamiento sin señalizar, como el vehículo rojo ha entrado primero tiene preferencia de paso sobre el vehículo amarillo.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/swYGitrQ6YI?si=2VM73hY4Ef1GbzF1"
+  },
+  {
+    "n": 34,
+    "tipo": "imagen",
+    "titulo": "Estrechamientos. Vehículos que necesiten autorización especial",
+    "texto": "Los vehículos que necesiten autorización especial para circular no podrán cruzarse en los puentes si el ancho de la calzada es inferior a 6 metros, de suerte que para cada vehículo pueda contarse con un ancho de vía no inferior a 3 metros."
+  },
+  {
+    "n": 35,
+    "tipo": "imagen",
+    "titulo": "Orden de preferencia en estrechamientos sin señalizar",
+    "texto": "Sin perjuicio de lo que pueda ordenar el agente de la autoridad o, en su caso, indicar el personal de obras y el de acompañamiento de vehículos especiales en régimen de transporte especial, el orden de prioridad entre los distintos tipos de vehículos cuando uno de ellos tenga que dar marcha atrás es el siguiente:\n\n1 - Vehículos especiales y en régimen de transporte especial que excedan de las masas o dimensiones establecidas en las normas reguladoras de los vehículos.\n2 - Conjuntos de vehículos, excepto los contemplados en el punto 4.\n3 - Vehículos de tracción animal.\n4 - Turismos que arrastren un remolque de hasta 750 kg de masa máxima autorizada y autocaravanas.\n5 - Vehículos destinados al transporte colectivo de viajeros.\n6 - Camiones, tractocamiones, y furgones.\n7 - Turismos y vehículos derivados de turismos.\n8 - Vehículos especiales que no excedan de las masas o dimensiones establecidas en las normas reguladoras de los vehículos, cuadriciclos y cuadriciclos ligeros.\n9 - Vehículos de tres ruedas, motocicletas con sidecar y ciclomotores de tres ruedas.\n10 - Motocicletas, ciclomotores de dos ruedas y bicicletas."
+  },
+  {
+    "n": 36,
+    "tipo": "video",
+    "titulo": "Orden de preferencia en estrechamientos sin señalizar. Ejemplo",
+    "texto": "Según el orden de prioridad entre vehículos, en este estrechamiento sin señalizar la preferencia de paso, tiene prioridad el turismo con remolque.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/0iUCD5pQhvU?si=f3Dud0Q1oB9aV8Ou"
+  },
+  {
+    "n": 37,
+    "tipo": "video",
+    "titulo": "Orden de preferencia en estrechamientos sin señalizar. Ejemplo",
+    "texto": "En esta otra situación, el conductor del turismo tiene que dar marcha atrás para dejar pasar al autobús, ya que éste tiene preferencia sobre el turismo.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/t-MUjDcLiHE?si=WW947LvG6RnK7JRl"
+  },
+  {
+    "n": 38,
+    "tipo": "video",
+    "titulo": "Orden de preferencia en estrechamientos sin señalizar. Ejemplo",
+    "texto": "De acuerdo con el orden de preferencia entre vehículos, en el estrechamiento de la animación, el autobús tiene prioridad sobre el camión.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/3PKFzWZXzr0?si=7USJOOsg5s5IpK9R"
+  },
+  {
+    "n": 39,
+    "tipo": "imagen",
+    "titulo": "Estrechamientos en tramos de gran pendiente",
+    "texto": "En los tramos de gran pendiente, en los que por su estrechez no sea posible el paso simultáneo de dos vehículos, la prioridad de paso la tendrá el vehículo que circule en sentido ascendente, salvo si éste pudiera llegar antes a un apartadero establecido al efecto.\n\nSe entienden por tramos de gran pendiente los que tienen una inclinación mínima del 7%."
+  },
+  {
+    "n": 40,
+    "tipo": "video",
+    "titulo": "Estrechamientos en tramos de gran pendiente",
+    "texto": "En este estrechamiento de gran pendiente, pasa primero el vehículo verde porque al circular en sentido ascendente tiene preferencia de paso.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/BP57KrWxfAw?si=iHIJXAbQd2iyZSJB"
+  },
+  {
+    "n": 41,
+    "tipo": "imagen",
+    "titulo": "Normas de comportamiento de los conductores respecto a otros usuarios",
+    "texto": "Como norma general y siempre que sus trayectorias se corten, los conductores tienen prioridad de paso para sus vehículos respecto a los peatones y animales, excepto en los casos que se explican a continuación."
+  },
+  {
+    "n": 42,
+    "tipo": "imagen",
+    "titulo": "Prioridad de paso para los peatones",
+    "texto": "Los conductores de vehículos deben ceder el paso a los peatones en los siguientes casos:\n\n- En los pasos para peatones debidamente señalizados.\n- Cuando vayan a girar con sus vehículos para entrar en otra vía y haya peatones cruzándola, aunque no exista paso para éstos.\n- Cuando crucen un arcén por el que estén cruzando peatones que no dispongan de zona peatonal."
+  },
+  {
+    "n": 43,
+    "tipo": "video",
+    "titulo": "Prioridad de paso para los peatones",
+    "texto": "En este video se observa un paso para peatones no regulado por semáforo, en el que tienen prioridad de paso los peatones.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/4JOJxomWZks?si=-jytg6nPTvN0MHgG"
+  },
+  {
+    "n": 44,
+    "tipo": "video",
+    "titulo": "Prioridad de paso para los peatones",
+    "texto": "Como se ve en esta situación, al realizar un cambio de dirección el conductor debe ceder el paso a los peatones que estén cruzando la vía, aunque no exista un paso para peatones.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/ROgKIYVvT0Y?si=r34rSmt0pEDkNMgD"
+  },
+  {
+    "n": 45,
+    "tipo": "video",
+    "titulo": "Prioridad de paso para los peatones",
+    "texto": "En esta otra animación se observa, desde otra perspectiva, cómo el conductor del vehículo azul al  girar se detiene para dejar pasar al peatón, que tiene prioridad de paso.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/PpoagDG805M?si=V8tpojc4HrHdFjPt"
+  },
+  {
+    "n": 46,
+    "tipo": "imagen",
+    "titulo": "Los peatones también tendrán prioridad de paso:",
+    "texto": "- En las zonas peatonales, cuando los vehículos las crucen por los pasos habilitados al efecto.\n- Cuando vayan a subir o hayan bajado de un vehículo de transporte colectivo de viajeros, en una parada señalizada como tal, y se encuentren entre dicho vehículo y la zona peatonal o refugio más próximo.\n- Cuando formen parte de tropas en formación, filas escolares o comitivas organizadas."
+  },
+  {
+    "n": 47,
+    "tipo": "imagen",
+    "titulo": "Prioridad de paso para ciclistas",
+    "texto": "Los conductores de bicicletas tienen prioridad de paso respecto a los vehículos de motor y ciclomotores:\n\n- Cuando circulen por un carril bici, paso para ciclistas o arcén debidamente señalizado.\n- Cuando para entrar en otra vía, el vehículo de motor o el ciclomotor gire a la derecha o izquierda y haya un ciclista en sus proximidades.\n- Cuando circulando en grupo, el primero haya iniciado ya el cruce, o haya entrado en una glorieta.\n\nEn los demás casos, serán aplicables las normas generales sobre prioridad de paso entre vehículos."
+  },
+  {
+    "n": 48,
+    "tipo": "imagen",
+    "titulo": "Prioridad de paso para los animales",
+    "texto": "Los conductores de vehículos deberán ceder el paso a los animales en los siguientes casos:\n\n- En las cañadas debidamente señalizadas.\n- Cuando vayan a girar con su vehículo para entrar en otra vía y haya animales cruzándola, aunque no exista paso para estos.\n- Cuando el vehículo cruce un arcén por el que estén circulando animales que no dispongan de cañada."
+  },
+  {
+    "n": 49,
+    "tipo": "imagen",
+    "titulo": "Vehículos prioritarios en servicio de urgencia",
+    "texto": "En atención a la urgencia de los servicios que prestan, se consideran vehículos prioritarios los siguientes:\n\n- Los de los servicios de Policía.\n- Los de asistencia sanitaria.\n- Los de extinción de incendios.\n- Los de Protección Civil y Salvamento."
+  },
+  {
+    "n": 50,
+    "tipo": "imagen",
+    "titulo": "Vehículos prioritarios en servicio de urgencia. Prioridad de paso",
+    "texto": "Los vehículos prioritarios tendrán prioridad de paso cuando circulen en servicio urgente y adviertan tal circunstancia con las señales reglamentarias.\n\nCuando los vehículos prioritarios circulen en servicio de urgencia, estarán exentos de cumplir las normas del Reglamento General de Circulación excepto las señales  y órdenes de los agentes, que serán siempre de obligado cumplimiento.\n\nLos conductores de estos vehículos, cuando circulen en servicio urgente por autopista o autovía, podrán dar media vuelta o marcha atrás, circular en sentido contrario al correspondiente a la calzada, siempre que lo hagan por el arcén, o penetrar en la mediana o en los pasos transversales de las mismas."
+  },
+  {
+    "n": 51,
+    "tipo": "imagen",
+    "titulo": "Vehículos de auxilio en vías públicas. Condiciones de circulación",
+    "texto": "Los vehículos de auxilio en vías públicas que desarrollen una operación de auxilio, podrán efectuar su circulación de acuerdo con las siguientes condiciones:\n\na) Tendrán preferencia de paso sobre los demás vehículos y otros usuarios de la vía cuando se hallen en servicio de auxilio.\n\nb) Podrán parar y estacionar en la vía pública el vehículo de auxilio para realizar la correspondiente operación, efectuando la inmovilización de tal modo que garanticen la seguridad vial y la fluidez del tráfico.\n\nc) Cuando el vehículo esté en misión de acceso o llegada al escenario hará uso de la señal luminosa y, en su caso, de la acústica. Cuando se encuentre realizando las tareas de auxilio, únicamente hará uso de la señal luminosa.\n\nEn todo caso, y cuando las tareas de auxilio se desarrollen en vías urbanas, el uso de la señal acústica tendrá carácter excepcional, reservándose a los supuestos en los que las circunstancias del tráfico así lo exijan."
+  },
+  {
+    "n": 52,
+    "tipo": "imagen",
+    "titulo": "Vehículos prioritarios. Comportamiento de los demás conductores",
+    "texto": "Tan pronto perciban las señales especiales que anuncien la proximidad de un vehículo prioritario, los demás conductores adoptarán las medidas adecuadas según las circunstancias del momento y lugar para facilitarle el paso, apartándose normalmente a su derecha o deteniéndose si fuera preciso."
+  },
+  {
+    "n": 53,
+    "tipo": "video",
+    "titulo": "Vehículos de policía",
+    "texto": "En esta animación el conductor al observar, a través del espejo retrovisor, que se acerca un vehículo de policía con las luces rojas y azules encendidas, detiene su vehículo en el lado derecho delante del vehículo policial.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/7JwrS772U4E?si=Rik2EKECQw17SUM-"
+  },
+  {
+    "n": 54,
+    "tipo": "imagen",
+    "titulo": "Vehículos no prioritarios en servicio de urgencia",
+    "texto": "Los conductores de vehículos no prioritarios cuando presten un servicio de los reservados a los prioritarios no tendrán preferencia de paso, por lo tanto, deberán respetar las normas de circulación, sobre todo en las intersecciones.\n\nNo obstante, los demás usuarios de la vía adoptarán las medidas oportunas para facilitarles el paso, como si se tratara de un vehículo prioritario."
+  },
+  {
+    "n": 55,
+    "tipo": "imagen",
+    "titulo": "Cruces de paso a nivel, puentes móviles y túneles",
+    "texto": "Todos los conductores deben extremar la prudencia y reducir la velocidad por debajo de la máxima permitida al aproximarse a un paso a nivel o a un puente móvil.\n\nNingún usuario debe penetrar en un paso a nivel o puente móvil cuyas barreras estén atravesadas sobre la calzada o en movimiento.\n\nSi por cualquier emergencia, un vehículo se queda detenido en un paso a nivel, se debe desalojar a los ocupantes del vehículo y señalizar convenientemente la zona."
+  },
+  {
+    "n": 56,
+    "tipo": "video",
+    "titulo": "Cruce de paso a nivel con barreras",
+    "texto": "En esta animación el conductor, al aproximarse al paso a nivel que se encuentra cerrado, reduce la velocidad y se detiene. Una vez que ha pasado el tren, espera a que se levanten completamente las barreras y entonces reinicia la marcha cruzando el paso a nivel.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/kIVfp0lhwbE?si=3W7Mm-03THVfm1Sz"
+  },
+  {
+    "n": 57,
+    "tipo": "video",
+    "titulo": "Cruce de paso a nivel con barreras",
+    "texto": "En algunos pasos a nivel con o sin barreras, está colocada la señal de Detención obligatoria o Stop.\n\nEn estos casos el conductor debe detener el vehículo y observar el tráfico, y no reanudará la marcha sin antes haberse cerciorado de que no se aproxima ningún tren u otro vehículo que circule sobre raíles.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/NgwJFWNbHl0?si=yu0NFZJjyFGdQQJw"
+  },
+  {
+    "n": 58,
+    "tipo": "video",
+    "titulo": "Cruce indebido de paso a nivel con barreras. Consecuencias",
+    "texto": "Como se ve en esta simulación el conductor del turismo no respeta la señal de STOP y sufre un accidente.\n\nEnhorabuena, has superado el 80% del tema\n\nOk",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/otqmZ4BIRAE?si=Ti3aXWhF_WuG5e93"
+  },
+  {
+    "n": 59,
+    "tipo": "video",
+    "titulo": "Cruce de puente móvil",
+    "texto": "En los puentes móviles también se debe extremar la precaución y reducir la velocidad y, cuando sea necesario como en este caso, detener el vehículo. Una vez que las luces rojas se hayan apagado, las barreras se hayan levantado y el puente móvil haya bajado se puede reanudar la marcha.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/dn-jwTunhus?si=poboj63ByLuWRSch"
+  },
+  {
+    "n": 60,
+    "tipo": "imagen",
+    "titulo": "Túneles",
+    "texto": "Ningún conductor deberá penetrar con su vehículo en un túnel o paso inferior si la situación de la circulación es tal que, previsiblemente, pueda quedar detenido dentro del mismo.\n\nTampoco deberá penetrar en un túnel o paso inferior si a la entrada de éste un semáforo no permite el paso.\n\nEn los túneles y pasos inferiores, se deben aplicar rigurosamente todas las normas de circulación."
+  },
+  {
+    "n": 61,
+    "tipo": "imagen",
+    "titulo": "Circulación en túneles",
+    "texto": "Por otra parte, al circular por un túnel cuando no se pretenda adelantar, se debe dejar con el vehículo precedente una distancia de seguridad mínima de 100 metros o un intervalo mínimo de cuatro segundos.\n\nEn caso de vehículos cuya masa máxima autorizada sea superior a 3.500 kg, la distancia de seguridad que deberán guardar con el vehículo que circula delante será de, al menos, 150 metros o un intervalo mínimo de seis segundos.\n\nEn los túneles y pasos inferiores con circulación en ambos sentidos está prohibido el adelantamiento, salvo que exista más de un carril en el sentido de circulación del vehículo que pretende adelantar."
+  },
+  {
+    "n": 62,
+    "tipo": "imagen",
+    "titulo": "Inmovilización en túnel o paso inferior por necesidades del tráfico",
+    "texto": "Si por necesidades de la circulación, un vehículo queda inmovilizado en el interior de un túnel o paso inferior, el conductor y los pasajeros no deben abandonar el mismo.\n\nEn este caso, se debe conectar la señal de emergencia, mantener encendidas las luces de posición y apagar el motor. Además, se deberá detener el vehículo lo más lejos posible del que le precede."
+  },
+  {
+    "n": 63,
+    "tipo": "imagen",
+    "titulo": "Inmovilización en túnel o paso inferior por emergencia",
+    "texto": "En este caso, se debe apagar el motor, conectar la señal de emergencia, mantener encendidas las luces de posición y colocar y activar el dispositivo luminoso de preseñalización de peligro.\n\nTanto el conductor como los demás ocupantes abandonarán el vehículo, dirigiéndose rápidamente al refugio o salida más próximos sin que, en ningún caso, se transite por la calzada si existen zonas excluidas a la circulación de vehículos.\n\nSi se trata de una avería que permita la marcha del vehículo, se debe continuar hasta la salida del túnel o paso inferior, y si ello no fuera posible hasta la zona reservada para emergencias."
+  },
+  {
+    "n": 64,
+    "tipo": "imagen",
+    "titulo": "Incendio en un túnel o paso inferior",
+    "texto": "En caso de incendio en un túnel o paso inferior, el conductor aproximará su vehículo todo lo posible hacia la derecha para no obstruir el paso a los vehículos de emergencia, apagará el motor y dejará la llave puesta y las puertas abiertas.\n\nTanto el conductor como los demás ocupantes abandonarán el vehículo dirigiéndose rápidamente al refugio o salida más próximos en sentido contrario al fuego sin que, en ningún caso, transiten por la calzada si existen zonas excluidas a la circulación de vehículos."
+  },
+  {
+    "n": 65,
+    "tipo": "imagen",
+    "titulo": "El tema 12 ha finalizado. A continuación, vamos a realizar un resumen.",
+    "texto": null
+  },
+  {
+    "n": 66,
+    "tipo": "imagen",
+    "titulo": "Intersecciones con preferencia no señalizada",
+    "texto": "En las intersecciones en las que no esté señalizada la prioridad de paso, se debe ceder el paso a los vehículos que se aproximen por la derecha. En la situación del gráfico, el conductor del turismo sólo debe dejar pasar al camión."
+  },
+  {
+    "n": 67,
+    "tipo": "imagen",
+    "titulo": "Prioridad de paso",
+    "texto": "Como norma general, en las intersecciones sin señalización de prioridad los vehículos que circulen sobre raíles tendrán preferencia de paso.\n\nCuando en una intersección un conductor deba ceder el paso, podrá reanudar la marcha cuando esté seguro de que no obliga a los vehículos que tiene prioridad a cambiar su trayectoria o velocidad.\n\nEl conductor de un vehículo que pretenda incorporarse a la circulación, debe ceder el paso a los vehículos que circulen por el carril al que pretende incorporarse.\n\nEn un cruce en el que la luz verde del semáforo se encuentre encendida se permite el paso, siempre que al hacerlo no se bloquee la intersección."
+  },
+  {
+    "n": 68,
+    "tipo": "imagen",
+    "titulo": "Prioridad de paso. Estrechamientos",
+    "texto": "Cuando en un estrechamiento existan señales que regulen la prioridad de paso, se debe cumplir con lo que estas establezcan.\n\nLa señal del gráfico superior izquierdo indica que no se debe entrar en el estrechamiento si se obliga a detenerse a los vehículos que se aproximan de frente.\n\nCuando en un estrechamiento de la vía la prioridad no esté expresamente señalizada, tendrá preferencia de paso el vehículo que haya entrado primero en el tramo estrecho.\n\nEn caso de que no se pueda determinar qué vehículo ha entrado primero, tendrá preferencia el que tenga mayor dificultad de maniobra.\n\nEn la situación del gráfico inferior, si no se supiera qué vehículo ha entrado primero, la prioridad de paso sería del turismo que arrastra un remolque ya que se considera que tiene mayor dificultad de maniobra que el autobús."
+  },
+  {
+    "n": 69,
+    "tipo": "imagen",
+    "titulo": "Prioridad de paso. Peatones y ciclistas",
+    "texto": "Cuando un conductor gire para tomar otra vía y encuentre a un peatón cruzando la calzada le debe ceder el paso, aunque no exista paso para peatones.\n\nDel mismo modo, si al cruzar un arcén hubiera peatones circulando por él, por no disponer de zona peatonal, se les debe ceder el paso.\n\nLos ciclistas, al igual que cualquier otro vehículo que se aproxime por la derecha, tienen prioridad de paso.\n\nCuando en una intersección un conductor se encuentre con un grupo de ciclistas, si el primero de ellos hubiera ya penetrado en la intersección, debe cederle el paso a todo el grupo."
+  },
+  {
+    "n": 70,
+    "tipo": "imagen",
+    "titulo": "Prioridad de paso. Animales",
+    "texto": "Los animales tienen preferencia de paso en las cañadas debidamente señalizadas."
+  },
+  {
+    "n": 71,
+    "tipo": "imagen",
+    "titulo": "Vehículos prioritarios",
+    "texto": "Los vehículos prioritarios tendrán preferencia de paso sobre los demás vehículos cuando circulen en servicio de urgencia y lo adviertan con la señal especial luminosa.\n\nA un vehículo prioritario que circula en servicio de urgencia, se le facilitará el paso adoptando las medidas adecuadas según las circunstancias del momento."
+  },
+  {
+    "n": 72,
+    "tipo": "imagen",
+    "titulo": "Pasos a nivel y puentes móviles",
+    "texto": "Al aproximarse a un paso a nivel o a un puente móvil, los conductores deben reducir la velocidad por debajo de la máxima permitida.\n\nSi el paso a nivel o puente móvil se encuentra cerrado o si las barreras están en movimiento, los vehículos deben detenerse uno detrás de otro hasta que la barrera suba totalmente y se permita el paso."
+  },
+  {
+    "n": 73,
+    "tipo": "imagen",
+    "titulo": "Muchas gracias por tu atención. A continuación puedes hacer el test de repaso de este tema.",
+    "texto": null
+  }
+]

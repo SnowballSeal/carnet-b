@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 78,
+  "nombre": "Test de examen 78",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Esta marca transversal continua, ¿está permitido franquearla sin detenerse antes?",
+      "imagen": "examen-78_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando no sea obligatoria la detención."
+        },
+        {
+          "letra": "B",
+          "texto": "No, nunca."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando haya peatones."
+        }
+      ],
+      "ayuda": "Las marcas transversales indican el lugar donde hay que detenerse en caso de que esto sea necesario. Cuando la detención no sea preceptiva ni necesaria (por ejemplo que no existan peatones en las proximidades) la marca se podrá franquear sin detenerse.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Al adelantar a un ciclista que lleva a un pasajero, es importante...",
+      "imagen": "examen-78_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "al estar cerca de ellos hacer señales acústicas para indicar nuestra presencia."
+        },
+        {
+          "letra": "B",
+          "texto": "dejar una separación lateral suficiente, ya que se pueden desestabilizar con facilidad."
+        },
+        {
+          "letra": "C",
+          "texto": "mantener la velocidad y estar atento al cumplimiento de la señalización vertical."
+        }
+      ],
+      "ayuda": "Al adelantar a vehículos de dos ruedas en general y a ciclistas en particular, es necesario dejar una distancia de seguridad suficiente para evitar riesgos, ya que estos vehículos pueden desestabilizarse con facilidad, especialmente cuando llevan pasajero.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Circulando con niebla es aconsejable...",
+      "imagen": "examen-78_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mantener el habitáculo bien ventilado para evitar que se empañen los cristales."
+        },
+        {
+          "letra": "B",
+          "texto": "circular con las ventanillas abiertas para obtener mayor visibilidad."
+        },
+        {
+          "letra": "C",
+          "texto": "poner la calefacción muy alta para conducir cómodamente."
+        }
+      ],
+      "ayuda": "Circulando con niebla es aconsejable mantener el habitáculo bien ventilado para evitar que se empañen los cristales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Al pasar por encima de un charco, los frenos se mojan, ¿qué hay que hacer?",
+      "imagen": "examen-78_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Poner una velocidad más larga."
+        },
+        {
+          "letra": "B",
+          "texto": "Pisar suavemente varias veces el pedal del freno."
+        },
+        {
+          "letra": "C",
+          "texto": "Acelerar para que se sequen."
+        }
+      ],
+      "ayuda": "Después de pasar por encima de un charco y en el caso de que los frenos se mojen, se debe pisar con suavidad y repetidas veces el pedal del freno para que los elementos frenantes se sequen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "El vehículo de la imagen quiere cambiar de dirección a la derecha, ¿está obligado a detenerse?",
+      "imagen": "examen-78_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, puede continuar la marcha con precaución."
+        },
+        {
+          "letra": "B",
+          "texto": "No, las indicaciones del semáforo sólo le afectan si pretende seguir de frente."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Los conductores, independientemente de la dirección que pretendan tomar, deberán obedecer las indicaciones del semáforo que se observa al otro lado de la intersección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "La depresión es una grave enfermedad que se sufre cada vez con más frecuencia. Si se padece debemos saber que...",
+      "imagen": "examen-78_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no debemos conducir hasta pasada al menos una hora de habernos medicado."
+        },
+        {
+          "letra": "B",
+          "texto": "si no nos medicamos no tiene efectos sobre la conducción."
+        },
+        {
+          "letra": "C",
+          "texto": "no es recomendable conducir de noche o por entornos monótonos o durante muchas horas."
+        }
+      ],
+      "ayuda": "Los conductores que padezcan depresión, pueden conducir siempre que tengan los síntomas debidamente controlados, aunque en todo caso, deberán evitar conducir de noche o por entornos monótonos o durante muchas horas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "En una vía de dos sentidos, ¿por qué lado de la isleta debe circular?",
+      "imagen": "examen-78_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la parte izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el lado de la calzada situado a la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Por cualquiera de los lados."
+        }
+      ],
+      "ayuda": "Cuando la vía por la que se circula sea de doble sentido, sólo se podrá circular por el lado derecho de la isleta, ya que la parte de la izquierda es para la utilización de los vehículos que circulan en sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Cuál es la tasa de alcohol máxima permitida a un conductor novel?",
+      "imagen": "examen-78_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0,25 miligramos de alcohol por litro de aire espirado."
+        },
+        {
+          "letra": "B",
+          "texto": "0,15 miligramos de alcohol por litro de aire espirado."
+        },
+        {
+          "letra": "C",
+          "texto": "0,3 miligramos de alcohol por litro de aire espirado."
+        }
+      ],
+      "ayuda": "Los conductores nóveles y aquellos cuya antigüedad de su permiso de conducir sea inferior a dos años, no podrán conducir con una tasa de alcohol en sangre superior a 0.15 mg por litro de alcohol en aire espirado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Está prohibido adelantar en...",
+      "imagen": "examen-78_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "las glorietas."
+        },
+        {
+          "letra": "B",
+          "texto": "todas las intersecciones aunque la señalización lo permita."
+        },
+        {
+          "letra": "C",
+          "texto": "las intersecciones con vías para ciclistas."
+        }
+      ],
+      "ayuda": "Entre otros casos, en las intersecciones con vías para ciclistas está prohibido adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "En este puesto de peaje, ¿qué se debe hacer?",
+      "imagen": "examen-78_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pasar sin detenerse porque no hay barrera."
+        },
+        {
+          "letra": "B",
+          "texto": "Pasar sin detenerse porque la flecha está verde."
+        },
+        {
+          "letra": "C",
+          "texto": "Detenerse en el puesto de control porque lo indica la señal."
+        }
+      ],
+      "ayuda": "Señal de prohibición de pasar sin detenerse.\nLa señal que se observa indica el lugar donde es obligatoria la detención, hasta cumplir la prescripción que se establezca (en este caso pagar o recoger el ticket en el puesto de peaje).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "La influencia del factor de riesgo vehículo, ¿cómo se puede disminuir?",
+      "imagen": "examen-78_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Manteniendo limpio el motor."
+        },
+        {
+          "letra": "B",
+          "texto": "Revisando y manteniendo el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Regulando bien la posición del asiento del conductor."
+        }
+      ],
+      "ayuda": "Las oportunas revisiones del vehículo y el correcto estado de mantenimiento de todos sus elementos, permiten reducir notoriamente la influencia del factor \"vehículo\" en los accidentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "El vehículo del arcén, ¿está bien estacionado?",
+      "imagen": "examen-78_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque en el arcén no se puede estacionar."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque no molesta."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque no está señalizado."
+        }
+      ],
+      "ayuda": "En el arcén transitable de las vías interurbanas está prohibido parar y estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Se pueden llevar objetos o paquetes que salgan por las ventanillas de los lados?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, hasta 30 centímetros."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, con una tela de color rojo."
+        }
+      ],
+      "ayuda": "En los turismos, no está permitido que la carga sobresalga lateralmente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Respetar la prioridad de paso por parte de los conductores de motocicletas, ¿puede evitar accidentes?",
+      "imagen": "examen-78_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque estos conductores no dificultan la visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque ocupan poco lugar de la calzada."
+        }
+      ],
+      "ayuda": "Respetar la prioridad de paso de los demás usuarios es un comportamiento que contribuye a evitar accidentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Se prohíbe circular con el llamado escape libre...",
+      "imagen": "examen-78_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tanto en vías urbanas como interurbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "sólo en vías urbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo en vías interurbanas."
+        }
+      ],
+      "ayuda": "Circular con el llamado escape libre está prohibido en todo tipo de vías. El inadecuado mantenimiento del sistema de escape en los vehículos afecta negativamente al funcionamiento del motor y produce, además, contaminación térmica y acústica.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Quién es el responsable de las infracciones cometidas durante la conducción?",
+      "imagen": "examen-78_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El autor del hecho en que consista la infracción."
+        },
+        {
+          "letra": "B",
+          "texto": "Siempre el titular del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "El tomador del seguro."
+        }
+      ],
+      "ayuda": "La responsabilidad por las infracciones a las normas de circulación recaerá directamente en el autor del hecho en que consista la infracción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Uno de los efectos que el alcohol produce en el conductor es...",
+      "imagen": "examen-78_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la percepción incorrecta de distancias y velocidades."
+        },
+        {
+          "letra": "B",
+          "texto": "la ampliación del campo visual."
+        },
+        {
+          "letra": "C",
+          "texto": "la disminución de la distancia de frenado."
+        }
+      ],
+      "ayuda": "El alcohol produce innumerables efectos negativos en la capacidad para conducir con seguridad. La incorrecta percepción de distancias y velocidades por parte del conductor es uno de estos efectos, lo cual conlleva una notable disminución de la seguridad y un aumento del riesgo de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Cuando se realiza una inmovilización para parar o estacionar deberá utilizarse el indicador de dirección...",
+      "imagen": "examen-78_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "del lado izquierdo."
+        },
+        {
+          "letra": "B",
+          "texto": "correspondiente al lado en el que se pare o estacione."
+        },
+        {
+          "letra": "C",
+          "texto": "del lado derecho."
+        }
+      ],
+      "ayuda": "Cuando se realiza una inmovilización para parar o estacionar deberá utilizarse el indicador de dirección correspondiente al lado en el que se pare o estacione.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Fumando mientras conduce, ¿puede tirar el cigarro a la vía?",
+      "imagen": "examen-78_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, mientras esté bien apagado."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque puede provocar un incendio o algún peligro para otros usuarios."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque no está prohibido."
+        }
+      ],
+      "ayuda": "Se prohíbe arrojar a la vía o en sus inmediaciones cualquier objeto que pueda dar lugar a la producción de incendios o, en general, poner en peligro la seguridad vial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Es obligatorio llevar iluminada la placa posterior de la matrícula durante la noche?",
+      "imagen": "examen-78_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solamente en vías interurbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "La luz de placa posterior de matrícula es obligatoria para todo vehículo de motor, remolque y semirremolque que esté matriculado o esté obligado a llevar placas de matrícula, así como para los vehículos de tracción animal. Este alumbrado deberá encenderse en todo caso en que el vehículo tenga encendida la luz de largo alcance o de carretera, la luz de corto alcance o de cruce o las luces de posición.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Cuando el autobús circula más rápido que el resto de los vehículos,  ¿se considera adelantamiento?",
+      "imagen": "examen-78_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque en vía urbana está permitido adelantar por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Cuando existan carriles o partes de la vía destinados exclusivamente al tráfico de determinados vehículos (por ejemplo el carril BUS), no se considera adelantamiento el hecho de que se avance más rápidamente por aquellos que por los normales de circulación o viceversa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Al rebasar el autobús, ¿qué peligro debe preverse?",
+      "imagen": "examen-78_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ninguno, no es una situación de riesgo."
+        },
+        {
+          "letra": "B",
+          "texto": "Que pueden cruzar peatones ocultos por el propio autobús."
+        },
+        {
+          "letra": "C",
+          "texto": "Que los viajeros bajen por la parte izquierda."
+        }
+      ],
+      "ayuda": "Al rebasar a un autobús en situación de parada, hay que tener especial precaución con los peatones que puedan estar ocultos por el propio autobús.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Un botiquín de primeros auxilios, ¿se encuentra entre la dotación obligatoria de los vehículos de hasta nueve plazas?",
+      "imagen": "examen-78_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, es obligatorio."
+        },
+        {
+          "letra": "B",
+          "texto": "No, un botiquín es solamente recomendable."
+        },
+        {
+          "letra": "C",
+          "texto": "Es obligatorio dependiendo del número de pasajeros transportados."
+        }
+      ],
+      "ayuda": "Es recomendable (no obligatorio) llevar en los vehículos un botiquín para prestar auxilio en caso de que fuese necesario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "El campo visual de los niños es limitado debido a...",
+      "imagen": "examen-78_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "su falta de atención."
+        },
+        {
+          "letra": "B",
+          "texto": "el escaso desarrollo del sentido de la vista, principalmente."
+        },
+        {
+          "letra": "C",
+          "texto": "su baja estatura."
+        }
+      ],
+      "ayuda": "Debido a su escasa estatura, el campo visual de los niños resulta bastante limitado, lo cual puede ser peligroso cuando circulan como peatones, ya que debido a esta limitación, pueden no percibir adecuadamente los peligros del tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Los niños alborotando en los asientos traseros, ¿pueden provocar que el conductor se distraiga?",
+      "imagen": "examen-78_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, e influir en su estado y comportamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "No, normalmente hacen que se concentre más en la conducción."
+        },
+        {
+          "letra": "C",
+          "texto": "No, al conductor no le afecta lo que sucede en los asientos traseros."
+        }
+      ],
+      "ayuda": "Llevar niños inquietos en los asientos traseros puede ser una importante causa de distracción para el conductor, y también alterar su estado de ánimo y capacidad de concentración.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "En una vía urbana de sentido único, si los carriles no están delimitados por marcas viales, ¿por dónde está obligado a circular el conductor de un turismo?",
+      "imagen": "examen-78_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el centro de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el carril que mejor convenga a su destino."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el carril derecho, pudiendo utilizar el resto cuando las circunstancias lo aconsejen."
+        }
+      ],
+      "ayuda": "Dentro de poblado, cuando los carriles no estén delimitados por marcas longitudinales, se debe circular obligatoriamente por la derecha, pudiendo utilizar el resto de los carriles cuando las circunstancias así lo requieran.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Al distraerse, el conductor tarda...",
+      "imagen": "examen-78_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "menos tiempo en recibir la información necesaria para conducir con seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "más tiempo en recibir la información necesaria para conducir con seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "el mismo tiempo en recibir información, pero el vehículo no se maneja de forma segura."
+        }
+      ],
+      "ayuda": "Al distraerse, el conductor tarda más tiempo en recibir la información necesaria para conducir con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Es importante cumplir con los límites inferiores de velocidad?",
+      "imagen": "examen-78_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo para no ser sancionado."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para evitar causar accidentes."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ya que los límites inferiores son solo orientativos."
+        }
+      ],
+      "ayuda": "Los límites de velocidad contribuyen a dotar a la circulación de los niveles de seguridad y fluidez necesarios. Circular respetando todos los límites, tanto inferiores como máximos, puede contribuir a evitar accidentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Las personas mayores, ¿pueden tener problemas como peatones?",
+      "imagen": "examen-78_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, principalmente de orientación cuando no conocen bien las calles."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en calzadas muy anchas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque tiene más cuidado."
+        }
+      ],
+      "ayuda": "Las personas mayores como peatones constituyen un grupo de riesgo en el tráfico, debido a que, cuando no conocen bien las calles por las que transitan, pueden desorientarse y cometer errores que comprometan su seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Un conductor necesita hacer una llamada urgente por el móvil, ¿qué debe hacer?",
+      "imagen": "examen-78_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Disminuir la velocidad para poder hablar sin peligro."
+        },
+        {
+          "letra": "B",
+          "texto": "Detener el vehículo en cualquier lugar para hacer la llamada."
+        },
+        {
+          "letra": "C",
+          "texto": "Buscar un lugar seguro donde detener el vehículo para hacer la llamada."
+        }
+      ],
+      "ayuda": "En caso que sea necesario realizar una llamada urgente e impostergable a través del teléfono móvil, los conductores deberán buscar un lugar seguro para inmovilizar el vehículo y poder hacer la llamada sin comprometer la seguridad de la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

@@ -1,0 +1,878 @@
+[
+  {
+    "n": 1,
+    "tipo": "imagen",
+    "titulo": "Bienvenido al Tema 4",
+    "texto": null
+  },
+  {
+    "n": 2,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 3,
+    "tipo": "imagen",
+    "titulo": "Tipos de señales de indicación",
+    "texto": null
+  },
+  {
+    "n": 4,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 5,
+    "tipo": "imagen",
+    "titulo": "Autopista, Autovía y Vía Reservada para Automóviles",
+    "texto": "Autopista: Indica el principio de una autopista y, por tanto, el lugar a partir del cual se aplican las reglas especiales de circulación en este tipo de vía.\n\nAutovía: Indica el principio de una autovía y, por tanto, el lugar a partir del cual se aplican las reglas especiales de circulación en este tipo de vía.\n\nVía reservada para automóviles: Indica el principio de una vía reservada a la circulación de automóviles."
+  },
+  {
+    "n": 6,
+    "tipo": "imagen",
+    "titulo": "Carretera multicarril y Carretera 2+1",
+    "texto": "Carretera multicarril\nIndica el principio de una carretera multicarril y, por tanto, el lugar a partir del cual se aplican las reglas especiales de circulación en este tipo de vía.\n\nCarretera 2+1\nIndica el principio de una carretera 2+1, es decir, aquella que consta de tres carriles de circulación y permite la circulación en ambos sentidos.\n\nEl carril central se destina a facilitar la maniobra de adelantamiento, estando reservado de manera alterna a uno y otro sentido de circulación. \n\nEstas señales pueden indicar, además, el ramal de un nudo que conduce a una carretera multicarril o a una carretera 2+1 respectivamente."
+  },
+  {
+    "n": 7,
+    "tipo": "imagen",
+    "titulo": "Fin de autopista, de autovía y de vía reservada para automóviles",
+    "texto": "Estas señales indican, respectivamente, el fin de una autopista, de una autovía o de una vía reservada para automóviles."
+  },
+  {
+    "n": 8,
+    "tipo": "imagen",
+    "titulo": "Fin de carretera multicarril y de carretera 2+1",
+    "texto": "Estas señales indican, respectivamente, el fin de una carretera multicarril o de una carretera 2+1."
+  },
+  {
+    "n": 9,
+    "tipo": "imagen",
+    "titulo": "Señal de Túnel",
+    "texto": "Túnel: Indica el principio y eventualmente el nombre de un túnel, de un paso inferior o de un tramo de vía equiparado a túnel.\n\nPodrá llevar en su parte inferior la indicación de la longitud del túnel en metros.\n\nDesde el momento en que un vehículo rebasa esta señal, circula por un tramo de vía afectado por la señal Túnel."
+  },
+  {
+    "n": 10,
+    "tipo": "imagen",
+    "titulo": "Velocidad máxima aconsejada y fin de velocidad aconsejada",
+    "texto": "Velocidad máxima aconsejada: Recomienda no sobrepasar la velocidad indicada aunque las condiciones meteorológicas o ambientales de la vía o de la circulación sean favorables.\n\nCuando esté colocada debajo  de una señal de advertencia de peligro, la recomendación se refiere al tramo en que dicho peligro subsista.\n\nFin de velocidad máxima aconsejada: Indica el final de un tramo en el que se recomienda circular a la velocidad, en kilómetros por hora, indicada en la señal."
+  },
+  {
+    "n": 11,
+    "tipo": "imagen",
+    "titulo": "Intervalo aconsejado de velocidades",
+    "texto": "Intervalo aconsejado de velocidades: Recomienda mantener la velocidad entre los valores indicados, siempre que las condiciones meteorológicas y ambientales de la vía y de la circulación sean favorables.\n\nCuando esté colocada debajo de una señal de advertencia de peligro, la recomendación se refiere al tramo en que dicho peligro subsista.\n\nFin de intervalo aconsejado de velocidades: Indica el lugar desde donde deja de ser aplicable una anterior señal de intervalo aconsejado de velocidades."
+  },
+  {
+    "n": 12,
+    "tipo": "imagen",
+    "titulo": "Calzada de un carril de sentido único",
+    "texto": "Indica que, en la calzada de un carril que se prolonga en la dirección de la flecha, los vehículos deben circular en el sentido indicado por ésta, y que se encuentra prohibida la circulación en sentido contrario.\n\nEn la intersección de la imagen, el vehículo podrá continuar de frente o cambiar de dirección, pero no podrá cambiar el sentido de la marcha."
+  },
+  {
+    "n": 13,
+    "tipo": "imagen",
+    "titulo": "Calzada de sentido único de dos o de tres carriles",
+    "texto": "Estas señales indican que en la calzada, de dos o de tres carriles, que se prolonga en la dirección de las flechas, los vehículos deben circular en el sentido indicado por estas, y que está prohibida la circulación en sentido contrario.\n\nEn caso de mayor número de carriles el número de flechas se adaptará a los mismos."
+  },
+  {
+    "n": 14,
+    "tipo": "imagen",
+    "titulo": "Tramo de calzada de sentido único",
+    "texto": "Indica que, en el tramo de calzada que se prolonga en la dirección de la flecha, los vehículos deben circular en el sentido indicado por ésta, quedando prohibida la circulación en sentido contrario."
+  },
+  {
+    "n": 15,
+    "tipo": "imagen",
+    "titulo": "Señales de: situación de un paso para peatones y paso superior e inferior para peatones",
+    "texto": "Las señales de la imagen indican, respectivamente:\n\n- Situación de un paso para peatones.\n\n- Paso superior para peatones.\n\n- Paso inferior para peatones."
+  },
+  {
+    "n": 16,
+    "tipo": "imagen",
+    "titulo": "Paso superior e inferior para peatones con rampa",
+    "texto": "Estas señales indican la situación de un paso superior o inferior para peatones, respectivamente, acondicionado con rampa."
+  },
+  {
+    "n": 17,
+    "tipo": "imagen",
+    "titulo": "Paso superior e inferior para peatones con rail o rampa para ciclos",
+    "texto": "Las señales indican la situación de un paso superior (izquierda) o inferior (derecha) para peatones acondicionado con rail o rampa para ciclos."
+  },
+  {
+    "n": 18,
+    "tipo": "imagen",
+    "titulo": "Calzada sin salida",
+    "texto": "Indica que la calzada que figura en la señal con un recuadro en rojo no tiene salida."
+  },
+  {
+    "n": 19,
+    "tipo": "imagen",
+    "titulo": "Calzada sin salida excepto para peatones o ciclos",
+    "texto": "Indica que la calzada que figura en la señal con un recuadro en rojo no tiene salida excepto para peatones o ciclos. \n\nFigurarán el o los pictogramas de los usuarios a los que afecte la excepción."
+  },
+  {
+    "n": 20,
+    "tipo": "imagen",
+    "titulo": "Zona de frenado de emergencia",
+    "texto": "Indica la situación de una zona de escape de la calzada, acondicionada para que un vehículo pueda ser detenido en caso de fallo de su sistema de frenado."
+  },
+  {
+    "n": 21,
+    "tipo": "imagen",
+    "titulo": "Estacionamiento",
+    "texto": "Indica un emplazamiento donde está autorizado el estacionamiento de vehículos.\n\nUna inscripción, o un símbolo que representa ciertas clases de vehículos, indica que el estacionamiento está reservado a esos vehículos.\n\nUna inscripción con indicaciones de tiempo limita la duración del estacionamiento señalado."
+  },
+  {
+    "n": 22,
+    "tipo": "imagen",
+    "titulo": "Estacionamiento de necesidad",
+    "texto": "Indica el lugar donde está autorizado el estacionamiento de vehículos, durante un tiempo determinado y únicamente para un fin concreto, como acceso a una farmacia, hospital, etc., cuyo pictograma se incluirá en la señal. \n\nLa duración de dicho tiempo será indicada en un panel complementario."
+  },
+  {
+    "n": 23,
+    "tipo": "imagen",
+    "titulo": "Lugar reservado para taxis",
+    "texto": "Indica el lugar reservado a la parada y el estacionamiento de taxis libres y en servicio.\n\nLa inscripción de un número indica el número total de espacios reservados a este fin."
+  },
+  {
+    "n": 24,
+    "tipo": "imagen",
+    "titulo": "Parada de autobuses y parada de tranvías",
+    "texto": "Parada de autobuses: indica el lugar reservado para parada de autobuses.\n\nParada de tranvías: indica el lugar reservado para parada de tranvías."
+  },
+  {
+    "n": 25,
+    "tipo": "imagen",
+    "titulo": "Transitabilidad en tramo o puerto de montaña",
+    "texto": "Indica la situación de transitabilidad del puerto o tramo definido en la parte superior de la señal."
+  },
+  {
+    "n": 26,
+    "tipo": "imagen",
+    "titulo": "Cambio de sentido al mismo nivel",
+    "texto": "Indica la proximidad de un lugar en el que se puede efectuar un cambio de sentido al mismo nivel.\n\nEn la imagen, la señal incluye una cifra en metros que indica la distancia que falta para llegar al lugar desde el que se puede cambiar el sentido de la marcha."
+  },
+  {
+    "n": 27,
+    "tipo": "imagen",
+    "titulo": "Hospital",
+    "texto": "Esta señal, además de informar de la cercanía de un hospital, indica a los conductores de vehículos la conveniencia de tomar las precauciones que requiere la proximidad de establecimientos médicos, especialmente la de evitar la producción de ruido."
+  },
+  {
+    "n": 28,
+    "tipo": "imagen",
+    "titulo": "Fin de obligación del alumbrado de corto alcance (cruce)",
+    "texto": "Indica el final de un tramo en el que es obligatorio el alumbrado de cruce o corto alcance y recuerda la posibilidad de prescindir de éste, siempre que no venga impuesto por circunstancias de visibilidad, horario o iluminación de la vía."
+  },
+  {
+    "n": 29,
+    "tipo": "imagen",
+    "titulo": "Cambio de sentido a distinto nivel",
+    "texto": "Indica la proximidad de una salida a través de la cual se puede efectuar un cambio de sentido a distinto nivel."
+  },
+  {
+    "n": 30,
+    "tipo": "imagen",
+    "titulo": "Panel de aproximación a salida (300 m)",
+    "texto": "Indica, en una autopista o en una autovía, que la próxima salida está situada aproximadamente a 300 m."
+  },
+  {
+    "n": 31,
+    "tipo": "imagen",
+    "titulo": "Paneles de aproximación a salida",
+    "texto": "Esta secuencia de paneles de aproximación a salida indican, en una autopista o en una autovía, que la próxima salida está situada, aproximadamente, a 300 metros, 200 metros y 100 metros, respectivamente.\n\nSi la salida fuera por la izquierda, la diagonal o diagonales serían descendentes de izquierda a derecha y las señales se situarían a la izquierda de la calzada."
+  },
+  {
+    "n": 32,
+    "tipo": "imagen",
+    "titulo": "Auxilio en carretera",
+    "texto": "Indica la situación del poste o puesto de socorro más próximo desde el que se puede solicitar auxilio en caso de accidente o avería. \n\nLa señal también puede indicar la distancia a la que este se halla."
+  },
+  {
+    "n": 33,
+    "tipo": "imagen",
+    "titulo": "Zona de estancia y juego",
+    "texto": "Zona de estancia y juego\nIndica las zonas de circulación que están destinadas en primer lugar a los peatones y en las que se aplican las normas especiales de circulación siguientes:\n\n- la velocidad máxima de los vehículos está fijada en 10 kilómetros por hora y los conductores deben conceder prioridad a los peatones.\n\n- los vehículos pueden estacionarse únicamente en los lugares designados por señales o por marcas.\n\n- los ciclos y, en su caso, los VMP, pueden circular en ambos sentidos, salvo que la autoridad competente establezca lo contrario.\n\n- los peatones pueden utilizar toda la zona de circulación y por tanto no se señalizan los pasos peatonales.\n\n- los juegos y los deportes están autorizados en ella.\n\nIrá siempre acompañada de la señal R-301 que limitará la velocidad a 10 km/h\n\n\nFin de zona de estancia y juego: Indica que se aplican, de nuevo, las normas generales de circulación."
+  },
+  {
+    "n": 34,
+    "tipo": "imagen",
+    "titulo": "Señalización de zona peatonal",
+    "texto": "Zona peatonal: Indica una zona reservada para el uso peatonal.\n\nFin de zona peatonal: Indica el fin de una zona reservada para el uso peatonal."
+  },
+  {
+    "n": 35,
+    "tipo": "imagen",
+    "titulo": "Telepeaje",
+    "texto": "El conductor que circule por el carril donde está situada la señal cuadrada de color azul, podrá pagar el peaje mediante el sistema de telepeaje (siempre que disponga del medio técnico para hacerlo)."
+  },
+  {
+    "n": 36,
+    "tipo": "imagen",
+    "titulo": "Senda ciclopeatonal",
+    "texto": "Indica la existencia de una vía para peatones, ciclos y, en su caso, VMP, segregada del tráfico motorizado, y que discurre habitualmente por espacios abiertos, parques, jardines o bosques, si bien fuera de poblado puede discurrir también paralela a la carretera.\n\nEn presencia de personas caminando, los ciclos y, en su caso, los VMP deberán reducir su velocidad para garantizar la seguridad y la convivencia. \n\nAsimismo, las personas viandantes facilitarán el paso de los ciclos y, en su caso, los VMP."
+  },
+  {
+    "n": 37,
+    "tipo": "imagen",
+    "titulo": "Apartadero",
+    "texto": "Indica la situación de un lugar donde se puede apartar el vehículo, en caso de emergencia, a fin de dejar libre el paso."
+  },
+  {
+    "n": 38,
+    "tipo": "imagen",
+    "titulo": "Apartadero en túneles con teléfono de emergencia",
+    "texto": "Indica la situación de un lugar donde se puede apartar el vehículo en un túnel, en caso de emergencia, a fin de dejar libre el paso y que dispone de teléfono de emergencia."
+  },
+  {
+    "n": 39,
+    "tipo": "imagen",
+    "titulo": "Vías reservadas",
+    "texto": "- Vía reservada para ciclos\n- Vía reservada para vehículos de movilidad personal\n- Vía reservada para ciclos y vehículos de movilidad personal\n\nEstas señales indican la existencia de una vía destinada a la circulación de los vehículos identificados en los pictogramas de cada una de ellas y prohibición a los demás usuarios de la vía de utilizarla."
+  },
+  {
+    "n": 40,
+    "tipo": "imagen",
+    "titulo": "Fin de vías reservadas",
+    "texto": "Indican el final de una vía reservada a la circulación de ciclos, de vehículos de movilidad personal o de ciclos y vehículos de movilidad personal, respectivamente."
+  },
+  {
+    "n": 41,
+    "tipo": "imagen",
+    "titulo": "Vías reservadas con espacios diferenciados",
+    "texto": "- Vía reservada para ciclos y peatones con espacio de circulación diferenciado entre ellos.\n\n- Vía reservada para ciclos, vehículos de movilidad personal y peatones, con espacio de circulación diferenciado entre los dos primeros y los terceros.\n\nLas señales de la parte izquierda indican la existencia de una vía destinada a la circulación de ciclos y peatones, o a ciclos, vehículos de movilidad personal y peatones.\n\nLas mismas señales, situadas en la parte derecha de la imagen, cruzadas con una banda diagonal roja, indican el final de dichas vías reservadas. \n\nEl diseño de todas estas señales podrá adaptarse a la situación real de los espacios en cada vía."
+  },
+  {
+    "n": 42,
+    "tipo": "imagen",
+    "titulo": "Situación de un paso para ciclistas",
+    "texto": "Indica la situación de un paso para ciclistas."
+  },
+  {
+    "n": 43,
+    "tipo": "imagen",
+    "titulo": "Situación de un paso para peatones y ciclistas",
+    "texto": "Indica la situación de un paso para peatones adosado o compartido con un paso para ciclistas."
+  },
+  {
+    "n": 44,
+    "tipo": "imagen",
+    "titulo": "Zona de Coexistencia y Fin de Zona de Coexistencia",
+    "texto": "La señal de Zona de Coexistencia indica una zona de circulación que está destinada en primer lugar a los peatones y en las que se aplican las normas especiales de circulación siguientes:\n\n- la velocidad máxima de los vehículos será de 20 km/h.\n\n- la circulación está compartida entre vehículos, ciclistas y peatones. \n\n- los peatones tienen prioridad, pueden usar toda la zona de circulación y por tanto no se señalizan pasos peatonales.\n\n- los ciclos y, en su caso, los VMP pueden circular en ambos sentidos, salvo que la autoridad competente establezca lo contrario.\n\n- los vehículos pueden estacionarse únicamente en los lugares designados por señales o por marcas. \n\n- los juegos y los deportes NO están autorizados.\n\nPor su parte, la señal de Fin de Zona de Coexistencia, con la banda diagonal roja, indica que se aplican de nuevo las normas generales de circulación."
+  },
+  {
+    "n": 45,
+    "tipo": "imagen",
+    "titulo": "Avanza moto o bici",
+    "texto": "Indica la existencia de una zona de espera previa a la línea de detención de una intersección regulada por semáforos reservada a los vehículos indicados en la señal (motocicletas, vehículos de tres ruedas asimilados a motocicletas y ciclomotores, representados los tres tipos por el pictograma de motocicleta, o ciclos)."
+  },
+  {
+    "n": 46,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 47,
+    "tipo": "imagen",
+    "titulo": "de carriles",
+    "texto": "Las señales de carriles indican una reglamentación especial para uno o más carriles de la calzada."
+  },
+  {
+    "n": 48,
+    "tipo": "imagen",
+    "titulo": "Carriles reservados para el tráfico en función de la velocidad señalizada",
+    "texto": "Los carriles donde están situadas las señales de velocidad mínima solo pueden ser utilizados por los vehículos que circulen a velocidad igual o superior a la indicada aunque, si las circunstancias lo permiten, deben circular por el carril de la derecha."
+  },
+  {
+    "n": 49,
+    "tipo": "video",
+    "titulo": "Carriles reservados en función de la velocidad señalizada",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/CHI1bx6Vbi8"
+  },
+  {
+    "n": 50,
+    "tipo": "imagen",
+    "titulo": "Carril reservado para tipos específicos de vehículos",
+    "texto": "Indica un carril destinado exclusivamente a la circulación de cierto o ciertos tipos de vehículos determinados (autobuses, motocicletas, vehículos de tres ruedas asimilados a motocicletas, taxis, ciclos, etc.).\n\nSe incluirá en la señal el pictograma representativo del tipo o tipos de vehículos autorizados.\n\nEn tramos en que la marca vial longitudinal delimitadora del carril esté constituida por una línea discontinua, se permite su utilización al resto de vehículos únicamente para realizar alguna maniobra que no sea la de parar, estacionar, cambiar el sentido de la marcha o adelantar, dejando siempre preferencia a los vehículos autorizados a circular por este carril."
+  },
+  {
+    "n": 51,
+    "tipo": "imagen",
+    "titulo": "Carril reservado para vehículos con alta ocupación (VAO)",
+    "texto": "Indica uno o varios carriles destinados exclusivamente a la circulación de vehículos con alta ocupación. \n\nEn la imagen figurará el número de personas a partir de las cuales se considera alta ocupación, lo que será determinado por el órgano gestor competente en cada caso.\n\nSi el carril o carriles está reservado no solo a VAO sino también a otro u otros tipos específicos de vehículos, se podrán combinar las imágenes correspondientes del mismo modo que en la señal anterior de carril reservado a tipos específicos de vehículos."
+  },
+  {
+    "n": 52,
+    "tipo": "imagen",
+    "titulo": "Final de carril destinado a la circulación",
+    "texto": "Estas señales indican, en este caso concreto en calzadas de tres carriles, la desaparición de uno de los carriles, que podrá ser el derecho o el izquierdo según lo representado en la señal, y el cambio de carril preciso."
+  },
+  {
+    "n": 53,
+    "tipo": "imagen",
+    "titulo": "Final de carril destinado a la circulación",
+    "texto": "Al igual que en el caso anterior, estas señales indican la desaparición de uno de los carriles y el cambio de carril preciso."
+  },
+  {
+    "n": 54,
+    "tipo": "imagen",
+    "titulo": "Final de carril destinado a la circulación",
+    "texto": "En este ejemplo, la señalización que se observa, indica, en una calzada de sentido único y tres carriles, que el carril de la derecha va a dejar de ser utilizable a 200 metros."
+  },
+  {
+    "n": 55,
+    "tipo": "imagen",
+    "titulo": "Final de carril destinado a la circulación en calzada de 4 carriles",
+    "texto": "En este caso, en una calzada de cuatro carriles con un único sentido de circulación, la señales indican desaparición del carril, izquierdo o derecho según el esquema representado en la señal, y el cambio de carril preciso."
+  },
+  {
+    "n": 56,
+    "tipo": "imagen",
+    "titulo": "Paso de uno a dos carriles y de dos a tres carriles",
+    "texto": "Las dos señales de la izquierda indican, en un tramo con un solo carril en un sentido de circulación, que en el próximo tramo se va a pasar a disponer de dos carriles en el mismo sentido de la circulación.\n\nLa segunda señal, por su parte, también indica la velocidad máxima que está permitido alcanzar en cada uno de los carriles.\n\n\nPor otra parte, las señales de la derecha indican, en un tramo con dos carriles en un sentido de circulación, que en el próximo tramo se va a pasar a disponer de tres carriles en el mismo sentido de circulación.\n\nLa señal de más a la derecha indica también la velocidad máxima que está permitido alcanzar en cada uno de los tres carriles."
+  },
+  {
+    "n": 57,
+    "tipo": "imagen",
+    "titulo": "Paso de dos a tres carriles de circulación",
+    "texto": "En este ejemplo, se indica, en un tramo con un dos carriles en un sentido de circulación, que en el próximo tramo se pasará a disponer de tres carriles en el mismo sentido."
+  },
+  {
+    "n": 58,
+    "tipo": "imagen",
+    "titulo": "Señales de bifurcación en calzadas de dos y tres carriles.",
+    "texto": "Estas señales indican, en calzadas de dos y tres carriles en el mismo sentido, que en el próximo tramo el carril de la izquierda, o de la derecha, según el caso, se bifurcará hacia el lado indicado por la flecha correspondiente."
+  },
+  {
+    "n": 59,
+    "tipo": "imagen",
+    "titulo": "Ejemplo de señal de bifurcación hacia la izquierda",
+    "texto": "La señal indica, en una calzada con tres carriles de circulación en el mismo sentido, que en el próximo tramo el carril de la izquierda se bifurcará hacia ese mismo lado."
+  },
+  {
+    "n": 60,
+    "tipo": "imagen",
+    "titulo": "Bifurcación en calzada de cuatro carriles",
+    "texto": "Indica, en una calzada con cuatro carriles de circulación en el mismo sentido, que en el próximo tramo el carril de la izquierda, o de la derecha, se bifurcará hacia el lado indicado por la flecha.\n\nEn el ejemplo que se observa en la parte derecha, se indica, en una calzada con cuatro carriles de circulación en el mismo sentido, que en el próximo tramo los dos carriles de la izquierda se bifurcarán hacia la izquierda y los dos de la derecha, hacia la derecha."
+  },
+  {
+    "n": 61,
+    "tipo": "imagen",
+    "titulo": "Vía reservada y obligatoria para ciclos adosada a la  calzada",
+    "texto": "Estas señales indican, en calzadas de sentido único o de doble sentido, respectivamente, la obligación para los conductores de ciclos de circular por el carril sobre el que está situada la señal y la prohibición a los demás usuarios de la vía de utilizarlo. Las flechas indicarán el número de carriles de la calzada."
+  },
+  {
+    "n": 62,
+    "tipo": "imagen",
+    "titulo": "Vía reservada para ciclos adosada a calzada",
+    "texto": "Estas señales indican, en calzadas de único sentido o de doble sentido, que el carril sobre el que está situada la señal está reservado a la circulación de ciclos, quedando prohibida su utilización a los demás usuarios de la vía. Las flechas indicarán el número de carriles de la calzada."
+  },
+  {
+    "n": 63,
+    "tipo": "imagen",
+    "titulo": "Carril bici en sentido opuesto",
+    "texto": "Indica la existencia de un carril obligatorio para ciclos cuyo sentido de circulación es el opuesto al del carril contiguo."
+  },
+  {
+    "n": 64,
+    "tipo": "imagen",
+    "titulo": "Tramo de calzada con un carril para el sentido propio y dos carriles para el sentido opuesto",
+    "texto": "Indica, en una calzada de doble sentido de circulación, que se dispone de un solo carril, mientras que el sentido opuesto dispone de dos.\n\nSe especificará la longitud en la que se mantiene esta configuración mediante un panel complementario."
+  },
+  {
+    "n": 65,
+    "tipo": "imagen",
+    "titulo": "Señales de confluencia de carriles",
+    "texto": "Indica, en calzadas con uno, dos o tres carriles de circulación en el mismo sentido, que se producirá la confluencia de uno o dos carriles por el lado representado en la señal con la flecha de trazo discontinuo."
+  },
+  {
+    "n": 66,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 67,
+    "tipo": "imagen",
+    "titulo": "Señales de servicio",
+    "texto": "Las señales de servicio informan de un servicio de posible utilidad para los usuarios de la vía."
+  },
+  {
+    "n": 68,
+    "tipo": "imagen",
+    "titulo": "Puesto de socorro",
+    "texto": "Indica la situación de un centro oficialmente reconocido, donde puede realizarse una cura de urgencia."
+  },
+  {
+    "n": 69,
+    "tipo": "imagen",
+    "titulo": "Base de ambulancias",
+    "texto": "Indica la situación de una ambulancia en servicio permanente para cura y traslado de heridos en accidentes de circulación."
+  },
+  {
+    "n": 70,
+    "tipo": "imagen",
+    "titulo": "Servicio de Inspección Técnica de Vehículos",
+    "texto": "Indica la situación de una estación de Inspección Técnica de Vehículos."
+  },
+  {
+    "n": 71,
+    "tipo": "imagen",
+    "titulo": "Otras señales de servicio",
+    "texto": "Las señales de la fila superior indican: Taller de reparación, teléfono, taller de reparación y surtidor de carburante, campamento, fuente con agua, lugar pintoresco y hotel o motel.\n\nEn la fila central, las señales indican: Restauración, cafetería, terreno para remolques-vivienda, merendero, punto de partida para excursiones a pie, campamento y terreno para remolques-vivienda, y albergue juvenil.\n\nPor último, en la fila inferior, las señales de servicio indican: Información turística, coto de pesca, parque o espacio natural, monumento, área de descanso, punto de vaciado de caravanas y autocaravanas, y otros servicios."
+  },
+  {
+    "n": 72,
+    "tipo": "imagen",
+    "titulo": "Señales de servicio específicas para usuarios de ferrocarril, metro o autobús",
+    "texto": "Las señales indican la situación de una zona de estacionamiento conectada, respectivamente, con una estación de ferrocarril, de metro o a una estación o terminal de autobuses, y destinada principalmente para los vehículos de los usuarios que realizan una parte de su viaje en vehículos privados y la otra, en ferrocarril, metro o autobús."
+  },
+  {
+    "n": 73,
+    "tipo": "imagen",
+    "titulo": "Punto de vaciado de caravanas y autocaravanas",
+    "texto": "Indica la situación de un punto de vaciado de aguas residuales para caravanas y autocaravanas."
+  },
+  {
+    "n": 74,
+    "tipo": "imagen",
+    "titulo": "Estacionamiento de emergencia por nevadas",
+    "texto": "Indica la situación de un estacionamiento de emergencia por nevadas y, excepcionalmente, para incidencias."
+  },
+  {
+    "n": 75,
+    "tipo": "imagen",
+    "titulo": "Señalización de estaciones de servicio o de recarga eléctrica",
+    "texto": "Las señales de servicio específicamente relacionadas con surtidores y estaciones de servicio y de recarga eléctrica, son las que se describen a continuación:\n\nSurtidor de carburante\nIndica la situación de un surtidor o estación de servicio de carburante.\n\nSurtidor de carburante y GLP\nIndica la situación de un surtidor o estación de servicio de carburantes con disponibilidad de gas licuado de petróleo (GLP) o autogás.\n\nSurtidor de GLP\nIndica la situación de un surtidor o estación de servicio de gas licuado de petróleo (GLP) o autogás.\n\nSurtidor de carburante y estación de recarga eléctrica\nIndica la situación de un surtidor o estación de servicio de carburantes con disponibilidad de estación de recarga eléctrica.\n\nEstación de recarga eléctrica\nIndica la situación de una estación de recarga eléctrica.\n\nSurtidor de carburante, GLP y estación de recarga eléctrica\nIndica la situación de un surtidor o estación de servicio de carburantes con disponibilidad de gas licuado de petróleo (GLP) o autogás y estación de recarga eléctrica."
+  },
+  {
+    "n": 76,
+    "tipo": "imagen",
+    "titulo": "Pictograma de señalización de vehículo eléctrico",
+    "texto": "Se utilizará el pictograma de vehículo eléctrico cuando sea necesario indicar que el alcance de la señalización se refiere a este tipo de vehículos."
+  },
+  {
+    "n": 77,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 78,
+    "tipo": "imagen",
+    "titulo": "Señales de orientación",
+    "texto": null
+  },
+  {
+    "n": 79,
+    "tipo": "imagen",
+    "titulo": "Colores de las señales de orientación",
+    "texto": null
+  },
+  {
+    "n": 80,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 81,
+    "tipo": "imagen",
+    "titulo": "Preseñalización de glorieta",
+    "texto": "Indica las direcciones de las distintas salidas de la próxima glorieta. Si alguna inscripción figura sobre fondo azul, indica que la salida conduce hacia una autopista o autovía.\n\nLas señales de la parte derecha de la imagen, indican, respectivamente:\n\n- Preseñalización de glorieta partida desde la calzada principal.\n\n- Preseñalización de glorieta partida desde las calzadas secundarias.\n\n- Preseñalización de glorieta con selección de carriles en función del movimiento a efectuar."
+  },
+  {
+    "n": 82,
+    "tipo": "imagen",
+    "titulo": "Preseñalización hacia carretera convencional o carretera multicarril",
+    "texto": "La señal de la izquierda, indica preseñalización, con cartel lateral, en carretera convencional o carretera multicarril hacia carretera convencional o carretera multicarril.\n\nLa señal de la derecha, indica preseñalización, con cartel lateral, en carretera convencional o carretera multicarril hacia carretera convencional o carretera multicarril y dirección propia"
+  },
+  {
+    "n": 83,
+    "tipo": "imagen",
+    "titulo": "Preseñalización de direcciones",
+    "texto": "La señal de la izquierda, indica preseñalización, con cartel lateral, en carretera convencional o carretera multicarril hacia autopista o autovía y dirección propia.\n\nLa señal de la derecha indica preseñalización, con cartel lateral, en autopista o autovía hacia cualquier tipo de carretera."
+  },
+  {
+    "n": 84,
+    "tipo": "imagen",
+    "titulo": "Preseñalización con señales sobre la calzada",
+    "texto": "La señal de la parte superior izquierda, indica preseñalización, con cartel sobre la calzada, en carretera convencional o carretera multicarril hacia carretera convencional o carretera multicarril.\n\nLa señal de la parte superior derecha, indica preseñalización, con carteles sobre la calzada, en carretera convencional o carretera multicarril hacia carretera convencional o carretera multicarril y dirección propia.\n\nLa señal de la parte inferior, indica preseñalización, con cartel sobre la calzada, en carretera convencional o carretera multicarril hacia autopista o autovía."
+  },
+  {
+    "n": 85,
+    "tipo": "imagen",
+    "titulo": "Preseñalización con señales sobre la calzada",
+    "texto": "La señal superior, indica preseñalización con carteles sobre la calzada, en carretera convencional o carretera multicarril hacia autopista o autovía y dirección propia.\n\nLa señal inferior, indica preseñalización con cartel sobre la calzada, en autopista o autovía hacia cualquier tipo de carretera."
+  },
+  {
+    "n": 86,
+    "tipo": "imagen",
+    "titulo": "Preseñalización con señales sobre la calzada en autopista o autovía",
+    "texto": "Las señales que se observan en el gráfico, indican preseñalización con señales sobre la calzada en autopista o autovía hacia cualquier carretera y dirección propia."
+  },
+  {
+    "n": 87,
+    "tipo": "imagen",
+    "titulo": "Preseñalización de salidas muy próximas",
+    "texto": "La señal de la parte superior indica preseñalización, en autopista o autovía, de dos salidas muy próximas hacia cualquier carretera y dirección propia.\n\nLa señal de la parte inferior, indica preseñalización, en autopista o autovía, de dos salidas muy próximas hacia cualquier carretera."
+  },
+  {
+    "n": 88,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/MtZ-GIHqAR8"
+  },
+  {
+    "n": 89,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/3PLcNCHzKsM"
+  },
+  {
+    "n": 90,
+    "tipo": "imagen",
+    "titulo": "Preseñalización complementaria de poblaciones",
+    "texto": "Preseñalización complementaria de poblaciones en carretera convencional o carretera multicarril.\n\nPreseñalización complementaria de poblaciones en autopista o autovía.\n\nEstas señales indican poblaciones cercanas de más de 5.000 habitantes a las que se puede acceder por el siguiente nudo o desde la salida indicada."
+  },
+  {
+    "n": 91,
+    "tipo": "imagen",
+    "titulo": "Preseñalización de salidas en variante de población",
+    "texto": "Estas señales indican el número de las distintas salidas de la variante de una población acompañado por el nombre de la vía de penetración o el punto cardinal."
+  },
+  {
+    "n": 92,
+    "tipo": "imagen",
+    "titulo": "Preseñalización de itinerario",
+    "texto": "Indica el itinerario que es preciso seguir para tomar la dirección que señala la flecha."
+  },
+  {
+    "n": 93,
+    "tipo": "imagen",
+    "titulo": "Preseñalización de servicios",
+    "texto": "Preseñalización de servicios en carreteras convencionales con elevada intensidad de tráfico y en todas las carreteras multicarril.\n\nPreseñalización de servicios en autopista o autovía."
+  },
+  {
+    "n": 94,
+    "tipo": "imagen",
+    "titulo": "Preseñalización de servicios varios",
+    "texto": "- Preseñalización de servicios varios en carretera convencional o carretera multicarril.\n\n- Preseñalización de servicios varios en autopista o autovía.\n\nEstas señales indican, en una carretera convencional o una carretera multicarril (señal blanca), o en una autopista o autovía (señal azul), la proximidad de una salida hacia los servicios señalizados."
+  },
+  {
+    "n": 95,
+    "tipo": "imagen",
+    "titulo": "Preseñalización de área de servicio",
+    "texto": "Indica, en una autopista o una autovía, la proximidad de una salida hacia un área de servicio, figurando su nombre y horario de apertura además de los pictogramas de los servicios que ofrece.\n\nEn el cajetín superior figurará la distancia a la salida y, en el subcartel inferior, figurará la distancia y el horario de apertura de la siguiente área de servicio en el sentido de la marcha."
+  },
+  {
+    "n": 96,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 97,
+    "tipo": "imagen",
+    "titulo": "Poblaciones de un itinerario",
+    "texto": "Poblaciones de un itinerario por carretera convencional o carretera multicarril\n\nPoblaciones en un itinerario por autopista o autovía \n\nEstas señalesi indican los nombres de poblaciones situadas en un itinerario constituido por una carretera convencional o carretera multicarril, o una autopista o autovía, y el sentido por el que aquéllas se alcanzan.\n\nEn ambos casos, las cifras que aparecen en la señal, indican la distancia en kilómetros."
+  },
+  {
+    "n": 98,
+    "tipo": "imagen",
+    "titulo": "Poblaciones de varios itinerarios por carretera convencional o carretera multicarril",
+    "texto": "Indica los nombres de poblaciones situadas en varios itinerarios constituidos por una carretera convencional o una carretera multicarril, y el sentido por el que aquéllas se alcanzan.\n\nDentro de la señal puede figurar uno o varios cajetines acompañando a los destinos, que definen la categoría y número de la carretera.\n\nLas cifras alineadas con los destinos indican la distancia existente a los mismos expresada en kilómetros."
+  },
+  {
+    "n": 99,
+    "tipo": "imagen",
+    "titulo": "Lugares de interés",
+    "texto": "- Lugares de interés por carretera convencional o carretera multicarril.\n\n- Lugares de interés por autopista o autovía."
+  },
+  {
+    "n": 100,
+    "tipo": "imagen",
+    "titulo": "Señales de destino",
+    "texto": "Las señales de la parte superior de la imagen, indican destino hacia una vía ciclista o senda ciclopeatonal.\n\nLas señales de la parte inferior son señales de destino de salida inmediata hacia carretera convencional o carretera multicarril, o hacia autopista o autovía, respectivamente."
+  },
+  {
+    "n": 101,
+    "tipo": "imagen",
+    "titulo": "Señales de destino de salida inmediata",
+    "texto": "Señal de destino de salida inmediata, exclusiva o compartida con carretera convencional o carretera multicarril, hacia los servicios indicados.\n\nSeñal de destino de salida inmediata hacia los servicios indicados, con salida compartida hacia autopista o autovía."
+  },
+  {
+    "n": 102,
+    "tipo": "imagen",
+    "titulo": "Señalización de salida inmediata con cartel lateral, en carretera convencional o carretera multicarril",
+    "texto": "Señalización de salida inmediata, con cartel lateral, en carretera convencional o carretera multicarril:\n\n- hacia carretera convencional o carretera multicarril.\n\n- hacia carretera convencional o carretera multicarril y dirección propia.\n\n- hacia autopista o autovía.\n\n- hacia autopista o autovía y dirección propia."
+  },
+  {
+    "n": 103,
+    "tipo": "imagen",
+    "titulo": "Señales de salida inmediata hacia carretera convencional o carretera multicarril",
+    "texto": "Señal sobre la calzada en carretera convencional o multicarril. Salida inmediata hacia carretera convencional o carretera multicarril.\n\nSeñal sobre la calzada en autopista y autovía. Salida inmediata hacia carretera convencional o carretera multicarril."
+  },
+  {
+    "n": 104,
+    "tipo": "imagen",
+    "titulo": "Señales de salida inmediata hacia autopista o autovía",
+    "texto": "Señal sobre la calzada en carretera convencional o carretera multicarril. Salida inmediata hacia autopista o autovía.\n\nSeñal sobre la calzada en autopista o autovía. Salida inmediata hacia autopista o autovía."
+  },
+  {
+    "n": 105,
+    "tipo": "imagen",
+    "titulo": "Señalización de salida inmediata en carretera convencional o carretera multicarril",
+    "texto": "Señales sobre la calzada en carretera convencional o carretera multicarril. Salida inmediata hacia carretera convencional o multicarril y dirección propia.\n\nSeñales sobre la calzada en carretera convencional o carretera multicarril. Salida inmediata hacia autopista o autovía y dirección propia."
+  },
+  {
+    "n": 106,
+    "tipo": "imagen",
+    "titulo": "Salida inmediata hacia carretera convencional o multicarril y dirección propia",
+    "texto": "Estas señales indican, en una autopista o autovía, una salida inmediata hacia una carretera convencional o multicarril y dirección propia."
+  },
+  {
+    "n": 107,
+    "tipo": "imagen",
+    "titulo": "Salida inmediata hacia autopista o autovía y dirección propia",
+    "texto": "Estas señales indican, en una autopista o autovía, una salida inmediata hacia una autopista o autovía y dirección propia."
+  },
+  {
+    "n": 108,
+    "tipo": "imagen",
+    "titulo": "Señalización de la primera salida inmediata de dos salidas muy próximas",
+    "texto": "Señalización con carteles sobre la calzada, en autopista o autovía, de la primera salida inmediata de dos salidas muy próximas.\n\nEn los carteles de la parte superior de la imagen, la salida inmediata es hacia carretera convencional o carretera multicarril.  En la imagen inferior, la salida inmediata es hacia autopista o autovía.\n\nEsta señalización también indica los destinos de la segunda salida y la dirección propia."
+  },
+  {
+    "n": 109,
+    "tipo": "imagen",
+    "titulo": "Señalización de salida inmediata a servicios",
+    "texto": "Las señales de la parte superior indican una salida inmediata a servicios en carreteras convencionales con elevada intensidad de tráfico y en todas las carreteras multicarril.\n\nLa señal de la parte inferior, indica una salida inmediata a servicios en el resto de carreteras convencionales."
+  },
+  {
+    "n": 110,
+    "tipo": "imagen",
+    "titulo": "Señalización de salida inmediata a servicios en autopista o autovía",
+    "texto": "Las señales de la parte superior indican una salida inmediata a servicios en autopistas o autovías.\n\nEn la parte inferior, la señalización indica una salida inmediata a un área de servicios."
+  },
+  {
+    "n": 111,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 112,
+    "tipo": "imagen",
+    "titulo": "Señales de identificación de carreteras",
+    "texto": null
+  },
+  {
+    "n": 113,
+    "tipo": "imagen",
+    "titulo": "Identificación de carreteras pertenecientes a una red diferente a la del Estado",
+    "texto": "Las carreteras pertenecientes a una red diferente a la del Estado, normalmente a una red de ámbito autonómico o provincial, se identifican con las siguientes señales:\n\nFondo de color naranja: carretera primer nivel.\nFondo de color marrón: carretera de segundo nivel.\nFondo de color amarillo: carretera de tercer nivel."
+  },
+  {
+    "n": 114,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 115,
+    "tipo": "imagen",
+    "titulo": "Señales de entrada a poblado y fin de poblado",
+    "texto": "Entrada a poblado\nIndica el nombre de la población a la que se accede, así como el lugar a partir del cual rigen las normas de circulación en poblado.\n\nAdemás, podrá incluirse la velocidad máxima permitida en esa vía a partir de ese punto, con independencia de que en otras vías del poblado puedan existir límites diferentes.\n\nFin de poblado\nIndica el nombre de la población de la que se sale, así como el lugar desde donde dejan de ser aplicables las normas de circulación en poblado."
+  },
+  {
+    "n": 116,
+    "tipo": "imagen",
+    "titulo": "Localización de puntos geográficos atravesados por la vía",
+    "texto": "Indican el lugar donde la vía atraviesa un punto geográfico característico.\n\nEnhorabuena, has superado el 80% del tema\n\nOk"
+  },
+  {
+    "n": 117,
+    "tipo": "imagen",
+    "titulo": "Señales de localización de túneles",
+    "texto": "Las señales de la parte izquierda de la imagen, señalan la localización de un túnel, en carretera convencional o carretera multicarril, o en autopista o autovía, respectivamente, con información sobre sus instalaciones de seguridad y su longitud.\n\n\nLas señales de la parte derecha, señalan la localización del túnel e informan sobre las obligaciones específicas de circulación dentro del mismo."
+  },
+  {
+    "n": 118,
+    "tipo": "imagen",
+    "titulo": "Señales de situación de límites",
+    "texto": "Situación de límite de provincia\nIndica el lugar a partir del cual la vía entra en la provincia indicada.\n\nSituación de límite de comunidad autónoma\nIndica el lugar a partir del cual la vía entra en la comunidad autónoma indicada.\n\nSituación de límite de demarcación hidrográfica\nIndica el lugar a partir del cual la vía entra en la demarcación hidrográfica indicada.\n\nSituación de límite de comunidad autónoma y provincia\nIndica el lugar a partir del cual la vía entra en la comunidad autónoma y provincia indicadas."
+  },
+  {
+    "n": 119,
+    "tipo": "imagen",
+    "titulo": "Carteles institucionales",
+    "texto": "Cartel institucional en autopista o autovía, y en carretera convencional o carretera multicarril, respectivamente. \n\nEstas señales indican la titularidad, numeración y denominación de la vía."
+  },
+  {
+    "n": 120,
+    "tipo": "imagen",
+    "titulo": "Hitos kilométricos",
+    "texto": null
+  },
+  {
+    "n": 121,
+    "tipo": "imagen",
+    "titulo": "Hitos miriamétricos",
+    "texto": null
+  },
+  {
+    "n": 122,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 123,
+    "tipo": "imagen",
+    "titulo": "Confirmación de poblaciones y confirmación complementaria",
+    "texto": "Las señales de la parte izquierda, indican confirmación de poblaciones en un itinerario, por carretera convencional o carretera multicarril, o por autopista o autovía respectivamente.\n\nLa señal de la parte derecha, de confirmación complementaria con preseñalización de salida, indica en una autopista o una autovía, los nombres de capitales de provincia no adyacentes a la autopista o a la autovía por la que se circula, y las correspondientes distancias en kilómetros.\n\nEn los subcarteles superiores figurará además el número de salida correspondiente y la distancia existente a dicha salida."
+  },
+  {
+    "n": 124,
+    "tipo": "imagen",
+    "titulo": "Señales de uso específico en poblado",
+    "texto": "Lugares de la red viaria urbana. Indica los nombres de calles,  avenidas, plazas, glorietas o de cualquier otro punto de la red viaria.\n\nLugares de interés para los viajeros. Indica los lugares de interés para los viajeros, tales como estaciones, aeropuertos, zonas de embarque de los puertos, hoteles, campamentos, oficinas de turismo y automóvil club.\n\nLugares de interés deportivo o recreativo. Indica lugares en los que predomina un interés deportivo o recreativo.\n\nLugares de carácter geográfico o ecológico y de interés monumental, histórico o artístico. Indica lugares de tipo geográfico, de interés ecológico o de interés monumental, histórico o artístico tales como monumentos, castillos, monasterios, museos, palacios, etc. \n\nLugares de interés cultural. Indica los lugares de interés cultural tales como universidades, centros culturales, bibliotecas, teatros, etc.\n\nZonas de uso industrial. Indica las zonas de importante atracción de camiones, mercancías y, en general, tráfico industrial pesado.\n\nAutopistas y autovías. Indica las autopistas y autovías y los lugares a los que por ellas puede accederse.\n\nOtros lugares y vías. Indica las carreteras que no sean autopistas o autovías, los poblados a los que por ellas pueda accederse, así como otros lugares de interés no comprendidos en señales anteriores."
+  },
+  {
+    "n": 125,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 126,
+    "tipo": "imagen",
+    "titulo": "Paneles complementarios",
+    "texto": "Los paneles complementarios precisan el significado de la señal que complementan.\n\nDistancia al comienzo del peligro o prescripción\nIndica la distancia desde el lugar donde está la señal a aquel en que comienza el peligro o comienza a regir la prescripción de aquella. \n\nEn el caso de que esté colocado bajo la señal de advertencia de peligro por estrechamiento de calzada, puede indicar la anchura libre del citado estrechamiento.\n\nLongitud del tramo peligroso o sujeto a prescripción\nIndica la longitud en la que existe el peligro o en la que se aplica la prescripción."
+  },
+  {
+    "n": 127,
+    "tipo": "imagen",
+    "titulo": "Paneles complementarios",
+    "texto": "Extensión de prohibición a un lado: Colocada bajo una señal de prohibición, indica la distancia en que se aplica esta prohibición en el sentido de la flecha.\n\nExtensión de la prohibición a ambos lados: Colocada bajo una señal de prohibición, indica las distancias en que se aplica esta prohibición en cada sentido indicado por las flechas.\n\nPreseñalización de detención obligatoria: Colocada bajo la señal de Ceda el Paso, indica la distancia a que se encuentra la señal de detención obligatoria o STOP de la próxima intersección."
+  },
+  {
+    "n": 128,
+    "tipo": "imagen",
+    "titulo": "Panel de itinerario con prioridad",
+    "texto": "Itinerario con prioridad: Panel adicional de la señal R-3, que indica el itinerario con prioridad.\n\nEn el ejemplo de la fotografía, el itinerario con prioridad se prolonga hacia la izquierda."
+  },
+  {
+    "n": 129,
+    "tipo": "imagen",
+    "titulo": "Panel complementario de aplicación de la señalización",
+    "texto": "Colocado bajo una señal vertical, indica que la señal se aplica solamente en el ramal de salida.\n\nEn el ejemplo de la imagen el panel indica que el límite de velocidad sólo se aplica al carril de salida, por lo tanto, el vehículo azul no se ve afectado por la señal de velocidad máxima."
+  },
+  {
+    "n": 130,
+    "tipo": "imagen",
+    "titulo": "Aplicación de la señalización a determinados vehículos",
+    "texto": "Indican, bajo la señal vertical correspondiente, que dicha señal se refiere exclusivamente a los vehículos que figuran en el panel y que pueden ser:\n\n- Camiones\n\n- Vehículos con remolque a excepción de los de un solo eje.\n\n- Autobuses\n\n- Ciclos\n\n- Vehículos de movilidad personal"
+  },
+  {
+    "n": 131,
+    "tipo": "imagen",
+    "titulo": "Otros paneles complementarios",
+    "texto": "Circunstancias de nieve, lluvia o niebla\nLos paneles complementarios de la columna situada a la izquierda, indican, bajo la señal vertical correspondiente, que esta se aplica únicamente cuando se den las circunstancias referidas, como nieve, lluvia o niebla.\n\nDistancia lateral en adelantamiento a ciclo o ciclomotor\nRecuerda, bajo la señal vertical correspondiente, la anchura de seguridad mínima que debe guardarse en caso de adelantamiento a un ciclo o ciclomotor, o, en ambos casos, conjunto de ellos.\n\nVigilancia por medios automáticos\nIndica la vigilancia mediante medios de captación y denuncia automáticos, del cumplimiento de lo establecido por la señal vertical a la que acompaña."
+  },
+  {
+    "n": 132,
+    "tipo": "imagen",
+    "titulo": "Ejemplo de aplicación solo a autobuses y vehículos con remolque",
+    "texto": "En esta situación, sólo los autobuses y los vehículos con remolque tendrán prohibido circular a más de 40 km/h."
+  },
+  {
+    "n": 133,
+    "tipo": "imagen",
+    "titulo": "Ejemplo de aplicación a camiones",
+    "texto": "A partir de esta señal, los camiones deben dejar una distancia de seguridad de 150 metros como mínimo."
+  },
+  {
+    "n": 134,
+    "tipo": "imagen",
+    "titulo": "Ejemplo de aplicación a ciclos",
+    "texto": "En este caso, la prohibición de parar y estacionar se aplica exclusivamente a las bicicletas."
+  },
+  {
+    "n": 135,
+    "tipo": "imagen",
+    "titulo": "Aplicación de la señal en caso de nevada",
+    "texto": "En caso de nevada, está prohibido circular a más de 40 km/h."
+  },
+  {
+    "n": 136,
+    "tipo": "imagen",
+    "titulo": "Aplicación de la señal en caso de lluvia",
+    "texto": "Cuando llueva, queda prohibido circular a más de 80 km/h. Si no llueve, los conductores sí podrán superar dicha velocidad."
+  },
+  {
+    "n": 137,
+    "tipo": "imagen",
+    "titulo": "Aplicación de la señal en caso de niebla",
+    "texto": "La prohibición de circular a más de 60 km/h, sólo es aplicable en caso de niebla."
+  },
+  {
+    "n": 138,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 139,
+    "tipo": "imagen",
+    "titulo": "Otras señales",
+    "texto": "Peligro de incendio. Advierte del peligro que representa encender un fuego.\n\nExtintor. Indica la situación de un extintor de incendios.\n\nEntrada a España. Indica que ha entrado en territorio español por una carretera procedente de otro país.\n\nConfirmación de país. Indica el nombre del país al que se dirige la carretera. La cifra en la parte inferior indica la distancia a la que se encuentra la frontera.\n\nRadiofrecuencia de emisoras específicas de información sobre la carretera. Indica la frecuencia a la que hay que conectar el receptor de radiofrecuencia para recibir información.\n\nTeléfono de emergencia. Indica la situación de un teléfono de emergencia."
+  },
+  {
+    "n": 140,
+    "tipo": "imagen",
+    "titulo": "Limitaciones de velocidad en España",
+    "texto": "Indica los límites genéricos de velocidad en las distintas clases de carreteras y en zona urbana en España."
+  },
+  {
+    "n": 141,
+    "tipo": "imagen",
+    "titulo": "Señalización de recursos para emergencias",
+    "texto": "Teléfono de emergencia y extintor de incendios\nIndica la situación de un extintor de incendios y teléfono de emergencia.\n\nSalida de emergencia\nIndica la situación de una salida de emergencia.\n\nSalida de emergencia contigua\nIndica la posición en que se encuentra la salida de emergencia más cercana.\n\nSalida de emergencia próxima\nIndica la dirección en que se encuentra la salida de emergencia más cercana y la distancia que resta hasta alcanzarla."
+  },
+  {
+    "n": 142,
+    "tipo": "imagen",
+    "titulo": "Señales de control",
+    "texto": "Señales de control de velocidad en carretera convencional y carretera multicarril, y de control de velocidad en autopista y autovía: indican la existencia de un dispositivo de control de velocidad en un punto o tramo de una determinada vía.\n\nSeñal de control de semáforo en rojo: indica la existencia de un dispositivo de control de paso con semáforo en rojo.\n\nEn la fila inferior, las señales indican: Control de STOP, control de separación mínima en carretera convencional o carretera multicarril, y control de separación mínima en autopista o autovía.\n\nControl de velocidad mediante medios aéreos: el cartel que se observa a la derecha de la imagen, indica la posible existencia en el tramo, de controles de velocidad mediante medios aéreos, como helicóptero o dron."
+  },
+  {
+    "n": 143,
+    "tipo": "imagen",
+    "titulo": "Señales informativas de la distancia mínima entre vehículos",
+    "texto": "Las cuatro señales de la izquierda, colocadas en los tipos de vía o tramos especificados en la imagen, indican el número de marcas viales de galón que debe dejar un vehículo entre él y el que le precede, \n\nEn la parte derecha, la señal indica, en un tramo donde es frecuente la pérdida de visibilidad debido a la niebla, el número de balizas luminosas que debe dejar un vehículo entre el y el que le precede."
+  },
+  {
+    "n": 144,
+    "tipo": "imagen",
+    "titulo": "Advertencia de riesgo de alcances",
+    "texto": "Advierte del riesgo por alcances en un tramo de autopista o autovía, debido a que la pendiente ascendente provoca que los camiones circulen a una velocidad sensiblemente menor que los turismos."
+  },
+  {
+    "n": 145,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  }
+]

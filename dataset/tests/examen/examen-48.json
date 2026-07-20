@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 48,
+  "nombre": "Test de examen 48",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Está permitido circular con un turismo por una vía en cuyo acceso está situada esta señal?",
+      "imagen": "examen-48_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque es una vía reservada para todos los vehículos de dos ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque es una vía reservada para ciclos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque es una vía permitida para todos los vehículos, excepto ciclos."
+        }
+      ],
+      "ayuda": "Vía reservada para ciclos.\nEsta señal indica la existencia de una vía destinada a la circulación de ciclos y prohibición a los demás usuarios de la vía de utilizarla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Estas señales indican...",
+      "imagen": "examen-48_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "una preseñalización en autopista o autovía hacia cualquier tipo de carretera y dirección propia."
+        },
+        {
+          "letra": "B",
+          "texto": "Una preseñalización en carreta convencional hacia autopista o autovía."
+        },
+        {
+          "letra": "C",
+          "texto": "Salida inmediata hacia una carretera convencional y dirección propia en autopista o autovía."
+        }
+      ],
+      "ayuda": "Preseñalización con carteles sobre la calzada en autopista o autovía hacia cualquier tipo de carretera y dirección propia. Indica los destinos de la salida, la distancia a la que se encuentra y el número del enlace. También indica la dirección propia de la autopista o autovía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Está permitido circular con un turismo por una vía en cuyo acceso está situada esta señal?",
+      "imagen": "examen-48_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque es una vía permitida para todos los vehículos, excepto ciclos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque es una vía reservada para todos los vehículos de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque es una vía reservada para ciclos."
+        }
+      ],
+      "ayuda": "Vía reservada y obligatoria para ciclos\nObligación para los conductores de ciclos de circular por la vía a cuya entrada esté situada y prohibición a los demás usuarios de la vía de utilizarla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Después de esta señal, ¿puede circular a más de 50 km/h?",
+      "imagen": "examen-48_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si las circunstancias lo permiten."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque lo prohíbe la señal."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo para adelantar a otros vehículos."
+        }
+      ],
+      "ayuda": "Señal de fin de poblado.\nIndica el nombre de la población de la que se sale, así como el lugar desde donde dejan de ser aplicables las normas de circulación en poblado. Por consiguiente, se podrá circular a más de 50 km/h si el resto de las circunstancias lo permiten.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Se debe detener delante de estas marcas viales?",
+      "imagen": "examen-48_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque no es un paso para peatones ni una marca de detención."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre, para ceder el paso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando circule un ciclista, porque en este paso tiene prioridad."
+        }
+      ],
+      "ayuda": "La marca vial que se observa en la imagen, consistente en dos líneas transversales discontinuas y paralelas sobre la calzada, indica un paso para ciclistas en el cual los vehículos que circulan por esta deben dejarles paso, llegando a detenerse si fuera necesario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "La señal de V-27 de “triángulo virtual” ¿en qué vehículos se activará?",
+      "imagen": "examen-48_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En aquellos vehículos que hayan sufrido una avería en carretera y se encuentren inmovilizados."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo en aquellos vehículos que estén conectados con el Punto de Acceso Nacional de Información de Tráfico y Movilidad."
+        },
+        {
+          "letra": "C",
+          "texto": "En todos los vehículos que circulen próximos a un vehículo inmovilizado por emergencia."
+        }
+      ],
+      "ayuda": "La señal V-27 de triángulo virtual tiene carácter voluntario y solo se visualizará en aquellos vehículos que estén conectados por medios telemáticos, de forma directa o a través de un proveedor de servicios, con el Punto de Acceso Nacional de Información de Tráfico y Movilidad.\n\nEsta señal se activará en el sistema de a bordo del vehículo para advertir la presencia de un peligro próximo, cuando este hecho haya sido informado por un tercero a la plataforma de vehículo conectado de la Dirección General de Tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Es obligatorio utilizar el dispositivo de preseñalización de peligro para advertir de la presencia de un turismo averiado en la carretera?",
+      "imagen": "examen-48_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solamente en caso de visibilidad insuficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En los supuestos de inmovilización por emergencia (caída de la carga, avería, etc.), sin perjuicio de encender la luz de emergencia y, cuando proceda, las luces de posición y de gálibo, todo conductor deberá emplear el dispositivo de preseñalización de peligro reglamentario para advertir dicha circunstancia.\n\nEste dispositivo indica que el vehículo ha quedado inmovilizado en la calzada o que su carga se encuentra caída sobre la misma.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Esta señal le informa que entra a...",
+      "imagen": "examen-48_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un tramo de vía que discurre por poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "una carretera convencional."
+        },
+        {
+          "letra": "C",
+          "texto": "una zona residencial."
+        }
+      ],
+      "ayuda": "\tSeñal de entrada a poblado.\n\tIndica el nombre de la población a la que se accede, así como el lugar a partir del cual rigen las normas de circulación en poblado. \n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-48_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cafetería."
+        },
+        {
+          "letra": "B",
+          "texto": "Restaurante."
+        },
+        {
+          "letra": "C",
+          "texto": "Área de Servicio."
+        }
+      ],
+      "ayuda": "Restauración: Indica la situación de un restaurante. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Qué función tiene el sistema ADAS de Advertencia de colisión con peatones y ciclistas (VIS-DET)?",
+      "imagen": "examen-48_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "enviar una alerta visual y sonora ante una colisión inminente con un peatón o ciclista."
+        },
+        {
+          "letra": "B",
+          "texto": "frenar el vehículo automáticamente ante la presencia de peatones o ciclistas."
+        },
+        {
+          "letra": "C",
+          "texto": "impedir que el conductor realice una maniobra brusca si existe riesgo de colisión con peatones o ciclistas."
+        }
+      ],
+      "ayuda": "ADAS FCW + P + C (Aviso de colisión frontal con detección de peatones y ciclistas), también conocido como de advertencia de colisión con peatones y ciclistas (VIS-DET), monitoriza el estado de la carretera y el entorno cercano para enviar una alerta visual y sonora ante una colisión inminente con un peatón o ciclista.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Cómo se conocen a los colectivos de personas que tienen una mayor probabilidad de verse implicados en un accidente de tráfico o de fallecer a consecuencia del mismo?",
+      "imagen": "examen-48_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Grupos de riesgo o vulnerables en el tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "Víctimas de accidentes de tráfico."
+        },
+        {
+          "letra": "C",
+          "texto": "Grupos en riesgo de exclusión social."
+        }
+      ],
+      "ayuda": "Los colectivos de personas que tienen una mayor probabilidad de verse implicados en un accidente de tráfico o de fallecer a consecuencia del mismo se conocen como grupos de riesgo o vulnerables en el tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Puede circular con su turismo si el equipaje no permite una visión adecuada de la vía por el espejo retrovisor interior?",
+      "imagen": "examen-48_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso la carga puede disminuir la visibilidad a través del espejo retrovisor."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si el vehículo lleva dos espejos retrovisores exteriores, uno a cada lado."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si el retrovisor derecho es gran angular y el interior panorámico."
+        }
+      ],
+      "ayuda": "Si el equipaje no permite una visión adecuada de la vía por el espejo retrovisor interior, se permite circular en estas condiciones siempre que existan dos espejos exteriores que garanticen una visión trasera suficiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Qué indican estas marcas viales?",
+      "imagen": "examen-48_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prohibición de estacionar."
+        },
+        {
+          "letra": "B",
+          "texto": "Zona de estacionamiento exclusiva para residentes."
+        },
+        {
+          "letra": "C",
+          "texto": "Zona de estacionamiento de duración limitada."
+        }
+      ],
+      "ayuda": "Las marcas viales de color azul que se observan en la imagen, indican zona de estacionamiento de duración limitada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Como norma general, en la parte transitable del arcén de una vía interurbana, ¿está permitida la parada o el estacionamiento?",
+      "imagen": "examen-48_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Está permitida la parada, pero no el estacionamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Está prohibida tanto la parada como el estacionamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Está permitida tanto la parada como el estacionamiento."
+        }
+      ],
+      "ayuda": "En la parte transitable del arcén de vías interurbanas está prohibida la parada y el estacionamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "En el centro de la calzada hay doble línea continua, ¿qué indica?",
+      "imagen": "examen-48_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que la calzada es peligrosa."
+        },
+        {
+          "letra": "B",
+          "texto": "Que hay un carril especial."
+        },
+        {
+          "letra": "C",
+          "texto": "Que no se puede atravesar, ni pisar la línea."
+        }
+      ],
+      "ayuda": "La doble línea longitudinal continua significa que ningún conductor debe atravesarla ni circular con su vehículo sobre ella, o circular por la izquierda de la misma cuando la marca separe los dos sentidos de circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Esta señal, ¿prohíbe cambiar de dirección a la izquierda?",
+      "imagen": "examen-48_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero no prohíbe girar a la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, prohíbe realizar cualquier giro."
+        }
+      ],
+      "ayuda": "La señal de “cambio de sentido prohibido” no afecta a los cambios de dirección, por lo que no impide cambiar de dirección a la izquierda si el resto de las circunstancias lo permiten.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Si existen semáforos con indicaciones distintas a la derecha y a la izquierda, ¿a cuál obedecerán los que pretendan seguir de frente?",
+      "imagen": "examen-48_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al situado a su derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Al que se encuentre más cerca del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Al situado inmediatamente a su izquierda."
+        }
+      ],
+      "ayuda": "Cuando hay semáforos con indicaciones distintas a ambos lados de la calzada, los conductores que sigan de frente deben obedecer el que está situado a su izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Si en un paso a nivel las barreras están en movimiento...",
+      "imagen": "examen-48_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no se debe entrar."
+        },
+        {
+          "letra": "B",
+          "texto": "se puede entrar antes de que las barreras corten el paso."
+        },
+        {
+          "letra": "C",
+          "texto": "no se debe entrar, salvo que estén levantándose y haya espacio suficiente."
+        }
+      ],
+      "ayuda": "Si en un paso a nivel las barreras o semibarreras están en movimiento, los conductores no deben entrar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "A un turismo, ¿le está permitido circular si tiene roto el espejo retrovisor exterior izquierdo?",
+      "imagen": "examen-48_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque el retrovisor exterior izquierdo no es obligatorio."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo si el vehículo tiene espejo retrovisor interior."
+        },
+        {
+          "letra": "C",
+          "texto": "No, cuando el conductor no pueda ver la circulación por detrás del vehículo."
+        }
+      ],
+      "ayuda": "El espejo retrovisor izquierdo es siempre obligatorio en los turismos. No está permitido circular si dicho espejo está roto y no cumple con su función, es decir que no permite observar la circulación por detrás del vehículo correctamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Entre la puesta y la salida del sol, ¿puede encender la luz de largo alcance en caso de niebla?",
+      "imagen": "examen-48_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, procurando no deslumbrar a otros usuarios de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo en carreteras con un carril para cada sentido de la circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido."
+        }
+      ],
+      "ayuda": "Aunque no es aconsejable usar las luces de largo alcance (carretera) de noche cuando existe niebla (porque la luz rebota en las gotas de agua y deslumbra) su utilización está permitida siempre que no se deslumbre a otros usuarios de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Si circula a 40 km/h y aumenta su velocidad a 80 km/h, ¿cómo afectará al comportamiento del vehículo ante una situación de peligro?",
+      "imagen": "examen-48_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumentará al doble la distancia de frenado."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentará únicamente la distancia de reacción."
+        },
+        {
+          "letra": "C",
+          "texto": "Aumentará la distancia de reacción, la de frenado y la de detención."
+        }
+      ],
+      "ayuda": "Al aumentar la velocidad de circulación, aumentarán también la distancia de reacción (el vehículo recorrerá una mayor distancia durante el tiempo de reacción), la distancia de frenado (la cual aumenta de forma exponencial) y, por lo tanto, también la distancia de detención.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Excepcionalmente se efectuará el adelantamiento por la derecha, si existe suficiente espacio para ello y adoptando las máximas precauciones...",
+      "imagen": "examen-48_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a los tranvías que marchen por la zona central en vías con circulación en ambos sentidos."
+        },
+        {
+          "letra": "B",
+          "texto": "cuando el conductor del vehículo que se pretende adelantar esté indicando claramente su propósito de cambiar de dirección a la derecha o parar en ese lado."
+        }
+      ],
+      "ayuda": "Como norma general los adelantamientos deben realizarse por la izquierda.  Por excepción, y si existe espacio suficiente para ello, el adelantamiento se efectuará por la derecha y adoptando las máximas precauciones, cuando el conductor del vehículo al que se pretenda adelantar esté indicando claramente su propósito de cambiar de dirección a la izquierda o parar en ese lado, así como, en las vías con circulación en ambos sentidos, a los tranvías que marchen por la zona central.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Cuál es uno de los problemas que, debido al deterioro de las aptitudes psicofísicas, encuentran muchas personas mayores como peatones en las vías públicas?",
+      "imagen": "examen-48_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tienen mayor capacidad de orientación, sobre todo en calles que no se conocen bien."
+        },
+        {
+          "letra": "B",
+          "texto": "No aprecian bien la velocidad a la que se acercan los vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "Los bordillos de las aceras están al mismo nivel que la calzada."
+        }
+      ],
+      "ayuda": "Una de las principales dificultades para las personas mayores como peatones es la incorrecta apreciación de la velocidad de los vehículos, junto con problemas de visión, audición y reacciones más lentas, lo que los hace más vulnerables en las vías públicas y aumenta el riesgo de accidentes al cruzar la calle.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Le está permitido a un peatón penetrar en un paso a nivel con barreras o semibarreras?",
+      "imagen": "examen-48_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando las barreras o semibarreras estén en movimiento para levantarse."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando se ha cerciorado de que no se acerca ningún vehículo que circule sobre raíles y las barreras estén atravesadas en la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "No, cuando las barreras o semibarreras se encuentren en movimiento o atravesadas en la vía."
+        }
+      ],
+      "ayuda": "Ningún usuario de la vía deberá penetrar en un paso a nivel cuyas barreras o semibarreras estén atravesadas en la vía o en movimiento para levantarse o colocarse atravesadas, o cuando sus semáforos impidan el paso con sus indicaciones de detención.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Qué separación lateral hay que dejar cuando se adelante en poblado a peatones, animales o a vehículos de tracción animal?",
+      "imagen": "examen-48_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un margen lateral de seguridad proporcional a la velocidad y la anchura y características de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Al menos 1,50 metros de distancia."
+        },
+        {
+          "letra": "C",
+          "texto": "Al menos 2 metros de distancia."
+        }
+      ],
+      "ayuda": "En general, cuando se adelante a alguno de los usuarios mencionados en poblado, el conductor del vehículo que ha de adelantar dejará un margen lateral de seguridad proporcional a la velocidad y a la anchura y características de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "En una vía fuera de poblado en la que no exista zona peatonal ni arcén practicable, ¿está permitido que un peatón circule por la calzada?",
+      "imagen": "examen-48_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que tome las debidas precauciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo si arrastra un vehículo de reducidas dimensiones que no sea de motor."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Como norma general los peatones están obligados a transitar por la zona peatonal, salvo cuando ésta no exista o no sea practicable; en tal caso, podrán hacerlo por el arcén o, en su defecto, por la calzada, tomando en todo caso las debidas precauciones para evitar accidentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "En las proximidades de vías de uso exclusivo de ciclos, ¿qué precauciones se deben tomar?",
+      "imagen": "examen-48_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hacer señales acústicas para indicar nuestra presencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Moderar la velocidad y, si fuera preciso, detener el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical."
+        }
+      ],
+      "ayuda": "Entre otros casos, se circulará a velocidad moderada y, si fuera preciso, se detendrá el vehículo cuando las circunstancias lo exijan, especialmente al aproximarse a ciclos circulando, así como en las intersecciones y en las proximidades de vías de uso exclusivo de ciclos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Un turismo con el distintivo ambiental de la imagen, clasificado como ECO, ¿está autorizado a circular por el carril VAO si su único ocupante es el conductor?",
+      "imagen": "examen-48_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que lleve el distintivo adhesivo en el parabrisas."
+        },
+        {
+          "letra": "B",
+          "texto": "No, salvo que por los paneles de mensaje variable se autorice su acceso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, aunque no lleve el distinto adhesivo en el parabrisas."
+        }
+      ],
+      "ayuda": "Un turismo con el distintivo ambiental de la imagen, clasificado como ECO, podrá circular por un carril VAO, aunque solo lo ocupe su conductor, si así se autoriza mediante la correspondiente señalización.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Si conduce una motocicleta, ¿puede utilizar manualmente el navegador GPS durante la circulación?",
+      "imagen": "examen-48_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando el dispositivo esté homologado."
+        },
+        {
+          "letra": "B",
+          "texto": "No, el navegador debe programarse antes de comenzar a circular."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque no supone ningún peligro."
+        }
+      ],
+      "ayuda": "Como norma general, se prohíbe la utilización durante la conducción de dispositivos de telefonía móvil, navegadores o cualquier otro medio o sistema de comunicación. Los navegadores deben programarse antes de comenzar el viaje.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Esta señal advierte del peligro por la proximidad...",
+      "imagen": "examen-48_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "de un lugar reservado para hacer la parada de tranvías."
+        },
+        {
+          "letra": "B",
+          "texto": "de un carril reservado para autobuses y tranvías."
+        },
+        {
+          "letra": "C",
+          "texto": "de un cruce con una línea de tranvía."
+        }
+      ],
+      "ayuda": "Cruce de tranvía. Peligro por la proximidad de cruce con una línea de tranvía, que tiene prioridad de paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

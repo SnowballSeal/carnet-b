@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 64,
+  "nombre": "Test de examen 64",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "La inexperiencia, ¿está entre las principales causas que originan los accidentes de tráfico?",
+      "imagen": "examen-64_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, lo que realmente influye en un accidente es el estado de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "No, puesto que también influye la destreza que se tenga del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, sobre todo entre los jóvenes conductores."
+        }
+      ],
+      "ayuda": "Una de las principales causas de los accidentes de tráfico, es la falta de experiencia al volante, especialmente, entre los conductores jóvenes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "La señal amarilla rectangular del camión, ¿qué indica?",
+      "imagen": "examen-64_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que mide más de 12 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Que transporta mercancías peligrosas."
+        },
+        {
+          "letra": "C",
+          "texto": "Que es un vehículo especial."
+        }
+      ],
+      "ayuda": "La señal de \"vehículo largo\" (V-6) que lleva el camión de la imagen, indica que se trata de un vehículo de más de 12 metros de longitud.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Se puede circular marcha atrás en una autopista?",
+      "imagen": "examen-64_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero sin obstaculizar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque está dentro de poblado."
+        }
+      ],
+      "ayuda": "Está siempre prohibido realizar la maniobra de marcha atrás en autovías y autopistas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Entre la dotación obligatoria que debe llevar un turismo, ¿se encuentra un extintor?",
+      "imagen": "examen-64_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solamente cuando circule por vías fuera de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Los turismos no están obligados a llevar un extintor de incendios entre su dotación obligatoria.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "La seguridad de un automóvil depende...",
+      "imagen": "examen-64_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "principalmente de una buena carrocería."
+        },
+        {
+          "letra": "B",
+          "texto": "únicamente del número de airbags instalados."
+        },
+        {
+          "letra": "C",
+          "texto": "de los sistemas de seguridad activa y pasiva."
+        }
+      ],
+      "ayuda": "El nivel de seguridad de un vehículo depende de los sistemas de seguridad activa y pasiva, de los que disponga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿En qué asiento debe viajar un niño en un vehículo mixto?",
+      "imagen": "examen-64_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En este tipo de vehículos no puede viajar un niño."
+        },
+        {
+          "letra": "B",
+          "texto": "En los asientos traseros, utilizando un dispositivo de retención."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo en los asientos traseros utilizando el cinturón de seguridad para adultos."
+        }
+      ],
+      "ayuda": "Como norma general, los menores de edad de estatura igual o inferior a 135 centímetros deberán utilizar sistemas de retención infantil y situarse en los asientos traseros del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Debido a una avería un vehículo obstaculiza la circulación, ¿qué debe hacer su conductor?",
+      "imagen": "examen-64_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sacarlo de la calzada, cumpliendo las normas de estacionamiento siempre que sea posible."
+        },
+        {
+          "letra": "B",
+          "texto": "Dejarlo en la mediana, porque siempre es el sitio más seguro."
+        },
+        {
+          "letra": "C",
+          "texto": "Remolcarlo con cualquier otro vehículo hasta un lugar seguro."
+        }
+      ],
+      "ayuda": "Cuando debido a una avería un vehículo obstaculice la circulación, su conductor deberá situarlo fuera de la calzada, cumpliendo las normas de estacionamiento siempre que sea posible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Está permitido estacionar en una zona de estancia y juego?",
+      "imagen": "examen-64_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está siempre prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, donde no se estorbe a los peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "No, excepto en los lugares designados."
+        }
+      ],
+      "ayuda": "\tEn las vías señalizadas como zona de estancia y juego, los vehículos pueden estacionarse únicamente en los lugares designados por señales o por marcas.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "En las travesías, ¿está permitido circular con la luz de largo alcance?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando la vía esté insuficientemente iluminada."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que no se deslumbre a ningún usuario."
+        }
+      ],
+      "ayuda": "En vías situadas dentro de poblado, está prohibido utilizar las luces de largo alcance o carretera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Para girar a la izquierda, ¿qué debe hacer?",
+      "imagen": "examen-64_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ceder el paso a los vehículos de la derecha solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Reducir la velocidad y ceder el paso, pero no es obligatorio detenerse."
+        },
+        {
+          "letra": "C",
+          "texto": "Primero detenerme y después ceder el paso a todos los vehículos."
+        }
+      ],
+      "ayuda": "En la situación de la imagen, el conductor que desee girar a la izquierda deberá detenerse y ceder el paso a todos los vehículos (tal y como lo establece la señal de stop) y luego podrá realizar el cambio de dirección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Un carril de utilización en sentido contrario al habitual, habilitado por razones de fluidez de la circulación, ¿puede ser utilizado por una motocicleta?",
+      "imagen": "examen-64_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, puede ser utilizado por todos los vehículos de motor."
+        },
+        {
+          "letra": "C",
+          "texto": "No, estos carriles sólo los pueden utilizar los turismos."
+        }
+      ],
+      "ayuda": "Cuando, por motivos de fluidez de la circulación, se habilite un carril de utilización en sentido contrario al habitual, por él sólo podrán circular los turismos sin remolque y las motocicletas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "La mayoría de los siniestros con furgonetas implicadas se producen...",
+      "imagen": "examen-64_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los domingos entre las 7 y las 15 horas."
+        },
+        {
+          "letra": "B",
+          "texto": "entre semana, entre las 7 de la mañana y las 12 de la noche."
+        },
+        {
+          "letra": "C",
+          "texto": "los fines de semana por la tarde."
+        }
+      ],
+      "ayuda": "Según diversos estudios, el 80% de los siniestros con furgonetas suceden en días laborables, principalmente a partir de las 7 de la mañana y hasta las 12 de la noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Cuándo es obligatorio utilizar la luz de emergencia?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando se reduzca la velocidad en carretera."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando se estacione el vehículo en doble fila."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando se inmovilice el vehículo por emergencia dentro de la vía."
+        }
+      ],
+      "ayuda": "Cuando un vehículo sufra una emergencia, ya sea inmovilizado o en movimiento, deberá conectar la luz de emergencia para advertir, al resto de los usuarios, del peligro que representa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-64_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dirección hacia una vía ciclista."
+        },
+        {
+          "letra": "B",
+          "texto": "Dirección hacia una vía reservada a vehículos de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "La prohibición a las bicicletas de circular en la dirección que señala."
+        }
+      ],
+      "ayuda": "Señal de destino hacia una vía ciclista.\nLa señal de la imagen indica la dirección apuntada por la flecha de una vía ciclista.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Qué indica la señal?",
+      "imagen": "examen-64_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que la velocidad máxima permitida es de 60 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "Que debo obedecer las normas de circulación de las vías urbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "Que debo obedecer las normas de circulación de carretera."
+        }
+      ],
+      "ayuda": "La señal de entrada a poblado de la imagen, indica que a partir de ella rigen las normas de comportamiento en la circulación relativas a las vías urbanas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Transportar un niño situado entre el manillar y el conductor en una motocicleta, ¿está permitido?",
+      "imagen": "examen-64_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, con el correspondiente casco adecuado a su talla."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero sólo cuando el conductor sea el padre, la madre o una persona autorizada."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En ningún caso podrá situarse un pasajero entre la persona que conduce y el manillar de dirección del ciclomotor o motocicleta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "La señal indica...",
+      "imagen": "examen-64_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "peligro por la proximidad de un tramo frecuentado por ciclistas."
+        },
+        {
+          "letra": "B",
+          "texto": "lugar de acampada para ciclistas."
+        },
+        {
+          "letra": "C",
+          "texto": "peligro zona frecuentada por ciclomotores."
+        }
+      ],
+      "ayuda": "La señal de la imagen indica peligro por la proximidad de un tramo con circulación frecuente de ciclistas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Un vehículo tiene una anchura superior a 2,10 metros. ¿Cuándo es obligatorio encender la luz de gálibo?",
+      "imagen": "examen-64_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando circule por un túnel a cualquier hora del día."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo cuando circule por un túnel insuficientemente iluminado."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo cuando circule por un túnel entre la puesta y la salida del sol."
+        }
+      ],
+      "ayuda": "Las luces de gálibo deberán utilizarse siempre que se utilicen las luces de posición. Por ejemplo, cuando se circule por un túnel o paso inferior a cualquier hora del día.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Como conductores, ¿puede influir en la conducción el hecho de envejecer?",
+      "imagen": "examen-64_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, puesto que no se alteran las capacidades físicas y mentales que afectan a la conducción."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero positivamente, porque todos los conductores mayores aportan una experiencia muy valiosa."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, puesto que se van produciendo alteraciones en las capacidades físicas y mentales."
+        }
+      ],
+      "ayuda": "Con el transcurso de los años, los seres humanos sufren el deterioro de algunas de sus capacidades físicas y mentales, muchas de las cuales son fundamentales para la tarea de la conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Es obligatorio obedecer esta señal con fondo amarillo?",
+      "imagen": "examen-64_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo cuando haya obreros trabajando."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, haya o no obreros trabajando."
+        }
+      ],
+      "ayuda": "Las señales verticales de fondo amarillo indican que se circula por un tramo de vía en obras y deben ser obedecidas independientemente de que haya obreros trabajando o no.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Se define como motocicleta al automóvil...",
+      "imagen": "examen-64_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "de dos ruedas con un motor de cilindrada superior a 50 centímetros cúbicos, y/o con una velocidad máxima superior a 45 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "de dos o tres ruedas con una cilindrada superior a 50 centímetros cúbicos."
+        },
+        {
+          "letra": "C",
+          "texto": "con una cilindrada superior a 125 centímetros cúbicos."
+        }
+      ],
+      "ayuda": "Se denomina motocicleta al vehículo de dos ruedas provisto de un motor de cilindrada superior 50 centímetros cúbicos, y/o con una velocidad máxima por construcción superior a 45 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Los paneles de las esquinas del camión, ¿qué indican?",
+      "imagen": "examen-64_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que la carga sobresale por detrás."
+        },
+        {
+          "letra": "B",
+          "texto": "Que la carga sobresale por los lados."
+        },
+        {
+          "letra": "C",
+          "texto": "Que la carga sobresale por delante."
+        }
+      ],
+      "ayuda": "Los paneles que lleva el vehículo de la imagen, indican que la carga que transporta sobresale por detrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Esta señal prohíbe la entrada a...",
+      "imagen": "examen-64_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "todos los vehículos destinados al transporte de mercancías peligrosas."
+        },
+        {
+          "letra": "B",
+          "texto": "vehículos destinados al transporte de mercancías."
+        },
+        {
+          "letra": "C",
+          "texto": "camiones, furgones y autobuses."
+        }
+      ],
+      "ayuda": "La señal de la imagen indica que está prohibida la entrada a vehículos destinados al transporte de mercancías, entendiéndose como tales camiones, tractocamiones y furgones o furgonetas, independientemente de su masa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Un peatón que circula de noche por la calzada o el arcén, ¿debe llevar algún elemento que le permita ser visto?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, por ejemplo un chaleco reflectante, pero sólo cuando circule fuera de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "No, no es obligatorio."
+        }
+      ],
+      "ayuda": "Los peatones, al cirular durante la noche por una calzada o arcén de una vía situada fuera de poblado, deben llevar algún elemento reflectante que permita que sean vistos por los conductores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Cuál es el orden de prioridad entre estos tipos de señales?",
+      "imagen": "examen-64_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Balizamiento, verticales y marcas viales."
+        },
+        {
+          "letra": "B",
+          "texto": "Verticales, balizamiento y marcas viales."
+        },
+        {
+          "letra": "C",
+          "texto": "Verticales, marcas viales y balizamiento."
+        }
+      ],
+      "ayuda": "El orden de prioridad entre los distintos tipos de señales es el siguiente:\nseñales y órdenes de los agentes de circulación; señales circunstanciales y de balizamiento; semáforos; señales verticales y marcas viales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "Los navegadores pueden ser de gran ayuda al conductor...",
+      "imagen": "examen-64_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "pero también pueden suponer una importante causa de distracción."
+        },
+        {
+          "letra": "B",
+          "texto": "porque disminuyen las causas de distracción al proporcionarle información importante."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo si se presta atención a las instrucciones de voz y se mira al mapa de la pantalla."
+        }
+      ],
+      "ayuda": "El navegador GPS sirve de gran ayuda al conductor pero, si no se hace un uso correcto del mismo, puede convertirse en un importante elemento de distracción, capaz de causar un accidente de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "La señal indica...",
+      "imagen": "examen-64_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "peligro por la existencia de un escalón lateral."
+        },
+        {
+          "letra": "B",
+          "texto": "peligro por tramo de vía donde los vehículos pueden proyectar gravilla al pasar."
+        },
+        {
+          "letra": "C",
+          "texto": "peligro por la existencia de obras en la calzada."
+        }
+      ],
+      "ayuda": "La señal de la imagen indica peligro por la proximidad de un tramo de vía donde existe el riesgo de que se proyecte gravilla al pasar los vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Qué condiciones tienen que tener los neumáticos de una motocicleta?",
+      "imagen": "examen-64_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las ranuras de la banda de rodadura tienen que tener una profundidad mínima de 1,6 milímetros."
+        },
+        {
+          "letra": "B",
+          "texto": "Las dos ruedas tienen que ser del mismo tamaño y características."
+        },
+        {
+          "letra": "C",
+          "texto": "No tienen que presentar cortes, roces, deformaciones, etc."
+        }
+      ],
+      "ayuda": "Entre otras condiciones, los neumáticos de una motocicleta, y los de todos los vehículos en general, no deben presentar cortes, roces, deformaciones, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "No se tendrán en cuenta, a efectos de la normal utilización, los carriles...",
+      "imagen": "examen-64_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "reversibles."
+        },
+        {
+          "letra": "B",
+          "texto": "especiales."
+        },
+        {
+          "letra": "C",
+          "texto": "reservados a determinados vehículos."
+        }
+      ],
+      "ayuda": "Para el cómputo de carriles, y a efectos de su normal utilización, no se tendrán en cuenta los carriles reservados a determinados vehículos o a ciertas maniobras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Cuando circula con su turismo y el recorrido a realizar es pequeño, ¿está permitido llevar a un bebé en brazos?",
+      "imagen": "examen-64_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si la distancia a recorrer es muy corta."
+        },
+        {
+          "letra": "B",
+          "texto": "No, siempre es obligatorio usar un dispositivo adecuado para el bebé."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si la velocidad a la que se circula es inferior a 50 km/h."
+        }
+      ],
+      "ayuda": "Independientemente de la distancia a recorrer, los menores de edad deben circular provistos de un dispositivo de retención homologado adaptado a su talla y peso o, en los casos previstos, sujetos con el cinturón de seguridad de los adultos. No está permitido en ningún caso, llevar un niño en brazos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 20,
+  "nombre": "Test de examen 20",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Un turismo equipado con servofreno, con el motor apagado...",
+      "imagen": "examen-20_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se bloquean las ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "hay que aplicar más fuerza sobre el freno de mano para mantener inmovilizado el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "hay que aplicar más fuerza sobre el pedal de freno."
+        }
+      ],
+      "ayuda": "El servofreno es un mecanismo auxiliar que multiplica automáticamente el esfuerzo aplicado por el conductor al pedal de freno. Los sistemas de asistencia a la frenada solo funcionan con el motor encendido, por lo que si el motor está apagado el pedal de freno estará más duro y se requerirá un esfuerzo mayor por parte del conductor para frenar el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "La velocidad a la que deben ser conducidos unos animales en manada o rebaño será...",
+      "imagen": "examen-20_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la del trote."
+        },
+        {
+          "letra": "B",
+          "texto": "la mitad de la máxima genérica de la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "la del paso."
+        }
+      ],
+      "ayuda": "Los animales conducidos en manada o rebaño irán al paso, lo más cerca posible del borde derecho de la vía y de forma que nunca ocupen más de la mitad derecha de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "En una autovía y salvo en los lugares habilitados al efecto, ¿qué maniobras no se pueden realizar?",
+      "imagen": "examen-20_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cambios de sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "Adelantamientos."
+        },
+        {
+          "letra": "C",
+          "texto": "Detenciones por emergencia."
+        }
+      ],
+      "ayuda": "En las autovías, como norma general, los cambios de sentido están prohibidos, excepto en los lugares habilitados al efecto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Si circula de día con un turismo, ¿en qué casos debe hacer uso del alumbrado de cruce al menos?",
+      "imagen": "examen-20_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando circule por un carril VAO."
+        },
+        {
+          "letra": "B",
+          "texto": "Siempre que existan condiciones meteorológicas adversas."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando circule utilizando un carril habilitado en sentido contrario al habitual."
+        }
+      ],
+      "ayuda": "Entre otros casos, deberán llevar encendida durante el día la luz de corto alcance o cruce todos los vehículos que circulen por un carril reversible, por un carril adicional circunstancial o por un carril habilitado para circular en sentido contrario al normalmente utilizado en la calzada donde se encuentre situado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Qué indica la señal de la derecha?",
+      "imagen": "examen-20_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Peligro por estrechamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Peligro por proximidad de obras en la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Un peligro distinto de los advertidos por otras señales."
+        }
+      ],
+      "ayuda": "Señal de advertencia por otros peligros.\nIndica la proximidad de un peligro distinto de los advertidos por otras señales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-20_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fin de velocidad mínima aconsejada."
+        },
+        {
+          "letra": "B",
+          "texto": "Fin de velocidad mínima obligatoria."
+        },
+        {
+          "letra": "C",
+          "texto": "Fin de velocidad máxima aconsejada."
+        }
+      ],
+      "ayuda": "Señal de fin de velocidad máxima aconsejada.\nIndica el final de un tramo en el que se recomienda circular a la velocidad en kilómetros por hora indicada en la señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Estas señales indican peligro por la proximidad de...",
+      "imagen": "examen-20_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un estrechamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "curva a la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "curvas y la prohibición de adelantar."
+        }
+      ],
+      "ayuda": "Las señales que se observan en la imagen advierten del peligro por la existencia de una curva peligrosa hacia la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Circular a velocidad inferior a la mínima permitida sin causa justificada, ¿es peligroso?",
+      "imagen": "examen-20_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque lo más seguro es circular a la velocidad máxima permitida."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque circular más despacio es siempre más seguro."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, y además está prohibido."
+        }
+      ],
+      "ayuda": "Circular a velocidad inferior a la mínima permitida, sin causa justificada, además de estar prohibido puede resultar peligroso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Los agentes de la autoridad encargados de la vigilancia del tráfico podrán proceder a la inmovilización de un vehículo...",
+      "imagen": "examen-20_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "siempre que su conductor sea sancionado."
+        },
+        {
+          "letra": "B",
+          "texto": "si su conductor no dispone de los originales de la documentación del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "si circula superando los niveles de gases, humos y ruidos reglamentariamente permitidos."
+        }
+      ],
+      "ayuda": "Cuando se circule superando los niveles de gases, humos y ruidos reglamentariamente permitidos, los agentes de la autoridad encargados de la vigilancia del tráfico podrán proceder a la inmovilización del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Al estacionar este vehículo en pendiente ascendente, su conductor deberá...",
+      "imagen": "examen-20_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "apoyar una rueda delantera en el bordillo y orientarla hacia fuera de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "dejar accionado el freno de estacionamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "dejar seleccionada la marcha atrás."
+        }
+      ],
+      "ayuda": "Al estacionar el vehículo en una pendiente ascendente, se debe accionar el freno de estacionamiento y, como medida de seguridad complementaria, dejar colocada la primera relación de marchas en la caja de velocidades.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "La depresión, ¿qué efectos tiene en la conducción?",
+      "imagen": "examen-20_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ninguno."
+        },
+        {
+          "letra": "B",
+          "texto": "Ansiedad e impulsividad únicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Distracciones y somnolencia."
+        }
+      ],
+      "ayuda": "La depresión es una enfermedad que afecta a un importante número de personas y que, entre otros síntomas, puede causar distracciones y somnolencia, lo cual resulta especialmente peligroso para la seguridad cuando se conduce un vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Cuándo se debe aumentar la distancia de seguridad?",
+      "imagen": "examen-20_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando disminuye la velocidad de los vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando aumenta la velocidad de los vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando pretenda adelantar."
+        }
+      ],
+      "ayuda": "A mayor velocidad de circulación, mayor será también la distancia necesaria para detener el vehículo ante una emergencia. Por lo tanto, al aumentar la velocidad, se debe aumentar la distancia frontal de seguridad respecto al vehículo que nos precede.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Cuál es la velocidad máxima permitida en esta vía para un camión de 3.500 kg de M.M.A?",
+      "imagen": "examen-20_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "80 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "90 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "70 kilómetros por hora."
+        }
+      ],
+      "ayuda": "La velocidad máxima permitida establecida con carácter general para los camiones y furgones, en carreteras convencionales, es de 80 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Un conductor que toma alcohol...",
+      "imagen": "examen-20_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "percibe peor la señales de tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "distingue mejor las luces de los vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "percibe mejor las luces de los semáforos."
+        }
+      ],
+      "ayuda": "La ingesta de alcohol provoca una disminución de la capacidad de distinguir con claridad los estímulos procedentes del entorno, por lo que los conductores, en estas circunstancias, perciben de forma deficiente las señales de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Está permitido estacionar en una intersección?",
+      "imagen": "examen-20_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en todo caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo si se dejan encendidas las luces de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "No, cuando se impida el giro a otros vehículos."
+        }
+      ],
+      "ayuda": "No está permitido estacionar en una intersección cuando se impida el giro autorizado a otros vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "La distancia de reacción...",
+      "imagen": "examen-20_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "solo depende del estado psico-físico del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "depende de la velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "es siempre una distancia constante."
+        }
+      ],
+      "ayuda": "La distancia de reacción, aquella que recorre el vehículo durante el tiempo que el conductor reacciona ante un estímulo, será mayor cuanto mayor sea la velocidad a la que se circula.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Esta señal indica...",
+      "imagen": "examen-20_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la prohibición de seguir las direcciones indicadas."
+        },
+        {
+          "letra": "B",
+          "texto": "las únicas direcciones y sentidos que puede tomar, pudiendo cambiar el sentido de la marcha."
+        },
+        {
+          "letra": "C",
+          "texto": "las únicas direcciones y sentidos que se pueden seguir."
+        }
+      ],
+      "ayuda": "La señal de obligación que se observa en la imagen indica las únicas direcciones y sentidos permitidos. Las flechas señalan las únicas direcciones y sentidos que los vehículos pueden tomar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "En una autovía que discurre por zona urbana, ¿a qué velocidad máxima puede circular un turismo si no existe señalización?",
+      "imagen": "examen-20_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 100 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "A 80 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "A 120 kilómetros por hora."
+        }
+      ],
+      "ayuda": "En defecto de señalización, la velocidad máxima que no deberán rebasar los vehículos en autopistas y autovías dentro de poblado será de 80 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Como norma general, y muy especialmente en las curvas y cambios de rasante de visibilidad reducida, los vehículos circularán...",
+      "imagen": "examen-20_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "por el centro de la calzada, por ser más seguro."
+        },
+        {
+          "letra": "B",
+          "texto": "por la derecha y lo más cerca posible del centro de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "por la derecha y lo más cerca posible del borde de la calzada."
+        }
+      ],
+      "ayuda": "Como norma general y muy especialmente en las curvas y cambios de rasante de reducida visibilidad, el vehículo circulará en todas las vías objeto de esta ley por la derecha y lo más cerca posible del borde de la calzada, manteniendo la separación lateral suficiente para realizar el cruce con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Conduce su turismo por una autopista dentro de poblado, ¿qué carril utilizará normalmente?",
+      "imagen": "examen-20_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El carril de la derecha, pudiendo utilizar el resto solo para adelantar."
+        },
+        {
+          "letra": "B",
+          "texto": "El carril de la derecha, pudiendo utilizar el resto cuando las circunstancias del tráfico lo aconsejen."
+        },
+        {
+          "letra": "C",
+          "texto": "El carril por el que haya menos vehículos."
+        }
+      ],
+      "ayuda": "En autopistas y autovías se debe circular normalmente por el carril situado más a la derecha, si bien se podrá utilizar el resto de los de dicho sentido cuando las circunstancias del tráfico o de la vía lo aconsejen, a condición de que no entorpezca la marcha de otro vehículo que circule detrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Si su permiso de conducir tiene una antigüedad de un año y medio, ¿cuál es la tasa máxima de alcohol permitida?",
+      "imagen": "examen-20_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0,5 gramos por litro de sangre."
+        },
+        {
+          "letra": "B",
+          "texto": "0,3 gramos por litro de sangre."
+        },
+        {
+          "letra": "C",
+          "texto": "0,25 gramos por litro de sangre."
+        }
+      ],
+      "ayuda": "Los conductores de cualquier vehículo no podrán superar la tasa de alcohol en sangre de 0,3 gramos por litro ni de alcohol en aire espirado de 0,15 miligramos por litro durante los dos años siguientes a la obtención del permiso o licencia que les habilita para conducir.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Circulando con una fuerte nevada, ¿qué luces antiniebla debe encender?",
+      "imagen": "examen-20_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obligatoriamente la antiniebla delantera y si dispone de ella la trasera."
+        },
+        {
+          "letra": "B",
+          "texto": "La luz antiniebla trasera y si dispone de ella también la antiniebla delantera."
+        },
+        {
+          "letra": "C",
+          "texto": "La luz antiniebla delantera solamente."
+        }
+      ],
+      "ayuda": "El alumbrado antiniebla se utilizará cuando existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, como en caso de niebla, lluvia intensa, nevada, nubes de humo o de polvo o cualquier otra circunstancia análoga.\n\nSe debe tener en cuenta que la luz antiniebla trasera solamente deberá llevarse encendida cuando las condiciones meteorológicas o ambientales sean especialmente desfavorables, como en caso de niebla espesa, lluvia muy intensa, fuerte nevada o nubes densas de polvo o humo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Esta señal indica que...",
+      "imagen": "examen-20_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "está permitido cambiar de sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "está prohibido girar a la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "en la siguiente intersección es obligatorio girar a la izquierda."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen indica que está prohibido cambiar de dirección a la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Las motocicletas con una cilindrada que no supera los 125 centímetros cúbicos, ¿están obligadas a llevar instalada la luz de largo alcance o carretera?",
+      "imagen": "examen-20_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, una o dos luces."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si llevan sidecar, en caso contrario, no."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Toda motocicleta, independientemente de sus características, deberá estar provista, entre otros dispositivos, de una o dos luces de carretera de color blanco.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Esta señal indica...",
+      "imagen": "examen-20_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un peligro por la proximidad de un tramo de la vía con pavimento resbaladizo por hielo."
+        },
+        {
+          "letra": "B",
+          "texto": "un peligro por la proximidad de una zona donde sopla fuerte viento lateral."
+        },
+        {
+          "letra": "C",
+          "texto": "un peligro por la proximidad de un vehículo accidentado que obstruye la calzada."
+        }
+      ],
+      "ayuda": "Señal de obstrucción en la calzada.\nPeligro por la proximidad de un lugar en que hay vehículos que obstruyen la calzada debido a avería, accidente u otras causas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Conduce un vehículo que circula por el carril de la derecha. ¿Cómo debe actuar teniendo en cuenta las marcas viales?",
+      "imagen": "examen-20_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Debe continuar de frente o girar a la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Debe continuar de frente obligatoriamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Debe girar a la derecha obligatoriamente."
+        }
+      ],
+      "ayuda": "Las flechas indican la dirección que, obligatoriamente, se ha de seguir en la próxima intersección. En este caso, el vehículo que circula por el carril de la derecha deberá continuar de frente o cambiar de dirección a la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Si estaciona un turismo con remolque ligero en una pendiente considerable...",
+      "imagen": "examen-20_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "debe accionar el freno de mano y dejar el cambio de marchas en punto muerto."
+        },
+        {
+          "letra": "B",
+          "texto": "debe colocar calzos o apoyar una de las ruedas directrices en el bordillo."
+        },
+        {
+          "letra": "C",
+          "texto": "debe calzar el remolque con una piedra o elemento similar."
+        }
+      ],
+      "ayuda": "Cuando se estacione un conjunto de vehículos y el estacionamiento se realice en un lugar con una sensible pendiente, su conductor deberá, además de las medidas habituales, dejarlo debidamente calzado, bien sea por medio de la colocación de calzos, sin que puedan emplear a tales fines elementos como piedras u otros no destinados de modo expreso a dicha función, bien por apoyo de una de las ruedas directrices en el bordillo de la acera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Es importante evitar las comidas copiosas durante los viajes porque pueden producir...",
+      "imagen": "examen-20_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un efecto rebote."
+        },
+        {
+          "letra": "B",
+          "texto": "somnolencia."
+        },
+        {
+          "letra": "C",
+          "texto": "nerviosismo."
+        }
+      ],
+      "ayuda": "La ingestión de comidas copiosas produce somnolencia y fatiga en los conductores, reduciendo significativamente la capacidad de reacción de los mismos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "El permiso de conducir de la clase A1, ¿autoriza a conducir motocicletas con sidecar?",
+      "imagen": "examen-20_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si tiene una antigüedad de 2 años."
+        }
+      ],
+      "ayuda": "El permiso de la clase A1, autoriza a conducir motocicletas con o sin sidecar con una cilindrada máxima de 125 centímetros cúbicos y una potencia máxima de 11kilowatios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "El conductor de la motocicleta va a adelantar a la furgoneta por la derecha. ¿Es correcto?",
+      "imagen": "examen-20_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque en vías urbanas, puede adelantarse por ambos lados, indistintamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque la furgoneta ha indicado claramente su intención de girar a la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque siempre se debe adelantar por la izquierda."
+        }
+      ],
+      "ayuda": "Como excepción, se podrá adelantar por la derecha cuando el vehículo que se pretende adelantar esté indicando claramente su propósito de girar a la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

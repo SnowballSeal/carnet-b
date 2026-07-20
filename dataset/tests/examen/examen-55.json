@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 55,
+  "nombre": "Test de examen 55",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En una intersección hay una señal vertical de stop y una marca vial de ceda el paso, ¿cuál debe obedecer?",
+      "imagen": "examen-55_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La señal vertical de Stop."
+        },
+        {
+          "letra": "B",
+          "texto": "Ninguna de las dos, en éste caso se aplicará la norma general de prioridad."
+        },
+        {
+          "letra": "C",
+          "texto": "La marca vial de ceda el paso."
+        }
+      ],
+      "ayuda": "Cuando las prescripciones indicadas por diferentes señales parezcan estar en contradicción entre sí, prevalecerá la prioritaria, según el orden de prioridad entre señales, según el cual las señales verticales prevalecen sobre las marcas viales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Si se viera en la necesidad de transportar en su vehículo a un herido, ¿está obligado a respetar las normas de circulación?",
+      "imagen": "examen-55_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo en las intersecciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en todo caso."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Si el conductor de un vehículo no prioritario se viera forzado, a realizar un servicio de los reservados a los prioritarios, deberá advertir a los demás usuarios de la especial situación en que circula, utilizando el claxon en forma intermitente y conectando la luz de emergencia, o agitando un pañuelo o procedimiento similar, debiendo respetar las normas de circulación, sobre todo en las intersecciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Para facilitar el adelantamiento, ¿qué debe hacer el vehículo adelantado?",
+      "imagen": "examen-55_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Apartarse al arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "Ceñirse al borde derecho de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular por el centro de su carril."
+        }
+      ],
+      "ayuda": "A fin de facilitar la maniobra de adelantamiento, el conductor adelantado debe mantener la velocidad a la que circula, y ceñirse al borde derecho de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Si está siguiendo un tratamiento con medicamentos, ¿qué precauciones debe tomar?",
+      "imagen": "examen-55_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No tomarlos durante la conducción."
+        },
+        {
+          "letra": "B",
+          "texto": "Reducir la dosis antes de conducir."
+        },
+        {
+          "letra": "C",
+          "texto": "Consultar al médico o farmacéutico los efectos para la conducción."
+        }
+      ],
+      "ayuda": "Los medicamentos alteran las capacidades físicas y psíquicas de las personas. Por ello, los conductores que estén bajo tratamiento médico deberán consultar a su médico o farmacéutico, sobre las posibles consecuencias negativas para la conducción de los medicamentos que tienen prescritos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Su vehículo queda detenido por avería en el arcén, ¿debe señalizarlo?",
+      "imagen": "examen-55_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, con la señal de emergencia y el dispositivo de preseñalización de peligro."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en el arcén no es necesario."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, únicamente con los triángulos de preseñalización de peligro."
+        }
+      ],
+      "ayuda": "En caso de inmovilización por emergencia y sin perjuicio de encender la luz de emergencia si el vehículo la lleva y, cuando proceda, las luces de posición y de gálibo, en tanto se deja expedita la vía, todo conductor deberá emplear el dispositivo de preseñalización de peligro reglamentario para advertir dicha circunstancia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Circulando con lluvia muy intensa, ¿es correcto encender el alumbrado antiniebla trasero?",
+      "imagen": "examen-55_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero su uso es opcional."
+        },
+        {
+          "letra": "C",
+          "texto": "No, sólo puede utilizarse con niebla densa o fuerte nevada."
+        }
+      ],
+      "ayuda": "Sólo se autoriza la utilización del alumbrado de antiniebla trasero, tanto de día como de noche, en condiciones meteorológicas o ambientales que reduzcan sensiblemente la visibilidad, en caso de niebla espesa o densa, fuerte nevada, lluvia muy intensa o nubes densas de polvo o humo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "La regulación, el funcionamiento y el estado del sistema de alumbrado, ¿hay que revisarlos frecuentemente?",
+      "imagen": "examen-55_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, con una vez cada dos o tres años es suficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, sólo es necesario cambiar las bombillas cuando estén fundidas."
+        }
+      ],
+      "ayuda": "El conductor debe verificar con frecuencia si todas las luces cumplen con las condiciones exigidas y con su finalidad. Es decir, si funcionan correctamente, iluminando la distancia necesaria con la uniformidad, intensidad e inclinación adecuadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Si no existe vía o parte de ella que les esté especialmente destinada, circularán por el arcén...",
+      "imagen": "examen-55_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los turismos con remolque."
+        },
+        {
+          "letra": "B",
+          "texto": "los vehículos para personas de movilidad reducida."
+        },
+        {
+          "letra": "C",
+          "texto": "cualquier vehículo en supuestos de tráfico denso."
+        }
+      ],
+      "ayuda": "Están obligados a circular por el arcén, cuando no exista parte de la vía que les esté especialmente destinada, los peatones, animales, ciclos, ciclomotores, vehículos de tracción animal, vehículos para personas de movilidad reducida, y los vehículos especiales cuya M.M.A no supere los 3500 kg.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Es correcto depositar objetos en la vía mientras se realizan operaciones de carga y descarga?",
+      "imagen": "examen-55_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, ya que no se pueden depositar mercancías en la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si se realizan por el lado más próximo al borde de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando se trate de una zona reservada a carga y descarga."
+        }
+      ],
+      "ayuda": "Las operaciones de carga o descarga deberán llevarse a cabo fuera de la vía. Excepcionalmente, cuando sea inevitable efectuarlas en ésta, deberán realizarse sin ocasionar peligros ni perturbaciones graves al tránsito de otros usuarios y teniendo en cuenta que, entre otras normas, queda prohibido depositar la mercancía en la calzada, arcén y zonas peatonales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Qué le indica esta señal?",
+      "imagen": "examen-55_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el itinerario que sigue el ramal de la derecha tiene prioridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el itinerario que sigue el ramal de la izquierda tiene prioridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el itinerario que sigue de frente tiene prioridad."
+        }
+      ],
+      "ayuda": "La señal itinerario con prioridad, consiste en un panel adicional de la señal de calzada con prioridad (R-3), que indica el itinerario con prioridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "En un viaje largo es aconsejable descansar...",
+      "imagen": "examen-55_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "siempre que se encuentre un área de descanso."
+        },
+        {
+          "letra": "B",
+          "texto": "cada 2 horas aproximadamente."
+        },
+        {
+          "letra": "C",
+          "texto": "cada 5 horas aproximadamente."
+        }
+      ],
+      "ayuda": "Cuando se realice un viaje largo es aconsejable hacer un descanso cada 2 ó 3 horas de conducción, o cada 200 o 300 kilómetros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿De qué depende la distancia de detención?",
+      "imagen": "examen-55_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De la velocidad, solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "De la velocidad, del tiempo de reacción y de la distancia de frenado."
+        },
+        {
+          "letra": "C",
+          "texto": "Del tipo de vehículo solamente."
+        }
+      ],
+      "ayuda": "La distancia de detención se define como la distancia que recorre un vehículo desde que su conductor percibe un obstáculo hasta que el vehículo queda detenido, por ello depende del tiempo de reacción, de la distancia de frenado y de la velocidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Si sopla viento lateral, ¿qué debe hacer?",
+      "imagen": "examen-55_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Adaptar la velocidad y circular con marchas cortas cuando sea necesario."
+        },
+        {
+          "letra": "B",
+          "texto": "Reducir la velocidad y circular con la primera marcha, siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "Aumentar la velocidad y circular con marchas largas."
+        }
+      ],
+      "ayuda": "El viento es especialmente peligroso cuando sopla lateralmente y de forma racheada. En estos casos, es conveniente reducir la velocidad, usando marchas cortas cuando sea necesario, y sujetar el volante con firmeza (pero sin rigidez) orientándolo en sentido contrario al del viento, y teniendo especial cuidado al adelantar, sobre todo a vehículos voluminosos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Antes de iniciar un adelantamiento, ¿qué debe hacer?",
+      "imagen": "examen-55_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Comprobar que los vehículos de detrás no han iniciado el adelantamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Comprobar que los vehículos de detrás no tienen los intermitentes encendidos."
+        },
+        {
+          "letra": "C",
+          "texto": "Comprobar que los vehículos de detrás mantienen la distancia de seguridad."
+        }
+      ],
+      "ayuda": "Antes de iniciar un adelantamiento, el conductor que pretende adelantar debe, entre otras medidas, mirar hacia atrás a través de los espejos (retrovisor interior y exterior izquierdo), para comprobar que el conductor del vehículo que le sigue no ha iniciado la maniobra de adelantamiento a su vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Qué indica la señal de la imagen?",
+      "imagen": "examen-55_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Arcén con resalto."
+        },
+        {
+          "letra": "B",
+          "texto": "Calzada con obras."
+        },
+        {
+          "letra": "C",
+          "texto": "Calzada con perfil irregular."
+        }
+      ],
+      "ayuda": "La señal de la imagen (perfil irregular), indica peligro por la proximidad de un resalte o badén en la vía o pavimento en mal estado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Puede entrar en una intersección saturada en la que tiene prioridad de paso?",
+      "imagen": "examen-55_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque cuando se tiene prioridad siempre puede pasar."
+        },
+        {
+          "letra": "B",
+          "texto": "No, cuando es previsible quedar detenido dentro u obstaculizando un paso de peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque no existe señalización que advierta otra cosa."
+        }
+      ],
+      "ayuda": "Aun cuando goce de prioridad de paso, ningún conductor deberá penetrar con su vehículo en una intersección, en un paso para peatones o en un paso para ciclistas, si la situación de la circulación es tal que, previsiblemente, pueda quedar detenido de forma que impida u obstruya la circulación transversal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "En relación con los radares y otros sistemas de vigilancia del tráfico, ¿cuál de estos dispositivos se puede llevar en un vehículo?",
+      "imagen": "examen-55_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un avisador de la posición de los radares fijos."
+        },
+        {
+          "letra": "B",
+          "texto": "Un inhibidor de radares o cinemómetros."
+        },
+        {
+          "letra": "C",
+          "texto": "Un detector de radares o cinemómetros."
+        }
+      ],
+      "ayuda": "Se prohíbe instalar o llevar en los vehículos inhibidores de radares o cinemómetros o cualesquiera otros instrumentos encaminados a eludir o a interferir en el correcto funcionamiento de los sistemas de vigilancia del tráfico, así como otros mecanismos de detección de radares o cinemómetros.\n\nQuedan excluidos de la prohibición los mecanismos de aviso que informan de la posición de los sistemas de vigilancia del tráfico. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Quiénes pueden ocupar los asientos delanteros de un turismo?",
+      "imagen": "examen-55_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo los mayores de 12 años."
+        },
+        {
+          "letra": "B",
+          "texto": "Los menores de edad que midan más de 135 centímetros de altura y lleven abrochado el cinturón de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Los menores de edad pero sólo si miden más de 150 centímetros de altura."
+        }
+      ],
+      "ayuda": "La obligación de ocupar los asientos traseros del vehículo, y de utilizar sistemas de retención infantil homologados adaptados a su talla y peso, afecta a los menores de edad de estatura igual o inferior a 135 centímetros. Por lo tanto, un menor de edad que supere dicha estatura puede ocupar el asiento delantero haciendo uso del cinturón de seguridad.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Un carril delimitado por marcas longitudinales dobles discontinuas es un carril...",
+      "imagen": "examen-55_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "reversible."
+        },
+        {
+          "letra": "B",
+          "texto": "adicional de circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "de utilización en sentido contrario al habitual."
+        }
+      ],
+      "ayuda": "Las marcas longitudinales dobles que delimitan un carril por ambos lados, indican que éste es reversible, es decir, que en él la circulación puede estar reglamentada en uno u otro sentido mediante semáforos de carril u otros medios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Si un peatón circula por su izquierda en una vía interurbana, ¿circula correctamente?",
+      "imagen": "examen-55_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque debe circular siempre por el lado de la calzada donde el arcén sea transitable."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque debe circular por la derecha de la calzada en el sentido de su marcha."
+        }
+      ],
+      "ayuda": "Como norma general, fuera de poblado, en vías que no dispongan de espacio especialmente reservado para peatones, éstos circularán por la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "En caso de accidente, el seguro obligatorio de un vehículo, ¿cubre los daños materiales producidos a la parte contraria?",
+      "imagen": "examen-55_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre, pues así se contempla en la póliza del seguro obligatorio."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando su conductor resulta civilmente responsable del accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en todo caso, si los gastos no superan los límites establecidos en la póliza."
+        }
+      ],
+      "ayuda": "El seguro de responsabilidad civil de suscripción obligatoria, cubre la responsabilidad civil del conductor frente a terceros, cuando resulte responsable del accidente, pero no los daños personales ni materiales que el conductor o su coche sufran. De hecho, no cubre los daños sufridos ni por el vehículo asegurado, ni por el conductor del mismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Se define tiempo de reacción como:",
+      "imagen": "examen-55_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El tiempo que transcurre desde que el conductor ve un peligro hasta que responde al mismo."
+        },
+        {
+          "letra": "B",
+          "texto": "El tiempo que tarda en detenerse el vehículo con el freno accionado."
+        },
+        {
+          "letra": "C",
+          "texto": "El tiempo que transcurre desde que el conductor observa un peligro hasta que se detiene el vehículo."
+        }
+      ],
+      "ayuda": "Se define tiempo de reacción como el tiempo que transcurre desde que el conductor percibe un obstáculo hasta que responde al mismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Advertir a otros usuarios de que se va a realizar una maniobra, ¿es obligatorio?",
+      "imagen": "examen-55_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, solo es obligatorio advertir a los conductores."
+        },
+        {
+          "letra": "B",
+          "texto": "No, pero es siempre muy aconsejable."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre."
+        }
+      ],
+      "ayuda": "Los conductores están obligados a advertir al resto de los usuarios de la vía acerca de las maniobras que vayan a realizar con sus vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Si un vehículo prioritario circula en servicio de urgencia, se le debe facilitar el paso...",
+      "imagen": "examen-55_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "adoptando las medidas adecuadas según las circunstancias del momento."
+        },
+        {
+          "letra": "B",
+          "texto": "deteniendo siempre el vehículo en el lado izquierdo de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "apartándose siempre a la derecha de la calzada."
+        }
+      ],
+      "ayuda": "En cuanto perciban la presencia de un vehículo prioritario en servicio de urgencia, los demás conductores adoptarán las medidas adecuadas, según las circunstancias del momento y lugar, para facilitarles el paso, apartándose normalmente a su derecha o deteniéndose si fuera preciso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Con carácter general, ¿qué tipo de señalización afecta solo al carril por el que circula?",
+      "imagen": "examen-55_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los semáforos circulares para vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "Las señales verticales."
+        },
+        {
+          "letra": "C",
+          "texto": "Las señales horizontales de circulación o marcas viales."
+        }
+      ],
+      "ayuda": "Con carácter general, las señales horizontales de circulación, cuando están situadas en un carril delimitado por líneas longitudinales, sus preceptos se refieren exclusivamente a los vehículos que circulen por el citado carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "En los vehículos de anchura inferior a un metro la carga no debe sobresalir lateralmente más de...",
+      "imagen": "examen-55_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0.50 metros a cada lado del eje longitudinal del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "0.50 metros a cada lado del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "0.40 metros a cada lado del vehículo."
+        }
+      ],
+      "ayuda": "En los vehículos de anchura inferior a un metro la carga no deberá sobresalir lateralmente más de 0,50 metros a cada lado de su eje longitudinal. No podrá sobresalir por la parte delantera, ni más de 0,25 metros por la parte posterior.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Qué le puede suceder a un conductor que circula a velocidad inadecuada?",
+      "imagen": "examen-55_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que sea capaz de controlar mejor su vehículo ante una situación de emergencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Que no sea capaz de controlar su vehículo ante una situación de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Que su tiempo de reacción disminuya."
+        }
+      ],
+      "ayuda": "La velocidad inadecuada, ya sea por exceso o por defecto, no se adapta a las circunstancias ni de la vía, ni del vehículo, ni a las condiciones adversas, por lo cual, en caso de emergencia, el conductor puede no ser capaz de controlar su vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Un conductor novel, ¿puede sentirse fatigado con más facilidad?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente cuando sea una persona mayor."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, por la falta de experiencia al volante."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La inexperiencia propia de los conductores noveles es uno de los factores que propician la aparición de la fatiga durante la conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "El estrés contribuye a que el conductor...",
+      "imagen": "examen-55_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sea más hostil con los demás usuarios."
+        },
+        {
+          "letra": "B",
+          "texto": "respete más la señalización."
+        },
+        {
+          "letra": "C",
+          "texto": "asuma menos riesgos."
+        }
+      ],
+      "ayuda": "Entre otros efectos el estrés produce alteraciones en la conducta, de modo que el conductor se muestra más agresivo y hostil, aumentando las conductas competitivas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Las distracciones al volante...",
+      "imagen": "examen-55_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no causan accidentes."
+        },
+        {
+          "letra": "B",
+          "texto": "causan una gran cantidad de accidentes."
+        },
+        {
+          "letra": "C",
+          "texto": "causan muy pocos accidentes."
+        }
+      ],
+      "ayuda": "Una de las principales causas de accidentalidad son las distracciones, que constituyen un factor de riesgo que causa, directa o indirectamente, 4 de cada 10 accidentes de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

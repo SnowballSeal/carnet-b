@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 47,
+  "nombre": "Test de examen 47",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "\tEl sistema ADAS de ayuda en pendiente, conocido como \"Hill Holder\", actúa...\n",
+      "imagen": "examen-47_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en las pendientes ascendentes."
+        },
+        {
+          "letra": "B",
+          "texto": "en las pendientes descendentes."
+        },
+        {
+          "letra": "C",
+          "texto": "tanto en las pendientes ascendentes como en las descendentes."
+        }
+      ],
+      "ayuda": "El sistema de ayuda en pendiente, \"Hill Holder\" o \"HSA\", actúa en pendientes ascendentes para evitar que el vehículo retroceda al iniciar la marcha, manteniendo los frenos aplicados durante unos segundos después de soltar el pedal de freno. No funciona en pendientes descendentes, ya que su función es específicamente asistir el arranque y evitar la caída hacia atrás, no evitar el avance o retroceso en otras condiciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿A qué vehículos prohíbe la entrada esta señal?",
+      "imagen": "examen-47_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "A motocicletas y ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "A motocicletas y a vehículos de tres ruedas asimilados a las motocicletas."
+        }
+      ],
+      "ayuda": "\tEntrada prohibida a motocicletas\n\tProhibición de acceso a motocicletas y a vehículos de tres ruedas asimilados a motocicletas.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Puede circular por una zona de bajas emisiones si su vehículo no cumple las condiciones impuestas por la autoridad para poder circular por dicha zona?",
+      "imagen": "examen-47_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, es una infracción calificada como grave."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque no se infringe ninguna norma de tráfico."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que el vehículo lo ocupen, al menos, dos personas."
+        }
+      ],
+      "ayuda": "No respetar las restricciones de circulación derivadas de la aplicación de los protocolos ante episodios de contaminación y de las zonas de bajas emisiones, es una infracción calificada como grave.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Si un turismo circula con el maletero cargado con mucho peso, el conductor deberá...",
+      "imagen": "examen-47_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "llevar encendidas las luces de emergencia."
+        },
+        {
+          "letra": "B",
+          "texto": "ajustar la altura de las luces, porque pueden deslumbrar a otros conductores."
+        },
+        {
+          "letra": "C",
+          "texto": "señalizar la carga."
+        }
+      ],
+      "ayuda": "Si se lleva mucha carga en el maletero, la parte delantera del vehículo puede levantarse, por lo que será necesario regular la altura de las luces para evitar deslumbrar a otros usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Cómo debe comportarse el conductor de un turismo, sobre todo en vías urbanas, para evitar un accidente con una motocicleta o un ciclomotor?",
+      "imagen": "examen-47_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Debe circular en paralelo y lo más cerca posible de los vehículos de dos ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "Debe mirar por los retrovisores con frecuencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Debe reducir o incluso eliminar la distancia de seguridad."
+        }
+      ],
+      "ayuda": "En vías urbanas, para evitar los accidentes con motocicletas o ciclomotores, los conductores de turismos deben mirar por los espejos retrovisores con mayor frecuencia",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Circula por una vía sin pavimentar y sin prioridad, y encuentra una señal de velocidad máxima. ¿Cuándo finaliza la prohibición de circular a mayor velocidad de la establecida en la señal?",
+      "imagen": "examen-47_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al salir de una intersección con cualquier otra vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Al salir de una intersección con una vía con prioridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo cuando rebase una señal de fin de limitación de velocidad."
+        }
+      ],
+      "ayuda": "Situada en una vía sin prioridad, deja de tener vigencia al salir de una intersección con una vía con prioridad. Si el límite indicado por la señal coincide con la velocidad máxima permitida para el tipo de vía, recuerda de forma genérica la prohibición de superarla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Circula por una autopista a 120 km/h con las ventanillas abiertas. Si cierra las ventanillas y conecta el aire acondicionado, el consumo de combustible... ",
+      "imagen": "examen-47_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aumenta."
+        },
+        {
+          "letra": "B",
+          "texto": "disminuye."
+        },
+        {
+          "letra": "C",
+          "texto": "no varía."
+        }
+      ],
+      "ayuda": "Con carácter general, conducir con las ventanillas bajadas aumenta el consumo de combustible, porque afecta negativamente a la aerodinámica del vehículo.\n\nSe estima que a bajas velocidades, por ejemplo al circular dentro de poblado, conducir con las ventanillas bajadas no afecta significativamente al consumo de combustible. Sin embargo, a velocidades más elevadas, es más eficiente circular con el aire acondicionado conectado y con las ventanillas cerradas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Según los datos de siniestralidad, ¿qué vehículos tienen más accidentes con víctimas mortales menores de 24 años?",
+      "imagen": "examen-47_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "Turismos."
+        },
+        {
+          "letra": "C",
+          "texto": "Camiones."
+        }
+      ],
+      "ayuda": "Según los datos oficiales disponibles, en cuanto a la distribución por edad y medio de desplazamiento de las personas fallecidas de 18 a 24 años, más de la mitad de las personas fallecidas se desplazaba en turismos. Como motoristas, los grupos más afectados son los de 25 a 54 años.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Para intentar evitar la aparición de la somnolencia durante la conducción es aconsejable dormir...",
+      "imagen": "examen-47_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "entre 5 y 7 horas diarias."
+        },
+        {
+          "letra": "B",
+          "texto": "menos horas de las necesarias, para mantener alto el nivel de alerta."
+        },
+        {
+          "letra": "C",
+          "texto": "las horas suficientes para estar descansado, que para la mayoría de las personas son entre 7 y 9 horas."
+        }
+      ],
+      "ayuda": "Para intentar evitar la aparición de la somnolencia durante la conducción es aconsejable dormir las horas suficientes para estar descansado, que para la mayoría de las personas son entre 7 y 9 horas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "En un carril habilitado en sentido contrario al habitual por trabajos en la calzada, ¿qué vehículos tienen permitido utilizarlo?",
+      "imagen": "examen-47_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todos los que estén autorizados a circular por la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo turismos y motocicletas."
+        },
+        {
+          "letra": "C",
+          "texto": "Automóviles que no superen los 3.500 kg de MMA y motocicletas."
+        }
+      ],
+      "ayuda": "Cuando debido a la realización de trabajos en la calzada se habilite uno o varios carriles para su utilización en sentido contrario al habitual, podrán circular por estos todos los tipos de vehículos que estén autorizados a circular por la vía en obras, salvo que exista prohibición expresa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Si durante el día un conductor estaciona su vehículo en una travesía, ocupando parte del arcén. ¿Debe dejar alguna luz encendida?",
+      "imagen": "examen-47_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, debe dejar encendidas las luces de emergencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, las luces de posición, pero solo cuando no haya otros vehículos estacionados."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Como norma general, durante el día y condiciones de visibilidad adecuadas, no es obligatorio dejar encendida ninguna luz durante un estacionamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En los adelantamientos a ciclistas en vías con un carril para cada sentido, ¿está permitido ocupar el carril de sentido contario?",
+      "imagen": "examen-47_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que el adelantamiento se pueda realizar con seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si ambos sentidos están separados por línea blanca discontinua."
+        }
+      ],
+      "ayuda": "Siempre que el adelantamiento pueda realizarse con seguridad, el conductor, al adelantar a un ciclo, debe realizarlo ocupando parte o la totalidad del carril contiguo o contrario, en su caso, de la calzada y guardando una anchura de seguridad de, al menos, 1,5 metros, salvo cuando la calzada cuente con más de un carril por sentido, en cuyo caso será obligatorio el cambio completo de carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "\tComo norma general y si no existe otro límite de velocidad señalizado, ¿cuál es la velocidad máxima permitida para una autocaravana de masa máxima autorizada no superior a 3.500 kilogramos, cuando circula por una autovía que discurre dentro del poblado?\n",
+      "imagen": "examen-47_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "80 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "120 km/h."
+        }
+      ],
+      "ayuda": "A falta de señalización, la velocidad máxima permitida para los automóviles en general, en autopistas o autovías que discurran por poblado, es de 80 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Los faros del vehículo pueden deteriorarse y perder eficacia con el paso del tiempo?",
+      "imagen": "examen-47_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque están fabricados en material biodegradable."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, por la exposición continuada a la radiación solar."
+        },
+        {
+          "letra": "C",
+          "texto": "No, no se deterioran."
+        }
+      ],
+      "ayuda": "Los faros del vehículo, especialmente su estructura exterior, pueden estropearse con el tiempo y perder parte de su eficacia, principalmente debido a la exposición continuada a la radiación solar que degrada el material, y también por factores como la condensación, la humedad, y el envejecimiento natural de los componentes con los que está fabricado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-47_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Advierte del peligro por la proximidad de una zona de paso frecuente de animales domésticos o ganado."
+        },
+        {
+          "letra": "B",
+          "texto": "Prohíbe el paso a los animales domésticos y al ganado."
+        },
+        {
+          "letra": "C",
+          "texto": "Da prioridad de paso a los animales domésticos y al ganado."
+        }
+      ],
+      "ayuda": "\tPaso de animales domésticos o ganado\n\tPeligro por la proximidad de un lugar donde frecuentemente la vía puede ser atravesada por animales domésticos o ganado.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Es conveniente utilizar un aceite lubricante con un índice de viscosidad tan bajo que, al calentarse el motor, se vuelva excesivamente líquido?",
+      "imagen": "examen-47_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, ya que el aceite no llega a engrasar bien las piezas del motor."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuanto más líquido, mejor engrasa y además arrastra los residuos depositados en el motor."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si el motor se calienta en exceso, ya que engrasa mejor y ayuda a bajar su temperatura."
+        }
+      ],
+      "ayuda": "El aceite utilizado para la lubricación del motor debe contar con un índice de viscosidad adecuado para asegurar el correcto engrase de los elementos del motor. Si se emplea un aceite con un índice de viscosidad demasiado bajo, es posible que las piezas del motor no resulten correctamente lubricadas durante su funcionamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Llevar un niño en el vehículo sin colocar adecuadamente el sistema de retención infantil, ¿puede conllevar pérdida de puntos del permiso de conducción para el conductor del vehículo?",
+      "imagen": "examen-47_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, es una infracción que lleva aparejada la pérdida de 4 puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, esta infracción solo conlleva una sanción económica."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, se pueden perder dos puntos."
+        }
+      ],
+      "ayuda": "No hacer uso, o no hacerlo de forma adecuada, del cinturón de seguridad, sistemas de retención infantil, casco y demás elementos de protección obligatorios, son infracciones que llevan aparejada la pérdida de cuatro puntos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Un furgón destinado al transporte de mercancías con una masa máxima autorizada inferior a 3.500 kilogramos, que tiene 4 años de antigüedad, ¿con qué frecuencia debe pasar las inspecciones técnicas periódicas?",
+      "imagen": "examen-47_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Bienal."
+        },
+        {
+          "letra": "B",
+          "texto": "Anual."
+        },
+        {
+          "letra": "C",
+          "texto": "Semestral."
+        }
+      ],
+      "ayuda": "Los vehículos de la clase N1, es decir, aquellos vehículos de motor concebidos y fabricados principalmente para el transporte de mercancías y cuya masa máxima no sea superior a 3,5 toneladas, deben pasar inspecciones técnicas periódicas de acuerdo con la siguiente frecuencia:\n\n- Hasta 2 años: Exento.\n- De 2 a 6 años: Bienal.\n- De 6 a 10 años: Anual.\n- De más de 10 años: Semestral.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Los conductores, ¿están obligados a realizar las pruebas para la comprobación de la tasa de alcoholemia cuando sean requeridos para ello por la policía de tráfico?",
+      "imagen": "examen-47_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, pueden negarse a hacerla y seguir circulando."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo están obligados en caso de accidente de tráfico."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, negarse a realizarla es un delito incluido en el Código Penal."
+        }
+      ],
+      "ayuda": "La negativa a realizar las pruebas de control de alcoholemia puede ser constitutivo de un delito castigado por el Código Penal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "El conductor de un vehículo, cuando circule por una vía con dos carriles para su sentido de la marcha, está obligado a realizar un cambio completo de carril cuando adelante a...",
+      "imagen": "examen-47_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un vehículo de tracción animal."
+        },
+        {
+          "letra": "B",
+          "texto": "un ciclo o ciclomotor."
+        },
+        {
+          "letra": "C",
+          "texto": "cualquier vehículo de dos ruedas."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo que pretenda realizar un adelantamiento a un ciclo o ciclomotor, o conjunto de ellos, debe realizarlo ocupando parte o la totalidad del carril contiguo o contrario, en su caso, de la calzada y guardando una anchura de seguridad de, al menos, 1,5 metros, salvo cuando la calzada cuente con más de un carril por sentido, en cuyo caso será obligatorio el cambio completo de carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Cuando sea obligatorio el uso de cadenas a causa de la existencia de nieve o hielo en la calzada. ¿Se puede utilizar alternativamente otro dispositivo antideslizante?",
+      "imagen": "examen-47_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, neumáticos con clavos o neumáticos especiales para nieve o hielo."
+        },
+        {
+          "letra": "B",
+          "texto": "No, es obligatorio utilizar cadenas en todo caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, las cadenas se pueden sustituir por cualquier otro dispositivo."
+        }
+      ],
+      "ayuda": "Cuando exista obligación de no proseguir la marcha sin cadenas para nieve, se podrán utilizar otros dispositivos antideslizantes autorizados que actúen al menos en una rueda a cada lado del mismo eje motor, o bien neumáticos especiales de nieve.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Está permitido que un vehículo con motor térmico circule sin silenciador de explosiones?",
+      "imagen": "examen-47_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, como norma general, si no molesta a otros usuarios."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "No, solo pueden circular sin silenciador los ciclomotores."
+        }
+      ],
+      "ayuda": "No está permitido que un vehículo con motor térmico circule sin silenciador de explosiones. La circulación de vehículos con el escape libre, es decir, sin el dispositivo silenciador obligatorio, está prohibida tanto en vías urbanas como interurbanas, ya que causa contaminación acústica.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "El sistema ADAS de ayuda de salida en pendiente también conocido con el nombre de “Hill Holder”...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "detecta el ángulo muerto del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "incrementa la potencia del motor en las pendientes."
+        },
+        {
+          "letra": "C",
+          "texto": "impide que el vehículo se mueva hacia atrás al levantar el pedal del freno."
+        }
+      ],
+      "ayuda": "El sistema Hill Holder cuenta con un sensor que detecta el ángulo de inclinación en el que se encuentra el vehículo, impidiendo que el mismo se desplace hacia atrás al levantar el pie del freno.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Al sustituir la batería de su vehículo, ¿es necesario volver a calibrar los sistemas avanzados de ayuda a la conducción (ADAS)?",
+      "imagen": "examen-47_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, todos los ADAS del vehículo deben volver a configurarse cuando se cambia la batería."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, algunos sistemas ADAS requieren que se vuelvan a calibrar después de una desconexión de la batería."
+        },
+        {
+          "letra": "C",
+          "texto": "No, nunca."
+        }
+      ],
+      "ayuda": "Al sustituir la batería de un vehículo, algunos sistemas ADAS (Sistemas Avanzados de Ayuda a la Conducción) pueden requerir una recalibración, porque pueden desprogramarse al perder la alimentación eléctrica de forma prolongada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Cuando se da de baja definitiva un turismo, porque éste ha llegado al final de su vida útil, ¿quién está obligado a acreditar que el vehículo ha sido entregado a un Centro  Autorizado de Tratamiento (CAT) para su descontaminación?",
+      "imagen": "examen-47_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El conductor habitual del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "El titular del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "El ayuntamiento donde estuviese dado de alta el vehículo."
+        }
+      ],
+      "ayuda": "El titular del turismo que vaya a ser dado de baja definitiva está obligado a acreditar que el vehículo ha sido entregado a un Centro Autorizado de Tratamiento (CAT).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Si por el tubo de escape de una motocicleta sale humo blanco. ¿A qué puede ser debido?",
+      "imagen": "examen-47_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "al exceso de carburante en la combustión."
+        },
+        {
+          "letra": "B",
+          "texto": "a que el filtro de aire está sucio."
+        },
+        {
+          "letra": "C",
+          "texto": "a la condensación de vapor de agua en el sistema de escape."
+        }
+      ],
+      "ayuda": "La presencia de humo blanco en el escape de una motocicleta puede tener diversas causas. En condiciones normales, y si no existe una avería, el humo blanco se debe a la condensación de vapor de agua en el sistema de escape (especialmente en la mañana o en climas húmedos o fríos).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Todos los automóviles están obligados a llevar un chaleco reflectante homologado entre su dotación?",
+      "imagen": "examen-47_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, sin excepción."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "No, solo es obligatorio para turismos."
+        }
+      ],
+      "ayuda": "La obligación de llevar un chaleco reflectante entre la dotación del vehículo es para turismos, vehículos mixtos, automóviles destinados al transporte de mercancías y autobuses. Algunos automóviles, como motocicletas, vehículos de tres ruedas y cuatriciclos, no están afectados por esta obligación.\n\n----",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Qué vehículos están obligados a llevar las luces encendidas tanto de día como de noche?",
+      "imagen": "examen-47_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las motocicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "Los ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "Las motocicletas y los ciclomotores."
+        }
+      ],
+      "ayuda": "Las motocicletas que circulen por cualquier vía objeto de la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Está permitido circular con un ciclomotor por una vía que tiene en la entrada esta señal?",
+      "imagen": "examen-47_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, prohíbe el paso a todos los vehículos de motor de dos ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, prohíbe el paso a ciclos y ciclomotores."
+        }
+      ],
+      "ayuda": "\tEntrada prohibida a motocicletas\n\tProhibición de acceso a motocicletas y a vehículos de tres ruedas asimilados a motocicletas. No prohibe la entrada de ciclomotores.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "En una travesía sin limitación específica, ¿cuál es la velocidad máxima permitida para adelantar?",
+      "imagen": "examen-47_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "70 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "50 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "90 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima que no deberán rebasar los vehículos en travesías se establece, con carácter general, en 50 kilómetros por hora. Este límite o cualquier otro fijado mediante señales, no puede ser rebasado para adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "categoria_id": 3,
+  "test_id": 1,
+  "nombre": "Conceptos básicos y definiciones",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Un automóvil de dos ruedas que por construcción desarrolla una velocidad máxima superior a 45 km/h es...",
+      "imagen": "conceptos-basicos_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un ciclomotor."
+        },
+        {
+          "letra": "B",
+          "texto": "una motocicleta."
+        },
+        {
+          "letra": "C",
+          "texto": "una bicicleta."
+        }
+      ],
+      "ayuda": "Motocicleta de dos ruedas: automóvil de dos ruedas sin sidecar, provisto de un motor de cilindrada superior a 50 centímetros cúbicos si es de combustión interna y/ o con una velocidad máxima por construcción superior a 45 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Una motocicleta se considera un vehículo automóvil?",
+      "imagen": "conceptos-basicos_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque los automóviles son los turismos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque es un vehículo que se mueve por sí mismo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Motocicleta de dos ruedas: automóvil de dos ruedas sin sidecar, provisto de un motor de cilindrada superior a 50 centímetros cúbicos si es de combustión interna y/ o con una velocidad máxima por construcción superior a 45 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Un vehículo de dos ruedas que por construcción desarrolla una velocidad máxima no superior a 45 km/h es...",
+      "imagen": "conceptos-basicos_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "una motocicleta."
+        },
+        {
+          "letra": "B",
+          "texto": "un ciclomotor."
+        },
+        {
+          "letra": "C",
+          "texto": "una bicicleta."
+        }
+      ],
+      "ayuda": "Ciclomotor de dos ruedas: vehículo de dos ruedas, provisto de un motor de cilindrada no superior a 50 centímetros cúbicos si es de combustión interna y con una velocidad máxima por construcción no superior a 45 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Un cuadriciclo ligero se considera un vehículo a motor?",
+      "imagen": "conceptos-basicos_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Vehículo de motor: vehículo provisto de motor para su propulsión. Se excluyen de esta definición los ciclomotores, los tranvías y los vehículos para personas de movilidad reducida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "La cilindrada máxima del motor de un ciclomotor es...",
+      "imagen": "conceptos-basicos_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "48 centímetros cúbicos."
+        },
+        {
+          "letra": "B",
+          "texto": "50 centímetros cúbicos."
+        },
+        {
+          "letra": "C",
+          "texto": "45 centímetros cúbicos."
+        }
+      ],
+      "ayuda": "Ciclomotor de dos ruedas: vehículo de dos ruedas, provisto de un motor de cilindrada no superior a 50 centímetros cúbicos si es de combustión interna y con una velocidad máxima por construcción no superior a 45 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Un tractor agrícola se considera vehículo...",
+      "imagen": "conceptos-basicos_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a motor."
+        },
+        {
+          "letra": "B",
+          "texto": "automóvil."
+        },
+        {
+          "letra": "C",
+          "texto": "asimilado."
+        }
+      ],
+      "ayuda": "Tractor agrícola: vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar, empujar, llevar o accionar aperos, maquinaria o remolques agrícolas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "El automóvil es un vehículo de motor que sirve normalmente para...",
+      "imagen": "conceptos-basicos_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "transportar personas o cosas o ambas a la vez, o para la tracción de otros vehículos con ese fin."
+        },
+        {
+          "letra": "B",
+          "texto": "realizar obras o determinados servicios."
+        },
+        {
+          "letra": "C",
+          "texto": "la realización de trabajos agrícolas."
+        }
+      ],
+      "ayuda": "Automóvil: vehículo de motor que sirve, normalmente, para el transporte de personas o cosas, a de ambas a la vez, o para la tracción de otros vehículos con aquél fin. Se excluyen de esta definición los vehículos especiales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Los vehículos especiales pueden ser...",
+      "imagen": "conceptos-basicos_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sólo autopropulsados."
+        },
+        {
+          "letra": "B",
+          "texto": "autopropulsados o remolcados."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo destinados a realizar trabajos agrícolas."
+        }
+      ],
+      "ayuda": "Vehículo especial: vehículo autopropulsado o remolcado, concebido y construido para realizar obras o servicios determinados. #12",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Ciclo es el vehículo de...",
+      "imagen": "conceptos-basicos_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "dos ruedas accionado con un motor."
+        },
+        {
+          "letra": "B",
+          "texto": "dos o más ruedas accionado con un motor o con pedales."
+        },
+        {
+          "letra": "C",
+          "texto": "dos ruedas por lo menos, accionado por su conductor mediante pedales o manivelas."
+        }
+      ],
+      "ayuda": "Ciclo: es el vehículo de dos ruedas por lo menos, accionado por el esfuerzo muscular de las personas que lo ocupan, en particular mediante pedales o manivelas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "El vehículo derivado de turismo está destinado a...",
+      "imagen": "conceptos-basicos_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "servicios o a transporte exclusivo de mercancías."
+        },
+        {
+          "letra": "B",
+          "texto": "transporte de personas."
+        },
+        {
+          "letra": "C",
+          "texto": "transporte, simultáneo o no, de personas y mercancías."
+        }
+      ],
+      "ayuda": "Derivado de turismo: automóvil destinado a servicios o a transporte exclusivo de mercancías, derivado de un turismo del cual conserva la carrocería y dispone únicamente de una fila de asientos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Turismo es el automóvil...",
+      "imagen": "conceptos-basicos_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "destinado al transporte de personas y que tenga, además del asiento del conductor, ocho plazas como máximo."
+        },
+        {
+          "letra": "B",
+          "texto": "destinado al transporte de personas y que tenga, además del conductor, cuatro plazas como máximo."
+        },
+        {
+          "letra": "C",
+          "texto": "de cinco plazas como máximo."
+        }
+      ],
+      "ayuda": "Turismo: automóvil destinado al transporte de personas que tenga, por lo menos, cuatro ruedas y que tenga, además del asiento del conductor, ocho plazas como máximo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Un vehículo de tres ruedas simétricas, provisto de un motor de cilindrada superior a 50 centímetros cúbicos, ¿se considera automóvil?",
+      "imagen": "conceptos-basicos_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Vehículo de tres ruedas: automóvil de tres ruedas simétricas, provisto de un motor de cilindrada superior a 50 centímetros cúbicos si es de combustión interna y/o con una velocidad máxima por construcción superior a 45 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Qué características tiene una bicicleta de pedales con pedaleo asistido?\n",
+      "imagen": "conceptos-basicos_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tiene un motor con potencia no superior a 0,5 kw cuya velocidad se interrumpe antes de alcanzar los 25 km/h o si se deja de pedalear."
+        },
+        {
+          "letra": "B",
+          "texto": "Es una bicicleta con motor considerada como un ciclomotor de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "Tiene un motor eléctrico auxiliar de hasta 250w, cuya velocidad se interrumpe antes de alcanzar los 25 km/h o si se deja de pedalear."
+        }
+      ],
+      "ayuda": "\tBicicleta de pedales con pedaleo asistido\n\tSon bicicletas equipadas con un motor eléctrico auxiliar, de potencia inferior o igual a 250 W, cuya potencia disminuya progresivamente y que finalmente se interrumpa antes de que la velocidad del vehículo alcance los 25 km/h o si el ciclista deja de pedalear.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "El automóvil de tres ruedas asimétricas respecto a su eje medio longitudinal, provisto de un motor de cilindrada superior a 50 centímetros cúbicos es...",
+      "imagen": "conceptos-basicos_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un vehículo de tres ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "una motocicleta de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "una motocicleta con sidecar."
+        }
+      ],
+      "ayuda": "Motocicleta con sidecar: vehículo de tres ruedas asimétricas respecto a su eje medio longitudinal, provisto de un motor de cilindrada superior a 50 centímetros cúbicos si es de combustión interna y/o con una velocidad máxima por construcción superior a 45 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Tranvía es el vehículo que marcha...",
+      "imagen": "conceptos-basicos_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sin raíles."
+        },
+        {
+          "letra": "B",
+          "texto": "por raíles instalados en la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "por el centro de la calzada."
+        }
+      ],
+      "ayuda": "Tranvía: vehículo que marcha por raíles instalados en la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Los vehículos especiales, ¿se consideran automóviles?",
+      "imagen": "conceptos-basicos_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Automóvil: vehículo de motor que sirve, normalmente, para el transporte de personas o cosas, a de ambas a la vez, o para la tracción de otros vehículos con aquél fin. Se excluyen de esta definición los vehículos especiales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "El vehículo conectado a una línea eléctrica y que no circula por raíles es un...",
+      "imagen": "conceptos-basicos_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "autobús."
+        },
+        {
+          "letra": "B",
+          "texto": "tranvía."
+        },
+        {
+          "letra": "C",
+          "texto": "trolebús."
+        }
+      ],
+      "ayuda": "Trolebús: vehículo conectado a una línea eléctrica y que no circula por raíles.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Cómo se denomina el vehículo dispuesto para el transporte simultáneo o no, de mercancías y personas hasta un máximo de 9 plazas incluido el conductor?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Derivado de turismo."
+        },
+        {
+          "letra": "B",
+          "texto": "Vehículo mixto adaptable."
+        },
+        {
+          "letra": "C",
+          "texto": "Autobús ligero."
+        }
+      ],
+      "ayuda": "Vehículo mixto adaptable: automóvil especialmente dispuesto para el transporte simultáneo o no de mercancías y personas hasta un máximo de 9, incluido el conductor, y en el que se puede sustituir eventualmente la carga, parcial o totalmente, por personas mediante la adicción de asientos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Si la masa máxima autorizada de un remolque no excede de 750 kg se considera que es un remolque...",
+      "imagen": "conceptos-basicos_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "ligero."
+        },
+        {
+          "letra": "B",
+          "texto": "medio."
+        },
+        {
+          "letra": "C",
+          "texto": "pesado."
+        }
+      ],
+      "ayuda": "Remolque y semirremolque ligero: aquellos cuya masa máxima autorizada no exceda de 750 kilogramos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Cuántas plazas como máximo puede tener una furgoneta?",
+      "imagen": "conceptos-basicos_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cinco plazas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo la del conductor y acompañante."
+        },
+        {
+          "letra": "C",
+          "texto": "Un máximo de 9 plazas, incluido el conductor."
+        }
+      ],
+      "ayuda": "Furgón/ Furgoneta: automóvil de cuatro ruedas o más, concebido y construido para el transporte de mercancías, cuya cabina está integrada en el resto de la carrocería y con un máximo de 9 plazas, incluido el conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Los tranvías se consideran vehículos de motor?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Vehículo de motor: vehículo provisto de motor para su propulsión. Se excluyen de esta definición los ciclomotores, los tranvías y los vehículos para personas de movilidad reducida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "El automóvil con cuatro ruedas o más, concebido para el transporte de mercancías, cuya cabina no está integrada en el resto de la carrocería, se denomina...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "furgón."
+        },
+        {
+          "letra": "B",
+          "texto": "camión."
+        },
+        {
+          "letra": "C",
+          "texto": "autobús."
+        }
+      ],
+      "ayuda": "Camión: automóvil de cuatro ruedas o más, concebido y construido para el transporte de mercancías, cuya cabina no está integrada en el resto de la carrocería y con un máximo de 9 plazas, incluido el conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Es lo mismo un tractor de obras que un tractor agrícola?",
+      "imagen": "conceptos-basicos_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Tractor agrícola: vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar, empujar, llevar o accionar aperos, maquinaría o remolques agrícolas.\nTractor de obras: vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar o empujar útiles, máquinas o vehículos de obras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Un motocultor es...",
+      "imagen": "conceptos-basicos_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un vehículo agrícola."
+        },
+        {
+          "letra": "B",
+          "texto": "un automóvil."
+        },
+        {
+          "letra": "C",
+          "texto": "un derivado de turismo."
+        }
+      ],
+      "ayuda": "Motocultor: Vehículo especial autopropulsado, de un eje, dirigible mediante manceras por un conductor que marcha a pie.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "El vehículo concebido y acondicionado para ser utilizado como vivienda móvil, se denomina...",
+      "imagen": "conceptos-basicos_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "turismo."
+        },
+        {
+          "letra": "B",
+          "texto": "autobús."
+        },
+        {
+          "letra": "C",
+          "texto": "caravana."
+        }
+      ],
+      "ayuda": "Caravana: remolque o semirremolque concebido y acondicionado para ser utilizado como vivienda móvil, permitiéndose el uso de su habitáculo cuando el vehículo se encuentre estacionado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Si circula con un turismo arrastrando un remolque, debe saber que está conduciendo...",
+      "imagen": "conceptos-basicos_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un conjunto de vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "un vehículo articulado."
+        },
+        {
+          "letra": "C",
+          "texto": "una autocaravana."
+        }
+      ],
+      "ayuda": "Cuando un vehículo circula arrastrando un remolque, constituyen un conjunto de vehículos denominado tren de carretera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Los vehículos especiales para obras y servicios se consideran vehículos...",
+      "imagen": "conceptos-basicos_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "automóviles."
+        },
+        {
+          "letra": "B",
+          "texto": "a motor."
+        },
+        {
+          "letra": "C",
+          "texto": "sin motor."
+        }
+      ],
+      "ayuda": "Vehículo de motor: vehículo provisto de motor para su propulsión. Se excluyen de esta definición los ciclomotores, los tranvías y los vehículos para personas de movilidad reducida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Un tren turístico es un vehículo...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que circula sobre raíles instalados en la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "automóvil de más de 9 plazas."
+        },
+        {
+          "letra": "C",
+          "texto": "especial constituido por un vehículo tractor y uno o varios remolques."
+        }
+      ],
+      "ayuda": "Tren turístico: vehículo especial constituido por un vehículo tractor y uno o varios remolques, concebido y construido para el transporte de personas con fines turísticos, con velocidad máxima limitada y sujeto a las limitaciones de circulación que impongan la autoridad competente en materia de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "El ciclomotor de dos ruedas es...",
+      "imagen": "conceptos-basicos_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un automóvil."
+        },
+        {
+          "letra": "B",
+          "texto": "un vehículo no considerado a motor."
+        },
+        {
+          "letra": "C",
+          "texto": "un ciclo de dos ruedas."
+        }
+      ],
+      "ayuda": "Vehículo de motor: vehículo provisto de motor para su propulsión. Se excluyen de esta definición los ciclomotores, los tranvías y los vehículos para personas de movilidad reducida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Cuántas plazas tiene un autobús?",
+      "imagen": "conceptos-basicos_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Más de 9 plazas."
+        },
+        {
+          "letra": "B",
+          "texto": "Menos de 9 plazas."
+        },
+        {
+          "letra": "C",
+          "texto": "Más de 9 y menos de 15 plazas."
+        }
+      ],
+      "ayuda": "Autobús o autocar: automóvil que tenga más de 9 plazas incluida la del conductor, destinado, por su construcción y acondicionamiento, al transporte de personas y sus equipajes. Se incluye en este término el trolebús, es decir, el vehículo conectado a una línea eléctrica y que no circula por raíles.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

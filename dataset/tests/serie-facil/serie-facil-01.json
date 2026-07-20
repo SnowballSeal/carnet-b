@@ -1,0 +1,621 @@
+{
+  "categoria_id": 2,
+  "test_id": 1,
+  "nombre": "Serie fácil 1",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "La influencia del factor de riesgo vehículo, ¿se puede disminuir revisando y manteniendo en buenas condiciones el vehículo?",
+      "imagen": "serie-facil-01_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La influencia del vehículo como factor de riesgo se puede disminuir realizandole al mismo un adecuado mantenimiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "El consumo de drogas, ¿afecta a la seguridad vial?",
+      "imagen": "serie-facil-01_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero de manera poco importante."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El consumo de alcohol y drogas, afecta de manera importante a la seguridad vial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Al finalizar un adelantamiento, ¿es obligatorio volver al carril derecho de forma gradual?",
+      "imagen": "serie-facil-01_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Después de adelantar se debe volver al carril de la derecha de forma gradual y sin poner en peligro al vehículo adelantado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "De las señales que realiza este conductor, ¿cuál prevalece?",
+      "imagen": "serie-facil-01_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La que realiza con el brazo sobre la señal luminosa."
+        },
+        {
+          "letra": "B",
+          "texto": "La señal luminosa sobre la realizada con el brazo."
+        },
+        {
+          "letra": "C",
+          "texto": "Ninguna."
+        }
+      ],
+      "ayuda": "De las señales que realizan los conductores prevalecen, como norma general, las realizadas con el brazo frente a las luminosas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Una alergia respiratoria, ¿puede reducir la concentración del conductor?",
+      "imagen": "serie-facil-01_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque no es una enfermedad."
+        }
+      ],
+      "ayuda": "Entre otras enfermedades, las alergias respiratorias pueden reducir la concentración del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Esta señal indica la situación de un...",
+      "imagen": "serie-facil-01_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "área de descanso."
+        },
+        {
+          "letra": "B",
+          "texto": "albergue juvenil."
+        }
+      ],
+      "ayuda": "Esta señal indica la situación de un área de descanso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Si estaciona un turismo con un remolque ligero en una pendiente sensible, ¿debe calzar el vehículo o apoyar una de las ruedas sobre el bordillo?",
+      "imagen": "serie-facil-01_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No solo se echa el freno de mano."
+        }
+      ],
+      "ayuda": "Al estacionar un vehículo con remolque en una pendiente sensible, se debe calzar el vehículo o apoyar una de las ruedas directrices sobre el bordillo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Este vehículo está inmovilizado por avería. ¿Debe advertirlo?",
+      "imagen": "serie-facil-01_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, con el dispositivo de preseñalización de peligro reglamentario."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, con un chaleco reflectante."
+        }
+      ],
+      "ayuda": "El conductor del vehículo averiado que se observa debe colocar y activar el dispositivo luminoso de preseñalización de peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Se considera peatón a la persona que está a cargo de un animal o animales?",
+      "imagen": "serie-facil-01_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La persona a cuyo cargo está un animal o animales esta considerada como conductor, no como peatón.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "En esta intersección, se ha encendido la luz roja y el vehículo azul bloquea el cruce. ¿Qué debe hacer?",
+      "imagen": "serie-facil-01_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Salir del cruce, pero sin molestar a otros usuarios."
+        },
+        {
+          "letra": "B",
+          "texto": "Esperar a que se encienda la luz verde."
+        }
+      ],
+      "ayuda": "El vehículo azul que se observa en el gráfico, debe salir de la intersección sin esperar a que el semáforo cambie a verde, ya que obstaculiza la circulación transversal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Cuándo puede utilizar el teléfono móvil?",
+      "imagen": "serie-facil-01_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para leer o enviar mensajes."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando recibamos una llamada."
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizando el dispositivo manos libres, durante periodos cortos de tiempo."
+        }
+      ],
+      "ayuda": "Aunque no es aconsejable, el teléfono móvil puede utilizarse únicamente si se dispone del dispositivo “manos libres” y por periodos cortos de tiempo (no más de un minuto y medio).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En esta vía, ¿por dónde debe circular un ciclomotor?",
+      "imagen": "serie-facil-01_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al no tener arcén no puede circular."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la calzada, lo más cerca posible al borde derecho."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el centro del carril derecho."
+        }
+      ],
+      "ayuda": "Si no existe arcén en una carretera, los ciclomotores podrán circular por la calzada, y lo más cerca posible al borde derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "En un paso a nivel, una semibarrera móvil en movimiento, ¿obliga a detenerse?",
+      "imagen": "serie-facil-01_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Si las barreras o semibarreras de un paso a nivel están en movimiento, hay que detenerse antes del paso a nivel.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "El alcohol, ¿puede favorecer la aparición del sueño?",
+      "imagen": "serie-facil-01_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo de noche."
+        }
+      ],
+      "ayuda": "El alcohol puede favorecer a la aparición del sueño entre otros factores negativos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Se debe aumentar la distancia de seguridad cuando exista niebla?",
+      "imagen": "serie-facil-01_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, si se lleva las luces encendidas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Si existe niebla, se debe aumentar la distancia de seguridad con el vehículo que circula delante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "El turismo está averiado y circula muy despacio dificultando la circulación. ¿Puede circular por el arcén?",
+      "imagen": "serie-facil-01_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para facilitar el paso."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque está prohibido."
+        }
+      ],
+      "ayuda": "Los conductores de turismos deben circular por el arcén de su derecha cuando, por razones de emergencia, lo hagan a velocidad anormalmente reducida, perturbando con ello gravemente la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Cómo debe actuar a la vista de esta señal vertical?",
+      "imagen": "serie-facil-01_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerme obligatoriamente y ceder el paso a los vehículos que circulen por la vía transversal."
+        },
+        {
+          "letra": "B",
+          "texto": "Detenerme sólo si se aproximan vehículos por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Puedo pasar sin detenerme si no circulan vehículos por la vía transversal."
+        }
+      ],
+      "ayuda": "Detención obligatoria o STOP.\nObligación para todo conductor de detener su vehículo ante la próxima línea de detención o, si no existe, inmediatamente antes de la intersección, y ceder el paso en ella a los vehículos que circulen por la vía a la que se aproxime.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "El freno de pie, ¿para qué sirve?",
+      "imagen": "serie-facil-01_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para aumentar la velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Para reducir la velocidad y detener el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Para dejar el vehículo inmovilizado."
+        }
+      ],
+      "ayuda": "El freno de servicio o de pie, sirve para reducir la velocidad y detener el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "El agente mueve el brazo alternativamente de arriba abajo, ¿a qué obliga esta señalización a los conductores de los vehículos que se aproximan de frente?",
+      "imagen": "serie-facil-01_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A reanudar la marcha."
+        },
+        {
+          "letra": "B",
+          "texto": "A disminuir la velocidad."
+        }
+      ],
+      "ayuda": "Cuando un agente mueve el brazo de arriba abajo alternativamente, los conductores deben reducir la velocidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Desde el punto de vista de la seguridad vial, el chasis y la carrocería, ¿absorben la energía en caso de accidente?",
+      "imagen": "serie-facil-01_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Desde el punto de vista de la seguridad vial, el chasis y la carrocería, son elementos del vehículo que absorben la energía en caso de accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "En un día de frío y de lluvia, circula conduciendo su motocicleta. En estas circunstancias...",
+      "imagen": "serie-facil-01_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la conducción será más cómoda y segura si la motocicleta dispone de carenado."
+        },
+        {
+          "letra": "B",
+          "texto": "la motocicleta frena mejor."
+        }
+      ],
+      "ayuda": "Si se conduce una motocicleta en un día de frío y lluvia, hay que tener en cuenta que si la motocicleta dispone de carenado, la conducción será más cómoda y segura.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "El conductor de un camión, ¿está obligado a llevar un chaleco reflectante en su vehículo?",
+      "imagen": "serie-facil-01_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Entre otros vehículos, el conductor de un camión debe llevar en el mismo un chaleco reflectante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "En un puesto de peaje, entra por un carril con luz verde. ¿Qué debe hacer?",
+      "imagen": "serie-facil-01_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pasar sin detenerme porque la luz está verde."
+        },
+        {
+          "letra": "B",
+          "texto": "Detenerme para pagar o coger el ticket de entrada."
+        }
+      ],
+      "ayuda": "En los puestos de peaje, hay que detenerse para pagar o recoger el ticket correspondiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Con niebla, cuando el vehículo no dispone de alumbrado antiniebla delantero, ¿qué alumbrado debe utilizar?",
+      "imagen": "serie-facil-01_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El de posición junto con el de corto alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "El de posición y las luces de emergencia."
+        }
+      ],
+      "ayuda": "Si el vehículo no dispone de luces delanteras de antiniebla, en días de niebla, debe llevar encendidas las luces de posición y cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Al salir de un garaje, ¿qué debe hacer?",
+      "imagen": "serie-facil-01_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumentar la velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Moderar la velocidad y ceder el paso a los peatones."
+        }
+      ],
+      "ayuda": "Todo conductor que salga con su vehículo de un garaje, debe hacerlo con precaución y ceder el paso a los peatones y a los vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Los agentes, ¿pueden inmovilizar un vehículo cuando el conductor se niegue a efectuar la prueba de alcoholemia?",
+      "imagen": "serie-facil-01_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Los agentes, podrán inmovilizar el vehículo cuando el conductor se niegue a efectuar la prueba de alcoholemia en un control preventivo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Una carga sobresale por la parte trasera de un turismo. ¿Debe señalizarla?",
+      "imagen": "serie-facil-01_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, tanto de día como de noche."
+        },
+        {
+          "letra": "B",
+          "texto": "No, no es necesario."
+        }
+      ],
+      "ayuda": "La carga que sobresale por la parte posterior de un turismo, se debe señalizar tanto de día como de noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Esta señal indica fin de...",
+      "imagen": "serie-facil-01_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "todas las prohibiciones indicadas por anteriores señales."
+        },
+        {
+          "letra": "B",
+          "texto": "la prohibición de adelantar."
+        }
+      ],
+      "ayuda": "Esta señal, indica fin de todas las prohibiciones indicadas por anteriores señales para los vehículos en movimiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Circula con niebla, ¿influye en la pérdida de adherencia?",
+      "imagen": "serie-facil-01_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, nunca."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, puesto que la niebla humedece el asfalto."
+        }
+      ],
+      "ayuda": "Si existe niebla hay que circular con precaución, ya que humedece el asfalto y el vehículo pierde adherencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Al efectuar un estacionamiento, ¿puede dejar la luz de largo alcance encendida?",
+      "imagen": "serie-facil-01_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Se prohíbe la utilización de la luz de largo alcance o de carretera siempre que el vehículo se encuentre parado o estacionado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

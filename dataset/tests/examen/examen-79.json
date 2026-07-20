@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 79,
+  "nombre": "Test de examen 79",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Se puede calcular la tasa de alcoholemia en función de la cantidad y el tipo de alcohol ingerido?",
+      "imagen": "examen-79_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque depende de muchos factores, además de la cantidad de alcohol."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, por la cantidad de copas y el tipo de bebida."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque con el mismo número de copas siempre da la misma tasa."
+        }
+      ],
+      "ayuda": "La tasa máxima de alcoholemia depende de varios factores, entre ellos podemos citar: la cantidad de alcohol ingerido,  el tipo de bebida, la rapidez con que se produce la ingesta, el peso corporal, el género, la hora del día, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Puede aumentar el tiempo de reacción del conductor?",
+      "imagen": "examen-79_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, dependiendo por ejemplo de su estado físico."
+        },
+        {
+          "letra": "B",
+          "texto": "No, sólo puede disminuir."
+        },
+        {
+          "letra": "C",
+          "texto": "No, siempre es menos de un segundo."
+        }
+      ],
+      "ayuda": "El tiempo de reacción puede aumentar significativamente dependiendo de diversos factores, entre los que se encuentran el estado físico y psíquico del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Qué factores favorecen las distracciones en la conducción?",
+      "imagen": "examen-79_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La falta de experiencia al volante."
+        },
+        {
+          "letra": "B",
+          "texto": "El estrés, el consumo de alcohol y la fatiga."
+        },
+        {
+          "letra": "C",
+          "texto": "Mirar por el retrovisor."
+        }
+      ],
+      "ayuda": "El estrés, el consumo de alcohol incluso en pequeñas cantidades, el cansancio, la falta de sueño, la fatiga, etc., son factores que favorecen las distracciones durante la conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Cuando llueve, ¿hay que prestar especial atención a alguna zona de la vía en particular?",
+      "imagen": "examen-79_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, puesto que circular con lluvia es muy peligroso en todas partes."
+        },
+        {
+          "letra": "B",
+          "texto": "No, únicamente hay que prestar atención cuando hay niños en las proximidades."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, a los badenes y a las zonas en las que se pueden producir charcos."
+        }
+      ],
+      "ayuda": "Los badenes y otras partes de la vía susceptibles de inundarse, son especialmente peligrosos para la conducción en días lluviosos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Qué medidas debe adoptar si se produce un accidente?",
+      "imagen": "examen-79_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detener su vehículo sin crear peligro, avisar a la autoridad o sus agentes y auxiliar a los heridos."
+        },
+        {
+          "letra": "B",
+          "texto": "Auxiliar a los heridos lo antes posible y avisar a las autoridades."
+        },
+        {
+          "letra": "C",
+          "texto": "Detener el tráfico, auxiliar a los heridos y después avisar a las autoridades."
+        }
+      ],
+      "ayuda": "En caso de que se produzca un accidente, y si fuese necesario, se debe detener el propio vehículo sin crear peligro, avisar a la autoridad o sus agentes y auxiliar a los heridos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "El suelo está mojado y se ve obligado a frenar por emergencia. ¿Qué peligro hay?",
+      "imagen": "examen-79_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que las ruedas se bloqueen y el vehículo derrape."
+        },
+        {
+          "letra": "B",
+          "texto": "Que las ruedas se desgasten."
+        },
+        {
+          "letra": "C",
+          "texto": "No hay peligro."
+        }
+      ],
+      "ayuda": "Cuando el pavimento está mojado, las frenadas bruscas pueden bloquear las ruedas debido a la falta de adherencia, con el consiguiente peligro de derrape.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "La cantidad y la calidad del sueño, el consumo de medicamentos o la monotonía al volante, ¿afectan por igual a todos los conductores?",
+      "imagen": "examen-79_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, excepto el consumo de medicamentos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Los factores internos y personales como la calidad y cantidad del sueño, el consumo de medicamentos o incluso la monotonía, no afectan por igual a todas las personas, ya que la incidencia de cada uno de estos factores sobre la capacidad para conducir depende de las características personales de cada conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Los asientos de un vehículo mixto tienen cinturones de seguridad. ¿Está obligado el conductor a utilizarlo?",
+      "imagen": "examen-79_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en vías fuera de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún tipo de vía."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en todas las vías."
+        }
+      ],
+      "ayuda": "Los cinturones de seguridad de los vehículos en general, deben ser utilizados cuando se circule por cualquier vía pública.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Dónde debe estacionar en una autopista?",
+      "imagen": "examen-79_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fuera de la calzada, en el arcén de la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "En la mediana."
+        },
+        {
+          "letra": "C",
+          "texto": "En los lugares específicamente señalizados para tal fin."
+        }
+      ],
+      "ayuda": "Como norma general, no se permite parar ni estacionar en las autopistas y autovías salvo en los lugares reservados para ello (áreas de descanso).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Quién tiene la responsabilidad por las infracciones cometidas sobre las normas de circulación?",
+      "imagen": "examen-79_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El titular del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "El conductor y, si es menor de edad, sus padres o tutores legales, solidariamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Siempre el conductor causante de la infracción cometida."
+        }
+      ],
+      "ayuda": "La responsabilidad por las infracciones a la normativa vigente en materia de tráfico recaerá, como norma general, directamente en el autor del hecho en que consista la infracción. No obstante, cuando la autoría de los hechos cometidos corresponda a un menor de dieciocho años, responderán solidariamente con él sus padres, tutores, acogedores y guardadores legales o de hecho, por este orden, en razón al incumplimiento de la obligación impuesta a éstos que conlleva un deber de prevenir la infracción administrativa que se impute a los menores. La responsabilidad solidaria mencionada quedará referida estrictamente a la pecuniaria derivada de la multa impuesta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Entre los síntomas de la alergia se encuentran...",
+      "imagen": "examen-79_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "continuos estornudos y ojos irritados."
+        },
+        {
+          "letra": "B",
+          "texto": "somnolencia y estrés."
+        },
+        {
+          "letra": "C",
+          "texto": "ojos irritados y dolores musculares."
+        }
+      ],
+      "ayuda": "Entre los síntomas de las alergias se encuentran los continuos estornudos y ojos irritados, entre otros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Circulando con la calzada nevada las pendientes se deben subir...",
+      "imagen": "examen-79_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "rápidamente, porque si el vehículo se detiene será difícil reanudar la marcha."
+        },
+        {
+          "letra": "B",
+          "texto": "lentamente y a velocidad sostenida."
+        },
+        {
+          "letra": "C",
+          "texto": "con la relación de marchas más corta posible."
+        }
+      ],
+      "ayuda": "Cuando se circule por una calzada cubierta de hielo o nieve, las pendientes se deben subir lentamente y a velocidad sostenida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Podrá utilizar el carril VAO un turismo ocupado por cuatro personas si lleva enganchado un remolque?",
+      "imagen": "examen-79_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo si el carril no está ocupado."
+        }
+      ],
+      "ayuda": "Los turismos con remolque no podrán circular por los carriles VAO.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Si circulando se le pincha una rueda debe...",
+      "imagen": "examen-79_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "abandonar inmediatamente el vehículo, cualquiera que sea el lugar en que se encuentre."
+        },
+        {
+          "letra": "B",
+          "texto": "continuar el viaje hasta el taller más próximo."
+        },
+        {
+          "letra": "C",
+          "texto": "inmovilizar rápidamente el vehículo fuera de la calzada, o en lugar seguro."
+        }
+      ],
+      "ayuda": "Si durante la marcha se pincha una rueda y no puede continuar, se debe detener el vehículo fuera de la calzada si es posible o en un lugar que no entrañe peligro para ningún usuario de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Al prestar ayuda en un accidente, ¿debe ponerse el chaleco reflectante?",
+      "imagen": "examen-79_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, antes de salir del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo si el accidente ocurre en zona urbana."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ya que es una situación de emergencia."
+        }
+      ],
+      "ayuda": "Si se viera obligado a prestar ayuda en una accidente de tráfico, antes de salir del vehículo debe ponerse el chaleco reflectante de alta visibilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Como consecuencia de un accidente de tráfico, un conductor tiene una pierna fracturada; a la hora de auxiliarle, si se puede, se debe...\n",
+      "imagen": "examen-79_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "intentar colocar bien los huesos fracturados.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "inmovilizar la zona fracturada, cubriéndola con una gasa o pañuelo limpio en caso de herida.\n"
+        },
+        {
+          "letra": "C",
+          "texto": "dar un masaje en la zona fracturada y sujetar fuertemente con una venda."
+        }
+      ],
+      "ayuda": "En caso de fractura de un hueso se debe tapar la herida y cohibir la hemorragia (si se trata de fracturas abiertas o complicadas) e inmovilizar la zona.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Un conductor de motocicleta provisto de un certificado de exención por razones médicas graves, ¿por qué vías podrá circular sin hacer uso del casco de protección?",
+      "imagen": "examen-79_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente por las vías de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "Por todas las vías."
+        },
+        {
+          "letra": "C",
+          "texto": "No podrá circular sin casco en ningún caso."
+        }
+      ],
+      "ayuda": "Se eximirá de la obligatoriedad en el uso del casco de protección a las personas provistas de un certificado de exención por razones médicas graves, expedido de conformidad con la reglamentación vigente. Este certificado deberá expresar su período de validez y estar firmado por un facultativo colegiado en ejercicio. Deberá, además, llevar o incorporar el símbolo establecido por la normativa vigente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "El chaleco reflectante. ¿Cuándo es obligatorio ponérselo?",
+      "imagen": "examen-79_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando salgo del vehículo en vías urbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando salgo del vehículo en vías interurbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando salgo del vehículo en autopistas y autovías solamente."
+        }
+      ],
+      "ayuda": "Es obligatorio el uso del chaleco reflectante de alta visibilidad cuando el conductor salga del vehículo o ocupe la calzada o el arcén de vías interurbanas. Es necesario colocarse el chaleco antes de salir del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Qué significa el triángulo pintado en el suelo?",
+      "imagen": "examen-79_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Carril preferente."
+        },
+        {
+          "letra": "B",
+          "texto": "Obligación de detenerse en la intersección."
+        },
+        {
+          "letra": "C",
+          "texto": "Obligación de ceder el paso en la intersección."
+        }
+      ],
+      "ayuda": "El triangulo marcado en el suelo, es un ceda el paso. Por tanto, indica la obligación de ceder el paso en la intersección a los vehículos que se aproximen tanto por la izquierda como por la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Qué personas incurren en la omisión de socorro a las víctimas de un accidente de tráfico?",
+      "imagen": "examen-79_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las que no ayudan a las víctimas por correr riesgo propio."
+        },
+        {
+          "letra": "B",
+          "texto": "Las que piden auxilio cuando ellos no pueden prestarlo."
+        },
+        {
+          "letra": "C",
+          "texto": "Las que no socorren a una víctima desatendida, pudiendo hacerlo sin riesgo propio ni de terceros."
+        }
+      ],
+      "ayuda": "Las personas que no socorren a una víctima desatendida, pudiendo hacerlo sin riesgo propio ni de terceros, incurren en un delito de omisión de socorro, en los términos establecidos en la legislación vigente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Dónde está prohibido circular con la luz larga encendida?",
+      "imagen": "examen-79_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En todos los túneles."
+        },
+        {
+          "letra": "B",
+          "texto": "En autopistas iluminadas."
+        },
+        {
+          "letra": "C",
+          "texto": "Donde hay peligro de deslumbrar y en vías urbanas."
+        }
+      ],
+      "ayuda": "Como norma general, la luz de largo alcance no podrá utilizarse en vías urbanas, ni cuando existan posibilidades de deslumbrar a otros usuarios de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Cómo se puede evitar el atropello a peatones?",
+      "imagen": "examen-79_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Invitándoles con señas a que crucen la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Moderando la velocidad, sobre todo en ciudad."
+        },
+        {
+          "letra": "C",
+          "texto": "Haciéndoles exageradas y estridentes señales acústicas."
+        }
+      ],
+      "ayuda": "Circular a velocidad adecuada en cada momento y moderándola cuando sea necesario, es una forma de evitar atropellos a peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿A qué vehículos debe ceder el paso?",
+      "imagen": "examen-79_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A todos los vehículos que se aproximan por la derecha o por la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo a los vehículos que se aproximen por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo a los vehículos que se aproximan por la izquierda."
+        }
+      ],
+      "ayuda": "Ante la señal triangular que se observa, es necesario ceder el paso a todos los vehículos que se aproximen, tanto por la derecha como por la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "Si no está implicado en un accidente, ¿debe prestar auxilio a los heridos?",
+      "imagen": "examen-79_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, salvo que la ayuda ya esté organizada."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque sólo están obligados los conductores implicados en el mismo."
+        }
+      ],
+      "ayuda": "Aunque no estemos implicados en un accidente de tráfico, es necesario detenerse para auxiliar a las víctimas, salvo que la ayuda esté organizada y no sea necesaria nuestra colaboración.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Es correcto el comportamiento del conductor del ciclomotor?",
+      "imagen": "examen-79_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque el peatón dispone de espacio suficiente para cruzar."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque ha invadido la marca vial de paso para peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque se ha detenido para dejar pasar al peatón."
+        }
+      ],
+      "ayuda": "El conductor de este ciclomotor se ha detenido incorrectamente sobre el paso de peatones para ceder el paso. Debe detenerse sin invadir la zona delimitada por la marca vial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Esta auxiliadora ha colocado al accidentado en la denominada \"posición de defensa\". ¿Con qué fin?",
+      "imagen": "examen-79_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para evitar asfixias, en caso de que vomite o sangre por la nariz o la boca."
+        },
+        {
+          "letra": "B",
+          "texto": "Para realizarle la respiración artificial."
+        },
+        {
+          "letra": "C",
+          "texto": "Para que esté más cómodo, solamente."
+        }
+      ],
+      "ayuda": "El objetivo de la posición lateral de seguridad (posición de defensa) es evitar que el accidentado se asfixie con su propio vómito, sangre u otras secreciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Este pasajero no utiliza casco de protección. De esta infracción es responsable...",
+      "imagen": "examen-79_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el propio pasajero."
+        },
+        {
+          "letra": "B",
+          "texto": "el propietario del ciclomotor."
+        },
+        {
+          "letra": "C",
+          "texto": "el conductor."
+        }
+      ],
+      "ayuda": "Si el pasajero de una motocicleta no utiliza el casco de protección, el responsable de dicha infracción es el conductor de la motocicleta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Qué indica la señal?",
+      "imagen": "examen-79_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fin de velocidad mínima obligatoria."
+        },
+        {
+          "letra": "B",
+          "texto": "Fin de velocidad máxima permitida."
+        },
+        {
+          "letra": "C",
+          "texto": "Fin de velocidad máxima aconsejable."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen indica fin de velocidad mínima obligatoria. La velocidad mínima aplicable a partir de la misma, será la establecida con carácter general para el tipo de vehículo y de vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Circulando por autovía, un vehículo destinado al transporte de mercancías peligrosas sufre una avería, ¿es correcto que un turismo lo remolque?",
+      "imagen": "examen-79_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero no está permitido remolcar a un vehículo más de 100 kilómetros."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solamente hasta el taller más cercano."
+        }
+      ],
+      "ayuda": "Está absolutamente prohibido en autopistas y autovías, que un vehículo de motor no destinado específicamente al auxilio de vehículos, arrastre a otro vehículo de motor averiado o accidentado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Las distracciones, ¿influyen en los accidentes sufridos por los ciclistas?",
+      "imagen": "examen-79_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, los ciclistas son un grupo de conductores con un índice muy bajo de distracciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, las distracciones por parte de los propios ciclistas tienen relación de forma directa."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en los accidentes de los ciclistas afectan otro tipo de causas."
+        }
+      ],
+      "ayuda": "Las distracciones están presentes en una parte importante de los accidentes de circulación, y afectan a todos los tipos de usuarios de la vía, tales como peatones, conductores de bicicletas, de vehículos de dos ruedas, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

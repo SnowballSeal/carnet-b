@@ -1,0 +1,822 @@
+[
+  {
+    "n": 1,
+    "tipo": "imagen",
+    "titulo": "Bienvenido al Tema 3",
+    "texto": null
+  },
+  {
+    "n": 2,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 3,
+    "tipo": "imagen",
+    "titulo": "Clasificación de las señales verticales de circulación",
+    "texto": null
+  },
+  {
+    "n": 4,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 5,
+    "tipo": "imagen",
+    "titulo": "Características generales",
+    "texto": "Las señales de advertencia de peligro indican la proximidad y la naturaleza de un peligro difícil de ser percibido a tiempo, con el objetivo de que se cumplan las normas de comportamiento que, en cada caso, sean procedentes.\n\nSu forma es triangular, con la base hacia abajo y el vértice hacia arriba, salvo excepciones.\n\nCuando se trate de señales luminosas, podrá admitirse que los símbolos aparezcan iluminados en blanco sobre fondo oscuro no luminoso.\n\nPara que la eficacia de estas señales sea máxima, se colocarán a una distancia suficiente del principio del tramo peligroso, pudiendo especificarse dicha distancia en un panel complementario.\n\nAnte una señal de advertencia de peligro, el conductor de un vehículo deberá extremar la precaución y, reducir la velocidad cuando las circunstancias lo exijan."
+  },
+  {
+    "n": 6,
+    "tipo": "imagen",
+    "titulo": "Paneles complementarios",
+    "texto": "Cuando el panel complementario que acompaña a una señal de advertencia de peligro lleve inscrita una longitud, ésta se refiere a la distancia existente entre la señal y el comienzo del peligro.\n\nEn el caso de la imagen, el panel nos indica que faltan 200 metros para llegar a la sucesión de curvas."
+  },
+  {
+    "n": 7,
+    "tipo": "imagen",
+    "titulo": "Paneles complementarios con flechas",
+    "texto": "Si la longitud que aparece en el panel complementario que acompaña a la señal de peligro, está comprendida entre dos flechas, la cifra se refiere a la longitud del tramo de vía afectado por el peligro.\n\nEn esta situación, la señalización indica que el tramo de curvas peligrosas tiene una longitud de 200 metros."
+  },
+  {
+    "n": 8,
+    "tipo": "imagen",
+    "titulo": "Tipos de Señales de Advertencia de Peligro",
+    "texto": null
+  },
+  {
+    "n": 9,
+    "tipo": "imagen",
+    "titulo": "Intersección con prioridad",
+    "texto": "La señal situada en la intersección indica que los vehículos que circulan por dicha vía tienen prioridad de paso.\n\nPor lo tanto, los vehículos que se aproximen a la intersección por la derecha y por la izquierda deben ceder el paso. En este caso, el vehículo amarillo tiene preferencia."
+  },
+  {
+    "n": 10,
+    "tipo": "video",
+    "titulo": "Intersección con prioridad",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/yOY61aCWlw8"
+  },
+  {
+    "n": 11,
+    "tipo": "imagen",
+    "titulo": "Intersección con prioridad sobre vía a la derecha",
+    "texto": "La señal de la imagen indica que se tiene prioridad de paso sobre los vehículos que se aproximan por la derecha.\n\nEl vehículo verde tiene preferencia de paso."
+  },
+  {
+    "n": 12,
+    "tipo": "imagen",
+    "titulo": "Intersección con prioridad sobre vía a la izquierda",
+    "texto": "La señal indica peligro por la proximidad de una intersección con una vía a la izquierda, cuyos usuarios deben ceder el paso."
+  },
+  {
+    "n": 13,
+    "tipo": "imagen",
+    "titulo": "Otras señales de advertencia de peligro en  intersecciones",
+    "texto": "Intersección con prioridad sobre incorporación por la derecha: peligro por la proximidad de una incorporación por la derecha de una vía, cuyos usuarios deben ceder el paso.\n\nIntersección con prioridad sobre incorporación por la izquierda: peligro por la proximidad de una incorporación por la izquierda de una vía, cuyos usuarios deben ceder el paso.\n\nTramo con accesos directos: peligro por la proximidad de un tramo en el que existen varios accesos directos a la vía, debiendo ceder el paso los usuarios de dichos accesos directos."
+  },
+  {
+    "n": 14,
+    "tipo": "video",
+    "titulo": "Intersección con prioridad sobre incorporación por la derecha",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/GKKTewOR6ow"
+  },
+  {
+    "n": 15,
+    "tipo": "imagen",
+    "titulo": "Advertencia de Peligro en Intersecciones. Ejemplos",
+    "texto": "En este ejemplo, la señal le indica al conductor del vehículo amarillo que debe ceder el paso solamente a los vehículos que se aproximen por la derecha."
+  },
+  {
+    "n": 16,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/4E7RZ_DF_vw?si=DnRoi1BgJuMBKGBl"
+  },
+  {
+    "n": 17,
+    "tipo": "imagen",
+    "titulo": "Advertencia de Peligro. Semáforos",
+    "texto": "Esta señal advierte de peligro por la proximidad de una intersección aislada o tramo con la circulación regulada por semáforos."
+  },
+  {
+    "n": 18,
+    "tipo": "imagen",
+    "titulo": "Glorieta",
+    "texto": "Peligro por la proximidad de una glorieta con circulación en el sentido indicado por las flechas."
+  },
+  {
+    "n": 19,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/H3Bvof_WIaU?si=tGv0__oj5zMFR1Aq"
+  },
+  {
+    "n": 20,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/Fe1FU2UWzl4?si=-XLijIs9L96Fkvjl"
+  },
+  {
+    "n": 21,
+    "tipo": "imagen",
+    "titulo": "Advertencia de peligro. Puente móvil",
+    "texto": "Esta señal advierte del peligro por la proximidad de un puente que puede ser levantado o girado, interrumpiéndose así temporalmente la circulación."
+  },
+  {
+    "n": 22,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/5b038X6PHYQ?si=u7lqWw4_XfcGJnGR"
+  },
+  {
+    "n": 23,
+    "tipo": "imagen",
+    "titulo": "Advertencia de peligro. Cruce de tranvía",
+    "texto": "La señal indica peligro por la proximidad de cruce con una línea de tranvía, que tiene prioridad de paso.\n\nPor ello, el conductor del vehículo azul debe ceder el paso al tranvía."
+  },
+  {
+    "n": 24,
+    "tipo": "imagen",
+    "titulo": "Advertencia de peligro. Paso a nivel con barreras",
+    "texto": "La señal indica peligro por la proximidad de un paso a nivel provisto de barreras o semibarreras.\n\nLas balizas situadas al margen de la calzada indican la distancia en metros que falta para llegar al mencionado paso a nivel."
+  },
+  {
+    "n": 25,
+    "tipo": "imagen",
+    "titulo": "Advertencia de peligro. Paso a nivel sin barreras",
+    "texto": "En este caso, la señal advierte de peligro por la proximidad de un paso a nivel no provisto de barreras o semibarreras.\n\nAl igual que en el caso anterior, las balizas indican la distancia que falta para llegar al peligro indicado."
+  },
+  {
+    "n": 26,
+    "tipo": "imagen",
+    "titulo": "Advertencia de peligro. Situación de un paso a nivel sin barreras",
+    "texto": "Peligro por la presencia inmediata de un paso a nivel sin barreras."
+  },
+  {
+    "n": 27,
+    "tipo": "imagen",
+    "titulo": "Paso a nivel sin barreras de más de una vía férrea",
+    "texto": "Peligro por la presencia inmediata de un paso a nivel sin barreras con más de una vía férrea."
+  },
+  {
+    "n": 28,
+    "tipo": "imagen",
+    "titulo": "Advertencia de peligro. Aeropuerto",
+    "texto": "La señal indica peligro por la proximidad de un lugar donde frecuentemente vuelan aeronaves a baja altura sobre la vía y que pueden originar ruidos imprevistos."
+  },
+  {
+    "n": 29,
+    "tipo": "imagen",
+    "titulo": "Señales de advertencia de peligro. Curva peligrosa",
+    "texto": "Las señales de la imagen indican, respectivamente:\n\nPeligro por la proximidad de una curva peligrosa hacia la derecha.\n\nPeligro por la proximidad de una curva peligrosa hacia la izquierda."
+  },
+  {
+    "n": 30,
+    "tipo": "imagen",
+    "titulo": "Curvas peligrosas hacia la derecha",
+    "texto": "La señal advierte de peligro por la proximidad de una sucesión de curvas próximas entre sí; la primera, hacia la derecha."
+  },
+  {
+    "n": 31,
+    "tipo": "imagen",
+    "titulo": "Curvas peligrosas hacia la izquierda",
+    "texto": "Peligro por la proximidad de una sucesión de curvas próximas entre sí; la primera, hacia la izquierda."
+  },
+  {
+    "n": 32,
+    "tipo": "imagen",
+    "titulo": "Señales de advertencia de peligro. Perfil irregular y Badén",
+    "texto": "Perfil irregular: peligro por la proximidad de un resalte o badén en la vía, o pavimento en mal estado.\n\nBadén: peligro por la proximidad de un badén en la vía."
+  },
+  {
+    "n": 33,
+    "tipo": "imagen",
+    "titulo": "Señales de advertencia de peligro. Resalte",
+    "texto": "Peligro por la proximidad de un resalte en la vía."
+  },
+  {
+    "n": 34,
+    "tipo": "imagen",
+    "titulo": "Bajada con fuerte pendiente",
+    "texto": "Peligro por la existencia de un tramo de vía con fuerte pendiente descendente.\n\nLa cifra indica la inclinación de la pendiente en porcentaje."
+  },
+  {
+    "n": 35,
+    "tipo": "imagen",
+    "titulo": "Subida con fuerte pendiente",
+    "texto": "Peligro por la existencia de un tramo de vía con fuerte pendiente ascendente.\n\nLa cifra indica la inclinación de la pendiente en porcentaje."
+  },
+  {
+    "n": 36,
+    "tipo": "imagen",
+    "titulo": "Estrechamiento de la calzada",
+    "texto": "Peligro por la proximidad de una zona de la vía en la que se estrecha la calzada.\n\nTambién puede ser utilizada cuando se reduzca la anchura de los arcenes de la calzada."
+  },
+  {
+    "n": 37,
+    "tipo": "imagen",
+    "titulo": "Estrechamiento de la calzada por la derecha o por la izquierda",
+    "texto": "Estrechamiento de la calzada por la derecha: peligro por la proximidad de una zona de la vía en la que la calzada se estrecha por el lado de la derecha.\n\nEstrechamiento de la calzada por la izquierda: peligro por la proximidad de una zona de la vía, en la que la calzada se estrecha por el lado de la izquierda."
+  },
+  {
+    "n": 38,
+    "tipo": "imagen",
+    "titulo": "Advertencia de peligro. Obras",
+    "texto": "Peligro por la proximidad de un tramo de vía en obras.\n\nComo se ha indicado anteriormente, en estos tramos, las señales son de color amarillo."
+  },
+  {
+    "n": 39,
+    "tipo": "imagen",
+    "titulo": "Pavimento deslizante",
+    "texto": "Peligro por la proximidad de una zona de la calzada cuyo pavimento puede resultar deslizante, por diversas causas."
+  },
+  {
+    "n": 40,
+    "tipo": "imagen",
+    "titulo": "Paso para peatones",
+    "texto": "Peligro por la proximidad de uno o varios pasos para peatones."
+  },
+  {
+    "n": 41,
+    "tipo": "imagen",
+    "titulo": "Advertencia de peligro. Peatones",
+    "texto": "Peligro por la proximidad de un lugar o tramo con elevado tránsito de peatones."
+  },
+  {
+    "n": 42,
+    "tipo": "imagen",
+    "titulo": "Pasos para peatones y ciclistas",
+    "texto": "Peligro por la proximidad de un paso para peatones adosado o compartido con un paso para ciclistas."
+  },
+  {
+    "n": 43,
+    "tipo": "imagen",
+    "titulo": "Advertencia de peligro. Niños",
+    "texto": "Peligro por la proximidad de un lugar frecuentado por niños, tales como escuelas, zona de juegos, etc."
+  },
+  {
+    "n": 44,
+    "tipo": "imagen",
+    "titulo": "Personas con dificultades motrices",
+    "texto": "Peligro por la proximidad de un lugar frecuentado por personas con dificultades motrices o sensoriales."
+  },
+  {
+    "n": 45,
+    "tipo": "imagen",
+    "titulo": "Advertencia de peligro. Paso para ciclistas",
+    "texto": "Peligro por la proximidad de uno o varios pasos para ciclistas."
+  },
+  {
+    "n": 46,
+    "tipo": "imagen",
+    "titulo": "Advertencia de peligro. Ciclistas",
+    "texto": "Peligro por la proximidad de un tramo con circulación frecuente de ciclistas."
+  },
+  {
+    "n": 47,
+    "tipo": "imagen",
+    "titulo": "Paso de animales domésticos o ganado",
+    "texto": "Peligro por la proximidad de un lugar donde frecuentemente la vía puede ser atravesada por animales domésticos o ganado, que no tienen preferencia de paso.\n\nCuando esta señal esté complementada con un panel con la inscripción CAÑADA estos animales gozarán de prioridad."
+  },
+  {
+    "n": 48,
+    "tipo": "imagen",
+    "titulo": "Paso de animales en libertad",
+    "texto": "Peligro por la proximidad de un lugar donde frecuentemente la vía puede ser atravesada por animales en libertad."
+  },
+  {
+    "n": 49,
+    "tipo": "imagen",
+    "titulo": "Paso de animales en libertad (jabalíes)",
+    "texto": "Peligro por la proximidad de un lugar donde frecuentemente la vía puede ser atravesada por animales en libertad, tratándose en una proporción muy significativa de jabalíes."
+  },
+  {
+    "n": 50,
+    "tipo": "imagen",
+    "titulo": "Advertencia de Peligro. Circulación en los dos sentidos",
+    "texto": "Peligro por la proximidad de un tramo con circulación en ambos sentidos."
+  },
+  {
+    "n": 51,
+    "tipo": "imagen",
+    "titulo": "Desprendimiento",
+    "texto": "Peligro por la proximidad de una zona con desprendimientos frecuentes y la consiguiente posible presencia de obstáculos en la calzada."
+  },
+  {
+    "n": 52,
+    "tipo": "imagen",
+    "titulo": "Advertencia de peligro. Muelle",
+    "texto": "Peligro debido a que la vía desemboca en un muelle o en una corriente de agua."
+  },
+  {
+    "n": 53,
+    "tipo": "imagen",
+    "titulo": "Proyección de gravilla",
+    "texto": "Peligro por la proximidad de un tramo de vía donde existe el riesgo de que se proyecte gravilla al pasar los vehículos."
+  },
+  {
+    "n": 54,
+    "tipo": "imagen",
+    "titulo": "Viento transversal",
+    "texto": "Peligro por la proximidad de una zona donde sopla frecuentemente viento fuerte en dirección transversal."
+  },
+  {
+    "n": 55,
+    "tipo": "imagen",
+    "titulo": "Escalón lateral",
+    "texto": "Peligro por la existencia de un desnivel a lo largo de la vía en el lado que indique el símbolo.\n\nEn este caso, el desnivel se encuentra en el lado derecho de la calzada."
+  },
+  {
+    "n": 56,
+    "tipo": "imagen",
+    "titulo": "Señales de advertencia de peligro. Congestión y Obstrucción de la calzada",
+    "texto": "Congestión: peligro por la proximidad de un tramo en el que la circulación se encuentra detenida o dificultada por congestión del tráfico.\n\nObstrucción en la calzada: peligro por la proximidad de un lugar en el que hay vehículos que obstruyen la calzada debido a avería, accidente u otras causas."
+  },
+  {
+    "n": 57,
+    "tipo": "imagen",
+    "titulo": "Visibilidad reducida",
+    "texto": "Peligro por la proximidad de un tramo en que la circulación se ve dificultada por una pérdida notable de visibilidad debido a niebla, lluvia, nieve, humo, etc."
+  },
+  {
+    "n": 58,
+    "tipo": "imagen",
+    "titulo": "Presencia de hielo o nieve.",
+    "texto": "Peligro por la proximidad de un tramo en el que frecuentemente, durante la época invernal, hay presencia de hielo o nieve y los consiguientes peligros asociados."
+  },
+  {
+    "n": 59,
+    "tipo": "imagen",
+    "titulo": "Trenzado",
+    "texto": "Peligro por la proximidad de un tramo comprendido entre una confluencia y una bifurcación donde se producen distintos movimientos de cambio de carril por parte de los vehículos, cruzándose sus trayectorias y aumentando por ello el riesgo de que se produzcan colisiones."
+  },
+  {
+    "n": 60,
+    "tipo": "imagen",
+    "titulo": "Otros peligros",
+    "texto": "Esta señal indica la proximidad de un peligro distinto de los advertidos por otras señales.\n\nLa naturaleza de dicho peligro, generalmente, se describe en paneles complementarios."
+  },
+  {
+    "n": 61,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 62,
+    "tipo": "imagen",
+    "titulo": "Señales de Reglamentación",
+    "texto": "Las señales de reglamentación tienen por objeto indicar a los usuarios de la vía las obligaciones, limitaciones o prohibiciones especiales que deben respetar.\n\nCuando las señales de reglamentación estén colocadas al lado o en la vertical de una señal que indique el nombre del poblado, significa que la reglamentación se aplica a todo el poblado, excepto si en este se indicara otra reglamentación distinta, mediante otras señales en ciertos tramos de la vía."
+  },
+  {
+    "n": 63,
+    "tipo": "imagen",
+    "titulo": "Señales de prioridad",
+    "texto": "Las Señales de Reglamentación se dividen en varias clases. Una de ellas está formada por las Señales de Prioridad."
+  },
+  {
+    "n": 64,
+    "tipo": "imagen",
+    "titulo": "Señales de Prioridad. Ceda el Paso",
+    "texto": "En la imagen se observa una señal de Ceda el Paso la cual indica obligación, para todo conductor, de ceder el paso en la próxima intersección a los vehículos que circulen por la vía a la que se aproxime o al carril al que pretende incorporarse.\n\nSegún las circunstancias, el conductor deberá ceder el paso deteniéndose o no.\n\nEn este caso, el conductor del vehículo amarillo debe ceder el paso tanto a los dos vehículos que circulan por la vía transversal."
+  },
+  {
+    "n": 65,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/l4q3VyT8Yy8?si=apiyiQXF8mfgE1YU"
+  },
+  {
+    "n": 66,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/5lC3qnhtmwY?si=Hv2AblfwUnZoptYE"
+  },
+  {
+    "n": 67,
+    "tipo": "imagen",
+    "titulo": "Detención obligatoria o Stop",
+    "texto": "Esta señal establece la obligación, para todo conductor, de detener su vehículo ante la próxima línea de detención o, si no existe, inmediatamente antes de la intersección, y ceder el paso a los vehículos que circulen por la vía a la que se aproxime.\n\nSi por circunstancias excepcionales, desde el lugar donde se ha efectuado la detención no existe visibilidad suficiente, el conductor deberá detenerse de nuevo en el lugar desde donde tenga visibilidad, sin poner en peligro a ningún usuario de la vía."
+  },
+  {
+    "n": 68,
+    "tipo": "video",
+    "titulo": "Detención obligatoria o Stop",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/60D-Tb7C9hY"
+  },
+  {
+    "n": 69,
+    "tipo": "video",
+    "titulo": "Detención obligatoria en intersección sin visibilidad",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/Sw2KfsXsMLo"
+  },
+  {
+    "n": 70,
+    "tipo": "imagen",
+    "titulo": "Señales de Prioridad. Calzada con prioridad y Fin de prioridad",
+    "texto": "Calzada con prioridad: indica, a los conductores de los vehículos que circulen por una calzada, su prioridad en las intersecciones sobre los vehículos que circulen por otra calzada o procedan de ella.\n\nFin de prioridad: indica la proximidad del lugar en que la calzada por la que se circula pierde su prioridad respecto a otra calzada."
+  },
+  {
+    "n": 71,
+    "tipo": "imagen",
+    "titulo": "Prioridad en sentido contrario",
+    "texto": "Prohibición de entrada en un paso estrecho mientras no sea posible atravesarlo sin obligar a los vehículos que circulen en sentido contrario a detenerse.\n\nEn este estrechamiento, tienen preferencia de paso los vehículos que se aproximen en sentido contrario."
+  },
+  {
+    "n": 72,
+    "tipo": "imagen",
+    "titulo": "Prioridad respecto al sentido contrario",
+    "texto": "Indica a los conductores que, en un próximo paso estrecho, tienen prioridad con relación a los vehículos que circulen en sentido contrario.\n\nEn este caso, el conductor goza de prioridad de paso sobre los vehículos que se aproximen de frente."
+  },
+  {
+    "n": 73,
+    "tipo": "imagen",
+    "titulo": "Señalización de prioridad en pasos estrechos",
+    "texto": "En este ejemplo, y según la señalización del estrechamiento, tendrá prioridad de paso el vehículo amarillo."
+  },
+  {
+    "n": 74,
+    "tipo": "imagen",
+    "titulo": "Señales de Prohibición de Entrada",
+    "texto": null
+  },
+  {
+    "n": 75,
+    "tipo": "imagen",
+    "titulo": "Señales de Prohibición de Entrada. Circulación prohibida",
+    "texto": "Circulación prohibida: prohibición de circulación de toda clase de vehículos en ambos sentidos."
+  },
+  {
+    "n": 76,
+    "tipo": "imagen",
+    "titulo": "Entrada prohibida",
+    "texto": "Indica prohibición de acceso a toda clase de vehículos."
+  },
+  {
+    "n": 77,
+    "tipo": "imagen",
+    "titulo": "Señales de entrada prohibida a vehículos de motor",
+    "texto": "Entrada prohibida a vehículos de motor: prohibición de acceso a vehículos de motor. A partir del lugar donde se encuentra, sólo pueden pasar vehículos sin motor o no considerados vehículos de motor.\n\nEntrada prohibida a vehículos de motor, excepto motocicletas de dos ruedas: No prohíbe el acceso a motocicletas de dos ruedas ni a vehículos de tres ruedas asimilados a motocicletas."
+  },
+  {
+    "n": 78,
+    "tipo": "imagen",
+    "titulo": "Señales de entrada prohibida.Motocicletas y ciclomotores",
+    "texto": "Entrada prohibida a motocicletas: prohíbe el acceso a motocicletas y a vehículos de tres ruedas asimilados a motocicletas.\n\nEntrada prohibida a ciclomotores: prohibición de acceso a ciclomotores. Igualmente prohibe la entrada a vehículos para personas de movilidad reducida."
+  },
+  {
+    "n": 79,
+    "tipo": "imagen",
+    "titulo": "Entrada prohibida a vehículos destinados al transporte de mercancías",
+    "texto": "Prohibición de acceso a vehículos destinados al transporte de mercancías, entendiéndose como tales camiones, tractocamiones y furgones o furgonetas, independientemente de su masa."
+  },
+  {
+    "n": 80,
+    "tipo": "imagen",
+    "titulo": "Señales de entrada prohibida a determinados vehículos de transporte",
+    "texto": "Entrada prohibida a vehículos destinados al transporte de mercancías con mayor masa autorizada que la indicada\nProhibición de acceso a toda clase de vehículos destinados al transporte de mercancías si su masa máxima autorizada es superior a la indicada en la señal, entendiéndose como tales los camiones, tractocamiones y furgones o furgonetas con mayor masa autorizada que la indicada en la señal. Prohíbe el acceso aunque circulen vacíos.\n\nEntrada prohibida a vehículos que transporten mercancías peligrosas\nProhibición de acceso a toda clase de vehículos que transporten mercancías peligrosas y requieran estar señalizados de acuerdo con su normativa específica.\n\nEntrada prohibida a vehículos que transporten mercancías explosivas o inflamables\nProhibición de acceso a toda clase de vehículos que transporten mercancías explosivas o fácilmente inflamables y requieran estar señalizados de acuerdo con su normativa específica.\n\nEntrada prohibida a vehículos que transporten productos contaminantes del agua\nProhibición de acceso a toda clase de vehículos que transporten más de 1.000 litros de productos capaces de contaminar el agua."
+  },
+  {
+    "n": 81,
+    "tipo": "imagen",
+    "titulo": "Señales de entrada prohibida",
+    "texto": "Entrada prohibida a vehículos agrícolas de motor\nProhibición de acceso a tractores y otras máquinas agrícolas autopropulsadas.\n\nEntrada prohibida a vehículos de motor con remolque exceptuando los de un solo eje\nProhibición de acceso a vehículos de motor con remolque exceptuando los de un solo eje. La inscripción de una cifra de tonelaje, sobre la silueta del remolque o en una placa suplementaria, significa que la prohibición de paso solo se aplica cuando la masa máxima autorizada del remolque supere dicha cifra."
+  },
+  {
+    "n": 82,
+    "tipo": "imagen",
+    "titulo": "Señales de entrada prohibida",
+    "texto": "Entrada prohibida a vehículos de tracción animal.\n\nEntrada prohibida a ciclos.\n\nEntrada prohibida a carros de mano.\n\nEntrada prohibida a peatones.\n\nEntrada prohibida a animales de montura."
+  },
+  {
+    "n": 83,
+    "tipo": "imagen",
+    "titulo": "Señales de entrada prohibida",
+    "texto": "Entrada prohibida a vehículos de movilidad personal\n\nEntrada prohibida a ciclos y a vehículos de movilidad personal\n\nEntrada prohibida a vehículos en función de su distintivo ambiental u otros criterios ambientales\nEsta señal, indica prohibición de acceso a vehículos en función de su distintivo ambiental u otros criterios ambientales que se establezcan.\n\nLas condiciones se especificarán en un panel complementario o en un cartel en el que se incluya la señal, haciendo referencia en su caso a la clasificación de cada vehículo en función de su distintivo ambiental, según lo establecido reglamentariamente."
+  },
+  {
+    "n": 84,
+    "tipo": "imagen",
+    "titulo": "Señales de Restricción de Paso",
+    "texto": null
+  },
+  {
+    "n": 85,
+    "tipo": "imagen",
+    "titulo": "Prohibición de pasar sin detenerse",
+    "texto": "Indica el lugar donde es obligatoria la detención por la proximidad, según la inscripción que contenga, de un puesto de aduana, de policía, de peaje u otro, y que tras ellos, pueden estar instalados medios mecánicos de detención."
+  },
+  {
+    "n": 86,
+    "tipo": "imagen",
+    "titulo": "Limitación de masa y limitación de masa por eje",
+    "texto": "Limitación de masa\nProhíbe el paso a los vehículos cuya masa en carga supere a la indicada en toneladas.\n\nLimitación de masa por eje Prohíbe el paso a los vehículos cuya masa por eje, transmitida por la totalidad de las ruedas acopladas a algún eje, supere a la indicada en la señal."
+  },
+  {
+    "n": 87,
+    "tipo": "imagen",
+    "titulo": "Limitación de longitud, anchura y altura",
+    "texto": "Limitación de longitud\nIndica prohibición de paso de los vehículos o conjunto de vehículos cuya longitud máxima, incluida la carga, supere la indicada.\n\nLimitación de anchura\nIndica prohibición de paso de los vehículos cuya anchura máxima, incluida la carga, supere la indicada.\n\nLimitación de altura\nIndica prohibición de paso de los vehículos cuya altura máxima, incluida la carga, supere la indicada."
+  },
+  {
+    "n": 88,
+    "tipo": "imagen",
+    "titulo": "Otras Señales de Prohibición o Restricción",
+    "texto": null
+  },
+  {
+    "n": 89,
+    "tipo": "imagen",
+    "titulo": "Separación mínima",
+    "texto": "Prohibición de circular sin mantener con el vehículo precedente una separación igual o mayor a la indicada en la señal, excepto para adelantar.\n\nSi aparece sin la indicación en metros, recuerda, de forma genérica, que debe guardarse la distancia de seguridad entre vehículos establecida."
+  },
+  {
+    "n": 90,
+    "tipo": "imagen",
+    "titulo": "Velocidad máxima",
+    "texto": "Prohíbe circular a velocidad superior a la indicada en la señal."
+  },
+  {
+    "n": 91,
+    "tipo": "imagen",
+    "titulo": "Fin de la vigencia de la señal de velocidad máxima",
+    "texto": "La señal de velocidad máxima dejará de tener vigencia en los siguientes casos:\n\n- Cuando se rebase una señal de fin de limitación de velocidad.\n\n- Cuando se rebase una señal de fin de prohibiciones.\n\n- Cuando se rebase otra señal de velocidad máxima."
+  },
+  {
+    "n": 92,
+    "tipo": "imagen",
+    "titulo": "Fin de la vigencia de la señal de velocidad máxima",
+    "texto": "Cuando la señal de velocidad máxima esté colocada en el mismo poste que una señal de advertencia de peligro, o en el mismo panel que ésta, la prohibición de circular a mayor velocidad que la indicada, finaliza cuando termine el peligro señalizado.\n\nCuando esté situada en una vía sin prioridad, esta señal dejará de tener vigencia al salir de una intersección con una vía con prioridad."
+  },
+  {
+    "n": 93,
+    "tipo": "imagen",
+    "titulo": "Giro a la derecha prohibido",
+    "texto": "Prohibición de girar a la derecha."
+  },
+  {
+    "n": 94,
+    "tipo": "imagen",
+    "titulo": "Giro a la izquierda prohibido",
+    "texto": "Prohibición de girar a la izquierda. Incluye, también, la prohibición de cambiar el sentido de la marcha."
+  },
+  {
+    "n": 95,
+    "tipo": "imagen",
+    "titulo": "Cambio de sentido prohibido",
+    "texto": "Indica prohibición de efectuar la maniobra de cambio de sentido de la marcha.\n\nNo prohíbe girar a la izquierda."
+  },
+  {
+    "n": 96,
+    "tipo": "imagen",
+    "titulo": "Adelantamiento prohibido",
+    "texto": "Indica la prohibición a todos los vehículos de adelantar a los vehículos a motor que circulen por la calzada cuando dicha maniobra implique invadir la zona reservada al sentido contrario de circulación.\n\nLa prohibición se aplica desde el lugar en que esté situada la señal hasta la siguiente señal de “Fin de prohibición de adelantamiento” o “Fin de prohibiciones”.\n\nColocada en aquellos lugares donde por norma esté prohibido el adelantamiento, recuerda de forma genérica la prohibición de efectuar esta maniobra."
+  },
+  {
+    "n": 97,
+    "tipo": "imagen",
+    "titulo": "Adelantamiento prohibido a camiones",
+    "texto": "Prohibición a los camiones cuya masa máxima autorizada exceda de 3.500 kilogramos de adelantar a los vehículos a motor que circulen por la calzada, incluso cuando dicha maniobra no implique invadir la zona reservada al sentido contrario de circulación. \n\nLa prohibición se aplica desde el lugar en que esté situada la señal hasta la siguiente señal de “Fin de prohibición de adelantamiento” o “Fin de prohibiciones”."
+  },
+  {
+    "n": 98,
+    "tipo": "imagen",
+    "titulo": "Parada y estacionamiento prohibido",
+    "texto": "Prohibición de parar y estacionar en el lado de la calzada en que está situada.\n\nSalvo indicación en contrario, la prohibición comienza en la vertical de la señal y termina en la intersección más próxima en el sentido de la marcha."
+  },
+  {
+    "n": 99,
+    "tipo": "imagen",
+    "titulo": "Estacionamiento prohibido",
+    "texto": "Prohibición de estacionar en el lado de la calzada en que esté situada la señal.\n\nSalvo indicación en contrario, la prohibición comienza en la vertical de la señal y termina en la intersección más próxima en el sentido de la marcha.\n\nNo prohibe la parada."
+  },
+  {
+    "n": 100,
+    "tipo": "video",
+    "titulo": "Señales de prohibición de parada y/o estacionamiento con flechas",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/Yx0U_iTgstw?si=q4PfhWnxg_xQPsy_"
+  },
+  {
+    "n": 101,
+    "tipo": "imagen",
+    "titulo": "Señales de estacionamiento prohibido:  primera y segunda quincena",
+    "texto": "Estacionamiento prohibido la primera quincena\nProhibición de estacionar, en el lado de la calzada en que esté situada, desde las 9 horas del día 1 hasta las 9 horas del día 16.\n\nEstacionamiento prohibido la segunda quincena\nProhibición de estacionar, en el lado de la calzada en que esté situada, desde las 9 horas del día 16 hasta las 9 horas del día 1."
+  },
+  {
+    "n": 102,
+    "tipo": "imagen",
+    "titulo": "Estacionamiento prohibido en vado",
+    "texto": "Esta señal prohíbe el estacionamiento delante de un vado.\n\nNo prohíbe la parada."
+  },
+  {
+    "n": 103,
+    "tipo": "imagen",
+    "titulo": "Zona de estacionamiento limitado",
+    "texto": "Esta señal indica que se trata de una zona de estacionamiento de duración limitada y establece para el conductor la obligación de indicar, de forma reglamentaria, la hora del comienzo del estacionamiento.\n\nSe podrá incluir el tiempo máximo autorizado de estacionamiento, el horario de vigencia de la limitación y si el estacionamiento está sujeto a pago."
+  },
+  {
+    "n": 104,
+    "tipo": "imagen",
+    "titulo": "Advertencias acústicas prohibidas",
+    "texto": "Recuerda la prohibición general de efectuar señales acústicas, salvo para evitar un accidente."
+  },
+  {
+    "n": 105,
+    "tipo": "imagen",
+    "titulo": "Señales de Obligación",
+    "texto": null
+  },
+  {
+    "n": 106,
+    "tipo": "imagen",
+    "titulo": "Señales de obligación. Sentido obligatorio",
+    "texto": "La flecha señala la dirección y sentido que los vehículos tienen la obligación de seguir.\n\nEn la intersección que se observa en la imagen, la señal obliga a los vehículos a seguir hacia la derecha.\n\nEnhorabuena, has superado el 80% del tema\n\nOk"
+  },
+  {
+    "n": 107,
+    "tipo": "imagen",
+    "titulo": "Sentido obligatorio. Obligación de seguir de frente",
+    "texto": "En este otro supuesto, la señal obliga a los vehículos a continuar de frente."
+  },
+  {
+    "n": 108,
+    "tipo": "imagen",
+    "titulo": "Giro obligatorio a la derecha",
+    "texto": "En esta situación, los conductores deberán, obligatoriamente, girar hacia la derecha."
+  },
+  {
+    "n": 109,
+    "tipo": "imagen",
+    "titulo": "Paso obligatorio",
+    "texto": "La flecha señala el lado, o lados, del refugio por el que los vehículos deben pasar."
+  },
+  {
+    "n": 110,
+    "tipo": "video",
+    "titulo": "Paso obligatorio",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/rPfbKkBE_Yg"
+  },
+  {
+    "n": 111,
+    "tipo": "imagen",
+    "titulo": "Paso obligatorio con más de una opción",
+    "texto": "Las flechas señalan los lados del refugio, de la isleta o del obstáculo por uno de los cuales los vehículos han de pasar obligatoriamente."
+  },
+  {
+    "n": 112,
+    "tipo": "video",
+    "titulo": "Paso obligatorio con más de una opción",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/SWDXt6vWAxs"
+  },
+  {
+    "n": 113,
+    "tipo": "imagen",
+    "titulo": "Sentido obligatorio en glorieta",
+    "texto": "Las flechas señalan la dirección y sentido del movimiento giratorio que los vehículos deben seguir."
+  },
+  {
+    "n": 114,
+    "tipo": "imagen",
+    "titulo": "Únicas direcciones y sentidos permitidos",
+    "texto": "Las flechas señalan las únicas direcciones y sentidos que los vehículos pueden tomar."
+  },
+  {
+    "n": 115,
+    "tipo": "imagen",
+    "titulo": "Únicas direcciones y sentidos permitidos",
+    "texto": "En esta intersección, la señal sólo permite girar hacia la derecha o hacia la izquierda, por lo cual queda prohibido continuar de frente."
+  },
+  {
+    "n": 116,
+    "tipo": "video",
+    "titulo": "Únicas direcciones y sentidos permitidos",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/IfWhycYdzOQ"
+  },
+  {
+    "n": 117,
+    "tipo": "imagen",
+    "titulo": "Señales de obligación. Calzada obligatoria",
+    "texto": "Calzada obligatoria para automóviles, excepto motocicletas de dos ruedas\nEstablece la obligación para los conductores de automóviles, excepto motocicletas de dos ruedas y vehículos de tres ruedas asimilados a motocicletas, de circular por la calzada a cuya entrada esté situada la señal.\n\nCalzada obligatoria para motocicletas de dos ruedas\nEsta señal establece la obligación para los conductores de motocicletas de dos ruedas y vehículos de tres ruedas asimilados a motocicletas de circular por la calzada a cuya entrada esté situada.\n\nCalzada obligatoria para camiones, tractocamiones, furgones y furgonetas\nObligación para los vehículos mencionados, independientemente de su masa, de circular por la calzada a cuya entrada esté situada.\n\nLa inscripción de una cifra de tonelaje sobre la silueta del vehículo o en una placa suplementaria, significa que la obligación solo se aplica cuando la masa máxima autorizada del vehículo o del conjunto de vehículos supere la citada cifra."
+  },
+  {
+    "n": 118,
+    "tipo": "imagen",
+    "titulo": "Señales de obligación. Vías reservadas",
+    "texto": "Vía reservada y obligatoria para ciclos\nObligación para los conductores de ciclos de circular por la vía a cuya entrada esté situada y prohibición a los demás usuarios de la vía de utilizarla.\n\nVía reservada y obligatoria para ciclomotores\nObligación para los conductores de ciclomotores de circular por la vía a cuya entrada esté situada y prohibición a los demás usuarios de la vía de utilizarla."
+  },
+  {
+    "n": 119,
+    "tipo": "imagen",
+    "titulo": "Señales de obligación. Caminos",
+    "texto": "Camino obligatorio para vehículos de tracción animal\nObligación para los conductores de vehículos de tracción animal de utilizar el camino a cuya entrada esté situada.\n\nCamino reservado y obligatorio para animales de montura\nObligación para los jinetes de utilizar con sus animales de montura el camino a cuya entrada esté situada y prohibición a los demás usuarios de la vía de utilizarlo.\n\nCamino reservado y obligatorio para peatones\nObligación para los peatones de transitar por el camino a cuya entrada esté situada y prohibición a los demás usuarios de la vía de utilizarlo."
+  },
+  {
+    "n": 120,
+    "tipo": "imagen",
+    "titulo": "Señal de velocidad mínima obligatoria",
+    "texto": "Obligación para los conductores de vehículos de circular, por lo menos, a la velocidad indicada, en kilómetros por hora, por la cifra que figure en la señal."
+  },
+  {
+    "n": 121,
+    "tipo": "imagen",
+    "titulo": "Fin de vigencia de la señal de velocidad mínima obligatoria",
+    "texto": "La señal de velocidad mínima dejará de tener vigencia en los siguientes casos:\n\n- Cuando se rebase otra señal de velocidad mínima diferente.\n\n- Cuando se rebase la señal de Fin de velocidad mínima.\n\n- Cuando se rebase otra señal de velocidad máxima de valor igual o inferior."
+  },
+  {
+    "n": 122,
+    "tipo": "imagen",
+    "titulo": "Cadenas para nieve",
+    "texto": "Obligación de no proseguir la marcha sin cadenas para nieve u otros dispositivos antideslizantes autorizados que actúen al menos en una rueda a cada lado del mismo eje motor, o neumáticos especiales de nieve."
+  },
+  {
+    "n": 123,
+    "tipo": "imagen",
+    "titulo": "de invierno",
+    "texto": "Obligación de no proseguir la marcha sin neumáticos especiales de invierno."
+  },
+  {
+    "n": 124,
+    "tipo": "imagen",
+    "titulo": "Alumbrado de corto alcance obligatorio",
+    "texto": "Obligación para los conductores, circular con el alumbrado de corto alcance, al menos, con independencia de las condiciones de visibilidad e iluminación de la vía, desde el lugar en que esté situada la señal hasta otra de fin de esta obligación."
+  },
+  {
+    "n": 125,
+    "tipo": "imagen",
+    "titulo": "Calzada obligatoria para determinados vehículos",
+    "texto": "Calzada obligatoria para vehículos que transporten mercancías peligrosas\nObligación para los conductores de toda clase de vehículos que transporten mercancías peligrosas y requieran estar señalizados de acuerdo con su normativa específica de circular por la calzada a cuya entrada esté situada.\n\nCalzada obligatoria para vehículos que transporten productos contaminantes del agua\nObligación para los conductores de toda clase de vehículos que transporten más de 1.000 litros de productos capaces de contaminar el agua de circular por la calzada a cuya entrada esté situada.\n\nCalzada obligatoria para vehículos que transporten mercancías explosivas e inflamables\nObligación para los conductores de toda clase de vehículos que transporten mercancías explosivas o fácilmente inflamables y requieran estar señalizados de acuerdo con su normativa específica de circular por la calzada a cuya entrada esté situada."
+  },
+  {
+    "n": 126,
+    "tipo": "imagen",
+    "titulo": "Uso obligatorio del cinturón de seguridad",
+    "texto": "Recuerda la obligación de utilización del cinturón de seguridad."
+  },
+  {
+    "n": 127,
+    "tipo": "imagen",
+    "titulo": "Telepeaje obligatorio",
+    "texto": "Vía exclusiva para vehículos dotados de equipo de telepeaje operativo. Telepeaje obligatorio.\nObligación de efectuar el pago del peaje mediante el sistema de peaje dinámico o telepeaje.\n\nEl vehículo que circule por el carril o carriles así señalizados, deberá estar provisto del medio técnico que posibilite su uso en condiciones operativas."
+  },
+  {
+    "n": 128,
+    "tipo": "imagen",
+    "titulo": "Camino obligatorio para tractores",
+    "texto": "Obligación para los conductores de tractores de utilizar el camino a cuya entrada esté situada."
+  },
+  {
+    "n": 129,
+    "tipo": "imagen",
+    "titulo": "Señales de obligación para usuarios de VMP y ciclos",
+    "texto": "Vía reservada y obligatoria para vehículos de movilidad personal\nObligación para los conductores de vehículos de movilidad personal de circular por la vía a cuya entrada esté situada y prohibición a los demás usuarios de la vía de utilizarla.\n\nVía reservada y obligatoria para ciclos y para vehículos de movilidad personal\nObligación para los conductores de ciclos y de vehículos de movilidad personal de circular por la vía a cuya entrada esté situada y prohibición a los demás usuarios de la vía de utilizarla.\n\nDesmontar y continuar a pie \nObligación para los usuarios de ciclos de continuar a pie. Si dicha obligación se limita a ciertos periodos, se indicará mediante un panel complementario."
+  },
+  {
+    "n": 130,
+    "tipo": "imagen",
+    "titulo": "Señales de fin de prohibición o restricción",
+    "texto": "Fin de prohibiciones\nSeñala el lugar desde el que todas las prohibiciones específicas indicadas por señales anteriores de prohibición para vehículos en movimiento dejan de tener aplicación.\n\nFin de la limitación de velocidad\nSeñala el lugar desde donde deja de ser aplicable una señal anterior de velocidad máxima.\n\nFin de la prohibición de adelantamiento\nSeñala el lugar desde donde deja de ser aplicable una señal anterior de adelantamiento prohibido.\n\nFin de la prohibición de adelantamiento para camiones\nSeñala el lugar desde donde deja de ser aplicable una señal anterior de adelantamiento prohibido para camiones.\n\nFin de zona de estacionamiento limitado\nSeñala el lugar desde donde deja de ser aplicable una anterior señal de zona de estacionamiento limitado."
+  },
+  {
+    "n": 131,
+    "tipo": "imagen",
+    "titulo": "Señales de fin de obligación",
+    "texto": "Con carácter general, las señales de fin de obligación, señalan el lugar desde donde deja de ser aplicable una determinada obligación impuesta por una señal anterior.\n\n- Fin de vía reservada y obligatoria para ciclos\n\n- Fin de velocidad mínima\n\n- Fin de calzada obligatoria para automóviles, excepto motocicletas de dos ruedas\n\n- Fin de calzada obligatoria para motocicletas de dos ruedas\n\n- Fin de calzada obligatoria para camiones, tractocamiones y furgones o furgonetas\n\n- Fin de vía reservada y obligatoria para ciclomotores\n\n- Fin de camino obligatorio para vehículos de tracción animal\n\n- Fin de camino reservado y obligatorio para animales de montura\n\n- Fin de camino reservado y obligatorio para peatones\n\n- Fin de camino obligatorio para tractores\n\n- Fin de vía reservada y obligatoria para vehículos de movilidad personal\n\n- Fin de vía reservada y obligatoria para ciclos y para vehículos de movilidad personal"
+  },
+  {
+    "n": 132,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  }
+]

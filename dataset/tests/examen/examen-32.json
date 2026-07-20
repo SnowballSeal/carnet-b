@@ -1,0 +1,681 @@
+{
+  "categoria_id": 1,
+  "test_id": 32,
+  "nombre": "Test de examen 32",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "El sistema de ayuda de salida en pendiente, ¿cómo ayudará al conductor?\n",
+      "imagen": "examen-32_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A través de un sensor que detecta el ángulo de inclinación del vehículo e impide que se vaya hacia atrás al levantar el pie de freno."
+        },
+        {
+          "letra": "B",
+          "texto": "Acelerará rápidamente el motor para evitar que el vehículo se vaya hacia atrás al levantar el pie de freno."
+        }
+      ],
+      "ayuda": "Sistema ADAS - Sistema de ayuda de salida en pendiente.\nEste dispositivo cuenta con un sensor que detecta el ángulo de inclinación en el que se encuentra el vehículo e impide que el mismo se vaya hacia atrás al levantar el pie de freno.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "En caso de condiciones meteorológicas muy desfavorables, como lluvia muy intensa, ¿se puede circular con la luz antiniebla trasera encendida?",
+      "imagen": "examen-32_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, solo puede utilizarse con niebla densa."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, aunque su uso es opcional."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "La luz antiniebla trasera solamente deberá llevarse encendida cuando las condiciones meteorológicas o ambientales sean especialmente desfavorables, como en caso de niebla espesa, lluvia muy intensa, fuerte nevada o nubes densas de polvo o humo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Una persona que se desplaza en silla de ruedas por una carretera que no disponga de espacio especialmente reservado para peatones, ¿debe obedecer las señales de los agentes y de los semáforos dirigidas a los conductores de vehículos?",
+      "imagen": "examen-32_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo las de los agentes."
+        }
+      ],
+      "ayuda": "Deberán circular siempre por su derecha los que empujen o arrastren un ciclo o ciclomotor de dos ruedas, carros de mano o aparatos similares, todo grupo de peatones dirigido por una persona o que forme cortejo y los impedidos que se desplacen en silla de ruedas, todos los cuales habrán de obedecer las señales dirigidas a los conductores de vehículos: las de los agentes y semáforos, siempre; las demás, en cuanto les sean aplicables.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "En vías urbanas que dispongan de un único carril por sentido de circulación, los vehículos que transporten mercancías peligrosas, tendrán permitido circular, como máximo, a una velocidad de:",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "30 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "40 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "\t50 km/h.\n"
+        }
+      ],
+      "ayuda": "El límite genérico de velocidad en vías urbanas será de 30 km/h en vías de un único carril por sentido de circulación y de 50 km/h en vías de dos o más carriles por sentido. En estas últimas, los vehículos que transporten mercancías peligrosas circularán, como máximo, a 40 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Para ahorrar carburante, ¿dónde se debe cargar el equipaje?",
+      "imagen": "examen-32_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el maletero."
+        },
+        {
+          "letra": "B",
+          "texto": "En la baca."
+        },
+        {
+          "letra": "C",
+          "texto": "En el maletero o en la baca, es indistinto."
+        }
+      ],
+      "ayuda": "Siempre que sea posible, el equipaje debe llevarse en el propio maletero del vehículo. La utilización de la baca implica una modificación de las condiciones de aerodinámica del vehículo, por lo que existirá mayor resistencia al avance y, por lo tanto, mayor consumo de combustible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿En esta situación, puede circular por el carril central?\n",
+      "imagen": "examen-32_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, debe circular por el carril derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque la vía no está saturada."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si no se entorpece la marcha de otros vehículos que circulen detrás."
+        }
+      ],
+      "ayuda": "Fuera de poblado, en las calzadas con más de un carril reservado para su sentido de marcha, se circulará normalmente por el carril situado más a su derecha, si bien se podrá utilizar el resto de los de dicho sentido cuando las circunstancias del tráfico o de la vía lo aconsejen, a condición de que no entorpezca la marcha de otro vehículo que le siga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "En una vía urbana en la que uno de los carriles está así señalizado, ¿qué indica? ",
+      "imagen": "examen-32_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Carril reservado para tipos específicos de vehículos, en este caso autobuses."
+        },
+        {
+          "letra": "B",
+          "texto": "Carril reservado únicamente para autobuses interurbanos."
+        },
+        {
+          "letra": "C",
+          "texto": "La prohibición de acceso a turismos de transporte privado, salvo para realizar cualquier maniobra."
+        }
+      ],
+      "ayuda": "\tCarril reservado para tipos específicos de vehículos\n\tIndica un carril destinado exclusivamente a la circulación de cierto o ciertos tipos de vehículos determinados (autobuses, motocicletas, vehículos de tres ruedas asimilados a motocicletas, taxis, ciclos, etc.).\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Los vehículos para personas con movilidad reducida, si no existe vía o parte de ella que les está especialmente destinada...\n",
+      "imagen": "examen-32_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "deben circular por el arcén, siempre que sea transitable y suficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "pueden circular por autopista."
+        },
+        {
+          "letra": "C",
+          "texto": "pueden circular por autovía."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos para personas de movilidad reducida, en el caso de que no exista vía o parte de ella que les esté especialmente destinada, circularán por el arcén de su derecha, si fuera transitable y, si no lo fuera, utilizarán la parte imprescindible de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "Un vehículo de uso compartido o \"carsharing\"...",
+      "imagen": "examen-32_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es un vehículo destinado al alquiler sin conductor dedicado a su uso concatenado e intensivo por un número indeterminado de usuarios dentro de una zona de servicio delimitada."
+        },
+        {
+          "letra": "B",
+          "texto": "es un vehículo de alquiler sin conductor que no se dedica exclusivamente a la modalidad de \"carsharing\"."
+        },
+        {
+          "letra": "C",
+          "texto": "es un vehículo de alquiler con conductor para uso compartido."
+        }
+      ],
+      "ayuda": "\tUn vehículo de uso compartido o “carsharing” es aquel destinado al alquiler sin conductor dedicado a su uso concatenado e intensivo por un número indeterminado de usuarios dentro de una zona de servicio delimitada.\n\t\n\tEstos vehículos estarán disponibles, en cualquier momento, para ser utilizado mediante el empleo de aplicaciones móviles. No se considerarán incluidos en esta definición aquellos vehículos destinados al alquiler sin conductor que no se dediquen exclusivamente a esa modalidad de alquiler.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "El panel debajo de la señal, indica...\n",
+      "imagen": "examen-32_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la distancia entre la señal y el comienzo del peligro."
+        },
+        {
+          "letra": "B",
+          "texto": "la longitud del tramo con curvas de dos carriles en el mismo sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "la longitud del tramo de vía afectado por el peligro."
+        }
+      ],
+      "ayuda": "Este panel complementario bajo una señal vertical, indica la longitud del tramo peligroso en el que se aplica la obligación o prohibición indicada en la señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "A un turismo, ¿le está permitido circular con láminas adhesivas o cortinillas contra el sol en las ventanillas traseras?",
+      "imagen": "examen-32_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en todo caso."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo si el vehículo lleva dos espejos retrovisores exteriores."
+        }
+      ],
+      "ayuda": "Está permitida la utilización de láminas adhesivas y/o cortinillas contra el sol en las ventanillas traseras, siempre que el vehículo disponga de dos espejos retrovisores exteriores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Qué características tiene una bicicleta de pedales con pedaleo asistido?\n",
+      "imagen": "examen-32_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tiene un motor con potencia no superior a 0,5 kw cuya velocidad se interrumpe antes de alcanzar los 25 km/h o si se deja de pedalear."
+        },
+        {
+          "letra": "B",
+          "texto": "Es una bicicleta con motor considerada como un ciclomotor de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "Tiene un motor eléctrico auxiliar de hasta 250w, cuya velocidad se interrumpe antes de alcanzar los 25 km/h o si se deja de pedalear."
+        }
+      ],
+      "ayuda": "\tBicicleta de pedales con pedaleo asistido\n\tSon bicicletas equipadas con un motor eléctrico auxiliar, de potencia inferior o igual a 250 W, cuya potencia disminuya progresivamente y que finalmente se interrumpa antes de que la velocidad del vehículo alcance los 25 km/h o si el ciclista deja de pedalear.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Si un vehículo de la policía de tráfico se sitúa detrás de usted y enciende un dispositivo con una luz roja destellante hacia adelante, ¿qué debe hacer?",
+      "imagen": "examen-32_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerse y, en su caso, seguir las instrucciones del agente."
+        },
+        {
+          "letra": "B",
+          "texto": "Reducir la velocidad y apartarse a la derecha, para facilitar el adelantamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Detenerse en el lado izquierdo de la calzada, delante del vehículo policial."
+        }
+      ],
+      "ayuda": "Cuando un vehículo de policía se sitúa detrás de cualquier otro vehículo y activa además un dispositivo de emisión de luz roja hacia adelante de forma intermitente o destellante, el conductor de éste deberá detenerlo con las debidas precauciones en el lado derecho, delante del vehículo policial, en un lugar donde no genere mayores riesgos o molestias para el resto de los usuarios, y permanecerá en su interior.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Los conductores de vehículos prioritarios cuando circulen en servicio urgente por una autopista o autovía, ¿podrán dar marcha atrás?",
+      "imagen": "examen-32_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está prohibido para todos los vehículos la circulación marcha atrás en autopistas o autovías."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, con carácter excepcional, siempre que no comprometan la seguridad de ningún usuario."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, bajo su responsabilidad, ya que están exentos del cumplimiento de las órdenes y señales de circulación."
+        }
+      ],
+      "ayuda": "Los conductores de los vehículos prioritarios podrán, con carácter excepcional, cuando circulen por autopista o autovía en servicio urgente y no comprometan la seguridad de ningún usuario, dar media vuelta o marcha atrás, circular en sentido contrario al correspondiente a la calzada, siempre que lo hagan por el arcén, o penetrar en la mediana o en los pasos transversales de ésta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "A un conductor novel que tiene seis meses de antigüedad en el permiso de conducción, le es intervenido dicho permiso de conducción por un período de un mes. Cuando finalice el período de suspensión, ¿durante cuánto tiempo deberá llevar la placa “L” indicativa de conductor novel?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Durante un año."
+        },
+        {
+          "letra": "B",
+          "texto": "Durante 6 meses."
+        }
+      ],
+      "ayuda": "Deberán llevar la señal V-13 (placa L) indicativa de conductor novel, los vehículos cuyos conductores hayan obtenido por primera vez un permiso de conducción durante el período de un año.\n\nEl cómputo de este plazo se suspenderá por el período en el que el permiso se encuentre en situación de pérdida de vigencia, así como en el de intervención del permiso o privación del derecho a conducir vehículos a motor que se acuerde contra dichos conductores.\n\nUna vez que hayan concluido los motivos que dieron lugar a su suspensión, el plazo de un año continuará contabilizándose desde el momento en que hubiera quedado antes de la suspensión hasta que se complete el período de un año.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "En una calzada de doble sentido de circulación en la que no están delimitados los carriles, está obligado a circular por...",
+      "imagen": "examen-32_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el lugar de la calzada que crea más seguro."
+        },
+        {
+          "letra": "B",
+          "texto": "la derecha, lo más cerca posible del borde de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "el eje imaginario de la calzada."
+        }
+      ],
+      "ayuda": "Como norma general, los vehículos circularán por la derecha en todas las vías y lo más cerca posible del borde de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "En una intersección, cuando un agente de la autoridad que regula el tráfico efectúa una señal con el brazo levantado verticalmente, ¿obliga a detenerse a todos los conductores de la vía que se acerquen a el?",
+      "imagen": "examen-32_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, excepto a los conductores que ya hayan entrado en la intersección o que no puedan detenerse en condiciones de seguridad suficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, y deben detenerse rebasada la intersección."
+        }
+      ],
+      "ayuda": "\tBrazo levantado verticalmente:\n\tobliga a detenerse a todos los usuarios de la vía que se acerquen al agente, salvo a los conductores que no puedan hacerlo en condiciones de seguridad suficiente.\n\t\n\tSi esta señal se efectúa en una intersección, no obligará a detenerse a los conductores que hayan entrado ya en ella.\n\t \n\tLa detención debe efectuarse ante la línea de detención más cercana o, en su defecto, inmediatamente antes del agente. En una intersección, la detención debe efectuarse antes de entrar en ella.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Según la clasificación de vehículos por su potencial contaminante, un vehículo eléctrico híbrido enchufable de autonomía inferior a 40 kilómetros, podrá llevar el distintivo ambiental:",
+      "imagen": "examen-32_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0 emisiones."
+        },
+        {
+          "letra": "B",
+          "texto": "Eco"
+        },
+        {
+          "letra": "C",
+          "texto": "C o B, según su año de matriculación."
+        }
+      ],
+      "ayuda": "Podrán llevar el distintivo \"0 emisiones\", entre otros, los vehículos eléctricos de batería, los vehículos de hidrógeno y los vehículos eléctricos híbridos enchufables que tengan una autonomía mínima de 40 kilómetros. Los vehículos híbridos enchufables cuya autonomía sea inferior a 40 kilómetros, llevarán el distintivo ECO.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "La franja blanca vertical iluminada intermitentemente, de este semáforo, indica que...",
+      "imagen": "examen-32_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Deben detenerse todos los vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "Pueden pasar los autobuses y taxis."
+        },
+        {
+          "letra": "C",
+          "texto": "Deben deternerse los autobuses y los taxis."
+        }
+      ],
+      "ayuda": "Cuando un semáforo consista en una franja blanca iluminada sobre fondo circular negro, sus indicaciones se refieren exclusivamente a los tranvías y a los autobuses de líneas regulares, a no ser que exista un carril reservado para autobuses o para autobuses, taxis y otros vehículos; en tal caso, sólo se refieren a los que circulen por él.\n\nEl significado de estos semáforos es el siguiente:\n\nUna franja blanca horizontal iluminada prohíbe el paso en las mismas condiciones que la luz roja no intermitente.\nUna franja blanca vertical iluminada permite el paso de frente.\nUna franja blanca oblicua, hacia la izquierda o hacia la derecha, iluminada, indica que está permitido el paso para girar a la izquierda o a la derecha, respectivamente.\nUna franja blanca, vertical u oblicua, iluminada intermitentemente, indica que los citados vehículos deben detenerse en las mismas condiciones que si se tratara de una luz amarilla fija.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Los resaltos en los pasos para peatones, ¿se consideran obstáculos en la calzada?",
+      "imagen": "examen-32_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, siempre que se garantice la seguridad vial de todos los usuarios, y en particular, la de los ciclistas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, puesto que dificultan el cruce de los pasos de peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero sólo cuando son metálicos."
+        }
+      ],
+      "ayuda": "No se considerarán obstáculos en la calzada los resaltos en los pasos para peatones y bandas transversales, siempre que se cumpla la normativa aplicable y se garantice la seguridad vial de los usuarios y, en particular, de los ciclistas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Cuál es la función del freno de mano? ",
+      "imagen": "examen-32_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reducir la velocidad del vehículo en ciudad."
+        },
+        {
+          "letra": "B",
+          "texto": "Inmovilizar el vehículo al estacionar."
+        },
+        {
+          "letra": "C",
+          "texto": "Reducir la velocidad del vehículo cuando circule por una vía con una pendiente prolongada."
+        }
+      ],
+      "ayuda": "La función natural del freno de estacionamiento, o freno de mano, es la de mantener inmovilizado el vehículo al estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "En esta intersección con señal de STOP y buena visibilidad, ¿qué debe hacer?",
+      "imagen": "examen-32_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerse siempre ante la línea transversal.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "Detenerse siempre una vez superada la línea transversal.\n"
+        },
+        {
+          "letra": "C",
+          "texto": "Seguir circulando sin detenerse, porque no viene ningún vehículo de frente.\n"
+        }
+      ],
+      "ayuda": "Para cumplir con la obligación impuesta por una señal de Stop, lo conductores deberán detener su vehículo sin sobrepasar la línea transversal continua pintada sobre el pavimento. Si por circunstancias excepcionales, desde la marca de detención no existe visibilidad suficiente, el conductor deberá detenerse de nuevo en el lugar donde tenga visibilidad, sin poner en peligro a ningún usuario de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "En defecto de señalización, ¿cuál es la velocidad máxima que no deberán rebasar los vehículos en una autopista dentro de poblado?",
+      "imagen": "examen-32_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "50 kilómetros por hora, pudiéndola superar en 20 km/h para adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "80 kilómetros por hora."
+        }
+      ],
+      "ayuda": "En defecto de señalización, en una autopista situada dentro de poblado no se podrá rebasar la velocidad máxima de 80 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "En caso de producirse un incendio en el interior de un túnel, ¿qué medida de seguridad, entre otras, adoptará el conductor?",
+      "imagen": "examen-32_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Apagará el motor del vehículo y permanecerá en su interior."
+        },
+        {
+          "letra": "B",
+          "texto": "Apartará su vehículo a la derecha para dejar paso a los servicios de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Dejará arrancado el motor de su vehículo y abandonará el túnel."
+        }
+      ],
+      "ayuda": "En caso de incendio dentro de un túnel, se deberá aproximar el vehículo todo lo posible hacia la derecha para no obstruir el paso a los vehículos de emergencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "La marca vial es continua, ¿está permitido adelantar?",
+      "imagen": "examen-32_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque el camión circula despacio."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque la marca vial lo prohíbe."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque la vía no tiene arcén."
+        }
+      ],
+      "ayuda": "La línea longitudinal continua no permite el adelantamiento.\nUna marca longitudinal consistente en una línea continua sobre la calzada significa que ningún conductor con su vehículo debe atravesarla ni circular con su vehículo sobre ella ni, cuando la marca separe los dos sentidos de circulación, circular por la izquierda de aquella.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Cuántos puntos se pueden perder como máximo en un día?",
+      "imagen": "examen-32_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "12 puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "10 como máximo."
+        },
+        {
+          "letra": "C",
+          "texto": "8 puntos, excepto si las infracciones son muy graves."
+        }
+      ],
+      "ayuda": "Los conductores no perderán más de ocho puntos por acumulación de infracciones en un solo día, salvo que concurra alguna de las infracciones muy graves que lleven aparejada la pérdida de seis puntos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-32_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Estacionamiento para usuarios del metro."
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionamiento subterráneo para usuarios de transporte público. "
+        },
+        {
+          "letra": "C",
+          "texto": "Zona reservada para vehículos que circulen por raíles."
+        }
+      ],
+      "ayuda": "Señal de Estacionamiento para usuarios del metro.\nIndica la situación de una zona de estacionamiento conectada con una estación de metro, y destinada principalmente para los vehículos de los usuarios que realizan una parte de su viaje en vehículo privado y la otra en metro. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Para circular con mayor seguridad... ",
+      "imagen": "examen-32_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el vehículo debe estar en perfecto estado pero no es necesario que lo esté el conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "el conductor debe estar en perfecto estado pero no es necesario que lo esté el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "tanto el conductor como el vehículo deben estar en perfecto estado."
+        }
+      ],
+      "ayuda": "Para circular en adecuadas condiciones de seguridad, tanto el estado psicofísico del conductor como el propio estado del vehículo deben encontrarse en perfectas condiciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Una exposición continuada del vehículo a temperaturas elevadas, puede provocar un deterioro mayor de las gomas de las escobillas de los limpiaparabrisas. ¿Cuáles son los efectos más comunes?",
+      "imagen": "examen-32_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se reblandecen y pierden elasticidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Se endurecen y se agrietan."
+        },
+        {
+          "letra": "C",
+          "texto": "Se dilatan y ejercen mayor presión sobre el cristal."
+        }
+      ],
+      "ayuda": "Una exposición continuada del vehículo a temperaturas elevadas puede provocar un deterioro mayor de las gomas de las escobillas de los limpiaparabrisas. Por efecto del calor las escobillas se endurecen y se agrietan perdiendo de este modo parte de su eficacia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "En el supuesto en el que existan dos señales del mismo tipo con indicaciones que parezcan estar en contradicción, ¿cuál de ellas tendrá prioridad? ",
+      "imagen": "examen-32_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La más restrictiva."
+        },
+        {
+          "letra": "B",
+          "texto": "La menos restrictiva."
+        },
+        {
+          "letra": "C",
+          "texto": "La más próxima."
+        }
+      ],
+      "ayuda": "En el caso de que las prescripciones indicadas por diferentes señales del mismo tipo parezcan estar en contradicción entre sí, prevalecerá la más restrictiva.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

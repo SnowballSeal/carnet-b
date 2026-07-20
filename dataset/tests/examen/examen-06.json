@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 6,
+  "nombre": "Test de examen 6",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Puede estar obligado un peatón a realizar una prueba de alcoholemia?",
+      "imagen": "examen-06_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso"
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en cualquier control preventivo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando esté implicado directamente como posible responsable de un accidente."
+        }
+      ],
+      "ayuda": "Los peatones deberán someterse a los controles de alcoholemia, cuando estén implicados en un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "En esta situación de aglomeración, ¿podrá circular por el arcén?",
+      "imagen": "examen-06_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si tiene prisa."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pues existe gran aglomeración y así descongestiona el tráfico."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido."
+        }
+      ],
+      "ayuda": "La circulación por el arcén está, como norma general, reservada a determinados supuestos de emergencia o a determinados vehículos. La utilización del arcén para circular más rapidamente cuando la calzada esté saturada, está prohibida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Los reposacabezas de los asientos de atrás, ¿hay que regularlos?",
+      "imagen": "examen-06_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Es indiferente."
+        }
+      ],
+      "ayuda": "Los reposacabezas son elementos de seguridad pasiva muy importantes para la protección de los ocupantes del vehículo. Para que cumplan eficazmente con su cometido, deben estar correctamente regulados, tanto los de la fila de adelante como los de la fila de atrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Ante una frenada de emergencia, ¿cómo debe actuar?",
+      "imagen": "examen-06_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No pisando el embrague en ningún momento de la frenada, en cualquier caso."
+        },
+        {
+          "letra": "B",
+          "texto": "De diferente manera si mi vehículo tiene frenos convencionales o dispone de ABS."
+        },
+        {
+          "letra": "C",
+          "texto": "De igual manera si mi vehículo tiene frenos convencionales o dispone de ABS."
+        }
+      ],
+      "ayuda": "La técnica que debe utilizarse en una frenada de emergencia es diferente, dependiendo del tipo de sistema de frenado con que esté equipado el vehículo.  En los vehículos de frenos convencionales, se debe frenar evitando que las ruedas se bloqueen, mientras que en aquellos vehículos que equipen sistemas de frenado antibloqueo (ABS), se debe frenar a fondo con toda la potencia que sea posible y no soltar el pedal durante el proceso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "En caso de avería de uno de los dispositivos de alumbrado del vehículo, ¿puede circular de noche con un alumbrado de intensidad inferior?",
+      "imagen": "examen-06_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, puede continuar hasta el taller más próximo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero deberá reducir la velocidad hasta la que permita detener el vehículo dentro de la zona iluminada."
+        },
+        {
+          "letra": "C",
+          "texto": "No, no podrá continuar el viaje."
+        }
+      ],
+      "ayuda": "En caso de avería de alguno de los dispositivos de alumbrado, se podrá circular durante la noche con otro alumbrado de intensidad inferior, reduciendo la velocidad de tal manera que permita detener el vehículo dentro de la zona iluminada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Su vehículo se incendia y no tiene extintor. ¿Cómo puede apagarlo?",
+      "imagen": "examen-06_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con tierra."
+        },
+        {
+          "letra": "B",
+          "texto": "Con aire."
+        },
+        {
+          "letra": "C",
+          "texto": "Con agua."
+        }
+      ],
+      "ayuda": "En caso de incendio y cuando no se disponga de un extintor u otro medio adecuado para apagar el fuego, se puede utilizar tierra o arena.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "En un paso para ciclistas, ¿tienen éstos prioridad sobre otros vehículos a motor?",
+      "imagen": "examen-06_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero sólo si se aproximan por la derecha."
+        }
+      ],
+      "ayuda": "En los pasos para ciclistas, estos tienen prioridad de paso respecto de los vehículos de motor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Como norma general, ¿es obligatorio advertir las maniobras?",
+      "imagen": "examen-06_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente con señales ópticas."
+        },
+        {
+          "letra": "B",
+          "texto": "No, pero sí recomendable."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, con señales luminosas y en su defecto con el brazo."
+        }
+      ],
+      "ayuda": "Como norma general, es obligatorio advertir a los demás usuarios de la vía las maniobras que se vayan a realizar. Para ello, se deben utilizar las señales luminosas del vehículo o, en su defecto, el brazo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Conducir automedicado supone un riesgo para la conducción?",
+      "imagen": "examen-06_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque algunos medicamentos pueden tener efectos secundarios."
+        },
+        {
+          "letra": "B",
+          "texto": "No, solamente si los medicamentos se mezclan con alcohol."
+        },
+        {
+          "letra": "C",
+          "texto": "Solamente si la conducción se realiza durante la noche."
+        }
+      ],
+      "ayuda": "Los medicamentos pueden reducir las aptitudes psicofísicas para conducir en condiciones de seguridad. La automedicación resulta especialmente peligrosa si se va a conducir, ya que muchas veces se desconocen los posibles efectos secundarios de determinados medicamentos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "En un accidente con heridos graves en el que esté implicado debe...",
+      "imagen": "examen-06_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "permanecer en el lugar del accidente hasta que lleguen los agentes de tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "marcharse después de avisar y facilitar sus datos."
+        },
+        {
+          "letra": "C",
+          "texto": "esperar a que los heridos se recuperen."
+        }
+      ],
+      "ayuda": "Cuando se esté implicado en un accidente en el que existan heridos, se debe permanecer en el lugar del accidente hasta que lleguen los agentes de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Son los niños especialmente vulnerables a los atropellos?",
+      "imagen": "examen-06_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque el vehículo suele ir a mayor velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, debido a su baja estatura."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Los niños forman parte de los usuarios de la vía más vulnerables. Una de las causas por las cuales suelen sufrir atropellos es por su baja estatura.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Ante un paso a nivel está obligado a...",
+      "imagen": "examen-06_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "asegurarse antes de atravesarlo de que no existe ningún peligro."
+        },
+        {
+          "letra": "B",
+          "texto": "pasar aunque las barreras están en movimiento."
+        },
+        {
+          "letra": "C",
+          "texto": "atravesarlo rápidamente."
+        }
+      ],
+      "ayuda": "En los pasos a nivel es necesario asegurarse, antes de atravesarlos, que no existe ningún peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Desde el punto de vista de la seguridad vial, el chasis y la carrocería tienen como función...",
+      "imagen": "examen-06_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "absorber la máxima cantidad de la energía producida en un accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "proteger a los peatones ante posibles atropellos."
+        },
+        {
+          "letra": "C",
+          "texto": "mejora la aerodinámica favoreciendo una conducción económica."
+        }
+      ],
+      "ayuda": "El chasis y la carrocería de los vehículos forman parte de la seguridad pasiva, absorbiendo, mediante su propia deformación, parte de la energía producida en un accidente, protegiendo de esta forma a los ocupantes del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "En un cruce, se enciende la luz roja y el vehículo azul bloquea el paso. ¿Qué debe hacer?",
+      "imagen": "examen-06_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Esperar a que se encienda la luz verde."
+        },
+        {
+          "letra": "B",
+          "texto": "Salir del cruce, pero sin molestar a otros usuarios."
+        },
+        {
+          "letra": "C",
+          "texto": "Esperar a que se encienda la luz intermitente amarilla."
+        }
+      ],
+      "ayuda": "Cuando se encienda la luz roja del semáforo, el conductor deberá salir del cruce cuanto antes pero sin molestar a otros usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "En las glorietas se circulará...",
+      "imagen": "examen-06_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "indistintamente, tanto por la derecha como por la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "dejando a la derecha el centro."
+        },
+        {
+          "letra": "C",
+          "texto": "dejando a la izquierda el centro."
+        }
+      ],
+      "ayuda": "Al circular por glorietas, se debe dejar a la izquierda el centro de las mismas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Una línea longitudinal discontinua con los trazos muy juntos, ¿qué indica?",
+      "imagen": "examen-06_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El inicio de la línea discontinua."
+        },
+        {
+          "letra": "B",
+          "texto": "Un carril especial."
+        },
+        {
+          "letra": "C",
+          "texto": "Un tramo peligroso."
+        }
+      ],
+      "ayuda": "Una línea longitudinal discontinua en la que la separación entre los trazos es sensiblemente más corto de lo habitual, indica que se aproxima un tramo peligroso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "En la próxima intersección, ¿se puede hacer un cambio de sentido?",
+      "imagen": "examen-06_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, antes de entrar en la glorieta."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque no hay señal de cambio de sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque es una glorieta."
+        }
+      ],
+      "ayuda": "En las glorietas está permitido realizar cambios de sentido de la marcha, siendo estas especialmente adecuadas y seguras para realizar dicha maniobra.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Es obligatorio en un turismo llevar una rueda de repuesto?",
+      "imagen": "examen-06_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, si lleva cualquier sistema alternativo para el cambio de ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo es obligatorio para los de M.M.A. superior a 3.500 kg."
+        }
+      ],
+      "ayuda": "Los turismos llevarán la siguiente dotación:\n\na) El dispositivo luminoso de preseñalización de peligro V-16.\nb) Un chaleco reflectante de alta visibilidad.\nc) Una rueda completa de repuesto o una rueda de uso temporal, con las herramientas necesarias para el cambio de ruedas, o un sistema alternativo al cambio de las mismas que ofrezca suficientes garantías para la movilidad del vehículo (no puede ser cualquier sistema alternativo). En estos casos se circulará respetando las limitaciones propias de cada alternativa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Si se encuentra con un rebaño en esta vía, ¿debe ceder el paso a los animales?",
+      "imagen": "examen-06_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, es un paso de animales domésticos o ganado y se debe ceder el paso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo cuando ya estén cruzando."
+        },
+        {
+          "letra": "C",
+          "texto": "No, los animales en la calzada no tienen prioridad de paso nunca."
+        }
+      ],
+      "ayuda": "La señalización que se observa, que incluye un panel con la inscripción -cañada-  indica que se trata de un paso de animales domésticos o ganado, en el cual dichos animales tienen preferencia de paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "El vehículo que está adelantando abandona el adelantamiento (quiere volver atrás). ¿Qué debe hacer el vehículo verde?",
+      "imagen": "examen-06_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular por el arcén para que pueda adelantar."
+        },
+        {
+          "letra": "B",
+          "texto": "No disminuir la velocidad para que pueda colocarse detrás."
+        },
+        {
+          "letra": "C",
+          "texto": "Disminuir la velocidad para que pueda adelantar."
+        }
+      ],
+      "ayuda": "Cuando un vehículo que pretende adelantar a otro, decida abandonar el adelantamiento, el vehículo adelantado no debe disminuir la velocidad para que aquel pueda colocarse detrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Este turismo está averiado y circula muy despacio dificultando la circulación. ¿Puede circular por el arcén?",
+      "imagen": "examen-06_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para facilitar el paso."
+        }
+      ],
+      "ayuda": "Cuando por razones de emergencia, un turismo circule a una velocidad anormalmente reducida, perturbando gravemente la circulación, debe circular por el arcén de su derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "El freno de pie, ¿para qué sirve?",
+      "imagen": "examen-06_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para reducir la velocidad y detener el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Para reducir la velocidad y detener el vehículo cuando no funciona el freno de mano."
+        },
+        {
+          "letra": "C",
+          "texto": "Para que no se mueva el vehículo cuando no está dentro el conductor."
+        }
+      ],
+      "ayuda": "La función del freno de servicio o de pie es reducir la velocidad y detener el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "El cinturón de seguridad en los asientos traseros...",
+      "imagen": "examen-06_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "puede salvar la vida de sus ocupantes y evita que éstos provoquen graves lesiones en los demás."
+        },
+        {
+          "letra": "B",
+          "texto": "es importante, pero sólo en vías interurbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "es responsabilidad única de sus ocupantes, ya que en un accidente serían los únicos perjudicados."
+        }
+      ],
+      "ayuda": "Los cinturones de seguridad de los asientos traseros no solo protegen a los ocupantes de dichos asientos, sino que evitan que estos provoquen graves lesiones a los demás ocupantes del vehículo (por ejemplo, al salir proyectados).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "El estado y comportamiento del conductor, ¿puede producir distracciones?",
+      "imagen": "examen-06_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, aunque sólo cuando se conduce por autopista o autovía."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Existen muchas circunstancias que pueden provocar distracciones en el conductor; algunas de ellas están relacionadas con su estado (padecer una enfermedad, estar alcoholizado, etc.) y otras tiene que ver con su comportamiento (hablar por el móvil, fumar, etc.).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "En un tramo de vía estrecho, de gran pendiente, debe ceder el paso...",
+      "imagen": "examen-06_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el vehículo más ligero."
+        },
+        {
+          "letra": "B",
+          "texto": "el vehículo que baja."
+        },
+        {
+          "letra": "C",
+          "texto": "el vehículo que sube."
+        }
+      ],
+      "ayuda": "Cuando en un estrechamiento de gran pendiente, no sea posible el paso simultáneo de dos vehículos, como norma general tendrá prioridad de paso el que circula en sentido ascendente, por lo que el vehículo que baja deberá ceder el paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Un turismo quiere cruzar esta zona. ¿Deberá ceder el paso?",
+      "imagen": "examen-06_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo si el ciclista no puede frenar a tiempo."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque el turismo tiene prioridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, a los ciclistas que circulan por el carril bici."
+        }
+      ],
+      "ayuda": "Cuando un turismo cruce un carril bici, deberá ceder el paso a los ciclistas que circulen por el mismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Cuando llueve es importante...",
+      "imagen": "examen-06_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no pisar el pedal del embrague."
+        },
+        {
+          "letra": "B",
+          "texto": "aumentar la presión de los neumáticos."
+        },
+        {
+          "letra": "C",
+          "texto": "comprobar de vez en cuando los frenos."
+        }
+      ],
+      "ayuda": "Cuando se circule en días de lluvia o sobre zonas anegadas, se debe comprobar con cierta frecuencia que los frenos funcionan correctamente, ya que la humedad podría hacer que disminuya peligrosamente su eficacia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Está permitida la colocación en un turismo de vidrios tintados no homologados?",
+      "imagen": "examen-06_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, puesto que no son elementos que influyen en la seguridad vial."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solamente en las ventanillas delanteras."
+        },
+        {
+          "letra": "C",
+          "texto": "No, están prohibidos."
+        }
+      ],
+      "ayuda": "Está prohibida la colocación de vidrios tintados no homologados, así como cualquier otra lámina o accesorio que disminuya la visibilidad y no cuente  con la correspondiente homologación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Los distribuidores de mercancías, ¿están exentos de utilizar el cinturón de seguridad?",
+      "imagen": "examen-06_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en todas las vías cuando realicen operaciones de carga y descarga a corta distancia."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en vías de poblado cuando realicen operaciones frecuentes de carga y descarga."
+        }
+      ],
+      "ayuda": "De acuerdo a la normativa actual, los repartidores de mercancías que realicen operaciones frecuentes y continuas de carga y descarga, están exentos de utilizar el cinturón de seguridad cuando circulen por vías de poblado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Puede sentir mayor sensación de fatiga si sufre de estrés?",
+      "imagen": "examen-06_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo si además tiene problemas de sueño."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El estrés puede ocasionar una pérdida de las condiciones psicofísicas adecuadas para conducir con seguridad. Entre otros síntomas, los conductores afectados por el estrés suelen experimentar mayor sensación de fatiga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

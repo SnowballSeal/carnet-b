@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 15,
+  "nombre": "Test de examen 15",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Qué indica la señal?",
+      "imagen": "examen-15_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aconseja no circular a más de 80 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "Obliga a circular a 80 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "Obliga a dejar una distancia de 80 metros con el vehículo que circula delante."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen, aconseja no circular a velocidad superior a 80 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Cuál de estos factores favorecen las distracciones al conducir dificultando la capacidad de atender adecuadamente a los estímulos importantes?",
+      "imagen": "examen-15_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una carretera desconocida."
+        },
+        {
+          "letra": "B",
+          "texto": "Llevar puesto el aire acondicionado."
+        },
+        {
+          "letra": "C",
+          "texto": "Una situación de tráfico excesivamente compleja."
+        }
+      ],
+      "ayuda": "Una situación de tráfico excesivamente compleja, es un factor externo al conductor que puede favorecer las distracciones, ya que es posible que en estas circunstancias el conductor no sea capaz, debido a la acumulación de señales, peatones, vehículos u otros elementos, de atender adecuadamente a todos los estímulos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Si a causa de una avería, su vehículo queda inmovilizado en un túnel que carece de zona reservada para emergencia, deberá....",
+      "imagen": "examen-15_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "permanecer en la calzada, sin alejarse mucho del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "inmovilizar el vehículo lo más cerca posible del borde derecho."
+        },
+        {
+          "letra": "C",
+          "texto": "inmovilizar el vehículo lo más cerca posible del borde izquierdo."
+        }
+      ],
+      "ayuda": "En caso de que sea necesario inmovilizar el vehículo en un túnel en el que no exista zona reservada para emergencias, la detención se realizará lo más cerca posible del borde derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En esta vía urbana, ¿está permitido adelantar por la derecha?",
+      "imagen": "examen-15_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, el adelantamiento siempre se realizará por la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque es una vía de sentido único y los carriles están delimitados."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solamente cuando el vehículo de delante va a girar a la izquierda."
+        }
+      ],
+      "ayuda": "En las vías urbanas está permitido adelantar por la derecha, cuando se trate de una vía de sentido único y los carriles estén delimitados por marcas longitudinales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Debe el conductor del turismo de color blanco respetar la señal de stop cuando llegue al cruce?",
+      "imagen": "examen-15_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo si sigue de frente."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque la señal horizontal solo es para los que giren a la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, debe respetar las marcas viales existentes."
+        }
+      ],
+      "ayuda": "La señal horizontal de detención obligatoria solo afecta, en este caso, a los vehículos que vayan a girar a la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Todos los medicamentos tienen efectos negativos en la conducción?",
+      "imagen": "examen-15_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Existen medicamentos que no necesitan receta y pueden tener efecto negativo sobre la conducción."
+        },
+        {
+          "letra": "B",
+          "texto": "No, los medicamentos que no necesitan receta no afectan a la conducción."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "El consumo de algunos medicamentos que, a priori, pueden parecer inofensivos, como los analgésicos, los anticonceptivos hormonales, los antitusivos, los antihipertensivos, etc., también puede representar un riesgo para la conducción de vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Se puede atravesar la línea de conos para cambiar de carril?",
+      "imagen": "examen-15_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para realizar una parada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido."
+        }
+      ],
+      "ayuda": "Una fila de banderitas, conos o dispositivos análogos, prohíben el paso a través de la línea real o imaginaria que los une.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Si en un tramo de vía muy estrecho sin señalizar la prioridad se encuentran un camión y un turismo, ¿qué vehículo pasará primero?",
+      "imagen": "examen-15_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El turismo, porque tiene menor dificultad para pasar."
+        },
+        {
+          "letra": "B",
+          "texto": "El turismo, porque sus dimensiones son menores."
+        },
+        {
+          "letra": "C",
+          "texto": "El camión si existe duda de qué vehículo entró primero."
+        }
+      ],
+      "ayuda": "Cuando no se pueda establecer qué vehículo ha entrado primero en un tramo estrecho, la prioridad será para aquel que tenga mayor dificultad de maniobra. En esta situación, el camión (vehículo con mayor dificultad de maniobra en este caso), tendrá preferencia respecto al turismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Si se dan las condiciones de seguridad precisas y va a adelantar a un ciclista en esta vía, ¿qué separación lateral debe dejar?",
+      "imagen": "examen-15_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Depende de la velocidad a la que circule el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Igual o superior a 1,50 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "Al menos 1 metro."
+        }
+      ],
+      "ayuda": "Cuando se adelante fuera de poblado a peatones, animales o a vehículos de dos ruedas o de tracción animal, se deberá realizar la maniobra ocupando parte o la totalidad del carril contiguo de la calzada, siempre y cuando existan las condiciones precisas para realizar el adelantamiento y, en todo caso, dejando una separación lateral no inferior a 1,50 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Circula por una calzada con dos sentidos y tres carriles separados por marcas longitudinales discontinuas; ¿qué carril debe usar normalmente?",
+      "imagen": "examen-15_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El carril derecho o el central, indistintamente."
+        },
+        {
+          "letra": "B",
+          "texto": "El situado más a la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "El carril por el que haya menos vehículos."
+        }
+      ],
+      "ayuda": "En calzadas con doble sentido de circulación y tres carriles separados por marcas longitudinales discontinuas, se circulará normalmente por el carril de la derecha y, en ningún caso, por el situado más a la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Para conseguir una conducción eficiente se debe circular...",
+      "imagen": "examen-15_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "variando continuamente la velocidad, para que no se fatigue el motor."
+        },
+        {
+          "letra": "B",
+          "texto": "a una velocidad uniforme, evitando los frenazos y los acelerones."
+        },
+        {
+          "letra": "C",
+          "texto": "utilizando, en la medida de lo posible, las marchas más cortas."
+        }
+      ],
+      "ayuda": "Para conseguir una conducción eficiente se debe circular, en condiciones normales, a una velocidad uniforme evitando los frenazos y los acelerones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En esta vía de dos carriles en el mismo sentido, al vehículo de la imagen, como norma general, ¿le está permitido mantenerse en el carril de la izquierda una vez finalizado el adelantamiento?",
+      "imagen": "examen-15_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, debe circular por el carril de la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque la vía no está saturada."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si no entorpece la marcha de otros vehículos."
+        }
+      ],
+      "ayuda": "Como norma general, se debe circular por el carril situado más a la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Conducir durante mucho tiempo sin descansar...",
+      "imagen": "examen-15_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "disminuye el riesgo de accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "mantiene al conductor más atento ante cualquier peligro."
+        },
+        {
+          "letra": "C",
+          "texto": "propicia la aparición de la fatiga."
+        }
+      ],
+      "ayuda": "Conducir durante mucho tiempo sin hacer los descansos recomendados propicia la aparición de la fatiga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Tomar un café o un té, ¿reduce la tasa de alcoholemia?",
+      "imagen": "examen-15_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo un café."
+        }
+      ],
+      "ayuda": "No existe ningún \"truco\" para reducir la tasa de alcoholemia una vez que se ha consumido alcohol y que este ha pasado al organismo. La única opción segura en caso de haber bebido alcohol es abstenerse de conducir.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "Para evitar los accidentes, es importante...",
+      "imagen": "examen-15_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "reducir la velocidad en zonas con radares."
+        },
+        {
+          "letra": "B",
+          "texto": "conducir con la máxima seguridad en todo momento."
+        },
+        {
+          "letra": "C",
+          "texto": "llevar incorporado en el vehículo un GPS."
+        }
+      ],
+      "ayuda": "Para evitar accidentes se debe conducir con la máxima seguridad posible en todo momento, evitando las distracciones y demás conductas de riesgo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Respecto al uso del cinturón de seguridad, como norma general, el ocupante de un turismo distinto del conductor está obligado a...",
+      "imagen": "examen-15_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "llevarlo puesto y correctamente abrochado."
+        },
+        {
+          "letra": "B",
+          "texto": "llevarlo puesto y abrochado solo en vía interurbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "llevarlo puesto y sin abrochar, excepto si viaja en la plaza delantera."
+        }
+      ],
+      "ayuda": "La utilización del cinturón de seguridad es obligatoria para todos los ocupantes del vehículo, independientemente del asiento que ocupen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Puede sobrepasar la marca longitudinal continua central?",
+      "imagen": "examen-15_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para hacer una cambio de dirección."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si se trata de una calzada de sentido único."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Una marca longitudinal consistente en una línea continua sobre la calzada significa que ningún conductor con su vehículo o animal debe atravesarla ni circular con su vehículo sobre ella ni, cuando la marca separe los dos sentidos de circulación, circular por la izquierda de aquélla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿En qué caso no le está permitido adelantar detrás de otro vehículo que ya está adelantando?",
+      "imagen": "examen-15_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando no tenga suficiente visibilidad de la parte delantera de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Nunca está permitido adelantar cuando otro vehículo ya está adelantando."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando circule por una glorieta."
+        }
+      ],
+      "ayuda": "No se debe adelantar detrás de otro vehículo que ya esté adelantando cuando no se disponga de suficiente visibilidad de la parte delantera de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Un conductor que se incorpora a una vía utilizando un carril de aceleración, ¿tiene que asegurarse previamente de que puede hacerlo sin peligro?",
+      "imagen": "examen-15_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque tiene prioridad de paso."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque los otros conductores tienen que facilitarle la incorporación."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, y no iniciar la maniobra hasta estar seguro."
+        }
+      ],
+      "ayuda": "Los conductores que se incorporan a una vía utilizando un carril de aceleración, deben asegurarse previamente de que pueden hacerlo sin peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "En una intersección con \"circulación giratoria\", que no es una glorieta, ¿a quién debe cederle el paso?",
+      "imagen": "examen-15_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los que entren por nuestra izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "A los que entren por nuestra derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "A los que estén girando alrededor de la isleta."
+        }
+      ],
+      "ayuda": "Como norma general, en las intersecciones en las que no esté señalizada la prioridad de paso, se debe ceder el paso a los vehículos que entren por nuestra derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Cuando en los alrededores de la calzada hay niños que quieren atravesarla:",
+      "imagen": "examen-15_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tiene que advertir la presencia con las luces de largo alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "Tiene que moderar la velocidad del vehículo y si es necesario detenerse."
+        },
+        {
+          "letra": "C",
+          "texto": "Tiene que circular a menos de la mitad de la velocidad permitida."
+        }
+      ],
+      "ayuda": "Ante la presencia de niños en la vía o en sus proximidades, se debe moderar la velocidad y si fuera preciso, detenerse.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "El lunes a las 9 de la mañana, a partir del lugar donde se encuentra esta señal...",
+      "imagen": "examen-15_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se puede parar pero no estacionar."
+        },
+        {
+          "letra": "B",
+          "texto": "solo se puede estacionar para dejar un paquete."
+        },
+        {
+          "letra": "C",
+          "texto": "está prohibido parar y estacionar."
+        }
+      ],
+      "ayuda": "La señal que se observa prohíbe el estacionamiento a partir de las nueve horas, excepto para carga y descarga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "En esta vía interurbana, podrá parar su vehículo en la parte transitable del arcén...",
+      "imagen": "examen-15_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "para descargar objetos, siempre que la parada dure menos de 2 minutos."
+        },
+        {
+          "letra": "B",
+          "texto": "por razones de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "para subir o bajar personas."
+        }
+      ],
+      "ayuda": "En la parte transitable del arcén, únicamente se podrán realizar inmovilizaciones por razones de emergencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "La falta de experiencia al volante...",
+      "imagen": "examen-15_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "repercute positivamente en la conducción, porque el conductor inexperto es más prudente."
+        },
+        {
+          "letra": "B",
+          "texto": "es una de las causas de los accidentes protagonizados por jóvenes."
+        },
+        {
+          "letra": "C",
+          "texto": "no incide directamente en la producción de accidentes."
+        }
+      ],
+      "ayuda": "La falta de experiencia como conductores es una de las principales causas de los accidentes protagonizados por jóvenes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "En caso de siniestro, el seguro obligatorio del vehículo responsable del accidente cubrirá los daños producidos a la parte contraria...",
+      "imagen": "examen-15_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "solo cuando el conductor del vehículo causante sea el tomador del seguro."
+        },
+        {
+          "letra": "B",
+          "texto": "en todo caso."
+        },
+        {
+          "letra": "C",
+          "texto": "hasta los límites máximos establecidos."
+        }
+      ],
+      "ayuda": "En caso de siniestro, el seguro obligatorio del vehículo responsable del accidente cubrirá los daños producidos a la parte contraria, hasta los límites máximos establecidos en la Ley.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Este vehículo, ¿ha advertido correctamente la maniobra de cambio de dirección?",
+      "imagen": "examen-15_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, debe encender también las luces de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "No, debe advertirla también con la mano."
+        }
+      ],
+      "ayuda": "El conductor está obligado a advertir al resto de los usuarios de la vía acerca de las maniobras que vaya a efectuar con su vehículo.\nComo norma general, dichas advertencias se harán utilizando la señalización luminosa del vehículo o, en su defecto, con el brazo, de acuerdo con lo que se determine reglamentariamente. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "A lo largo del día, la mayor parte de los accidentes laborales se producen...",
+      "imagen": "examen-15_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "durante la jornada laboral."
+        },
+        {
+          "letra": "B",
+          "texto": "por la mañana."
+        },
+        {
+          "letra": "C",
+          "texto": "al ir y volver del trabajo."
+        }
+      ],
+      "ayuda": "Durante el día, los accidentes de tráfico se producen con mayor frecuencia  en las horas de entrada y salida del trabajo, especialmente por la tarde al finalizar la jornada laboral.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Circular por una autopista a 120 km/h con lluvia intensa, es circular a una velocidad...",
+      "imagen": "examen-15_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "inadecuada."
+        },
+        {
+          "letra": "B",
+          "texto": "adecuada."
+        },
+        {
+          "letra": "C",
+          "texto": "prohibida."
+        }
+      ],
+      "ayuda": "La velocidad inadecuada es aquella que no se adapta a las circunstancias de la vía o a las condiciones climatológicas existentes en cada momento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Qué es lo más importante para evitar colisionar con el vehículo que circula delante?",
+      "imagen": "examen-15_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mantener una distancia frontal de seguridad suficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "Circular a una velocidad constante."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el vehículo disponga de ABS."
+        }
+      ],
+      "ayuda": "La medida más importante para evitar colisiones por alcance, es mantener en todo momento una distancia frontal de seguridad segura y suficiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Cuando las pantallas protectoras de las luces de un vehículo están muy sucias...",
+      "imagen": "examen-15_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se mejora la iluminación de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "disminuye la eficacia de las luces."
+        },
+        {
+          "letra": "C",
+          "texto": "no se deslumbra a otros conductores."
+        }
+      ],
+      "ayuda": "La suciedad de los faros del vehículo modifica la dirección de los rayos luminosos provocando deslumbramientos y otros efectos no deseados. Para un óptimo aprovechamiento del alumbrado, los cristales deben mantenerse limpios en todo momento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

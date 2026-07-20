@@ -1,0 +1,661 @@
+{
+  "categoria_id": 2,
+  "test_id": 7,
+  "nombre": "Serie fácil 7",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "El suelo está mojado y se ve obligado a frenar por emergencia. ¿Qué peligro hay?",
+      "imagen": "serie-facil-07_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que las ruedas se desgasten."
+        },
+        {
+          "letra": "B",
+          "texto": "No hay peligro."
+        },
+        {
+          "letra": "C",
+          "texto": "Que las ruedas se bloqueen y el vehículo derrape."
+        }
+      ],
+      "ayuda": "Si el suelo está mojado y se ve obligado a realizar una frenada de emergencia, hay que tener en cuenta que las ruedas pueden bloquearse y que a consecuencia el vehículo podría derrapar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Dónde debe estacionar en una autopista?",
+      "imagen": "serie-facil-07_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fuera de la calzada en el arcén de la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "En los lugares específicamente señalizados para tal fin."
+        },
+        {
+          "letra": "C",
+          "texto": "En la mediana."
+        }
+      ],
+      "ayuda": "En las autopistas y autovías está prohibido parar y estacionar como norma general, excepto en los lugares específicamente destinados y señalizados al efecto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "En materia de tráfico, ¿están los jóvenes muy influenciados por la publicidad?",
+      "imagen": "serie-facil-07_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, todos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, principalmente por aquellos anuncios que incitan claramente al riesgo."
+        },
+        {
+          "letra": "C",
+          "texto": "No, la publicidad no les afecta."
+        }
+      ],
+      "ayuda": "Una de las características de los jóvenes es que presentan una mayor sensibilidad a la publicidad, especialmente a aquella que incita a asumir riesgos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Si circulando se le pincha una rueda debe...",
+      "imagen": "serie-facil-07_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "inmovilizar rápidamente el vehículo fuera de la calzada, o en un lugar seguro."
+        },
+        {
+          "letra": "B",
+          "texto": "continuar el viaje hasta el taller más próximo."
+        },
+        {
+          "letra": "C",
+          "texto": "abandonar inmediatamente el vehículo, cualquiera que sea el lugar en que se encuentra."
+        }
+      ],
+      "ayuda": "Si circulando se le pincha una rueda, debe inmovilizar el vehículo fuera de la calzada, o en un lugar seguro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Qué elemento del vehículo es importante revisar con más frecuencia?",
+      "imagen": "serie-facil-07_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los neumáticos."
+        },
+        {
+          "letra": "B",
+          "texto": "El líquido de frenos."
+        },
+        {
+          "letra": "C",
+          "texto": "Las luces."
+        }
+      ],
+      "ayuda": "De los elementos mencionados, los neumáticos son los que necesitan ser revisados con mayor frecuencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Por la noche, la agudeza visual...",
+      "imagen": "serie-facil-07_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se reduce."
+        },
+        {
+          "letra": "B",
+          "texto": "aumenta."
+        },
+        {
+          "letra": "C",
+          "texto": "no varía."
+        }
+      ],
+      "ayuda": "Por la noche, la agudeza visual se reduce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Cuando aumente la velocidad, debe...",
+      "imagen": "serie-facil-07_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mirar hacia atrás con menos frecuencia."
+        },
+        {
+          "letra": "B",
+          "texto": "mirar a lo lejos una distancia mayor."
+        },
+        {
+          "letra": "C",
+          "texto": "aumentar la visión por los laterales."
+        }
+      ],
+      "ayuda": "Cuando se aumenta la velocidad, se debe mirar más lejos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Con un herido con parada respiratoria, ¿qué debe hacer?",
+      "imagen": "serie-facil-07_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hacerle la respiración artificial."
+        },
+        {
+          "letra": "B",
+          "texto": "Colocarle en posición de defensa."
+        },
+        {
+          "letra": "C",
+          "texto": "Darle masaje."
+        }
+      ],
+      "ayuda": "Cuando un herido se encuentra en parada respiratoria se le debe practicar la respiración artificial (boca-boca).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "Aunque esté prohibido el adelantamiento, un turismo podrá rebasar, incluso invadiendo el sentido contrario a...",
+      "imagen": "serie-facil-07_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cualquier camión."
+        },
+        {
+          "letra": "B",
+          "texto": "conductores de bicicletas."
+        }
+      ],
+      "ayuda": "Aunque esté prohibido el adelantamiento, se puede adelantar a bicicletas siempre que se tomen las debidas precauciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Puede aumentar el tiempo de reacción del conductor?",
+      "imagen": "serie-facil-07_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, dependiendo por ejemplo de su estado físico."
+        },
+        {
+          "letra": "B",
+          "texto": "No, solo puede disminuir."
+        },
+        {
+          "letra": "C",
+          "texto": "No, siempre es menos de un segundo."
+        }
+      ],
+      "ayuda": "El estado físico del conductor puede variar su tiempo de reacción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "En curvas y cambios de rasante de visibilidad reducida está prohibido...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "adelantar y cambiar el sentido de la marcha."
+        },
+        {
+          "letra": "B",
+          "texto": "solo adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "cambiar el sentido de la marcha solamente."
+        }
+      ],
+      "ayuda": "En las curvas y cambios de rasante de reducida visibilidad, queda prohibido adelantar y cambiar el sentido de la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "A un peatón de avanzada edad, ¿le afecta el exceso de ruido?",
+      "imagen": "serie-facil-07_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, y le puede impedir oír y darse cuenta si se acerca un vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "A los peatones de avanzada edad les afecta el exceso de ruidos y les puede impedir oír y darse cuenta si se acerca algún vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Los efectos del alcohol en el organismo, ¿están relacionados con el peso?",
+      "imagen": "serie-facil-07_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, como norma general."
+        }
+      ],
+      "ayuda": "Como norma general los efectos del alcohol en el organismo, están también relacionados con el peso de la persona.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Qué señala la flecha de la señal?",
+      "imagen": "serie-facil-07_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El lado del refugio por el que los vehículos han de pasar."
+        },
+        {
+          "letra": "B",
+          "texto": "Sentido único."
+        },
+        {
+          "letra": "C",
+          "texto": "Recomienda el lado del refugio por el que los vehículos pueden pasar."
+        }
+      ],
+      "ayuda": "La flecha de la señal indica el lado del refugio, de la isleta o del obstáculo, por el que los vehículos han de pasar obligatoriamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "Las personas mayores...",
+      "imagen": "serie-facil-07_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "suelen reaccionar más rápidamente."
+        },
+        {
+          "letra": "B",
+          "texto": "suelen valorar mejor la velocidad de los vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "suelen tener una pérdida de sus capacidades para conducir."
+        }
+      ],
+      "ayuda": "Las personas mayores suelen tener una pérdida de sus capacidades que afecta a la conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Puede girar en una intersección a la izquierda si no tiene visibilidad?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, con precaución."
+        }
+      ],
+      "ayuda": "Si no existe suficiente visibilidad, queda prohibido girar a la izquierda en una intersección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "El pasajero que viaja en un cuadriciclo como el de la fotografía, ¿debe utilizar casco?",
+      "imagen": "serie-facil-07_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El casco de protección deben llevarlo tanto los conductores como los pasajeros de los cuadriciclos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Cuando la goma de un neumático se endurece por el envejecimiento, ¿es peligroso?",
+      "imagen": "serie-facil-07_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque la goma dura se agarra mejor a la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque el vehículo puede derrapar por falta de agarre."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo cuando la calzada está mojada."
+        }
+      ],
+      "ayuda": "Cuando la goma del neumático se endurece debido al envejecimiento, es muy peligroso, ya que el vehículo puede derrapar por falta de adherencia (agarre).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "En un turismo, ¿es obligatorio utilizar los cinturones de seguridad?",
+      "imagen": "serie-facil-07_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, cuando el uso del cinturón moleste o reste libertad de movimientos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, excepto para el conductor cuando efectúe una maniobra de marcha atrás o de estacionamiento."
+        }
+      ],
+      "ayuda": "Los conductores de turismos cuando efectúen la maniobra de marcha atrás, o estacionamiento, no están obligados a utilizar el cinturón de seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Para adelantar a este vehículo...",
+      "imagen": "serie-facil-07_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se debe tener especial cuidado con las salpicaduras que pueden impedir la visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "no deben tomarse precauciones especiales."
+        },
+        {
+          "letra": "C",
+          "texto": "es obligatorio esperar a un tramo seco de calzada."
+        }
+      ],
+      "ayuda": "En días de lluvia para adelantar a un vehículo hay que tener especial cuidado, ya que las salpicaduras pueden impedir la visibilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "En un semáforo se apaga la luz verde y se enciende la luz amarilla no intermitente. ¿Puede pasar?",
+      "imagen": "serie-facil-07_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, a no ser que no pueda detenerme en condiciones de seguridad suficientes."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en todo caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque todavía no ha cambiado la luz a rojo."
+        }
+      ],
+      "ayuda": "Ante un semáforo con luz amarilla fija hay que detenerse, a no ser que no pueda detenerse en condiciones de seguridad suficiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Cuándo se producen más distracciones al volante?",
+      "imagen": "serie-facil-07_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los días laborables, en zona urbana."
+        },
+        {
+          "letra": "B",
+          "texto": "Los meses de verano, en los trayectos de ocio."
+        },
+        {
+          "letra": "C",
+          "texto": "Los días laborables, en zonas interurbanas."
+        }
+      ],
+      "ayuda": "Se producen más distracciones al volante los meses de verano, y en los trayectos de ocio.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Para abandonar la vía, ¿en qué momento debe entrar en el carril de deceleración?",
+      "imagen": "serie-facil-07_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Lo más tarde posible para facilitar la fluidez."
+        },
+        {
+          "letra": "B",
+          "texto": "Lo antes posible para adaptar la velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "En cualquier momento mientras la línea sea discontinua, porque es indiferente."
+        }
+      ],
+      "ayuda": "Para abandonar una vía por un carril de decelaración, se debe circular por el carril más próximo a la salida y entrar en él lo antes posible para adaptar la velocidad a la nueva vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Una motocicleta, ¿debe circular por la vía señalizada con esta señal?",
+      "imagen": "serie-facil-07_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si se trata de una motocicleta de dos ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque se trata de una vía reservada a vehículos de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque se trata de una vía reservada exclusivamente a ciclomotores."
+        }
+      ],
+      "ayuda": "Señal de calzada obligatoria para motocicletas de dos ruedas.\nObligación para los conductores de motocicletas de dos ruedas y vehículos de tres ruedas asimilados a motocicletas de circular por la calzada a cuya entrada esté situada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Cualquier usuario de la vía implicado en un accidente de circulación, en la medida de lo posible...",
+      "imagen": "serie-facil-07_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "debe esforzarse en restablecer o mantener la seguridad de la circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "debe modificar el estado de las cosas para restablecer la circulación."
+        }
+      ],
+      "ayuda": "Como norma general, todos los usuarios de la vía que se vean implicados en un accidente de tráfico, están obligados a auxiliar o solicitar auxilio para atender a las víctimas si las hubiera y restablecer la seguridad de la circulación en la medida de lo posible y colaborar para esclarecer los hechos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Cuándo está permitido circular por el arcén?",
+      "imagen": "serie-facil-07_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nunca."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando por emergencia circulo muy despacio e interrumpo el paso a otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando hay mucha circulación y quiero girar a la derecha."
+        }
+      ],
+      "ayuda": "Excepcionalmente los turismos podrán circular por el arcén de su derecha, cuando por emergencia circule a velocidad anormalmente reducida perturbando gravemente la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Qué puede causar que el conductor se distraiga?",
+      "imagen": "serie-facil-07_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Manipular un aparato de música."
+        },
+        {
+          "letra": "B",
+          "texto": "Conducir sin utilizar el teléfono móvil."
+        },
+        {
+          "letra": "C",
+          "texto": "Conducir descansado."
+        }
+      ],
+      "ayuda": "Una de las causas que pueden distraer al conductor, es manipular la radio durante la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Está detenido ante un semáforo, ¿cuándo está permitido hablar por el teléfono móvil?",
+      "imagen": "serie-facil-07_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo cuando se utilice un dispositivo manos libres."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo cuando el semáforo esté rojo."
+        }
+      ],
+      "ayuda": "Hablar por el teléfono durante la conducción o en un semáforo en rojo, solo está permitido si se utiliza un dispositivo manos libres.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Debe disminuir la velocidad para facilitar un adelantamiento?",
+      "imagen": "serie-facil-07_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para facilitar la vuelta del vehículo que adelanta al carril derecho si el adelantamiento es peligroso."
+        }
+      ],
+      "ayuda": "El conductor del vehículo blanco solo estará obligado a disminuir la velocidad para facilitar la vuelta del vehículo que adelanta al carril derecho si el adelantamiento es peligroso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Para que el reposacabezas esté regulado correctamente, la distancia a la cabeza debe ser...",
+      "imagen": "serie-facil-07_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la mínima posible y nunca superior a 4 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "la que resulte más cómoda para el conductor."
+        }
+      ],
+      "ayuda": "Para que el reposacabezas esté correctamente regulado, la distancia a la cabeza no debe ser superior a 4 cm.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

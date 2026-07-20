@@ -1,0 +1,494 @@
+[
+  {
+    "n": 1,
+    "tipo": "imagen",
+    "titulo": "Bienvenido al Tema 2",
+    "texto": null
+  },
+  {
+    "n": 2,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 3,
+    "tipo": "imagen",
+    "titulo": "Obediencia de las señales. Obligaciones de los usuarios",
+    "texto": "Todos los usuarios de la vía están obligados a obedecer las señales de circulación que establezcan una obligación o una prohibición y a adaptar su comportamiento al mensaje del resto de las señales que se encuentren en las vías por las que circulan."
+  },
+  {
+    "n": 4,
+    "tipo": "imagen",
+    "titulo": "Orden de preferencia entre distintos tipos de señales",
+    "texto": "El orden de preferencia entre los distintos tipos de señales de circulación es el siguiente:\n\n1 - Señales y órdenes de los agentes de circulación.\nLas señales y órdenes de los agentes prevalecen sobre el resto de las señales.\n\n2 - Señalización y balizamiento circunstancial que modifique el régimen normal de utilización de la vía, dispositivos delimitadores y señales de balizamiento.\nLas señalización circunstancial prevalece sobre las demás señales, excepto las señales de los agentes.\n\n3 - Semáforos.\nPrevalecen sobre las señales verticales y marcas viales.\n\n4 - Señales verticales de circulación.\nÚnicamente, prevalecen sobre las marcas viales.\n\n5 - Marcas viales.\nNo prevalecen sobre ninguna otra señal.\n\nEn el caso de que las prescripciones indicadas por diferentes señales parezcan estar en contradicción entre sí, prevalecerá la preferente, o la más restrictiva si se trata de señales del mismo tipo."
+  },
+  {
+    "n": 5,
+    "tipo": "imagen",
+    "titulo": "Orden de prioridad entre señales. Ejemplos",
+    "texto": "En este caso, el vehículo debe seguir la indicación del agente porque su señal prevalece sobre la señal de balizamiento."
+  },
+  {
+    "n": 6,
+    "tipo": "imagen",
+    "titulo": "Orden de prioridad entre señales. Ejemplos",
+    "texto": "En este caso también prevalece la señal del agente, por lo que el vehículo debe detenerse."
+  },
+  {
+    "n": 7,
+    "tipo": "imagen",
+    "titulo": "Orden de prioridad entre señales. Ejemplos",
+    "texto": "En esta situación, aunque hay una señal de STOP, el conductor pasará sin detenerse porque le autoriza el semáforo que es el que prevalece."
+  },
+  {
+    "n": 8,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/919tHgDxduA?si=c53ZAKJxsq69w7z0"
+  },
+  {
+    "n": 9,
+    "tipo": "imagen",
+    "titulo": "Orden de prioridad entre señales. Ejemplos",
+    "texto": "En la situación que se observa en la imagen, se debe ceder el paso porque la señal vertical prevalece sobre la señal horizontal de STOP."
+  },
+  {
+    "n": 10,
+    "tipo": "imagen",
+    "titulo": "Orden de prioridad entre señales. Ejemplos",
+    "texto": "En este otro ejemplo, se debe obedecer la señal vertical de stop ya que es la más restrictiva."
+  },
+  {
+    "n": 11,
+    "tipo": "imagen",
+    "titulo": "Orden de prioridad entre señales. Ejemplos",
+    "texto": "Finalmente, en este supuesto, prevalece la señal de prohibido parar y estacionar por ser la más restrictiva de las dos."
+  },
+  {
+    "n": 12,
+    "tipo": "imagen",
+    "titulo": "Localización de las señales verticales y los semáforos",
+    "texto": "Como norma general, los conductores y usuarios deben obedecer las indicaciones de los semáforos y de las señales verticales de circulación situadas inmediatamente a su derecha, independientemente de la dirección que pretendan seguir.\n\nEn la situación que se observa en la imagen, el conductor debe obedecer la indicación de la señal vertical de STOP en cualquier caso."
+  },
+  {
+    "n": 13,
+    "tipo": "imagen",
+    "titulo": "Obediencia de las señales en función de la dirección a seguir",
+    "texto": "Si existen semáforos o señales verticales de circulación a la izquierda y a la derecha de la calzada, con indicaciones distintas, los conductores que pretendan seguir a la derecha deben obedecer las señales o semáforos situados a la derecha, y los que pretendan seguir de frente o girar a la izquierda, deben obedecer las señales o semáforos situados a su izquierda."
+  },
+  {
+    "n": 14,
+    "tipo": "imagen",
+    "titulo": "Obediencia de las señales en función de la dirección a seguir",
+    "texto": "Como se ha indicado, en estos casos, los conductores deben obedecer las señales en función de la dirección que pretendan seguir, independientemente de su posición en la calzada."
+  },
+  {
+    "n": 15,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/sf_TerDttqI"
+  },
+  {
+    "n": 16,
+    "tipo": "imagen",
+    "titulo": "Aplicación de las señales",
+    "texto": "No obstante lo establecido con carácter general, la aplicación de las señales podrá limitarse a uno o más carriles mediante marcas en la calzada."
+  },
+  {
+    "n": 17,
+    "tipo": "imagen",
+    "titulo": "Prohibiciones relativas a las señales",
+    "texto": "Salvo por causa justificada, nadie debe instalar, retirar, trasladar, ocultar o modificar la señalización de una vía sin permiso del titular de la misma."
+  },
+  {
+    "n": 18,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 19,
+    "tipo": "imagen",
+    "titulo": "Señales de los agentes",
+    "texto": "Los agentes de la autoridad responsable del tráfico, que estén regulando la circulación, lo harán de forma que sean fácilmente reconocibles como tales a distancia, tanto de día como de noche.\n\nSus señales, que han de ser visibles, y sus órdenes, deben ser inmediatamente obedecidos por los usuarios de la vía."
+  },
+  {
+    "n": 20,
+    "tipo": "imagen",
+    "titulo": "Señales de los Agentes. Brazo Levantado verticalmente",
+    "texto": "Deben detenerse todos los usuarios de la vía que se acerquen al agente por delante, por detrás y por los laterales.\n\nSi esta señal se efectúa en una intersección, no obliga a detenerse a los conductores que ya se encuentren dentro de la misma."
+  },
+  {
+    "n": 21,
+    "tipo": "imagen",
+    "titulo": "Brazo o brazos extendidos horizontalmente",
+    "texto": "Obliga a detenerse a todos los usuarios de la vía que se acerquen al agente desde todas las direcciones que corten la indicada por el brazo o los brazos extendidos, y cualquiera que sea el sentido de su marcha.\n\nEs decir, deben detenerse los vehículos que se acerquen al agente por la espalda y de frente.\n\nEsta señal permanece en vigor aunque el agente baje el brazo o los brazos, siempre que no cambie de posición o efectúe otra señal."
+  },
+  {
+    "n": 22,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/Jay2EXRyJV0?si=BXmo_FbLJV5jTapG"
+  },
+  {
+    "n": 23,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/AI6g_bjFT14?si=5xUNkm-NMnovTcxZ"
+  },
+  {
+    "n": 24,
+    "tipo": "imagen",
+    "titulo": "Brazo extendido moviéndose alternativamente de arriba abajo",
+    "texto": "Esta señal obliga a disminuir la velocidad de su vehículo a los conductores que se acerquen al agente por el lado correspondiente al brazo que ejecuta la señal, y perpendicularmente a dicho brazo."
+  },
+  {
+    "n": 25,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/ojOK2Lvt7jE?si=Dbq5mSBi-I2OJqOF"
+  },
+  {
+    "n": 26,
+    "tipo": "imagen",
+    "titulo": "Balanceo de una luz roja o amarilla",
+    "texto": "Obliga a detenerse a los usuarios de la vía hacia los que el agente dirija la luz."
+  },
+  {
+    "n": 27,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/iDy-DocvkSQ?si=knSqX22bSTrjSYA2"
+  },
+  {
+    "n": 28,
+    "tipo": "imagen",
+    "titulo": "Señales y órdenes de los agentes. Silbato",
+    "texto": "Los agentes podrán ordenar la detención del vehículo con una serie de toques de silbato cortos y frecuentes, y la reanudación de la marcha con un toque largo."
+  },
+  {
+    "n": 29,
+    "tipo": "imagen",
+    "titulo": "Otras señales",
+    "texto": "Cuando las circunstancias así lo exijan, los agentes podrán utilizar cualquier otra indicación, distinta a las anteriores, realizada de forma clara.\n\nPor otra parte, en determinados casos, otras personas podrán realizar señales, como personal de obras, que podrá regular el paso mediante la utilización de señales verticales incorporadas a una paleta, así como las patrullas escolares, las que podrán invitar a los usuarios de la vía a que detengan su marcha, mediante la señal de STOP incorporada a una paleta."
+  },
+  {
+    "n": 30,
+    "tipo": "imagen",
+    "titulo": "Señales desde los vehículos",
+    "texto": "Bandera roja\nIndica que, a partir del paso del vehículo que porta la bandera, la calzada queda temporalmente cerrada al tráfico de todos los vehículos y usuarios, a excepción de aquéllos que vayan acompañados o escoltados por los agentes de la autoridad responsable de la regulación, gestión y control del tráfico.\n\nBandera verde\nIndica que, a partir del paso del vehículo que porta la bandera verde, la calzada queda de nuevo abierta al tráfico.\n\nBandera amarilla\nIndica al resto de los conductores y usuarios la necesidad de extremar la atención, o la proximidad de un peligro.\n\nBrazo extendido hacia abajo inclinado y fijo\nEl agente desde un vehículo indica la obligación de detenerse en el lado derecho, a aquellos usuarios a los que va dirigida la señal."
+  },
+  {
+    "n": 31,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/rchdOPdSXz4?si=Vwpk59IvWLC6eZeq"
+  },
+  {
+    "n": 32,
+    "tipo": "imagen",
+    "titulo": "Luz roja intermitente o destellante hacia delante",
+    "texto": "El agente, desde un vehículo, indica al conductor que le precede que debe detener el vehículo en el lado derecho, delante del vehículo policial, en un lugar donde no genere mayores riesgos o molestias para el resto de los usuarios, y siguiendo las instrucciones que imparta el agente mediante la megafonía."
+  },
+  {
+    "n": 33,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 34,
+    "tipo": "imagen",
+    "titulo": "Señalización circunstancial. Paneles de mensaje variable",
+    "texto": "Los paneles de mensaje variable, como el resto de la señalización circunstancial, tiene por objeto regular la circulación, adaptándola a las circunstancias cambiantes del tráfico.\n\nSe utilizarán para dar información a los conductores, advertirles de posibles peligros y dar recomendaciones o instrucciones de obligado cumplimiento.\n\nLas señales que figuran en los paneles de mensaje variable prevalecen sobre las demás señales verticales y marcas viales."
+  },
+  {
+    "n": 35,
+    "tipo": "imagen",
+    "titulo": "Niveles de circulación",
+    "texto": null
+  },
+  {
+    "n": 36,
+    "tipo": "imagen",
+    "titulo": "Tramos en obras y su señalización",
+    "texto": "Las obras y tareas de conservación que alteren de cualquier modo la circulación vial deberán hallarse señalizadas, tanto de día como de noche, y balizadas luminosamente durante las horas nocturnas, o cuando las condiciones meteorológicas o ambientales lo exijan.\n\nCuando se señalicen tramos de obras el fondo de las señales verticales será de color amarillo. Las marcas viales también serán de color amarillo como norma general, aunque si siguiesen siendo de aplicación las marcas viales previamente existentes, estas podrán mantenerse de color blanco.\n\nLos usuarios de la vía están obligados a obedecer las indicaciones del personal de obras, los cuales regularán el paso mediante el empleo de las correspondientes señales verticales incorporadas a una paleta."
+  },
+  {
+    "n": 37,
+    "tipo": "imagen",
+    "titulo": "En este estrechamiento por obras, pasarán primero los vehículos de la izquierda, ya que así lo indica el personal encargado de regular el paso en este tramo.",
+    "texto": null
+  },
+  {
+    "n": 38,
+    "tipo": "imagen",
+    "titulo": "Elementos de balizamiento: dispositivos delimitadores",
+    "texto": "Los dispositivos delimitadores prohíben el paso a la parte de la vía que delimitan y son los siguientes:\n\nDispositivo delimitador fijo: prohíbe el paso a la vía o parte de esta que delimita.\n\nDispositivo delimitador móvil: prohíbe temporalmente el paso, mientras se encuentre en posición transversal a la calzada en un paso a nivel, puesto de peaje o de aduana, acceso a un establecimiento u otros. \n\nPanel direccional provisional: además de prohibir el paso, informa sobre el sentido de la circulación.\n\nBalizas de borde provisionales, conos o dispositivos análogos: prohíben el paso a través de la línea, real o imaginaria, que los une."
+  },
+  {
+    "n": 39,
+    "tipo": "imagen",
+    "titulo": "Dispositivos delimitadores. Luz roja fija y luces amarillas fijas o intermitentes",
+    "texto": "Luz roja fija: indica que la calzada está totalmente cerrada al tráfico.\n\nLuces amarillas fijas o intermitentes: Prohíben el paso a través de la línea imaginaria que las une."
+  },
+  {
+    "n": 40,
+    "tipo": "imagen",
+    "titulo": "Dispositivos de guía. Hitos de vértice y de arista",
+    "texto": "Hito de vértice: indica el punto en el que se separan dos corrientes de tráfico.\n\nHito de arista: elemento cuya finalidad primordial es balizar los bordes de las carreteras, principalmente durante las horas nocturnas o de baja visibilidad."
+  },
+  {
+    "n": 41,
+    "tipo": "imagen",
+    "titulo": "Paneles direccionales permanentes",
+    "texto": "Elementos cuya finalidad es la de marcar el trazado de una curva en relación con la reducción de velocidad que se tenga que realizar para circular por ella con mayor seguridad, además de indicar el sentido de circulación, facilitando al conductor su percepción."
+  },
+  {
+    "n": 42,
+    "tipo": "imagen",
+    "titulo": "Otros dispositivos de guía",
+    "texto": "Baliza o captafaros horizontal retrorreflectante.\nDispositivo fijado en el pavimento dotado de elementos retrorreflectantes cuya finalidad primordial es facilitar el guiado óptico del trazado de la carretera, fundamentalmente en condiciones nocturnas o de escasa luminosidad.\n\nBaliza o captafaro vertical.\nElemento que se fija en los sistemas de contención de vehículos, dotado de elementos retrorreflectantes o luminosos, cuya finalidad es facilitar el guiado óptico del trazado de la carretera, fundamentalmente en condiciones nocturnas o de escasa luminosidad.\n\nPaneles verticales.\nIndican la presencia de un estrechamiento en la plataforma de la carretera o cualquier obstáculo próximo a la misma, como, por ejemplo, en casos de obras de fábrica, pretiles, impostas, entradas a túnel, etc.\n\nBalizas cilíndricas.\nElementos cuya finalidad es servir de guía o referencia en zonas singulares de la carretera, especialmente en delimitación de carriles, convergencias, divergencias e intersecciones.\n\nBalizamiento circunstancial luminoso.\nInstalado en tramos de niebla intensa para adecuación de la distancia mínima de seguridad. Consta de dos conjuntos luminosos de forma rectangular o cuadrada: color ámbar fijo para la señalización de sentido y delimitación de vía, y un color rojo fijo para la señalización de paso de vehículo.\n\nJalones de nieve.\nDelimitan la plataforma de la carretera cuando esta no es visible por encontrarse cubierta de nieve favoreciendo así el guiado óptico."
+  },
+  {
+    "n": 43,
+    "tipo": "imagen",
+    "titulo": "Guías sonoras longitudinales",
+    "texto": "Pequeñas hendiduras en el firme o resaltes en la marca vial que al ser pisadas por el neumático del vehículo producen una vibración y/o sonido que pretende alertar al conductor de desvíos involuntarios de la trayectoria del vehículo."
+  },
+  {
+    "n": 44,
+    "tipo": "imagen",
+    "titulo": "Otros elementos de balizamiento",
+    "texto": "Manga de viento.\nComplementa la advertencia de peligro indicada por la señal vertical de viento transversal, informando al conductor sobre la existencia, sentido e intensidad de un viento continuo o racheado.\n\nPórtico de control de gálibo.\nEstructura que sirve para advertir o impedir el paso de vehículos que sobrepasan la altura de una estructura, ya sea puente, paso superior o túnel, que viene a continuación en el sentido de circulación del vehículo."
+  },
+  {
+    "n": 45,
+    "tipo": "imagen",
+    "titulo": "Señales de balizamiento",
+    "texto": "Baliza o captafaro horizontal luminoso.\nColocada sobre la calzada podrá delimitar carriles, orientar la circulación en desvíos obligatorios, delimitar las zonas de incorporación a carriles o restringir los cambios de carril.\n\nEmitirá luz de color verde, naranja o rojo, siendo el único franqueable el verde."
+  },
+  {
+    "n": 46,
+    "tipo": "imagen",
+    "titulo": "Sistemas de contención de vehículos",
+    "texto": "Barreras de seguridad.\nProtegen frente a salidas de la vía en los márgenes y medianas de la carretera.\n\nPretiles.\nProtegen frente a salidas de la vía en las zonas de tableros de puentes y obras de paso, coronaciones de muros de sostenimiento y obras similares.\n\nSistemas de protección para motoristas.\nBarreras específicamente diseñadas para la protección de los vehículos de dos ruedas.\n\nAtenuadores de impacto.\nDispositivos diseñados para su empleo en el inicio de una divergencia o bifurcación que tienen la capacidad, al menos, de contener los vehículos que impactan contra ellos."
+  },
+  {
+    "n": 47,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 48,
+    "tipo": "imagen",
+    "titulo": "Semáforos. Semáforos para peatones",
+    "texto": "Luz roja no intermitente en forma de peatón inmóvil: los peatones no deben comenzar a cruzar la calzada.\n\nLuz verde no intermitente en forma de peatón en marcha: los peatones pueden comenzar a cruzar la calzada. Si esta luz pasa a intermitente, significa que queda poco tiempo para terminar de atravesar la calzada ya que se va a encender la luz roja."
+  },
+  {
+    "n": 49,
+    "tipo": "imagen",
+    "titulo": "Semáforos circulares para vehículos. Luz verde fija",
+    "texto": "Luz verde fija: queda permitido el paso con prioridad, excepto cuando el vehículo pueda quedar detenido de forma que impida u obstruya la circulación transversal."
+  },
+  {
+    "n": 50,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/5gI6ppnrCL0"
+  },
+  {
+    "n": 51,
+    "tipo": "imagen",
+    "titulo": "Semáforos circulares para vehículos. Luz amarilla fija",
+    "texto": "Luz amarilla fija: los vehículos deben detenerse como si se tratara de una luz roja, a no ser que, cuando se encienda, el vehículo se encuentre tan cerca del lugar de detención que no pueda detenerse en condiciones suficientes de seguridad."
+  },
+  {
+    "n": 52,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/EkIuv5GhlSY"
+  },
+  {
+    "n": 53,
+    "tipo": "imagen",
+    "titulo": "Semáforos circulares para vehículos. Luz roja fija",
+    "texto": "Luz roja fija: prohíbe el paso. Los conductores deben detenerse sin rebasar el semáforo ni, si existe, la línea de detención anterior al mismo."
+  },
+  {
+    "n": 54,
+    "tipo": "imagen",
+    "titulo": "Semáforo en el lado opuesto de la intersección",
+    "texto": "Si el semáforo está dentro de una intersección o en el lado opuesto de la misma, los vehículos deben detenerse en la línea de detención anterior a la intersección, si existe, y, si no existe, inmediatamente antes de la intersección sin entrar en ella."
+  },
+  {
+    "n": 55,
+    "tipo": "imagen",
+    "titulo": "Luz roja intermitente o dos luces rojas alternativamente intermitentes",
+    "texto": "Los conductores deben detenerse temporalmente antes de un paso a nivel, una entrada a un puente móvil o a un pontón transbordador, en la proximidad de una salida de vehículos de extinción de incendios o debido a la aproximación de una aeronave a escasa altura."
+  },
+  {
+    "n": 56,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/dn-jwTunhus?si=vkt-HAgH_DCi3Ths"
+  },
+  {
+    "n": 57,
+    "tipo": "imagen",
+    "titulo": "Luz amarilla intermitente o dos luces amarillas alternativamente intermitentes",
+    "texto": "Se debe circular con precaución y, en caso de que sea necesario, ceder el paso a los vehículos que se aproximen, ya sea por la derecha como por la izquierda.\n\nAdemás, si existen señales que obliguen a detenerse como, por ejemplo, una señal de Stop, los conductores deben detenerse."
+  },
+  {
+    "n": 58,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/z-Qq2H8FEgw"
+  },
+  {
+    "n": 59,
+    "tipo": "imagen",
+    "titulo": "Flechas en los semáforos",
+    "texto": "Los semáforos para vehículos pueden presentar una flecha negra sobre una luz roja no intermitente o sobre una luz amarilla, la cual no cambia el significado de dichas luces, pero lo limita exclusivamente al movimiento indicado por la flecha.\n\nPor otra parte, una flecha verde, que se ilumina sobre un fondo circular negro, significa que los vehículos pueden tomar la dirección y sentido indicados por la misma, cualquiera que sea la luz que esté simultáneamente encendida en el mismo semáforo o en otro contiguo."
+  },
+  {
+    "n": 60,
+    "tipo": "imagen",
+    "titulo": "Semáforo con flecha negra sobre fondo rojo",
+    "texto": "En este cruce se observa que, como existe un semáforo con una flecha negra sobre fondo rojo, el conductor del vehículo azul no podrá girar a la derecha."
+  },
+  {
+    "n": 61,
+    "tipo": "imagen",
+    "titulo": "Semáforo con flecha negra sobre fondo amarillo",
+    "texto": "En esta otra intersección, si lo desea, el conductor del vehículo azul puede girar a la derecha cediendo el paso.\n\nNo está obligado a hacerlo aunque el vehículo rojo pretenda girar en dicha dirección.\n\nEnhorabuena, has superado el 80% del tema\n\nOk"
+  },
+  {
+    "n": 62,
+    "tipo": "imagen",
+    "titulo": "Semáforo con flecha verde sobre fondo negro",
+    "texto": "Los vehículos pueden tomar la dirección y sentido indicados por la flecha, cualquiera que sea la luz que esté simultáneamente encendida en el mismo semáforo o en otro contiguo.\n\nCualquier vehículo que, al encenderse la flecha verde, se encuentre en un carril reservado exclusivamente para la circulación en la dirección y sentidos indicados por la flecha o que, sin estar reservado, sea el que esta circulación tenga que utilizar, deberá avanzar en dicha dirección y sentido.\n\nLos vehículos que avancen siguiendo la indicación de una flecha verde deben hacerlo con precaución, dejando pasar a los vehículos que circulen por el carril al que se incorporen y no poniendo en peligro a ningún usuario de la vía que esté cruzando la calzada.\n\nEn esta imagen, el vehículo azul sólo estaría obligado a girar a la derecha si hubiera vehículos detrás que pretendieran seguir esa dirección."
+  },
+  {
+    "n": 63,
+    "tipo": "imagen",
+    "titulo": "Semáforos cuadrados para vehículos, o de carril",
+    "texto": "Aspa roja: Indica que no se puede ocupar el carril sobre el que se encuentra.\nLos conductores de vehículos que, por cualquier circunstancia, ocupen este carril deberán abandonarlo lo más pronto posible (aunque sea después del aspa roja).\n\nFlecha verde: Indica que se puede circular por el carril al que se refiere.\n\nLas flechas verdes no prevalecen sobre ninguna señal, lo que significa que los vehículos que circulen por estos carriles deben obedecer las señales que se encuentren en ellos y, en defecto de otras señales, deben ceder el paso a la derecha."
+  },
+  {
+    "n": 64,
+    "tipo": "video",
+    "titulo": "Semáforos cuadrados para vehículos",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/-29HhVkuUHE"
+  },
+  {
+    "n": 65,
+    "tipo": "imagen",
+    "titulo": "Luz blanca o amarilla en forma de flecha",
+    "texto": "Una luz blanca o amarilla en forma de flecha, intermitente o fija, apuntada hacia abajo en forma oblicua, indica a los usuarios del carril correspondiente la necesidad de irse incorporando en condiciones de seguridad al carril hacia el que apunta la flecha, porque el carril por el que circulan va a cerrarse pronto."
+  },
+  {
+    "n": 66,
+    "tipo": "video",
+    "titulo": "Cambio obligatorio de carril",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/ACEhybIR8xs"
+  },
+  {
+    "n": 67,
+    "tipo": "imagen",
+    "titulo": "Semáforos reservados a determinados vehículos: Ciclos",
+    "texto": "Cuando las luces de los semáforos presentan la silueta iluminada de un ciclo, sus indicaciones se refieren exclusivamente a ellos."
+  },
+  {
+    "n": 68,
+    "tipo": "imagen",
+    "titulo": "Semáforos reservados a tranvías y autobuses de líneas regulares",
+    "texto": "Estos semáforos consisten en una franja blanca iluminada sobre fondo circular negro y se refieren exclusivamente a los tranvías y a los autobuses de líneas regulares.\n\nNo obstante, si el semáforo se encuentra en un carril reservado para determinados vehículos, dicho semáforo se refiere sólo a los vehículos que circulen por él."
+  },
+  {
+    "n": 69,
+    "tipo": "imagen",
+    "titulo": "Franja blanca horizontal y franja blanca vertical",
+    "texto": "Franja blanca horizontal: prohíbe el paso en las mismas condiciones que una luz roja fija.\n\nFranja blanca vertical: permite el paso de frente."
+  },
+  {
+    "n": 70,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/ZS09gTHOiN8?si=WNa6aWNFZshH5kSx"
+  },
+  {
+    "n": 71,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/-LT0chkNPY8?si=mzVwqo8X2lZeBbVF"
+  },
+  {
+    "n": 72,
+    "tipo": "imagen",
+    "titulo": "Franja blanca oblicua y franja blanca intermitente",
+    "texto": "Franja blanca oblicua hacia la izquierda: indica que está permitido girar a la izquierda.\n\nFranja blanca oblicua hacia la derecha: indica que está permitido girar a la derecha.\n\nFranja blanca vertical u oblicua e iluminada intermitentemente: indica que los correspondientes vehículos deben detenerse igual que si se tratara de la luz amarilla fija de un semáforo circular."
+  },
+  {
+    "n": 73,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/lVtYO0x7zo4?si=Vjq9_l_Qamt5MOCx"
+  },
+  {
+    "n": 74,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/Htp6DFigewc?si=Zb9Im1rG4RGgUhiw"
+  },
+  {
+    "n": 75,
+    "tipo": "video",
+    "titulo": null,
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/r0qa5bwlXmA?si=wrfCg4kF7iOF3Dv6"
+  },
+  {
+    "n": 76,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  }
+]

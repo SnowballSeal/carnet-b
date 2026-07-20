@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 81,
+  "nombre": "Test de examen 81",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Debe entrar en una intersección en una situación en la que el tráfico esté tan saturado que, al detenerse, posiblemente obstaculice la circulación transversal?",
+      "imagen": "examen-81_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo si conduce un vehículo de servicio público, como un taxi."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que tenga prioridad de paso."
+        },
+        {
+          "letra": "C",
+          "texto": "No, aunque tenga prioridad de paso."
+        }
+      ],
+      "ayuda": "Aunque se disponga de prioridad, no se debe penetrar en intersecciones, pasos de peatones o para ciclistas cuando la situación de la circulación pueda ser tal que exista la posibilidad de quedar detenidos obstruyendo la circulación de la vía transversal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Entre los efectos negativos de la velocidad se encuentra el efecto túnel, en el que el conductor...",
+      "imagen": "examen-81_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sólo percibe el centro de la calzada y deja de ver los laterales."
+        },
+        {
+          "letra": "B",
+          "texto": "tiene la falsa sensación de que circula a velocidad reducida."
+        },
+        {
+          "letra": "C",
+          "texto": "percibe mejor los laterales de la vía que el centro de la calzada."
+        }
+      ],
+      "ayuda": "El efecto túnel consiste en un estrechamiento del campo de visión, normalmente motivado por una velocidad elevada, disminuyendo la percepción de los estímulos laterales, por lo que el conductor afectado solo percibe el centro de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Qué se recomienda hacer para verificar el buen funcionamiento del cinturón de seguridad?",
+      "imagen": "examen-81_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No es necesario verificar el funcionamiento del cinturón de seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Revisar los anclajes y los cierres."
+        },
+        {
+          "letra": "C",
+          "texto": "Abrochar los cinturones y acelerar bruscamente."
+        }
+      ],
+      "ayuda": "Se debe verificar periódicamente el buen funcionamiento del cinturón de seguridad, mediante la revisión de los anclajes y los dispositivos de cierre.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿El líquido de frenos necesita mantenimiento?",
+      "imagen": "examen-81_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se debe comprobar solo si se nota que el vehículo no frena bien."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, su nivel debe verificarse con frecuencia."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque no se degrada con el uso."
+        }
+      ],
+      "ayuda": "El nivel del líquido de frenos debe verificarse con frecuencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Puede un conductor de un vehículo desabrocharse el cinturón de seguridad para realizar una maniobra de estacionamiento?",
+      "imagen": "examen-81_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Los conductores están exentos de la obligación de utilizar el cinturón de seguridad debidamente abrochado, al efectuar la maniobra de marcha atrás o de estacionamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "En un vehículo de 5 plazas, incluyendo al conductor, ¿cuántos niños con una altura inferior o igual a 1,35 metros pueden viajar?",
+      "imagen": "examen-81_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "3, porque no pueden ocupar el asiento delantero en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "4, siempre que todos utilicen un dispositivo de retención para niños."
+        },
+        {
+          "letra": "C",
+          "texto": "6, incluso si uno de ellos no utiliza un dispositivo de retención para niños."
+        }
+      ],
+      "ayuda": "En un vehículo de 5 plazas, además del conductor podrán viajar un máximo de 4 niños cuya estatura no supere los 135 centímetros, siempre que utilicen un sistema de retención adecuado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Cuando un conductor no supere la tasa máxima de alcohol permitida, el agente de tráfico, ¿puede realizarle una segunda prueba?",
+      "imagen": "examen-81_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si muestra signos evidentes de encontrarse bajo los efectos del alcohol."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo si está implicado en un accidente."
+        }
+      ],
+      "ayuda": "Aún sin alcanzar o superar los límites máximos permitidos, si el conductor presentara síntomas evidentes de encontrarse bajo la influencia de bebidas alcohólicas, el agente someterá al interesado, para una mayor garantía y a efecto de contraste, a la práctica de una segunda prueba de detección alcohólica por el aire espirado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Cuál es una de las principales causas de los accidentes de las personas mayores?",
+      "imagen": "examen-81_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El deterioro de las capacidades psicomotoras."
+        },
+        {
+          "letra": "B",
+          "texto": "El aumento de la visión periférica."
+        },
+        {
+          "letra": "C",
+          "texto": "Una mejor percepción y análisis de los riesgos."
+        }
+      ],
+      "ayuda": "El deterioro de las capacidades psicomotoras es una de las principales causas de los accidentes de las personas mayores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "En cuanto a los sistemas de ayuda a la conducción, ¿cómo funciona el sistema avanzado AEB-PCD o de frenado de emergencia ante peatones y ciclistas?",
+      "imagen": "examen-81_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Frena el vehículo si detecta una situación de emergencia ante peatones o ciclistas."
+        },
+        {
+          "letra": "B",
+          "texto": "Envía una alerta sonora si detecta el riesgo de colisión con ciclistas o peatones, pero no frena el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Desvía la trayectoria actuando sobre la dirección del vehículo, pero no sobre el sistema de frenado."
+        }
+      ],
+      "ayuda": "Los sistemas avanzados de frenado de emergencia específicos para la detección de peatones y ciclistas (AEB-PCD)”, detectan automáticamente una situación de emergencia ante peatones y ciclistas, activando el sistema de frenado para desacelerar el vehículo a fin de evitar o mitigar la colisión.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "Esta señal, ¿prohíbe el acceso a los turismos?",
+      "imagen": "examen-81_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque se trata de un camino reservado y obligatorio para animales de montura."
+        },
+        {
+          "letra": "B",
+          "texto": "No, pero avisa que hay animales de montura."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, aunque el acceso de bicicletas y ciclomotores está permitido."
+        }
+      ],
+      "ayuda": "Señal de camino reservado y obligatorio para animales de montura: obligación para los jinetes de utilizar con sus animales de montura el camino a cuya entrada esté situada y prohibición a los demás usuarios de la vía de utilizarlo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Dónde se puede encontrar esta señal?",
+      "imagen": "examen-81_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En autopistas y autovías."
+        },
+        {
+          "letra": "B",
+          "texto": "En carreteras convencionales."
+        },
+        {
+          "letra": "C",
+          "texto": "En cualquier tipo de vía."
+        }
+      ],
+      "ayuda": "Los paneles de aproximación a salida indican en una autopista o una autovía que la próxima salida está situada, aproximadamente, a 300 metros, 200 metros y 100 metros, respectivamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Cómo debe colocar el navegador GPS portátil en el vehículo?",
+      "imagen": "examen-81_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Debajo del volante, tan cerca del suelo como sea posible."
+        },
+        {
+          "letra": "B",
+          "texto": "Justo detrás del volante, a la altura de los ojos del conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "Donde no entorpezca ni la visión ni el despliegue del airbag."
+        }
+      ],
+      "ayuda": "El navegador GPS debe colocarse de forma que no interfiera en la conducción ni entorpezca la visión o el despliegue del airbag.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Las indicaciones de este semáforo, deben ser obedecidas por...",
+      "imagen": "examen-81_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los peatones y los ciclistas."
+        },
+        {
+          "letra": "B",
+          "texto": "todos los usuarios de la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "solo los peatones."
+        }
+      ],
+      "ayuda": "Las indicaciones de los semáforos para peatones afectan únicamente a este grupo de usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Según los datos de accidentalidad, ¿en qué tipo de vehículo mueren más conductores en accidentes de tráfico?",
+      "imagen": "examen-81_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Motocicleta."
+        },
+        {
+          "letra": "B",
+          "texto": "Furgoneta."
+        },
+        {
+          "letra": "C",
+          "texto": "Turismo."
+        }
+      ],
+      "ayuda": "Según los datos de accidentalidad, los turismos son los vehículos en los que mueren más conductores en accidentes de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Es peligroso escribir mensajes con el teléfono móvil mientras se conduce?",
+      "imagen": "examen-81_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, si el conductor emplea una sola mano para usar el móvil."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo si el conductor tiene poca experiencia y circula a una velocidad elevada."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí; el conductor se distrae y le cuesta mantener una velocidad adecuada."
+        }
+      ],
+      "ayuda": "Utilizar aplicaciones de mensajería durante la conducción es una conducta de riesgo considerada grave para la seguridad vial, ya que mientras se escribe o se lee un mensaje, pueden surgir circunstancias que provoquen un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Las personas mayores, ¿pueden tener problemas como peatones, especialmente cuando van solas, y constituir por ello un grupo de riesgo o vulnerable en el tráfico?",
+      "imagen": "examen-81_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí; pueden tener problemas de orientación, lo que puede ocasionar distracciones."
+        },
+        {
+          "letra": "B",
+          "texto": "No; las personas mayores no son un grupo de riesgo como peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si las aceras son muy anchas y necesitan bastón para desplazarse."
+        }
+      ],
+      "ayuda": "Entre los problemas que presentan las personas mayores en su condición de peatones se encuentran: la dificultad para estimar la velocidad de los vehículos, el ruido ambiental excesivo, problemas de orientación (lo que suele producir distracciones), mala iluminación de las vías, calles demasiado anchas, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Todo conductor implicado en un accidente de tráfico, ¿está obligado a detenerse para esclarecer los hechos?",
+      "imagen": "examen-81_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo si es culpable del accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero de forma que no cree un nuevo peligro para la circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Los usuarios de las vías que se vean implicados en un accidente de tráfico, lo presencien o tengan conocimiento de él estarán obligados a auxiliar o solicitar auxilio para atender a las víctimas, si las hubiera, prestar su colaboración para evitar mayores peligros o daños, restablecer, en la medida de lo posible, la seguridad de la circulación y esclarecer los hechos. En cualquier caso, deberán detenerse de forma que no creen un nuevo peligro para la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Es obligatorio que los vehículos de movilidad personal dispongan de sistema de alumbrado?",
+      "imagen": "examen-81_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No; la instalación de un sistema de alumbrado es opcional."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí; es obligatorio llevar luces delantera, trasera y luz de freno."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí; es obligatorio llevar la luz delantera y la trasera; la luz de freno es opcional."
+        }
+      ],
+      "ayuda": "En los vehículos de movilidad personal (VMP) es obligatorio llevar luces delantera, trasera y luz de freno.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Para evitar que pierdan elasticidad y capacidad de adherencia, ¿cada cuánto tiempo, aproximadamente, es conveniente cambiar los neumáticos de un vehículo?",
+      "imagen": "examen-81_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cada diez años."
+        },
+        {
+          "letra": "B",
+          "texto": "Cada cinco años, pero solo si no tienen suficiente dibujo."
+        },
+        {
+          "letra": "C",
+          "texto": "Al menos cada cinco años."
+        }
+      ],
+      "ayuda": "Aunque no estén visiblemente desgastados, los neumáticos se deterioran y pierden capacidad de adherencia con el transcurso del tiempo. Por ello, es conveniente cambiarlos al menos cada cinco años.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Debe detenerse ante estas marcas viales?",
+      "imagen": "examen-81_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando pasa un ciclista, porque en este paso tiene prioridad."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque no es un paso de peatones ni una marca de detención."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre, para ceder el paso."
+        }
+      ],
+      "ayuda": "Una marca consistente en dos líneas transversales discontinuas y paralelas sobre la calzada indica un paso para ciclistas, donde éstos tienen preferencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Si circula con la presión de inflado de los neumáticos descompensada, ¿aumenta el riesgo de perder el control del vehículo?",
+      "imagen": "examen-81_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, ya que la frenada es irregular y se reduce la estabilidad del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "No, si está descompensada por eje mejora la adherencia, incluso, cuando la calzada está resbaladiza."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque aumenta el área de contacto del neumático con la calzada y facilita el rodaje."
+        }
+      ],
+      "ayuda": "Una presión de inflado descompensada (diferente entre las ruedas de un mismo eje) puede resultar peligroso y aumentar el riesgo de pérdida de control del vehículo especialmente al frenar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-81_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Vía reservada y obligatoria para ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "Vía reservada a ciclos."
+        },
+        {
+          "letra": "C",
+          "texto": "Prohibición de entrada a ciclomotores."
+        }
+      ],
+      "ayuda": "Vía reservada y obligatoria para ciclomotores. Indica la obligación para los conductores de ciclomotores de circular por la vía a cuya entrada esté situada y prohibición a los demás usuarios de la vía de utilizarla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Esta carretera tiene más de 6 metros de ancho, ¿es correcto circular por encima de las líneas que separan los carriles?",
+      "imagen": "examen-81_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando no hay vehículos que se acerquen en sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, ya que hay dos carriles."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ya que debo circular dentro de mi carril."
+        }
+      ],
+      "ayuda": "Las líneas discontinuas en la calzada están destinada a delimitar los carriles con el fin de guiar la circulación, y significan que ningún conductor debe circular con su vehículo sobre ella, salvo cuando sea necesario y la seguridad de la circulación lo permita, en calzadas con carriles estrechos (de menos de tres metros de anchura).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Está permitido circular con un turismo si por las ventanas laterales sobresale la carga que lleva dentro del vehículo, como por ejemplo una escalera?",
+      "imagen": "examen-81_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, señalizando debidamente la carga."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si la carga no sobresale más de 30 centímetros."
+        }
+      ],
+      "ayuda": "En los turismos, la carga en ningún caso puede sobresalir lateralmente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Cuál es la masa máxima autorizada para un remolque ligero no agrícola?",
+      "imagen": "examen-81_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Superior a 750 kilogramos."
+        },
+        {
+          "letra": "B",
+          "texto": "Igual o inferior a 750 kilogramos."
+        },
+        {
+          "letra": "C",
+          "texto": "Igual o inferior a 1.500 kilogramos."
+        }
+      ],
+      "ayuda": "Los remolques ligeros tienen una masa máxima autorizada inferior o igual a 750 kilogramos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "El sistema de advertencia de colisión frontal (FCW). ¿Frenará automáticamente el vehículo cuando se acerque peligrosamente a otro vehículo que circule por delante?",
+      "imagen": "examen-81_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No; avisa visualmente en el cuadro de mandos de la distancia que falta para el impacto."
+        },
+        {
+          "letra": "B",
+          "texto": "No; su función es avisar al conductor de una posible colisión."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si el conductor no interviene."
+        }
+      ],
+      "ayuda": "Los sistemas ADAS de advertencia de colisión frontal (FCW) alertan al conductor en las situaciones en las que se produzca riesgo de colisión con otros vehículos que se encuentren delante del propio vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Cuál de los tres factores de riesgo es el que está menos implicado entre las causas de los accidentes de tráfico?",
+      "imagen": "examen-81_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El factor vía y su entorno."
+        },
+        {
+          "letra": "B",
+          "texto": "El factor humano."
+        },
+        {
+          "letra": "C",
+          "texto": "El factor vehículo."
+        }
+      ],
+      "ayuda": "El factor humano es el que tiene una incidencia notoriamente mayor en la accidentalidad vial. Se estima que su incidencia está situada entre el 70 y el 90 %, seguida por el factor vía y su entorno (entre el 10 y el 35%), y el factor vehículo (entre un 4 y un 13%).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-81_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prohibido detenerse en el peaje."
+        },
+        {
+          "letra": "B",
+          "texto": "Prohibido acceder al peaje."
+        },
+        {
+          "letra": "C",
+          "texto": "Prohibido pasar sin detenerse en el peaje."
+        }
+      ],
+      "ayuda": "Prohibición de pasar sin detenerse: la señal indica el lugar donde es obligatoria la detención por la proximidad, según la inscripción que contenga (en este caso un puesto de peaje).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Cuando se sale de una zona privada para incorporarse al tráfico, ¿hay que ceder el paso?",
+      "imagen": "examen-81_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, a todos los vehículos que circulan por la vía a la que se incorpora."
+        },
+        {
+          "letra": "B",
+          "texto": "No, ya que se tiene prioridad sobre todos los vehículos que circulan por la vía a la que se incorpora."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo a los vehículos que se acercan por la derecha."
+        }
+      ],
+      "ayuda": "Siempre que un conductor salga a una vía de uso público por un camino exclusivamente privado, debe asegurarse previamente de que puede hacerlo sin peligro para nadie y efectuarlo a una velocidad que le permita detenerse en el acto, cediendo el paso a los vehículos que circulen por aquélla, cualquiera que sea el sentido en que lo hagan.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Durante el día y con buena visibilidad, ¿esta permitido que una motocicleta circule por una carretera convencional con un remolque que no exceda el 50% de la masa en vacío de la motocicleta?",
+      "imagen": "examen-81_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que se cumplan todas las demás condiciones establecidas para este conjunto de vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso las motocicletas pueden remolcar un remolque."
+        },
+        {
+          "letra": "C",
+          "texto": "No, una motocicleta solo puede circular remolcando un remolque en vías urbanas."
+        }
+      ],
+      "ayuda": "Las motocicletas podrán arrastrar un remolque o semirremolque, siempre que no superen el 50 por ciento de la masa en vacío del vehículo tractor y se cumplan las siguientes condiciones:\n\na) Que la circulación sea de día y en condiciones que no disminuyan la visibilidad.\nb) Que la velocidad a que se circule en estas condiciones quede reducida en un 10 por ciento respecto a las velocidades genéricas que para estos vehículos se establecen en el artículo 48.\nc) Que en ningún caso transporten personas en el vehículo remolcado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

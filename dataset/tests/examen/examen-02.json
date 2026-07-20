@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 2,
+  "nombre": "Test de examen 2",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Fuera de poblado, deberán circular siempre por su derecha...",
+      "imagen": "examen-02_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "todos los peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "quienes empujen o arrastren un ciclo o ciclomotor de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "los peatones, pero en poblado."
+        }
+      ],
+      "ayuda": "En vías fuera de poblado, deberán circular siempre por la derecha de la calzada, quienes empujen o arrastren un ciclo o ciclomotor de dos ruedas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "En las operaciones de carga y descarga, ¿está permitido dejar el motor en marcha?",
+      "imagen": "examen-02_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que se accione el freno de mano."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que el conductor no se aleje."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en ningún caso."
+        }
+      ],
+      "ayuda": "En las operaciones de carga y descarga, además de dejar el vehículo completamente inmovilizado, se debe parar el funcionamiento del motor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "A partir de esta señal, circular como mínimo a 30 kilómetros por hora...",
+      "imagen": "examen-02_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "es recomendable."
+        },
+        {
+          "letra": "C",
+          "texto": "es obligatorio."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen, establece la obligación de circular, al menos, a 30 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Mirarse en el espejo retrovisor mientras se conduce, ¿puede aumentar el riesgo de accidente?",
+      "imagen": "examen-02_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque el tiempo que se mira al espejo no se presta atención a la conducción."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque es posible mirarse al espejo y conducir a la vez."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solamente de noche."
+        }
+      ],
+      "ayuda": "Mirarse en el espejo retrovisor durante la conducción es una distracción que puede aumentar el riesgo de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "A medida que se aumenta la velocidad...",
+      "imagen": "examen-02_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "resulta más difícil controlar el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "resulta menos peligroso circular."
+        },
+        {
+          "letra": "C",
+          "texto": "resulta más fácil adaptarse a las circunstancias del tráfico."
+        }
+      ],
+      "ayuda": "La velocidad es un factor determinante en la accidentalidad. A medida que la velocidad aumenta, resulta más difícil controlar el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Los ciclomotores de dos ruedas deben llevar...",
+      "imagen": "examen-02_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "dos espejos retrovisores exteriores obligatorios, uno al lado izquierdo y otro al lado derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "es optativo el espejo retrovisor del lado izquierdo y obligatorio el del lado derecho."
+        },
+        {
+          "letra": "C",
+          "texto": "es obligatorio el espejo retrovisor del lado izquierdo y optativo el del lado derecho."
+        }
+      ],
+      "ayuda": "Los ciclomotores de dos ruedas están obligados a llevar un espejo retrovisor en el lado izquierdo, siendo opcional el espejo del lado derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Con esta señal, ¿está permitido utilizar con su turismo el carril de la derecha?",
+      "imagen": "examen-02_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si no está ocupado por ningún ciclo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, utilizando el contiguo para adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ese carril está reservado sólo para ciclos."
+        }
+      ],
+      "ayuda": "El carril de la derecha señalizado con la señal de obligación para ciclos o vías ciclistas, solo puede ser utilizado por los ciclos y prohíbe la circulación por ese carril a los demás usuarios de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Una buena práctica para evitar accidentes es...",
+      "imagen": "examen-02_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circular siempre muy despacio para anticiparse a todas las situaciones de riesgo."
+        },
+        {
+          "letra": "B",
+          "texto": "señalizar con antelación sólo las maniobras que puedan ser peligrosas."
+        },
+        {
+          "letra": "C",
+          "texto": "procurar que los demás conductores puedan anticiparse a las maniobras, haciéndose ver y entender de forma adecuada."
+        }
+      ],
+      "ayuda": "Para evitar accidentes de circulación, entre otras precauciones, se debe procurar que los demás usuarios de la vía puedan anticiparse a las maniobras que vayamos a realizar con nuestro vehículo, haciéndose ver y entender de forma clara y adecuada nuestras intenciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Cuando se encuentre circulando por una vía y advierta gran presencia de ciclistas, deberá...",
+      "imagen": "examen-02_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "adoptar las precauciones necesarias para su seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "frenar y esperar la reacción de los ciclistas."
+        },
+        {
+          "letra": "C",
+          "texto": "advertir de su presencia con cualquier tipo de señales."
+        }
+      ],
+      "ayuda": "Ante la presencia de ciclistas en la calzada, se deben adoptar las precauciones necesarias para su seguridad, manteniendo siempre la distancia de seguridad reglamentaria.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "La luz antiniebla trasera solo se utilizará cuando...",
+      "imagen": "examen-02_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "las condiciones meteorológicas sean especialmente desfavorables."
+        },
+        {
+          "letra": "B",
+          "texto": "se circule a velocidad anormalmente reducida."
+        },
+        {
+          "letra": "C",
+          "texto": "se circule por carreteras de alta montaña."
+        }
+      ],
+      "ayuda": "La luz de antiniebla trasera, solo se puede encender cuando existan condiciones meteorológicas o ambientales especialmente desfavorables, como en caso de niebla espesa, lluvia muy intensa, fuerte nevada y nubes densas de polvo o humo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Los sistemas de seguridad pasiva...",
+      "imagen": "examen-02_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "son muy caros y de difícil mantenimiento."
+        },
+        {
+          "letra": "B",
+          "texto": "deben utilizarse correctamente porque un mal uso puede suponer un riesgo."
+        },
+        {
+          "letra": "C",
+          "texto": "evitan que se produzcan accidentes."
+        }
+      ],
+      "ayuda": "Los sistemas de seguridad pasiva consisten en unos elementos que se activan automáticamente al producirse un accidente, con el objetivo de proteger a los ocupantes del vehículo. Estos elementos (cinturón de seguridad, airbag, repozacabezas, etc.), deben utilizarse correctamente, ya que un mal uso puede suponer un riesgo mayor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿A qué vehículos prohíbe pasar esta señal?",
+      "imagen": "examen-02_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los vehículos que tienen más de 4,5 m de anchura."
+        },
+        {
+          "letra": "B",
+          "texto": "A los vehículos que tienen más de 3.500 kg de peso."
+        },
+        {
+          "letra": "C",
+          "texto": "A los vehículos que tienen más de 4,5 m de altura."
+        }
+      ],
+      "ayuda": "Esta señal prohíbe el paso a los vehículos cuya altura máxima, incluida la carga, supere la indicada (más de 4,5m).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Concentrar la atención en una conversación o discutir con un acompañante, ¿puede favorecer la distracción?",
+      "imagen": "examen-02_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solo en trayectos largos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, conversar con el acompañante no favorece la distracción."
+        }
+      ],
+      "ayuda": "Entre otras causas, concentrar la atención en una conversación o discutir con un acompañante, puede favorecer las distracciones al volante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "La mayoría de los accidentes de circulación...",
+      "imagen": "examen-02_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "casi nunca se pueden evitar."
+        },
+        {
+          "letra": "B",
+          "texto": "son inevitables."
+        },
+        {
+          "letra": "C",
+          "texto": "se pueden evitar."
+        }
+      ],
+      "ayuda": "La gran mayoría de los accidentes de circulación son evitables, ya que siempre el factor humano resulta determinante en la prevención.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Esta señal indica vía reservada...",
+      "imagen": "examen-02_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a ciclos y ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "a vehículos de dos ruedas y prohibición de circular a los demás usuarios."
+        },
+        {
+          "letra": "C",
+          "texto": "únicamente a ciclomotores."
+        }
+      ],
+      "ayuda": "Esta señal indica la obligación para los conductores de ciclomotores de circular por la vía a cuya entrada esté situada y prohibición a los demás usuarios de la vía utilizarla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Las ruedas tienen la presión correcta. Después de un viaje, comprueba que la presión ha aumentado. ¿Qué debe hacer?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Echar agua a las ruedas para que se enfríen."
+        },
+        {
+          "letra": "B",
+          "texto": "No quitar aire, porque el aire se ha calentado y por eso tiene más presión."
+        },
+        {
+          "letra": "C",
+          "texto": "Quitar aire de las ruedas."
+        }
+      ],
+      "ayuda": "Si después de un largo viaje comprueba la presión de inflado de los neumáticos y observa que ha aumentado por encima de la indicada por el fabricante, no debe quitarle aire. El aumento de presión es normal cuando los neumáticos están calientes. La presión debe comprobarse con los neumáticos en frío.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Esta señal indica...",
+      "imagen": "examen-02_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "bifurcación hacia la izquierda en calzada de tres carriles."
+        },
+        {
+          "letra": "B",
+          "texto": "proximidad de salida de la autovía."
+        },
+        {
+          "letra": "C",
+          "texto": "bifurcación hacia la derecha en calzada de tres carriles."
+        }
+      ],
+      "ayuda": "Esta señal indica bifurcación hacia la izquierda en calzada de tres carriles para el mismo sentido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Si conduce una motocicleta en zona urbana, ¿qué distancia lateral debe mantener con el resto de vehículos?",
+      "imagen": "examen-02_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La distancia lateral no importa en zona urbana."
+        },
+        {
+          "letra": "B",
+          "texto": "Una distancia proporcional a la velocidad, a la anchura y a las características de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Un espacio no inferior a 1,5 metros."
+        }
+      ],
+      "ayuda": "Independientemente del vehículo que se conduzca, en vías urbanas al adelantar a cualquier vehículo se debe dejar una distancia lateral de seguridad proporcional a la velocidad, anchura y a las características de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Ante este deslumbramiento debe...",
+      "imagen": "examen-02_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "encender las luces largas para aumentar la visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "reducir la velocidad lo necesario, llegando incluso a detenerse."
+        },
+        {
+          "letra": "C",
+          "texto": "acelerar para que el tiempo de deslumbramiento sea el menor posible."
+        }
+      ],
+      "ayuda": "Todo conductor que sea deslumbrado, debe reducir la velocidad lo necesario e incluso detenerse.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "En los tramos de vía en los que, por su estrechez, no se puedan cruzar dos vehículos, tiene preferencia de paso el vehículo que...",
+      "imagen": "examen-02_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circule por una vía descendente."
+        },
+        {
+          "letra": "B",
+          "texto": "entre primero en el paso estrecho."
+        },
+        {
+          "letra": "C",
+          "texto": "tenga menores dificultades de maniobra."
+        }
+      ],
+      "ayuda": "En los tramos de vía en los que, por su estrechez, no se puedan cruzar dos vehículos, tendrá preferencia de paso el vehículo que hubiera entrado primero al estrechamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "En esta autopista, ¿cuándo se puede circular por el arcén?",
+      "imagen": "examen-02_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nunca."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando por emergencia o avería se circule a velocidad anormalmente reducida."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando hay muchos vehículos circulando."
+        }
+      ],
+      "ayuda": "En autopistas y autovías, solo se podrá circular por el arcén, cuando por emergencia o avería se circule a una velocidad anormalmente reducida perturbando con ello la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Conducir cansado, ¿por qué es peligroso?",
+      "imagen": "examen-02_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque disminuye la capacidad de reacción."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque se reacciona más rápido ante un imprevisto."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque aumenta la capacidad de reacción."
+        }
+      ],
+      "ayuda": "Conducir estando cansado es muy peligroso, ya que disminuye la capacidad de reacción y por tanto, aumenta el tiempo de reacción ante cualquier imprevisto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Cuándo termina la limitación de velocidad que indica esta marca vial?",
+      "imagen": "examen-02_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando encuentre otra señal de velocidad máxima distinta, una señal de fin de limitación de velocidad o una señal de fin de prohibiciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando circule por encima de ella."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo cuando encuentre otra señal de velocidad máxima distinta."
+        }
+      ],
+      "ayuda": "La velocidad indicada por esta marca vial, deja de tener vigencia cuando pasemos otra señal de velocidad máxima distinta, una señal de fin de limitación de velocidad o la señal de fin de prohibición.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "En un paso para peatones, ¿está permitido parar o estacionar?",
+      "imagen": "examen-02_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Está permitido parar, pero está prohibido estacionar."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido parar y estacionar en los pasos para peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Cuando entra en una autopista o autovía por el carril de aceleración, ¿debe ceder el paso?",
+      "imagen": "examen-02_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque este carril es para alcanzar la velocidad máxima."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "En una autovía no, en autopista sí."
+        }
+      ],
+      "ayuda": "Al incorporarse a la calzada de una autopista o autovía desde un carril de aceleración, es obligatorio ceder el paso a los vehículos que ya circulan por los carriles a los que pretendemos incorporarnos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Si el sistema de navegación del GPS es portátil, ¿qué es recomendable?",
+      "imagen": "examen-02_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Intentar colocarlo cerca de un airbag."
+        },
+        {
+          "letra": "B",
+          "texto": "Seguir siempre las instrucciones del dispositivo, frente al juicio del conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "Colocarlo a una altura correcta y sin que entorpezca la visión de la carretera."
+        }
+      ],
+      "ayuda": "Si su sistema de navegación GPS es portátil, debe colocarlo a una altura correcta y sin que entorpezca la visión de la carretera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "En una intersección regulada por esta señal, ¿a quién debe ceder el paso?",
+      "imagen": "examen-02_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los vehículos que se aproximen por mi derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo a los vehículos que tengan mayores dificultades de maniobra."
+        },
+        {
+          "letra": "C",
+          "texto": "A ningún vehículo, porque esta señal me indica que circulo por la vía con prioridad."
+        }
+      ],
+      "ayuda": "Una intersección regulada con esta señal, se le debe ceder el paso solo a los vehículos que se aproximen por la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Cuando avise de un accidente, ¿qué información es útil que aporte a los servicios de emergencia?",
+      "imagen": "examen-02_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El lugar del accidente, el número de víctimas y su identificación."
+        },
+        {
+          "letra": "B",
+          "texto": "Cómo ha ocurrido el accidente y los vehículos accidentados."
+        },
+        {
+          "letra": "C",
+          "texto": "El lugar del accidente y el número de matrícula de los vehículos."
+        }
+      ],
+      "ayuda": "En caso de pedir auxilio en un accidente de tráfico, se debe aportar a los servicios de emergencia el lugar del accidente, el número de víctimas y su identificación, así como otros datos de interés.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "En vía urbana con varios carriles para cada sentido, ¿por cuál de ellos circulará como norma general?",
+      "imagen": "examen-02_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el carril de la derecha, siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el que más convenga a su destino, cuando los carriles estén delimitados por marcas longitudinales."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el que más convenga a su destino, estén o no delimitados los carriles."
+        }
+      ],
+      "ayuda": "En las vías urbanas que dispongan de varios carriles para el mismo sentido, como norma general se circulará por el que mejor convenga al destino del vehículo, siempre y cuando los carriles estén delimitados por marcas longitudinales. En caso contrario, se circulará por el carril situado más a la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Si queda detenido en un túnel por necesidades de la circulación durante un tiempo superior a 2 minutos, ¿qué debe hacer?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detener el vehículo lo más cerca posible del vehículo que circula delante."
+        },
+        {
+          "letra": "B",
+          "texto": "Conectar la señal de emergencia, mantener encendidas las luces de posición y apagar el motor."
+        },
+        {
+          "letra": "C",
+          "texto": "Encender, solamente, la señal de emergencia."
+        }
+      ],
+      "ayuda": "Al quedar detenido en un túnel por necesidades de la circulación (retenciones, obstáculos, etc.) se debe conectar la señal de emergencia y mantener encendidas las luces de posición. En caso de que la inmovilización tenga una duración superior a dos minutos, también se debe apagar el motor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

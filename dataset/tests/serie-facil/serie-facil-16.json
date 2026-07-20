@@ -1,0 +1,601 @@
+{
+  "categoria_id": 2,
+  "test_id": 16,
+  "nombre": "Serie fácil 16",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Es obligatorio matricular un ciclomotor?",
+      "imagen": "serie-facil-16_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, es obligatorio para poder circular por las vías públicas."
+        },
+        {
+          "letra": "B",
+          "texto": "No, es opcional."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero únicamente si es para circular por vías interurbanas."
+        }
+      ],
+      "ayuda": "Los ciclomotores deben estar matriculados, de lo contrario no podrán circular por las vías públicas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "La luz larga, ¿dónde está prohibido encenderla?",
+      "imagen": "serie-facil-16_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En vías estrechas."
+        },
+        {
+          "letra": "B",
+          "texto": "En vías urbanas (calles y travesías)."
+        }
+      ],
+      "ayuda": "Entre otros casos, la luz de largo alcance está prohibida, en vías urbanas y travesías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Dentro de un túnel con más de un carril para cada sentido de circulación, ¿se permite adelantar?",
+      "imagen": "serie-facil-16_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo dentro de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando no haya señales que lo prohíban."
+        }
+      ],
+      "ayuda": "En los túneles se puede adelantar si existe más de un carril para el vehículo que se pretende adelantar y siempre que no haya señales que lo prohíban.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Los conductores que llegan a un paso a nivel cerrado deben...",
+      "imagen": "serie-facil-16_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "detenerse uno detrás de otro en el carril que corresponda."
+        },
+        {
+          "letra": "B",
+          "texto": "cambiar el sentido de la marcha y buscar un itinerario alternativo."
+        },
+        {
+          "letra": "C",
+          "texto": "avisar a los demás conductores con las luces de emergencia."
+        }
+      ],
+      "ayuda": "Los conductores que lleguen a un paso a nivel cerrado, deben detenerse uno detrás del otro en el carril que corresponda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Una señal de balizamiento consistente en una luz roja fija, indica que...",
+      "imagen": "serie-facil-16_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la calzada está totalmente cerrada al tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "a partir de ella, hay que reducir la velocidad."
+        }
+      ],
+      "ayuda": "Una luz roja fija de balizamiento, indica que la calzada está totalmente cerrada al tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Sopla viento lateral. ¿Debe reducir la velocidad?",
+      "imagen": "serie-facil-16_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Si existe viento lateral, se debe reducir la velocidad y utilizar marchas cortas cuando sea necesario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué vehículos deben tener concertado el Seguro Obligatorio?",
+      "imagen": "serie-facil-16_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los vehículos a motor y ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo los turismos."
+        }
+      ],
+      "ayuda": "Deben estar asegurados todos los vehículos de motor y los ciclomotores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "En caso de lluvia no intensa, ¿está permitido utilizar la luz de antiniebla?",
+      "imagen": "serie-facil-16_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, la trasera."
+        }
+      ],
+      "ayuda": "Si la lluvia no es intensa, no se permite encender las luces de antiniebla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "Con hielo en la calzada, si el vehículo no tiene ABS, es preferible...",
+      "imagen": "serie-facil-16_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "usar el freno de mano."
+        },
+        {
+          "letra": "B",
+          "texto": "evitar pisar el freno."
+        }
+      ],
+      "ayuda": "Si el vehículo no dispone del sistema de frenado ABS y existe hielo sobre la calzada, se debe circular a velocidad muy moderada y evitar pisar el freno si no es estrictamente necesario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "En las travesías, ¿está permitido circular con la luz de corto alcance?",
+      "imagen": "serie-facil-16_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En travesías durante la noche se deben utilizar las luces de posición y las de corto alcance o de cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Si el resultado de las pruebas de alcoholemia es positivo, el agente podrá inmovilizar el vehículo, a no ser que...",
+      "imagen": "serie-facil-16_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el conductor haga efectiva en el acto la sanción económica impuesta."
+        },
+        {
+          "letra": "B",
+          "texto": "pueda hacerse cargo de su conducción otra persona debidamente habilitada."
+        }
+      ],
+      "ayuda": "Pruebas de alcoholemia.\nEn el supuesto de que el resultado de las pruebas y de los análisis, en su caso, fuera positivo, el agente actuante podrá proceder además a la inmediata inmovilización del vehículo a no ser que pueda hacerse cargo de su conducción otra persona debidamente habilitada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Para prevenir la fatiga debe parar a descansar 20 o 30 minutos...",
+      "imagen": "serie-facil-16_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a mitad de recorrido."
+        },
+        {
+          "letra": "B",
+          "texto": "cada 2 horas o 200 kilómetros de conducción continada."
+        }
+      ],
+      "ayuda": "Parar prevenir la fatiga, se debe descansar aproximadamente cada 2 horas o cada 200 kilómetros de conducción continuada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Negarse a realizar la prueba de alcoholemia...",
+      "imagen": "serie-facil-16_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es un delito castigado por el código penal."
+        },
+        {
+          "letra": "B",
+          "texto": "no tiene importancia cuando no se ha producido un accidente."
+        }
+      ],
+      "ayuda": "Negarse a realizar la prueba de alcoholemia, es un delito castigado por el código penal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Para contaminar lo menos posible es recomendable...",
+      "imagen": "serie-facil-16_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mantener la velocidad lo más uniforme posible evitando aceleraciones y frenazos innecesarios."
+        },
+        {
+          "letra": "B",
+          "texto": "mantener siempre la máxima velocidad."
+        }
+      ],
+      "ayuda": "Para contaminar lo menos posible, es recomendable mantener la velocidad lo más uniforme posible evitando aceleraciones y frenazos bruscos innecesarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Por qué es importante no superar los 90 km/h en carretera convencional?",
+      "imagen": "serie-facil-16_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque el tráfico es mayor en estas vías."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque los sentidos de circulación están juntos en la misma calzada y aumenta el peligro."
+        }
+      ],
+      "ayuda": "En carreteras convencionales es muy importante no superar los 90 kilómetros por hora, porque los sentidos de circulación están muy juntos en la misma calzada y aumenta el peligro de colisión con otros vehículos que se aproximen de frente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Modificar la señalización de la vía...",
+      "imagen": "serie-facil-16_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Está prohibido, salvo causa justificada."
+        }
+      ],
+      "ayuda": "Salvo causa justificada, nadie debe modificar el contenido de las señales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Si por avería queda inmovilizado dentro de un túnel, deberá...",
+      "imagen": "serie-facil-16_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "apagar el motor, conectar las luces de emergencia y mantener la luz de posición."
+        },
+        {
+          "letra": "B",
+          "texto": "apagar todas las luces y poner punto muerto."
+        }
+      ],
+      "ayuda": "Si por avería u otras causas se queda averiado con su turismo en un túnel, debe apagar el motor, conectar las luces de emergencia y mantener encendidas las luces de posición.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Un ciclista ha consumido estupefacientes, ¿puede circular?",
+      "imagen": "serie-facil-16_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Si un ciclista ha consumido estupefacientes no debe circular por las vías públicas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "En los vehículos no destinados exclusivamente al transporte de mercancías, ¿puede sobresalir una carga indivisible por la parte posterior?",
+      "imagen": "serie-facil-16_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, hasta un 15 por ciento de la longitud del vehículo."
+        }
+      ],
+      "ayuda": "En los vehículos no destinados exclusivamente al transporte de mercancías, la carga indivisible podrá sobresalir por su parte posterior hasta un 15% de la longitud del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Está permitido realizar una parada delante de un vado señalizado?",
+      "imagen": "serie-facil-16_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Delante de los vados correctamente señalizados se permite parar, lo que está prohibido es estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Todos los turismos están obligados a llevar dos espejos como mínimo. ¿Qué espejo es siempre obligatorio?",
+      "imagen": "serie-facil-16_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El izquierdo."
+        },
+        {
+          "letra": "B",
+          "texto": "El derecho."
+        }
+      ],
+      "ayuda": "En los turismos será siempre obligatorio el espejo retrovisor exterior izquierdo, el central se puede sustituir por otro en el lado derecho del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "En una vía cortada no se puede cambiar el sentido. ¿Está permitido salir marcha atrás?",
+      "imagen": "serie-facil-16_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Si entramos con nuestro vehículo en una vía cortada en la que no podemos cambiar el sentido de la marcha, se permite salir en marcha atrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Si circula por el carril de aceleración, ¿debe ceder el paso a los vehículos que circulan por la vía a la que pretende incorporarse?",
+      "imagen": "serie-facil-16_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Si circulas por un carril de aceleración para entrar en una autopista, debes ceder el paso a los vehículos que circulen por la vía principal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Es aconsejable quitarle el casco de protección al pasajero de una motocicleta que ha sufrido un accidente?",
+      "imagen": "serie-facil-16_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Como norma general, no se le debe retirar el casco a un accidentado de motocicleta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Circulando por una autopista observa que se ha pasado una salida, ¿puede volver a ella circulando marcha atrás?",
+      "imagen": "serie-facil-16_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, comprobando que no existe peligro para otros usuarios."
+        }
+      ],
+      "ayuda": "En autopistas y autovías queda terminantemente prohibido circular en marcha atrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "En doble fila, ¿qué está prohibido?",
+      "imagen": "serie-facil-16_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Parar."
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionar."
+        },
+        {
+          "letra": "C",
+          "texto": "Nada."
+        }
+      ],
+      "ayuda": "El estacionamiento en doble fila está prohibido en todo caso. En determinadas circunstancias, sí que se permite la parada en doble fila en los supuestos reglamentarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Qué produce más distracciones en la conducción?",
+      "imagen": "serie-facil-16_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Usar el teléfono móvil."
+        },
+        {
+          "letra": "B",
+          "texto": "Escuchar la radio."
+        },
+        {
+          "letra": "C",
+          "texto": "Observar las señales."
+        }
+      ],
+      "ayuda": "La utilización del teléfono móvil durante la conducción, aún haciendo uso de un dispositivo de manos libres, es una importante causa de distracciones que se relaciona con un elevado número de accidentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "A la vista de la señalización se encuentra usted...",
+      "imagen": "serie-facil-16_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "ante un paso a nivel sin barreras."
+        },
+        {
+          "letra": "B",
+          "texto": "ante un paso a nivel con barreras."
+        }
+      ],
+      "ayuda": "Barrera o semibarrera móvil: prohíbe temporalmente el paso, mientras se encuentre en posición transversal a la calzada, en un paso a nivel, puesto de peaje o de aduana, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Con el permiso B para conducir turismos, ¿qué otros vehículos se pueden conducir?",
+      "imagen": "serie-facil-16_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ciclomotores de dos, tres y cuatro ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "Motocicletas de más de 125 centímetros cúbicos."
+        },
+        {
+          "letra": "C",
+          "texto": "Todos los vehículos que se pueden conducir con el permiso A."
+        }
+      ],
+      "ayuda": "Con el permiso de la clase B, además de la conducción de automóviles que no superen los 3.500 kilogramos de masa máxima autorizada y no sobrepasen las nueve plazas, se pueden conducir ciclomotores de 2, 3 y cuatro ruedas, así como determinados vehículos especiales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿A qué velocidad, como máximo, le está permitido adelantar con su turismo en una autovía?",
+      "imagen": "serie-facil-16_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 140 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "A 120 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "A 110 kilómetros por hora."
+        }
+      ],
+      "ayuda": "La velocidad máxima permitida para un turismo en una autovía es de 120 kilómetros por hora, incluso para adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

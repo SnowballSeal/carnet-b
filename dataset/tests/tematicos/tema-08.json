@@ -1,0 +1,697 @@
+{
+  "categoria_id": 3,
+  "test_id": 9,
+  "nombre": "Tema 8 — Velocidad y distancia entre vehículos",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "La máxima velocidad segura que puede mantenerse sobre una sección de carretera en condiciones favorables es la velocidad...\n",
+      "imagen": "tema-08_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "de fluidez de una vía."
+        },
+        {
+          "letra": "B",
+          "texto": "adecuada de una vía."
+        },
+        {
+          "letra": "C",
+          "texto": "de diseño de una vía."
+        }
+      ],
+      "ayuda": "La velocidad de diseño se define como la máxima velocidad segura que puede mantenerse sobre una carretera en condiciones favorables.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Si debido a una avería circula por una autopista a velocidad anormalmente reducida perturbando la circulación, ¿qué debe hacer?",
+      "imagen": "tema-08_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerme en el arcén y solicitar ayuda."
+        },
+        {
+          "letra": "B",
+          "texto": "Circular por el arcén y abandonarla por la primera salida."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular por el arcén hasta la zona de servicios más próxima."
+        }
+      ],
+      "ayuda": "Todo conductor que, por razones de emergencia, se vea obligado a circular con su vehículo por una autopista o autovía a velocidad anormalmente reducida, deberá abandonarla por la primera salida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Con carácter general, la velocidad máxima permitida en travesías es de 50 km/h; ¿se podrá establecer una velocidad máxima inferior a ésta?",
+      "imagen": "tema-08_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo cuando la travesía disponga de un solo carril por sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La velocidad máxima establecida con carácter general en travesías es de 50 kilómetros por hora. No obstante, las autoridades competentes podrán establecer velocidades máximas inferiores cuando así sea necesario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En esta situación, ¿cuál debe ser la distancia de seguridad entre vehículos?",
+      "imagen": "tema-08_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "60 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Aquella que permita detenerse, sin colisionar con el vehículo que circula delante."
+        },
+        {
+          "letra": "C",
+          "texto": "90 metros."
+        }
+      ],
+      "ayuda": "Todo conductor de un vehículo que circule detrás de otro deberá dejar entre ambos un espacio libre que permita detenerse en caso de frenado brusco, sin colisionar con él.\n\nAdemás de esta distancia, la separación que debe guardar todo conductor de vehículo que circule detrás de otro sin señalar su propósito de adelantamiento, deberá ser tal que permita al que a su vez le siga adelantarlo con seguridad. Los conductores de vehículos de más de 3.500 kilogramos y de vehículos o conjuntos de vehículos de más de 10 metros de longitud guardarán, a estos efectos, una distancia mínima de 50 metros.\n\nEsto último no será de aplicación cuando se circule:\n\na) En poblado.\nb) Dónde estuviere prohibido el adelantamiento.\nc) Dónde hubiere más de un carril destinado a la circulación en su mismo sentido.\nd) Cuando la circulación estuviere tan saturada que no permita el adelantamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Los límites de velocidad establecidos en las vías tienen como objetivo...",
+      "imagen": "tema-08_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "garantizar la seguridad únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "garantizar la seguridad y la fluidez."
+        },
+        {
+          "letra": "C",
+          "texto": "adaptar la conducción a las nuevas tecnologías de los vehículos."
+        }
+      ],
+      "ayuda": "Los límites de velocidad establecidos en las vías tienen como objetivo garantizar la seguridad y la fluidez de la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Un vehículo circula a velocidad adecuada cuando...\n",
+      "imagen": "tema-08_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no se adapta a las circunstancias ni del tráfico ni de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "se adapta a las condiciones de la vía pero supera los límites establecidos."
+        },
+        {
+          "letra": "C",
+          "texto": "circula por debajo de la velocidad máxima y por encima de la mínima."
+        }
+      ],
+      "ayuda": "Se puede considerar velocidad adecuada la que debe mantener todo conductor de vehículos según las circunstancias objetivas de la circulación a fin de poder detener su vehículo sin peligro. También se puede considerar velocidad adecuada, cuando se circula por debajo de la velocidad máxima y por encima de la mínima permitida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Al aproximarse a un lugar de visibilidad reducida, ¿qué precauciones se deben tomar?",
+      "imagen": "tema-08_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ninguna si no vienen vehículos en sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical."
+        },
+        {
+          "letra": "C",
+          "texto": "Moderar la velocidad y, si fuera preciso, detener el vehículo."
+        }
+      ],
+      "ayuda": "Al aproximarse a un lugar de visibilidad reducida se debe moderar la velocidad y, si fura preciso, detener el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Al acercarse a un centro docente, ¿qué precauciones se deben tomar?",
+      "imagen": "tema-08_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Moderar la velocidad y, si fuera preciso, detener el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical."
+        },
+        {
+          "letra": "C",
+          "texto": "Hacer señales acústicas para indicar nuestra presencia."
+        }
+      ],
+      "ayuda": "Al acercarse a un centro docente, o a cualquier otro lugar frecuentado por niños, se debe moderar la velocidad y, si fuera preciso, detener el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "Este conjunto de vehículos con remolque de 750 kg de M.M.A., ¿a qué velocidad puede circular como máximo en una autovía?",
+      "imagen": "tema-08_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "90 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "100 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "120 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima permitida en autopistas y autovías para turismos con remolque de hasta 750 kilogramos es de 90 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "Aunque no se superen los límites máximos de velocidad, ¿puede llegar a circular a una velocidad inadecuada?",
+      "imagen": "tema-08_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que vaya a más de 100 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en tanto que la velocidad debe adecuarse a las circunstancias de la vía, como por ejemplo, la lluvia, la nieve o el hielo."
+        }
+      ],
+      "ayuda": "Aunque no se superen los límites de velocidad, se puede llegar a circular a una velocidad inadecuada, cuando ésta no se adapte a las circunstancias de la vía, como por ejemplo, la lluvia, la nieve, el hielo, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Al acercarse a un peatón que quiere cruzar la calzada, ¿qué debe hacer?",
+      "imagen": "tema-08_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Moderar la velocidad y detenerme si es necesario."
+        },
+        {
+          "letra": "B",
+          "texto": "Continuar circulando, ya que el vehículo tiene prioridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Tocar el claxon y seguir la marcha a la misma velocidad."
+        }
+      ],
+      "ayuda": "Se deberá moderar la velocidad, incluso detenerse, cuando haya peatones o animales en la parte de la vía que se esté utilizando o pueda racionalmente preverse su irrupción en la misma.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "El límite genérico de velocidad en vías urbanas de dos o más carriles por sentido de circulación, será de...",
+      "imagen": "tema-08_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "30 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "20 kilómetros por hora."
+        }
+      ],
+      "ayuda": "Con carácter general, el límite genérico de velocidad en vías urbanas de dos o más carriles por sentido de circulación, será de 50 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "El arcén de esta carretera convencional mide más de 1,5 metros de ancho. ¿A qué velocidad máxima se puede circular para adelantar?",
+      "imagen": "tema-08_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "100 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "90 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "140 km/h."
+        }
+      ],
+      "ayuda": "En las carreteras convencionales la velocidad máxima 90 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Circular demasiado cerca del vehículo de delante, ¿puede ser peligroso?",
+      "imagen": "tema-08_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, por el riesgo de alcance en caso de frenada."
+        },
+        {
+          "letra": "B",
+          "texto": "No, cuando los frenos de mi vehículo estén en buen estado."
+        },
+        {
+          "letra": "C",
+          "texto": "No, cuando circule a la misma velocidad que el vehículo de delante."
+        }
+      ],
+      "ayuda": "Cuando se circula detrás de un vehículo, se debe mantener siempre la distancia de seguridad suficiente para no colisionar con él en el caso de que frene bruscamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "De los vehículos que se citan, ¿cuáles deben guardar al menos 50 metros de distancia de seguridad respecto a los vehículos que circulan delante, en carreteras convencionales que dispongan de un carril para cada sentido, y cuando esté permitido el adelantamiento?",
+      "imagen": "tema-08_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los turismos de menos de 3.500 kg de M.M.A."
+        },
+        {
+          "letra": "B",
+          "texto": "Los camiones de más de 3.500 kg de M.M.A."
+        },
+        {
+          "letra": "C",
+          "texto": "Los camiones de menos de 3.500 kg de M.M.A."
+        }
+      ],
+      "ayuda": "La separación que debe guardar todo conductor de vehículo que circule detrás de otro sin señalar su propósito de adelantamiento deberá ser tal que permita al que a su vez le siga adelantarlo con seguridad. Los vehículos con masa máxima autorizada superior a 3.500 kilogramos y los vehículos y conjuntos de vehículos de más de 10 metros de longitud total deberán guardar, a estos efectos, una separación mínima de 50 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Cuando en los alrededores de la calzada hay niños que quieren atravesarla:",
+      "imagen": "tema-08_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tiene que advertir la presencia con las luces de largo alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "Tiene que moderar la velocidad del vehículo y si es necesario detenerse."
+        },
+        {
+          "letra": "C",
+          "texto": "Tiene que circular a menos de la mitad de la velocidad permitida."
+        }
+      ],
+      "ayuda": "Ante la presencia de niños en la vía o en sus proximidades, se debe moderar la velocidad y si fuera preciso, detenerse.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Qué es lo más importante para evitar colisionar con el vehículo que circula delante?",
+      "imagen": "tema-08_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mantener una distancia frontal de seguridad suficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "Circular a una velocidad constante."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el vehículo disponga de ABS."
+        }
+      ],
+      "ayuda": "La medida más importante para evitar colisiones por alcance, es mantener en todo momento una distancia frontal de seguridad segura y suficiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Circular por una autopista a 120 km/h con lluvia intensa, es circular a una velocidad...",
+      "imagen": "tema-08_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "inadecuada."
+        },
+        {
+          "letra": "B",
+          "texto": "adecuada."
+        },
+        {
+          "letra": "C",
+          "texto": "prohibida."
+        }
+      ],
+      "ayuda": "La velocidad inadecuada es aquella que no se adapta a las circunstancias de la vía o a las condiciones climatológicas existentes en cada momento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Podría ser un factor de riesgo, circular por debajo de la velocidad mínima permitida?",
+      "imagen": "tema-08_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, una velocidad anormalmente reducida puede provocar accidentes."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ya que siempre se considera una velocidad adecuada."
+        }
+      ],
+      "ayuda": "Circular por debajo de la velocidad mínima permitida, puede provocar accidentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Puede circular por una autovía, sin causa justificada, por debajo de la velocidad mínima establecida para este tipo de vía?",
+      "imagen": "tema-08_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque es circular a velocidad anormalmente reducida."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, aunque en este caso estoy obligado a circular por el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que no obstruya la circulación."
+        }
+      ],
+      "ayuda": "No está permitido circular a una velocidad inferior a la mínima establecida para la vía, excepto cuando exista una causa justificada para ello.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Mantener una correcta distancia de seguridad, sobre todo en aglomeraciones, ¿es una buena recomendación para evitar los accidentes con las motocicletas?",
+      "imagen": "tema-08_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque se pueden evitar colisiones."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque la distancia de seguridad no influye sobre los accidentes de motocicletas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque esta recomendación es para cuando se circula sin aglomeraciones."
+        }
+      ],
+      "ayuda": "Para evitar los accidentes con motocicletas (y con otros vehículos en general) se debe mantener en todo momento una correcta distancia de seguridad, especialmente en aglomeraciones de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Cuál es la velocidad máxima para un cuadriciclo no ligero en esta vía?",
+      "imagen": "tema-08_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "100 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "45 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "70 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima genérica que no deben rebasar los vehículos de tres ruedas y cuadriciclos de motor (no ligeros), en cualquier tipo de vía donde esté permitida su circulación (excepto en las vías o tramos en las que esté estipulada una velocidad inferior) es de 70 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "En carreteras convencionales, ¿por qué es importante no superar los 90 km/h?",
+      "imagen": "tema-08_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque en ellas se producen muchos adelantamientos."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque los sentidos de circulación están muy juntos y puede haber vehículos en sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Por la densidad del tráfico."
+        }
+      ],
+      "ayuda": "En carreteras convencionales es importante no superar los 90 kilómetros por hora, porque los sentidos están muy juntos y pueden aproximarse vehículos en sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Cuál es la velocidad máxima genérica para un turismo en autovía?",
+      "imagen": "tema-08_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "140 km/h, si realiza un adelantamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "100 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima permitida en autopistas y autovías para turismos y motocicletas es de 120 kilómetros por hora.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "El efecto túnel producido por la velocidad hace que el conductor...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sea más sensible a los deslumbramientos."
+        },
+        {
+          "letra": "B",
+          "texto": "sólo sea capaz de percibir con nitidez la parte lateral de la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo sea capaz de percibir con nitidez el centro de la vía."
+        }
+      ],
+      "ayuda": "El efecto túnel producido por la velocidad hace que el conductor sólo sea capaz de percibir con nitidez el centro de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "En una autopista con tres carriles para cada sentido, ¿qué distancia de seguridad debe dejar un turismo con el vehículo que circula delante?",
+      "imagen": "tema-08_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "La que permita detener el vehículo en caso de frenado brusco del que va delante sin colisionar con él."
+        },
+        {
+          "letra": "C",
+          "texto": "La que permita detener el vehículo en caso de frenado brusco y permita que los demás adelanten con seguridad."
+        }
+      ],
+      "ayuda": "En vías con más de un carril para el mismo sentido de marcha, se debe dejar una distancia de seguridad con el vehículo que nos precede, que permita detenerse en caso de frenado brusco sin colisionar con él, teniendo en cuenta especialmente la velocidad y las condiciones de adherencia y frenado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "A causa de una avería no puede alcanzar la velocidad mínima en una autovía y existe peligro de alcance por otros vehículos, debe...\n",
+      "imagen": "tema-08_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circular sólo hasta la próxima salida."
+        },
+        {
+          "letra": "B",
+          "texto": "Circular con la luz de emergencia y la de cruce encendidas."
+        },
+        {
+          "letra": "C",
+          "texto": "Detener obligatoriamente el vehículo en el arcén."
+        }
+      ],
+      "ayuda": "Todo conductor que, por razones de emergencia, se vea obligado a circular con su vehículo por una autopista o autovía a velocidad anormalmente reducida, deberá abandonarla por la primera salida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "La velocidad máxima para un vehículo mixto adaptable en autopista es de...",
+      "imagen": "tema-08_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "100 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "120 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "90km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima para vehículos mixtos adaptables en autopista es de 100km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Como norma general, ¿qué velocidad máxima no podrá rebasar un tractor agrícola sin remolque?",
+      "imagen": "tema-08_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "45 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "40 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "25 kilómetros por hora."
+        }
+      ],
+      "ayuda": "La velocidad máxima establecida con carácter general para vehículos especiales es de 40 kilómetros por hora. Cuando arrastren remolque o no dispongan de señalización de frenado, la velocidad máxima será de 25 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿A qué velocidad como mínimo debe circular con un turismo en esta autovía?",
+      "imagen": "tema-08_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A una velocidad inferior a un tercio con respecto de la genérica de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "A 80 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A 60 km/h."
+        }
+      ],
+      "ayuda": "En autopista o autovía, los vehículos de motor no podrán circular a una velocidad inferior a 60 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

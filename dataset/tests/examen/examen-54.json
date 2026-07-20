@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 54,
+  "nombre": "Test de examen 54",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Denominamos grupos vulnerables a...",
+      "imagen": "examen-54_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "determinados grupos de personas que sufren con mayor frecuencia los efectos negativos del tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "los pasajeros que resultan heridos en un accidente de tráfico."
+        },
+        {
+          "letra": "C",
+          "texto": "los niños y las personas mayores, exclusivamente."
+        }
+      ],
+      "ayuda": "El concepto \"grupos de riesgo\" o \"grupos vulnerables\", hace referencia a la existencia de grupos de personas que, por distintas circunstancias, tienen mayor probabilidad de verse involucrados en un accidente de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Los conductores de furgonetas implicados en accidentes de circulación con víctimas, tenían una antigüedad del permiso de conducir:",
+      "imagen": "examen-54_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "inferior a un año."
+        },
+        {
+          "letra": "B",
+          "texto": "entre 5 y 6 años."
+        },
+        {
+          "letra": "C",
+          "texto": "superior a 10 años."
+        }
+      ],
+      "ayuda": "La mayor parte de los conductores de furgonetas implicados en accidentes con víctimas poseía el permiso de conducción con una antigüedad de más de 10 años, representando esto el 47%.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "En relación con las técnicas de conducción preventiva, ¿es suficiente con conducir cumpliendo las normas?",
+      "imagen": "examen-54_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, hay que tener también en cuenta que otro conductor puede cometer una infracción."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque cumpliendo la normativa de tráfico el riesgo es nulo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque cumplir las normas es obligatorio."
+        }
+      ],
+      "ayuda": "Al conducir, el cumplimiento de la normativa proporciona unos niveles de seguridad aceptables, aunque el comportamiento irresponsable o incorrecto de otros usuarios, puede hacer que el conductor se vea involucrado en un accidente. Por ello, uno de los principios de la conducción preventiva es la anticipación, es decir, estar preparado para actuar ante cualquier imprevisto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Qué presión deben llevar los neumáticos?",
+      "imagen": "examen-54_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es recomendable que lleven distinta presión en cada eje."
+        },
+        {
+          "letra": "B",
+          "texto": "Los neumáticos deben llevar la presión más alta de las recomendadas por el fabricante."
+        },
+        {
+          "letra": "C",
+          "texto": "Los neumáticos deben llevar siempre la presión recomendada por el fabricante."
+        }
+      ],
+      "ayuda": "Los neumáticos siempre deben estar inflados a la presión correcta, que es la recomendada por el fabricante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Utilizar pinzas para retener el cinturón de seguridad...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es conveniente, porque reduce la presión del cinturón sobre el pecho."
+        },
+        {
+          "letra": "B",
+          "texto": "es necesario, como complemento del airbag, en los vehículos dotados del mismo."
+        },
+        {
+          "letra": "C",
+          "texto": "es peligroso, porque reduce la eficacia del cinturón."
+        }
+      ],
+      "ayuda": "Para que el cinturón cumpla su función con eficacia debe estar bien ceñido al cuerpo. A fin de evitar las holguras del mismo, no se debe conducir con ropa voluminosa (chaquetas, abrigos, etc.), ni usar pinzas o cojines a fin de darle holgura al cinturón.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Si su motocicleta lleva instalado cinturón de seguridad, debe utilizarlo...",
+      "imagen": "examen-54_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sólo cuando circule por vías interurbanas y travesías."
+        },
+        {
+          "letra": "B",
+          "texto": "en todo tipo de vías."
+        },
+        {
+          "letra": "C",
+          "texto": "únicamente cuando circule por vías interurbanas."
+        }
+      ],
+      "ayuda": "El uso del cinturón de seguridad es obligatorio, tanto en vías urbanas como interurbanas, para el conductor y los pasajeros de las motocicletas, motocicletas con sidecar, ciclomotores, vehículos de tres ruedas y cuadriciclos que estén dotados de estructura de protección y cinturones de seguridad y así conste en la correspondiente tarjeta ITV.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Cuándo debe pasar una motocicleta la primera inspección técnica periódica?",
+      "imagen": "examen-54_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los cuatro años de antigüedad para cilindradas superiores a 125 centímetros cúbicos."
+        },
+        {
+          "letra": "B",
+          "texto": "A los seis años de antigüedad."
+        },
+        {
+          "letra": "C",
+          "texto": "A los cuatro años de antigüedad."
+        }
+      ],
+      "ayuda": "Las motocicletas estarán exentas de ser sometidas a Inspección Técnica Periódica, hasta los 4 años de antigüedad. Al superar dicha antigüedad la frecuencia de las inspecciones será bienal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Cuándo está permitido estacionar en un túnel?",
+      "imagen": "examen-54_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando el túnel está suficientemente iluminado."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando la calzada tiene dos carriles de circulación para cada sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "Nunca."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido parar y estacionar en los túneles.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Está permitido circular en poblado con la luz de largo alcance?",
+      "imagen": "examen-54_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero únicamente en calzadas de autopistas o autovías."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando no se deslumbre a ningún usuario."
+        }
+      ],
+      "ayuda": "Dentro de poblado, está prohibido el uso de las luces de largo alcance o carretera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Qué tipo de lesiones puede reducir el uso correcto del reposacabezas?",
+      "imagen": "examen-54_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ninguna, es un elemento de confort."
+        },
+        {
+          "letra": "B",
+          "texto": "Lesiones cervicales."
+        },
+        {
+          "letra": "C",
+          "texto": "Ninguna, es un elemento decorativo."
+        }
+      ],
+      "ayuda": "El reposacabezas es un dispositivo que reduce significativamente las posibilidades de sufrir una lesión cervical cuando se lleva correctamente regulado, tanto en los asientos delanteros como en los traseros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "El alcohol, ¿afecta a todas las personas por igual?",
+      "imagen": "examen-54_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, salvo que se haya tomado en ayunas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando se ha tomado la misma cantidad."
+        },
+        {
+          "letra": "C",
+          "texto": "No, sus efectos dependen de factores como la constitución corporal, la edad o el hábito de beber."
+        }
+      ],
+      "ayuda": "Algunos de los factores que influyen en la tasa de alcoholemia son: la cantidad de alcohol ingerido, el tipo de bebida consumida, la hora del día y el tiempo transcurrido desde el consumo de alcohol, la rapidez con que se produce la ingesta, el peso corporal, el sexo del conductor, la edad, las comidas o las circunstancias personales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Un vehículo mixto en el que sólo viaja el conductor, ¿puede, en algún caso, circular por un carril para VAO?",
+      "imagen": "examen-54_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque debe estar ocupado por el número mínimo de personas que se fije."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si el conductor es novel."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si el vehículo ostenta la señal de minusválidos."
+        }
+      ],
+      "ayuda": "Los vehículos autorizados a circular por un carril V.A.O (turismos sin remolque y vehículos mixtos adaptables, con M.M.A. de hasta 3500 kg, y motocicletas), podrán circular por el mismo, aun cuando sólo lo ocupe el conductor, si ostenta la señal V-15 (minusválido).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Los vehículos para personas de movilidad reducida, ¿están obligados a circular por el arcén?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, pero pueden circular por el arcén cuando lo crean conveniente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en caso de que no exista vía o parte de la misma que les esté especialmente destinada."
+        },
+        {
+          "letra": "C",
+          "texto": "No, dependerá de las indicaciones de los agentes y del tipo de vía."
+        }
+      ],
+      "ayuda": "Como norma general, y en caso de que no exista vía o parte de la misma que les esté especialmente destinada, están obligados a circular por el arcén de su derecha, si fuera transitable y suficiente, y si no lo fuera, a utilizar la parte imprescindible de la calzada, los vehículos de tracción animal, vehículos para personas de movilidad reducida,ciclos, ciclomotores y vehículos especiales de hasta 3.500 kg. de M.M.A.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Cuando se circula con niebla, el conductor debe...",
+      "imagen": "examen-54_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "parar en la calzada, hasta que desaparezca la niebla."
+        },
+        {
+          "letra": "B",
+          "texto": "acercarse todo lo posible al vehículo que circula delante para poder verlo mejor."
+        },
+        {
+          "letra": "C",
+          "texto": "adaptar la velocidad a las condiciones atmosféricas de visibilidad."
+        }
+      ],
+      "ayuda": "Cuando se circula con niebla suele producirse una reducción de la visibilidad, por lo que se debe circular a velocidad reducida y adaptada a las circunstancias atmosféricas, manteniendo una distancia de seguridad suficiente. Además, se debe utilizar el alumbrado correspondiente en función de la intensidad de la niebla, y el limpiaparabrisas para eliminar las gotas de agua que se forman sobre el cristal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Si conduce un cuadriciclo equipado con cinturones de seguridad, ¿quiénes deben utilizarlos?",
+      "imagen": "examen-54_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo el conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "El conductor y el pasajero sólo cuando circulen por vías fuera de poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "Tanto el conductor como el pasajero."
+        }
+      ],
+      "ayuda": "El uso del cinturón de seguridad es obligatorio, tanto en vías urbanas como interurbanas, para el conductor y los pasajeros de las motocicletas, motocicletas con sidecar, ciclomotores, vehículos de tres ruedas y cuadriciclos que estén dotados de estructura de protección y cinturones de seguridad y así conste en la correspondiente tarjeta ITV.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "El mal uso de los medicamentos puede ser causa de...",
+      "imagen": "examen-54_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mayor riesgo de accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "estados de fuerte somnolencia."
+        },
+        {
+          "letra": "C",
+          "texto": "un incremento de las alergias"
+        }
+      ],
+      "ayuda": "Los medicamentos pueden, por diversos motivos, alterar las capacidades necesarias para conducir con seguridad, con lo cual, en dichos casos, las posibilidades de sufrir un accidente se incrementan.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Por dónde se debe circular en un cambio de rasante de reducida visibilidad?",
+      "imagen": "examen-54_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por donde más convenga a mi destino."
+        },
+        {
+          "letra": "B",
+          "texto": "Dejando completamente libre la mitad de la calzada que corresponda a los que puedan circular en sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Por la izquierda, aunque se invada parte del centro de la calzada."
+        }
+      ],
+      "ayuda": "Como norma general, y especialmente en curvas y cambios de rasante de visibilidad reducida, los vehículos circularán por la derecha, lo más cerca posible del borde de la calzada y dejando completamente libre la mitad de la calzada que corresponda a los que puedan circular en sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Este semáforo, ¿a qué vehículos afecta?",
+      "imagen": "examen-54_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo a tranvías."
+        },
+        {
+          "letra": "B",
+          "texto": "A tranvías y autobuses de líneas regulares."
+        },
+        {
+          "letra": "C",
+          "texto": "A ciclos y ciclomotores."
+        }
+      ],
+      "ayuda": "Los semáforos que consisten en una franja blanca iluminada sobre fondo circular negro, son exclusivamente para tranvías y autobuses de líneas regulares, salvo que estén colocados en un carril para autobuses o taxis, en cuyo caso deberán obedecerlo los vehículos que circulen por dicho carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Puede parar en una zona de parada y estacionamiento de uso exclusivo para transporte público urbano?",
+      "imagen": "examen-54_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Parar sí, pero no estacionar."
+        }
+      ],
+      "ayuda": "Está prohibido parar y estacionar en las zonas destinadas para estacionamiento y parada de uso exclusivo para el transporte público urbano.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Cuando un vehículo está inmovilizado en el lado derecho de la calzada...",
+      "imagen": "examen-54_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el conductor podrá entrar o salir por el lado izquierdo, pero con rapidez y precaución."
+        },
+        {
+          "letra": "B",
+          "texto": "el conductor no podrá salir o entrar nunca por el lado derecho."
+        },
+        {
+          "letra": "C",
+          "texto": "el conductor debe entrar o salir siempre por el lado derecho."
+        }
+      ],
+      "ayuda": "Como norma general, se entrará y saldrá del vehículo por el lado más próximo al borde de la vía y sólo cuando aquél se halle parado. El conductor podrá subir y bajar del vehículo por el lado de la calzada, siempre que lo haga con rapidez y tras haberse cerciorado previamente de que ello no implica peligro o entorpecimiento para otros usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Se debe matricular a un ciclomotor?",
+      "imagen": "examen-54_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, es opcional."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero únicamente si es para circular por vías interurbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, es obligatorio para poder circular por las vías públicas."
+        }
+      ],
+      "ayuda": "Deberán ser matriculados los vehículos de motor, los ciclomotores, los vehículos para personas de movilidad reducida así como los remolques, semirremolques y máquinas especiales remolcadas cuya masa máxima autorizada exceda de 750 kilogramos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Los peatones que circulen de noche por el arcén, ¿deben ir provistos de un elemento luminoso o retrorreflectante?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, fuera de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "No, pero es aconsejable."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en cualquier vía."
+        }
+      ],
+      "ayuda": "Fuera del poblado, de noche o en condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, todo peatón que circule por la calzada o el arcén, deberá ir provisto de un elemento luminoso o retro reflectante homologado, que sea visible a una distancia mínima de 150 metros para los conductores que se le aproximen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Una vez abrochado el cinturón de seguridad, se debe...",
+      "imagen": "examen-54_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "colocar una pinza para ajustarlo."
+        },
+        {
+          "letra": "B",
+          "texto": "comprobar que está bien colocado y ajustado el cuerpo."
+        },
+        {
+          "letra": "C",
+          "texto": "aflojar la zona abdominal para mayor comodidad."
+        }
+      ],
+      "ayuda": "Una vez instalados en sus asientos, tanto el conductor como los pasajeros deben colocarse el cinturón de seguridad y comprobar que se encuentra correctamente abrochado, y ajustado al cuerpo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Se debe advertir la intención de inmovilizar el vehículo...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "con el uso reiterado de las luces de freno."
+        },
+        {
+          "letra": "B",
+          "texto": "siempre con las luces de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "con el brazo doblado hacia arriba."
+        }
+      ],
+      "ayuda": "La intención de inmovilizar el vehículo o de reducir la velocidad de modo considerable, deberá advertirse, siempre que sea posible, mediante el empleo reiterado de las luces de frenado o bien moviendo el brazo alternativamente de arriba abajo con movimientos cortos y rápidos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Si debido a una avería, un turismo circula a velocidad anormalmente reducida, sin interrumpir la circulación, ¿por dónde debe circular?",
+      "imagen": "examen-54_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "No podrá seguir circulando, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Por la parte derecha de la calzada sin invadir el arcén."
+        }
+      ],
+      "ayuda": "Deberán circular por el arcén de su derecha, si es transitable y suficiente, y si no por la parte imprescindible de la calzada, los conductores de aquellos vehículos cuya M.M.A. no exceda de 3.500 kg que, por razones de emergencia, lo hagan a velocidad anormalmente reducida, perturbando con ello gravemente la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Están obligados a someterse a las pruebas de alcoholemia...",
+      "imagen": "examen-54_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "solamente los usuarios de la vías que estén implicados en un accidente de circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "solamente los conductores de automóviles y ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "los conductores de vehículos que sean requeridos en controles preventivos."
+        }
+      ],
+      "ayuda": "Los agentes encargados de la vigilancia del tráfico podrán someter a pruebas de alcoholemia:\nA cualquier usuario de la vía o conductor de vehículo implicado directamente como posible responsable en un accidente de circulación.\nA quienes conduzcan cualquier vehículo con síntomas evidentes, manifestaciones que denoten o hechos que permitan razonablemente presumir que lo hacen bajo la influencia de bebidas alcohólicas.\nA los conductores que sean denunciados por la comisión de alguna de las infracciones a las normas del Reglamento General de Circulación.\nA quienes sean requeridos por la autoridad o sus agentes dentro de los programas de controles preventivos de alcoholemia ordenados por dicha autoridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Las personas que beben y conducen...",
+      "imagen": "examen-54_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tienen menor probabilidad de sufrir un accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "tienen mayor probabilidad de sufrir un accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "tienen la misma probabilidad de sufrir un accidente."
+        }
+      ],
+      "ayuda": "Las personas conducen bajo los efectos del alcohol no sólo tienen mayor probabilidad de sufrir un accidente de tráfico, sino que las lesiones, en caso de sufrirlo, suelen ser más graves.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "El sueño propicia que el conductor...",
+      "imagen": "examen-54_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se comporte de una forma más peligrosa."
+        },
+        {
+          "letra": "B",
+          "texto": "perciba mejor el entorno del tráfico."
+        },
+        {
+          "letra": "C",
+          "texto": "disminuya el tiempo de reacción."
+        }
+      ],
+      "ayuda": "Entre otros efectos, el sueño produce un aumento en el nivel de riesgo aceptado por el conductor, lo que hace que se comporte de forma más peligrosa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "A partir de la señal, ¿puede circular conduciendo un ciclomotor?",
+      "imagen": "examen-54_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque no pueden circular los vehículos de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque prohíbe el paso a todos los vehículos de dos ruedas con motor."
+        }
+      ],
+      "ayuda": "La señal de la imagen indica prohibición de acceso a motocicletas y a vehículos de tres ruedas asimilados a motocicletas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Si los amortiguadores están defectuosos...",
+      "imagen": "examen-54_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "para frenar no es necesario ejercer más presión en el pedal de freno."
+        },
+        {
+          "letra": "B",
+          "texto": "se reduce la distancia de frenado en más del 50 por ciento."
+        },
+        {
+          "letra": "C",
+          "texto": "aumenta la distancia de frenado peligrosamente."
+        }
+      ],
+      "ayuda": "Se debe tener presente que circular con los amortiguadores en mal estado es peligroso para la seguridad, ya que, entre otras alteraciones, provoca: riesgo de mareo, mayor fatiga y menor confort para el conductor y demás ocupantes del vehículo; dificultad para controlar el vehículo, sobre todo, en curvas y cuando existe viento lateral; posibilidad de que la distancia de frenado del vehículo aumente hasta un 50%; pérdida de adherencia, especialmente en carreteras mojadas y en mal estado; pérdida de contacto de los neumáticos con el pavimento al aumentar la velocidad, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

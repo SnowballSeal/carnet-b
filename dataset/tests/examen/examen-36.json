@@ -1,0 +1,689 @@
+{
+  "categoria_id": 1,
+  "test_id": 36,
+  "nombre": "Test de examen 36",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿A qué vehículos prohibe la entrada la señal?",
+      "imagen": "examen-36_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A todos los vehículos, excepto bicicletas y vehículos de movilidad personal."
+        },
+        {
+          "letra": "B",
+          "texto": "A vehículos en función de su distintivo ambiental."
+        },
+        {
+          "letra": "C",
+          "texto": "A todos los vehículos de motor, excepto motocicletas."
+        }
+      ],
+      "ayuda": "Entrada prohibida a vehículos en función de su distintivo ambiental u otros criterios ambientales\nProhibición de acceso a vehículos en función de su distintivo ambiental u otros criterios ambientales que se establezcan.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Cuál es la sanción por utilizar el teléfono móvil sujetándolo con la mano mientras se encuentra detenido en un semáforo en rojo?",
+      "imagen": "examen-36_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pérdida de 6 puntos y 500 euros."
+        },
+        {
+          "letra": "B",
+          "texto": "Pérdida de 6 puntos y 200 euros."
+        },
+        {
+          "letra": "C",
+          "texto": "Pérdida de 3 puntos y 200 euros."
+        }
+      ],
+      "ayuda": "Utilizar, sujetando con la mano, dispositivos de telefonía móvil mientras se conduce, es una infracción que conlleva la pérdida de 6 puntos. Además, al tratarse de una infracción calificada como grave, se sancionará con una multa de 200 euros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "La aplicación miDGT ¿sustituye al permiso de conducir?",
+      "imagen": "examen-36_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo dentro de España."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en toda la Unión Europea."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en ningún caso puede utilizarse para sustituir la obligación de llevar el permiso de conducir."
+        }
+      ],
+      "ayuda": "\tEl conductor de un vehículo a motor o ciclomotor está obligado a estar en posesión y llevar consigo su permiso o licencia válidos para conducir. La tenencia de la autorización administrativa podrá acreditarse mediante su presentación física o digital. \n\t \n\tSe debe tener en cuenta que la acreditación en formato digital, a través de la aplicación miDGT solo es válida en España.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Qué infracciones cometen con mayor frecuencia los conductores de furgonetas en carretera?",
+      "imagen": "examen-36_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular superando los límites de velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Carecer del seguro obligatorio."
+        },
+        {
+          "letra": "C",
+          "texto": "No respetar las indicaciones de los semáforos."
+        }
+      ],
+      "ayuda": "Circular superando los límites de velocidad establecidos en carreteras es uno de los preceptos más infringidos de la normativa de tráfico y seguridad vial por parte de los conductores de furgonetas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "La señal de uso voluntario de señalización de ángulos muertos prevista para determinados vehículos voluminosos, ¿dónde se colocará como norma general?",
+      "imagen": "examen-36_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En la parte delantera y trasera del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "En la parte trasera y en ambos laterales del vehículo voluminoso."
+        },
+        {
+          "letra": "C",
+          "texto": "En la parte delantera del vehículo voluminoso, en ambos laterales y en los puntos del vehículo que el conductor considere necesario."
+        }
+      ],
+      "ayuda": "Las señales se colocarán de manera que sean visibles en todas las circunstancias y de forma que no obstaculicen la visibilidad de las placas de matrícula, las luces, los dispositivos de señalización ni el campo de visión del conductor. Con carácter general, este distintivo debe ir colocado en ambos lados del vehículo (en la parte delantera de cada lateral) así como en la parte de atrás, en un lugar en el que sea visible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Cuál es la velocidad máxima a la que le está permitido circular por una carretera convencional con una autocaravana de 3.500 kg de MMA?",
+      "imagen": "examen-36_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "90 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "100 km/h."
+        }
+      ],
+      "ayuda": "En carreteras convencionales, la velocidad máxima fijada con carácter general para autocaravanas de masa máxima autorizada igual o inferior a 3.500 kg es de 90 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "El sistema de seguridad activa (ADAS) conocido como TPM o TPMS, ¿para qué se utiliza?",
+      "imagen": "examen-36_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para controlar la presencia de otros vehículos en los ángulos muertos de los retrovisores."
+        },
+        {
+          "letra": "B",
+          "texto": "Para mantener inmovilizado el vehículo cuando se estaciona en una pendiente pronunciada."
+        },
+        {
+          "letra": "C",
+          "texto": "Para monitorizar que la presión de inflado de los neumáticos sea la correcta y avisar al conductor en caso de variación."
+        }
+      ],
+      "ayuda": "El Sistema ADAS de Monitorización de la Presión de Neumáticos, más conocido como TPM o TPMS (las siglas varían dependiendo el fabricante), es el encargado de avisar al conductor cuando los niveles de presión de inflado de los neumáticos no son correctos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Se puede mejorar la adherencia del vehículo en una zona en la que existe hielo en la calzada?",
+      "imagen": "examen-36_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, usando cadenas o neumáticos de clavos."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo usando cadenas pero nunca neumáticos de clavos, ya que están prohibidos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido circular cuando existe hielo en la calzada."
+        }
+      ],
+      "ayuda": "Los neumáticos de invierno o las cadenas para ruedas son dispositivos que contribuyen a mejorar la adherencia en caso de que exista hielo o nieve sobre la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "Los agentes de tráfico inmovilizan un vehículo cuando su conductor tiene una tasa de alcohol mayor que la permitida. ¿Cuándo se dejará sin efecto dicha inmovilización? ",
+      "imagen": "examen-36_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando desaparezca la causa que la motivó."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando el conductor viaje con menores de edad."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando el agente entregue al conductor el boletín de denuncia."
+        }
+      ],
+      "ayuda": "La inmovilización del vehículo se dejará sin efecto tan pronto como desaparezca la causa que la motivó o pueda sustituir al conductor otro habilitado para ello, que ofrezca garantía suficiente a los agentes de la autoridad y cuya actuación haya sido requerida por el interesado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Qué infracción cometen con más frecuencia los conductores de furgonetas en poblado?",
+      "imagen": "examen-36_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No respetar las indicaciones de los semáforos."
+        },
+        {
+          "letra": "B",
+          "texto": "Parar o estacionar sobre los pasos de peatones o en lugares no autorizados."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular por debajo de la velocidad mínima permitida."
+        }
+      ],
+      "ayuda": "Dentro de poblado, la infracción más frecuente cometida por conductores de furgonetas (especialmente las de reparto) es la de parar o estacionar sobre los pasos de peatones y en otros lugares no autorizados.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Si acaba de obtener el permiso de la clase A1 a la edad mínima exigida, ¿cuál será la tasa máxima de alcohol en aire espirado permitida?",
+      "imagen": "examen-36_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0,15 mg por litro de aire espirado, durante los dos años siguientes."
+        },
+        {
+          "letra": "B",
+          "texto": "0,25 mg de alcohol en aire espirado."
+        },
+        {
+          "letra": "C",
+          "texto": "0,0 mg de alcohol por litro de aire espirado."
+        }
+      ],
+      "ayuda": "El permiso de la clase A1 puede obtenerse a partir de los 16 años de edad. Debe tenerse en cuenta que en ningún caso el conductor menor de edad podrá circular por las vías con una tasa de alcohol en sangre superior a 0 gramos por litro o de alcohol en aire espirado superior a 0 miligramos por litro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Con carácter general, ¿qué tipo de señalización afecta solo al carril por el que circula?",
+      "imagen": "examen-36_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los semáforos circulares para vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "Las señales verticales."
+        },
+        {
+          "letra": "C",
+          "texto": "Las señales horizontales de circulación o marcas viales."
+        }
+      ],
+      "ayuda": "Con carácter general, las señales horizontales de circulación, cuando están situadas en un carril delimitado por líneas longitudinales, sus preceptos se refieren exclusivamente a los vehículos que circulen por el citado carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Pueden los conductores de motocicletas conducir utilizando auriculares inalámbricos conectados a un teléfono móvil?",
+      "imagen": "examen-36_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque son dispositivos \"manos libres\"."
+        },
+        {
+          "letra": "B",
+          "texto": "No, la utilización de estos dispositivos está prohibida en todo caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si están certificados u homologados y no afectan a la seguridad en la conducción."
+        }
+      ],
+      "ayuda": "\tComo norma general, durante la conducción está prohibida la utilización de cascos o auriculares.\n\tNo obstante, no se considerará dentro de la prohibición la utilización de dispositivos inalámbricos certificados u homologados para la utilización en el casco de protección de los conductores de motocicletas y ciclomotores, con fines de comunicación o navegación, siempre que no afecten a la seguridad en la conducción.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Qué es un vehículo de movilidad personal o VMP?",
+      "imagen": "examen-36_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un vehículo de una o dos plazas, cuya velocidad máxima es de 20 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "Un vehículo eléctrico de una o más ruedas, de una sola plaza y una velocidad de entre 6 y 25 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "Un vehículo que debe circular por las aceras y zonas peatonales, no pudiendo invadir la calzada en ningún caso."
+        }
+      ],
+      "ayuda": "Los vehículos de movilidad personal o VMP son vehículos eléctricos de una o más ruedas, de una sola plaza y una velocidad de entre 6 y 25 km/h. Pueden circular por ciudad, fuera de aceras y zonas peatonales, pero no en vías interurbanas, travesías, autopistas, autovías o túneles urbanos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿A cuál de los siguientes vehículos prohíbe el acceso la señal de la imagen?",
+      "imagen": "examen-36_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A bicicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "A ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "A vehículos especiales."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen, indica entrada prohibida a vehículos de motor (sin excepciones).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Está permitido adelantar en curvas y cambios de rasante de visibilidad reducida?",
+      "imagen": "examen-36_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, a no ser que la maniobra puede efectuarse sin invadir la zona reservada al sentido contrario y los dos sentidos de la circulación estén claramente delimitados."
+        },
+        {
+          "letra": "B",
+          "texto": "No, a no ser que la maniobra puede efectuarse sin invadir la zona reservada al sentido contrario, con independencia de que los dos sentidos de la circulación estén o no delimitados."
+        }
+      ],
+      "ayuda": "Está prohibido adelantar en las curvas y cambios de rasante de visibilidad reducida y, en general, en todo lugar o circunstancia en que la visibilidad disponible no sea suficiente para poder efectuar la maniobra o desistir de ella una vez iniciada, a no ser que los dos sentidos de la circulación estén claramente delimitados y la maniobra pueda efectuarse sin invadir la zona reservada al sentido contrario",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-36_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Peligro por la existencia de un cruce de tranvía."
+        },
+        {
+          "letra": "B",
+          "texto": "Peligro por la proximidad de un paso a nivel sin barreras."
+        },
+        {
+          "letra": "C",
+          "texto": "Peligro por la proximidad de un paso a nivel con barreras."
+        }
+      ],
+      "ayuda": "Señal de Paso a nivel sin barreras.\nAdvierte del peligro por la proximidad de un paso a nivel no provisto de barreras o semibarreras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Qué ordena un agente de circulación al realizar una señal consistente en un toque largo de silbato?",
+      "imagen": "examen-36_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La reanudación de la marcha de los vehículos a los que se dirija."
+        },
+        {
+          "letra": "B",
+          "texto": "La detención de los vehículos a los que se dirija."
+        },
+        {
+          "letra": "C",
+          "texto": "La reducción de la velocidad de los vehículos a los que se dirija."
+        }
+      ],
+      "ayuda": "Los agentes de la circulación podrán ordenar la detención de vehículos con una serie de toques de silbato cortos y frecuentes, y la reanudación de la marcha con un toque largo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Si conduce un turismo y va a adelantar a un ciclomotor, ¿es obligatorio desplazarse y ocupar completamente el carril contiguo o contrario, en su caso?",
+      "imagen": "examen-36_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, no es obligatorio para adelantar ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, es obligatorio en todo caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo es obligatorio cuando la calzada cuente con más de un carril por sentido."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo que pretenda realizar un adelantamiento a un ciclo o ciclomotor, o conjunto de ellos, debe realizarlo ocupando parte o la totalidad del carril contiguo o contrario, en su caso, de la calzada y guardando una anchura de seguridad de, al menos, 1,5 metros, salvo cuando la calzada cuente con más de un carril por sentido, en cuyo caso será obligatorio el cambio completo de carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Los vehículos que tienen prohibida la circulación por autopistas y autovías, ¿podrán circular por este tipo de vías cuando discurran por poblado? ",
+      "imagen": "examen-36_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en todo caso."
+        },
+        {
+          "letra": "B",
+          "texto": "No, no está permitido y pueden ser sancionados."
+        },
+        {
+          "letra": "C",
+          "texto": "No, es una infracción que conlleva la pérdida de tres puntos."
+        }
+      ],
+      "ayuda": "Con carácter general, se prohíbe circular por autopistas y autovías, independientemente de que dichas vías sean interurbanas o discurran por suelo urbano, con vehículos de tracción animal, bicicletas, ciclomotores, vehículos para personas de movilidad reducida y vehículos de movilidad personal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Con niebla densa, ¿puede un turismo circular únicamente con los alumbrados de posición y cruce? ",
+      "imagen": "examen-36_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, debe utilizar también la luz antiniebla trasera."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, debe encender en todo caso el alumbrado delantero y trasero de niebla."
+        }
+      ],
+      "ayuda": "Cuando las condiciones meteorológicas o ambientales sean especialmente desfavorables, como en caso de niebla espesa, lluvia muy intensa, fuerte nevada o nubes densas de polvo o humo, además del alumbrado de cruce y posición, deberá utilizarse obligatoriamente la luz antiniebla trasera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Cometer fraude utilizando dispositivos de intercomunicación no autorizados en las pruebas para la obtención y recuperación de permisos o licencias de conducción u otras autorizaciones administrativas para conducir, es una infracción...",
+      "imagen": "examen-36_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "muy grave que conlleva una sanción económica de 500 euros y la imposibilidad de volver a presentarse a las citadas pruebas en el plazo de seis meses."
+        },
+        {
+          "letra": "B",
+          "texto": "grave, que conlleva una sanción económica de 200 euros y la imposibilidad de volver a presentarse a las citadas pruebas en el plazo de tres meses."
+        }
+      ],
+      "ayuda": "Utilizar dispositivos de intercomunicación no autorizados reglamentariamente, en las pruebas para la obtención y recuperación de permisos o licencias de conducción u otras autorizaciones administrativas para conducir, o colaborar o asistir con la utilización de dichos dispositivos, es una sanción calificada como muy grave que conlleva, además de la multa correspondiente (500 euros), la imposibilidad de volver a presentarse a las citadas pruebas en el plazo de seis meses.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Puede un vehículo de movilidad personal circular por una travesía?",
+      "imagen": "examen-36_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque está dentro de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que circule por el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido."
+        }
+      ],
+      "ayuda": "Los vehículos de movilidad personal (VMP) tienen prohibido circular por travesías, vías interurbanas y autopistas y autovías que transcurren dentro de poblado, así como en túneles urbanos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "En una carretera convencional, ¿se puede parar o estacionar fuera de la calzada y de la parte transitable del arcén?",
+      "imagen": "examen-36_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, se puede parar y estacionar en el lado derecho de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Se puede parar, pero no estacionar."
+        },
+        {
+          "letra": "C",
+          "texto": "Se puede estacionar, pero no parar."
+        }
+      ],
+      "ayuda": "En una carretera convencional se podrá parar o estacionar en el lado derecho y fuera de la calzada y de la parte transitable del arcén.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Qué indica la denominación SAE 15W/40 en las especificaciones de un aceite de motor?",
+      "imagen": "examen-36_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El índice de viscosidad del aceite."
+        },
+        {
+          "letra": "B",
+          "texto": "La temperatura máxima y mínima del aceite."
+        },
+        {
+          "letra": "C",
+          "texto": "Que puede utilizarse en temperaturas de entre 15 y 40 grados."
+        }
+      ],
+      "ayuda": "\tEl índice de viscosidad según la clasificación SAE es un parámetro que mide la relación que existe entre la temperatura y la viscosidad del aceite. \n\t \n\tEn la designación SAE 15W-40. La W (winter = invierno en inglés) indica que el primer número es el grado de viscosidad con el que se comportará el aceite en invierno (15, muy fluido), mientras que la segunda cifra indica que el aceite se comportará con un grado de viscosidad 40 (semiviscoso) en verano.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "Según datos estadísticos, ¿cuáles son las principales causas de accidentes con víctimas mortales?",
+      "imagen": "examen-36_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La somnolencia y el incumplimiento de las normas sobre prioridad de paso."
+        },
+        {
+          "letra": "B",
+          "texto": "Las distracciones, el consumo de alcohol y la velocidad inadecuada."
+        },
+        {
+          "letra": "C",
+          "texto": "No respetar la distancia de seguridad y la inexperiencia de los conductores."
+        }
+      ],
+      "ayuda": "Según los datos estadísticos de la DGT, las distracciones fueron el factor concurrente más frecuente en accidentes mortales, seguidas del consumo de alcohol y la velocidad inadecuada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Si conduce una furgoneta y pretende adelantar a un camión cuando hay fuerte viento lateral, ¿En qué momento debe tener más precaución?",
+      "imagen": "examen-36_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al principio del adelantamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Al final del adelantamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Al principio y al final del adelantamiento."
+        }
+      ],
+      "ayuda": "Para evitar peligros por la incidencia del viento al efectuar un adelantamiento a un camión u otro vehículo voluminoso, lo aconsejable es extremar la precaución tanto al empezar el adelantamiento al vehículo voluminoso como al salir de su cobertura (al finalizar el adelantamiento).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "El conductor de un vehículo tiene preferencia de paso respecto de los peatones, excepto...",
+      "imagen": "examen-36_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En los pasos para peatones y en las aceras y demás zonas peatonales."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando vaya a girar con su vehículo para entrar en otra vía y haya peatones que quieran cruzar, aunque no exista paso para peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando el vehículo cruce un arcén por el que estén circulando peatones pero que dispongan de zona peatonal."
+        }
+      ],
+      "ayuda": "Los conductores tienen prioridad de paso para sus vehículos, respecto de los peatones, salvo en los pasos para peatones debidamente señalizados y en las aceras y demás zonas peatonales, además de otras excepciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Qué indica esta señal situada a la entrada de una calle?",
+      "imagen": "examen-36_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Entrada prohibida a los automóviles."
+        },
+        {
+          "letra": "B",
+          "texto": "Prohibición de acceso a vehículos en función de su distintivo ambiental u otros criterios ambientales que se establezcan."
+        },
+        {
+          "letra": "C",
+          "texto": "Entrada prohibida a todos los vehículos a motor."
+        }
+      ],
+      "ayuda": "Entrada prohibida a vehículos en función de su distintivo ambiental u otros criterios ambientales.\nProhibición de acceso a vehículos en función de su distintivo ambiental u otros criterios ambientales que se establezcan.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Cómo puede ser la habilitación o reserva de uno o varios carriles para la circulación de vehículos de alta ocupación o VAO?",
+      "imagen": "examen-36_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los carriles VAO se habilitan siempre de modo permanente."
+        },
+        {
+          "letra": "B",
+          "texto": "Los carriles VAO se habilitan siempre de modo temporal."
+        },
+        {
+          "letra": "C",
+          "texto": "De modo permanente o temporal y con horario fijo o en función del estado de la circulación."
+        }
+      ],
+      "ayuda": "La habilitación o reserva de uno o varios carriles para la circulación de VAO podrá ser permanente o temporal, con horario fijo o en función del estado de la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

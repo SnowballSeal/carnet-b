@@ -1,0 +1,689 @@
+{
+  "categoria_id": 1,
+  "test_id": 71,
+  "nombre": "Test de examen 71",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Un amortiguador en malas condiciones, ¿qué consecuencias puede tener?",
+      "imagen": "examen-71_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que disminuya la distancia de frenado."
+        },
+        {
+          "letra": "B",
+          "texto": "Que las luces oscilen durante la marcha y puedan deslumbrar."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el vehículo gane estabilidad."
+        }
+      ],
+      "ayuda": "Los amortiguadores en mal estado producen un aumento de las fluctuaciones de la carrocería del vehículo, lo cual hace que las luces oscilen pudiendo deslumbrar a los demás usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Entre otros lugares, ¿dónde está prohibido estacionar en zona urbana?",
+      "imagen": "examen-71_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en curvas y en cambios de rasante."
+        },
+        {
+          "letra": "B",
+          "texto": "sobre las aceras y paseos."
+        },
+        {
+          "letra": "C",
+          "texto": "en vías calificadas de atención preferente."
+        }
+      ],
+      "ayuda": "Entre otros lugares, está prohibido estacionar sobre las aceras, paseos y demás zonas destinadas al paso de peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "En esta curva pisa el freno muy fuerte. ¿Hay peligro?",
+      "imagen": "examen-71_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque el vehículo puede derrapar."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque puede reventar alguna rueda."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque el vehículo frena mejor."
+        }
+      ],
+      "ayuda": "Cuando se circula por una curva pronunciada, no se debe pisar el freno a fondo ya que el vehículo puede derrapar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Se estima que de cada 100 siniestros, los debidos al factor humano son...",
+      "imagen": "examen-71_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "entre 70 y 90."
+        },
+        {
+          "letra": "B",
+          "texto": "entre 10 y 35."
+        },
+        {
+          "letra": "C",
+          "texto": "entre 4 y 13."
+        }
+      ],
+      "ayuda": "Según las estadísticas, entre un 70 y un 90 por ciento de los accidentes de tráfico se deben al factor humano (distracciones, velocidad excesiva, consumo de alcohol o drogas, etc.)",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "En esta zona con línea amarilla en zig-zag, ¿qué está prohibido?",
+      "imagen": "examen-71_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hacer parada."
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionar."
+        },
+        {
+          "letra": "C",
+          "texto": "Hacer parada y estacionar."
+        }
+      ],
+      "ayuda": "Una marca vial amarilla en forma de zig-zag indica que en ese lugar de la calzada el estacionamiento está prohibido a los vehículos en general.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "La mayoría de los accidentes de tráfico con víctimas mortales se producen...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "durante los fines de semana."
+        },
+        {
+          "letra": "B",
+          "texto": "los días laborales."
+        },
+        {
+          "letra": "C",
+          "texto": "los días de diario a primera hora de la tarde."
+        }
+      ],
+      "ayuda": "Estadísticamente, los fines de semana y los días festivos son los días más peligrosos en relación con el tráfico, especialmente durante las horas de la madrugada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "En un turismo, la carga puede sobresalir por su parte posterior...",
+      "imagen": "examen-71_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "hasta un 5 por 100 de su longitud."
+        },
+        {
+          "letra": "B",
+          "texto": "hasta un 10 por 100 de su longitud y, si la carga fuera indivisible hasta un 15 por 100."
+        },
+        {
+          "letra": "C",
+          "texto": "no está permitido que sobresalga la carga del vehículo."
+        }
+      ],
+      "ayuda": "En los vehículos no destinados exclusivamente al transporte de mercancías la carga podrá sobresalir por la parte posterior hasta un 10 por ciento de su longitud, y si la carga fuera indivisible, hasta un 15 por ciento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "En una entrada de garaje, ¿está permitido estacionar el vehículo?",
+      "imagen": "examen-71_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero debo encender la luz de emergencia."
+        }
+      ],
+      "ayuda": "Entre otros lugares, está prohibido estacionar en los vados debidamente señalizados.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Si antes de circular ha tomado con la comida un vaso de vino y un relajante muscular ¿es seguro conducir?",
+      "imagen": "examen-71_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre y cuando se tome un café para mantenerse despierto."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque estando el estómago lleno no afectan el alcohol y el fármaco."
+        },
+        {
+          "letra": "C",
+          "texto": "No, conducir bajo los efectos del alcohol y de fármacos multiplica el riesgo de accidente."
+        }
+      ],
+      "ayuda": "En caso de haber consumido alcohol o de haber tomado algún medicamento, no es seguro conducir porque bajo el efecto de estas sustancias el riesgo de accidente se multiplica.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Una motocicleta, ¿puede circular por la vía señalizada con esta señal?",
+      "imagen": "examen-71_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque se trata de una vía reservada y obligatoria exclusivamente para ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "Si, porque se trata de una vía reservada a un vehículo de dos ruedas con motor."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si se trata de una motocicleta sin sidecar."
+        }
+      ],
+      "ayuda": "La señal de la imagen (vía reservada y obligatoria para ciclomotores) indica que los conductores de ciclomotores están obligados a circular por la vía a cuya entrada esté situada y que los demás usuarios de la vía tienen prohibido utilizarla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-71_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La obligación de encender las luces de cruce."
+        },
+        {
+          "letra": "B",
+          "texto": "El inicio de un túnel o paso inferior."
+        },
+        {
+          "letra": "C",
+          "texto": "La situación de una obra histórica o artística declarada monumento."
+        }
+      ],
+      "ayuda": "La señal de la imagen indica el principio y eventualmente el nombre de un túnel, paso inferior o tramo de vía equiparado a túnel. Podrá llevar en su parte inferior la indicación de la longitud del túnel en metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "La conducción preventiva es...",
+      "imagen": "examen-71_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "una actitud ante la conducción que permite al conductor circular de una manera más segura."
+        },
+        {
+          "letra": "B",
+          "texto": "una forma de conducción lenta e inadecuada."
+        },
+        {
+          "letra": "C",
+          "texto": "una forma de conducir peligrosa."
+        }
+      ],
+      "ayuda": "La conducción preventiva es una actitud ante la conducción que permite al conductor circular de una manera más segura.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Con niebla no espesa, cuando el vehículo no disponga de luz antiniebla delantera es obligatorio encender...",
+      "imagen": "examen-71_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la luz de corto alcance y la antiniebla trasera."
+        },
+        {
+          "letra": "B",
+          "texto": "como mínimo, la luz de corto alcance."
+        },
+        {
+          "letra": "C",
+          "texto": "la luz de posición solamente."
+        }
+      ],
+      "ayuda": "Cuando se circule con niebla no espesa, si el vehículo no dispone de luz antiniebla delantera es obligatorio encender, al menos, la luz de corto alcance.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Los animales, ¿cuándo tienen preferencia de paso?",
+      "imagen": "examen-71_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando van en grupo o rebaño, siempre tienen preferencia de paso."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando hay señal de animales domésticos o ganado con el cartel de \"cañada\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Nunca tienen preferencia de paso."
+        }
+      ],
+      "ayuda": "Entre otros casos, los animales tendrán prioridad de paso en las cañadas debidamente señalizadas. Se considerará que están debidamente señalizadas aquellas que dispongan de paneles complementarios con la inscripción \"cañada\", colocados debajo de la señal de paso de animales domésticos o ganado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Una persona en silla de ruedas, ¿puede circular por una carretera?",
+      "imagen": "examen-71_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, por el arcén si es transitable, o por la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Entre otros, los conductores de ciclos, ciclomotores o vehículos para personas de movilidad reducida, cuando no exista vía o parte de ella que les esté especialmente destinada, circularán por el arcén de su derecha si fuera transitable y suficiente, y si no lo fuera utilizarán la parte imprescindible de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Los ciclistas, ¿están obligados a encender el alumbrado cuando circulan de noche?",
+      "imagen": "examen-71_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "No, cuando la vía está iluminada."
+        },
+        {
+          "letra": "C",
+          "texto": "No, cuando llevan alguna prenda reflectante."
+        }
+      ],
+      "ayuda": "Durante la noche, los ciclistas están obligados a circular con el alumbrado encendido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Como norma general, ¿dónde está prohibido adelantar?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En las vías de menos de 6 metros de anchura."
+        },
+        {
+          "letra": "B",
+          "texto": "En los pasos para peatones y cerca de ellos."
+        },
+        {
+          "letra": "C",
+          "texto": "En la vías de un carril para cada sentido."
+        }
+      ],
+      "ayuda": "Como norma general, está prohibido adelantar en los pasos para peatones debidamente señalizados, en las intersecciones con vías para ciclistas, en los pasos a nivel y en sus proximidades.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Puede estacionar en este tramo de vía?",
+      "imagen": "examen-71_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque existe espacio suficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "No, no se puede estacionar, pero sí parar."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque es un cambio de rasante de visibilidad reducida."
+        }
+      ],
+      "ayuda": "Como norma general, está prohibido parar y estacionar en curvas y cambios de rasante de visibilidad reducida y en sus proximidades.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Mientras conduce, ¿qué teléfonos está permitido utilizar?",
+      "imagen": "examen-71_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los sistemas con auriculares."
+        },
+        {
+          "letra": "B",
+          "texto": "Los sistemas de \"manos libres\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Están permitidos todos los sistemas."
+        }
+      ],
+      "ayuda": "Durante la conducción está prohibido utilizar el teléfono móvil, a menos que se disponga de un dispositivo de manos libres.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Circula por una vía y se encuentra a este agente, ¿qué indica con la bandera roja?",
+      "imagen": "examen-71_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que debe detenerse en el lado derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Que la vía queda temporalmente cerrada al tráfico a partir del paso de esa moto."
+        },
+        {
+          "letra": "C",
+          "texto": "Que debe extremar la atención por la proximidad de un peligro."
+        }
+      ],
+      "ayuda": "Una bandera roja indica que a partir del paso del vehículo que la porta, la calzada queda temporalmente cerrada al tráfico de todos los vehículos y usuarios, excepto para aquellos que son acompañados o escoltados por los agentes de la autoridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "En los camiones de menos de 3.500 kg de M.M.A., ¿qué ocupantes están obligados a ponerse el cinturón de seguridad?",
+      "imagen": "examen-71_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El conductor solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "El conductor y los pasajeros."
+        },
+        {
+          "letra": "C",
+          "texto": "Ninguno."
+        }
+      ],
+      "ayuda": "El uso del cinturón de seguridad es obligatorio, tanto en vías urbanas como interurbanas, para el conductor y los pasajeros de los asientos equipados con cinturones de seguridad de los vehículos destinados al transporte de mercancías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Puede una motocicleta circular por un carril VAO?",
+      "imagen": "examen-71_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La utilización del carril habilitado para vehículos con alta ocupación (carril VAO) queda reservada a motocicletas, turismos y vehículos mixtos adaptables, que estén ocupados por el número de personas que se fije para cada tramo de vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "La distancia de reacción es la que recorre el vehículo...",
+      "imagen": "examen-71_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "desde que se percibe el peligro hasta que el vehículo se detiene."
+        },
+        {
+          "letra": "B",
+          "texto": "desde que reacciona el conductor, por ejemplo pisando el freno, hasta que el vehículo se detiene."
+        },
+        {
+          "letra": "C",
+          "texto": "desde que se percibe el peligro hasta que se reacciona, por ejemplo, pisando el freno."
+        }
+      ],
+      "ayuda": "La distancia de reacción es la distancia que recorre un vehículo desde que el conductor percibe una situación de peligro hasta que reacciona (pisando el freno, por ejemplo) para evitar un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "La fatiga hace que...",
+      "imagen": "examen-71_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se asuman menos riesgos al volante."
+        },
+        {
+          "letra": "B",
+          "texto": "se conduzca de manera mucho más pasiva."
+        },
+        {
+          "letra": "C",
+          "texto": "disminuyan las conductas hostiles o agresivas."
+        }
+      ],
+      "ayuda": "Entre otros efectos, la fatiga produce falta de precisión y mayor lentitud en los movimientos del conductor (conducción pasiva).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Cualquier conductor está obligado a...",
+      "imagen": "examen-71_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circular siempre a la velocidad máxima de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "circular siempre por debajo de la velocidad máxima de la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "comportarse de forma que no entorpezca indebidamente la circulación."
+        }
+      ],
+      "ayuda": "Todo conductor está obligado a comportarse de forma que no entorpezca indebidamente la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "La velocidad inadecuada, el alcohol y las enfermedades, ¿se consideran factores de riesgo?",
+      "imagen": "examen-71_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "La velocidad inadecuada y el alcohol sí, pero las enfermedades no."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Algunos de los factores de riesgo asociados a los accidentes de tráfico son el consumo de alcohol y drogas, ciertas enfermedades, el uso de medicamentos, la fatiga, el estrés y la velocidad inadecuada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Los efectos del alcohol son mayores en los conductores...",
+      "imagen": "examen-71_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "profesionales porque tienen la tasa más baja."
+        },
+        {
+          "letra": "B",
+          "texto": "con mayor experiencia al volante."
+        },
+        {
+          "letra": "C",
+          "texto": "con poca experiencia al volante."
+        }
+      ],
+      "ayuda": "Los efectos del alcohol están relacionados con la experiencia en la conducción. Los conductores noveles, por ejemplo, se ven más afectados, debido a que aún no tienen automatizados los movimientos necesarios para conducir con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "De noche, ¿qué debe hacer para no deslumbrar?",
+      "imagen": "examen-71_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular con la luz corta en carretera y con la de posición en ciudad."
+        },
+        {
+          "letra": "B",
+          "texto": "Circular siempre con la luz corta."
+        },
+        {
+          "letra": "C",
+          "texto": "Cambiar la luz larga por la corta cuando me acerco a otro vehículo en carretera."
+        }
+      ],
+      "ayuda": "Por la noche, a fin de no deslumbrar a otros conductores se debe cambiar el alumbrado de carretera (o largo alcance) por el de cruce (o corto alcance) al aproximarse a otros vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Si se circula con la calzada mojada, ¿qué consecuencias puede tener un amortiguador en mal estado?",
+      "imagen": "examen-71_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que disminuya el riesgo de aquaplaning."
+        },
+        {
+          "letra": "B",
+          "texto": "Que disminuya la distancia de frenado."
+        },
+        {
+          "letra": "C",
+          "texto": "Que aumente el riesgo de aquaplaning."
+        }
+      ],
+      "ayuda": "Al circular por una calzada mojada, si los amortiguadores se encuentran en mal estado, aumenta el riesgo de que se produzca el fenómeno conocido como aquaplaning.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "No están obligados a utilizar el cinturón de seguridad, como norma general...",
+      "imagen": "examen-71_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "las embarazadas."
+        },
+        {
+          "letra": "B",
+          "texto": "los conductores de taxis cuando están de servicio en vía urbana."
+        },
+        {
+          "letra": "C",
+          "texto": "los menores de 16 años."
+        }
+      ],
+      "ayuda": "Excepcionalmente, podrán circular sin utilizar el cinturón de seguridad los conductores de taxis en servicio que circulen dentro de poblado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

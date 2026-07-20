@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 23,
+  "nombre": "Test de examen 23",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Esta señal, ¿prohíbe la entrada a un furgón?",
+      "imagen": "examen-23_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, únicamente prohíbe la entrada a camiones."
+        },
+        {
+          "letra": "B",
+          "texto": "No, salvo que la masa máxima autorizada del furgón no supere los 3.500 kilogramos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, con independencia de la masa máxima autorizada del furgón."
+        }
+      ],
+      "ayuda": "Señal de entrada prohibida a vehículos destinados al transporte de mercancías.\nProhibición de acceso a vehículos destinados al transporte de mercancías, entendiéndose como tales camiones, tractocamiones y furgones o furgonetas, independientemente de su masa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Según las estadísticas, ¿qué grupo de personas es más proclive a sufrir un siniestro?",
+      "imagen": "examen-23_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los conductores de entre 30-50 años."
+        },
+        {
+          "letra": "B",
+          "texto": "Los conductores profesionales."
+        },
+        {
+          "letra": "C",
+          "texto": "Las personas mayores."
+        }
+      ],
+      "ayuda": "Según las estadísticas, existen determinados grupos de personas que, por sus características, son más proclives a sufrir un accidente. Entre estos grupos vulnerables se encuentran los niños, los jóvenes y las personas mayores, así como los ciclistas, los conductores de motocicletas y los de ciclomotores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Qué debe tener especialmente en cuenta para dejar con el vehículo de delante una distancia que le permita, en caso de frenada brusca, detenerse con seguridad?",
+      "imagen": "examen-23_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La velocidad de circulación, únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "La velocidad y las condiciones de adherencia y frenado."
+        },
+        {
+          "letra": "C",
+          "texto": "Las condiciones climatológicas y el tipo de vehículo que nos sigue."
+        }
+      ],
+      "ayuda": "Cuando circulemos detrás de otro vehículo, debemos dejar una distancia de seguridad tal que nos permita detenernos sin colisionar con él en caso de que éste frene de forma brusca, teniendo en cuenta especialmente la velocidad y las condiciones de adherencia y frenado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Todo peatón que circule por el arcén de una vía fuera de poblado, entre el ocaso y la salida del sol, ¿debe ir provisto de un elemento luminoso o retrorreflectante?",
+      "imagen": "examen-23_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, si circula lo más próximo posible al borde de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para hacerse visible a una distancia mínima de 150 metros por los conductores que se le aproximen."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solamente debe llevarlo puesto cuando existan condiciones meteorológicas que disminuyan sensiblemente la visibilidad."
+        }
+      ],
+      "ayuda": "Todo peatón que circule por la calzada o arcén de vías fuera de poblado, entre el ocaso y la salida del sol o en condiciones meteorológicas que disminuyan sensiblemente  la visibilidad, deberá llevar un elemento luminoso o retrorreflectante homologado, que sea visible a una distancia mínima de 150 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Cuál es la edad mínima para viajar como acompañante en una motocicleta conducida por alguien distinto a los padres o al tutor del menor, o por una persona mayor de edad autorizada?",
+      "imagen": "examen-23_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "7 años."
+        },
+        {
+          "letra": "B",
+          "texto": "12 años."
+        },
+        {
+          "letra": "C",
+          "texto": "14 años."
+        }
+      ],
+      "ayuda": "En los ciclomotores y en las motocicletas, como norma general, puede viajar un pasajero de más de 12 años de edad, siempre que se cumplan las condiciones reglamentarias. Con menos de 12 años no podrá viajar, salvo que dichos vehículos sean conducidos por su padre, madre, tutor/a o persona mayor de edad autorizada por éstos, y siempre que utilicen cascos homologados y el acompañante tenga más de 7 años.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "El impacto económico de los accidentes de tráfico afecta a...\n",
+      "imagen": "examen-23_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "todos los ciudadanos, directa o indirectamente."
+        },
+        {
+          "letra": "B",
+          "texto": "los conductores que tienen un accidente al pagar el seguro de su vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "las compañías aseguradoras en exclusiva."
+        }
+      ],
+      "ayuda": "Los accidentes de tráfico son una de las principales causas de mortalidad y lesiones, sobre todo, entre la población más joven, siendo un problema social cuyo impacto económico pagamos directa o indirectamente todos los ciudadanos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Si circula con un turismo en el que sobresale la carga por su parte trasera, ¿está obligado a colocar la señal de la imagen?",
+      "imagen": "examen-23_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque un turismo no transporta exclusivamente mercancías."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo se colocará cuando la carga sobresalga por la parte delantera."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, deberá colocarse en la parte posterior de la carga."
+        }
+      ],
+      "ayuda": "Cuando la carga sobresalga por la parte posterior de un turismo, se debe señalizar mediante el panel V-20 que se observa en la imagen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Qué puede hacer para evitar el aquaplaning?",
+      "imagen": "examen-23_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular con unos neumáticos inflados adecuadamente y una suficiente profundidad en el dibujo de la banda de rodadura."
+        },
+        {
+          "letra": "B",
+          "texto": "Acelerar para pasar cuanto antes sobre el agua embalsada."
+        },
+        {
+          "letra": "C",
+          "texto": "No conducir por los surcos que van dejando los vehículos que van delante."
+        }
+      ],
+      "ayuda": "Además de reducir la velocidad en días de lluvia para evitar el aquaplaning, se debe llevar los neumáticos con la presión correcta y con la suficiente profundidad en las ranuras de la banda de rodadura.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "Las señales realizadas con el brazo por los conductores, ¿son válidas?",
+      "imagen": "examen-23_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo cuando se vean bien."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo cuando se utilicen de día."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo cuando se utilicen en poblado."
+        }
+      ],
+      "ayuda": "Para que las señales hechas con el brazo sean válidas, deben ser visibles por los demás usuarios de la vía, en cuyo caso anularán cualquier otra señal luminosa que la contradiga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "Circulando en moto, si la carretera se encuentra mojada, ¿cómo se debe tomar una curva?",
+      "imagen": "examen-23_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con un ángulo de giro más cerrado que si estuviera seca, disminuyendo la inclinación."
+        },
+        {
+          "letra": "B",
+          "texto": "Con un ángulo de giro más abierto que si estuviera seca e inclinándome más."
+        },
+        {
+          "letra": "C",
+          "texto": "Tratando de no inclinar demasiado la motocicleta y abriendo el ángulo de giro, si fuera posible."
+        }
+      ],
+      "ayuda": "Para tomar una curva con seguridad, en días de lluvia, conduciendo una motocicleta, además de reducir la velocidad lo suficiente, no se debe inclinar la motocicleta demasiado. También, si es posible, se debe abrir el ángulo de giro pero sin salirse del carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Adelantar a varios vehículos a la vez, ¿está permitido?",
+      "imagen": "examen-23_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando se puede volver a la derecha sin peligro en caso de encontrar vehículos en sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, únicamente cuando los vehículos adelantados circulan a velocidad lenta."
+        }
+      ],
+      "ayuda": "Adelantar a varios vehículos a la vez está permitido, siempre que exista espacio suficiente para incorporarse al carril derecho en caso de que se presente otro vehículo en sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Qué indica esta señal?\n",
+      "imagen": "examen-23_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Peligro por la existencia de un tramo de vía con pendiente descendente, cuya longitud coincide con la cifra indicada en el interior de la señal."
+        },
+        {
+          "letra": "B",
+          "texto": "Peligro por la existencia de un tramo de vía con fuerte pendiente ascendente."
+        },
+        {
+          "letra": "C",
+          "texto": "Peligro por la existencia de un tramo de vía con fuerte pendiente descendente."
+        }
+      ],
+      "ayuda": "Señal de bajada con fuerte pendiente. Indica peligro por la existencia de un tramo de vía con fuerte pendiente descendente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Son evitables los accidentes de circulación?",
+      "imagen": "examen-23_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en general, son sucesos predecibles."
+        },
+        {
+          "letra": "B",
+          "texto": "No, se dan al azar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo mejorando el estado de las vías."
+        }
+      ],
+      "ayuda": "La mayoría de los accidentes de tráfico son evitables si se conocen y evitan las causas que los provocan: la fatiga, el alcohol, el sueño, la velocidad excesiva, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Cómo influye el estado de los neumáticos en la eficacia de la frenada?\n",
+      "imagen": "examen-23_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No influye, depende solamente del estado de los frenos."
+        },
+        {
+          "letra": "B",
+          "texto": "No influye, la eficacia del frenado depende solamente del estado de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí influye, unos neumáticos en buen estado permiten una mejor adherencia al suelo y una frenada más eficaz.\n"
+        }
+      ],
+      "ayuda": "Los neumáticos en buen estado y con la presión correcta, indicada por el fabricante, permiten una mejor adherencia y, por lo tanto, una frenada más eficaz.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "En condiciones invernales, para mantener una buena adherencia de los neumáticos, debemos...\n",
+      "imagen": "examen-23_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "evitar los movimientos bruscos para reducir las posibilidades de deslizamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "circular un poco más deprisa que en verano con el fin de asegurarse de que el motor se mantiene caliente."
+        },
+        {
+          "letra": "C",
+          "texto": "bombear siempre los frenos con fuerza cuando sea necesario."
+        }
+      ],
+      "ayuda": "Para que los neumáticos tengan buena adherencia en días de lluvia, además de estar en buenas condiciones y la presión de inflado correcta, se deben evitar los movimientos bruscos de volante. De lo contrario aumentarían las posibilidades de deslizamiento con el consiguiente riesgo de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "El equipaje en la baca de un turismo, ¿puede sobresalir por los lados?",
+      "imagen": "examen-23_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando el equipaje es ancho y no se puede dividir."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero el ancho total tiene que ser menor de 2,5 metros."
+        }
+      ],
+      "ayuda": "La carga en los turismos, no podrá sobresalir por sus borde laterales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Fumar al volante...\n",
+      "imagen": "examen-23_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es una conducta que puede interferir en la conducción y provocar un accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "relaja y proporciona serenidad al fumador, lo que repercute positivamente en la conducción."
+        },
+        {
+          "letra": "C",
+          "texto": "es la principal causa de distracción durante la conducción."
+        }
+      ],
+      "ayuda": "Fumar al volante, si bien no está prohibido, es una conducta que puede interferir en la conducción y provocar un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Este vehículo está averiado y circula a velocidad anormalmente reducida con la luz de emergencia  encendida; ¿es correcto su comportamiento?\n",
+      "imagen": "examen-23_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque el vehículo está averiado."
+        },
+        {
+          "letra": "B",
+          "texto": "No, las luces de emergencia se usan solo con el vehículo detenido."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido el uso de este alumbrado en vías urbanas."
+        }
+      ],
+      "ayuda": "Cuando, a causa de una avería, un vehículo no pueda alcanzar la velocidad mínima exigida y exista peligro de alcance, se deberán utilizar durante la circulación las luces indicadoras de dirección con señal de emergencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Qué puede aumentar la distancia de frenado?",
+      "imagen": "examen-23_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente la velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el vehículo lleve frenos de disco."
+        },
+        {
+          "letra": "C",
+          "texto": "Que haya nieve o hielo en la calzada."
+        }
+      ],
+      "ayuda": "La existencia de nieve o hielo en la calzada puede aumentar de forma notoria la distancia de frenado. Por ejemplo, en el caso de que haya placas de hielo sobre la calzada, la distancia de frenado puede ser de hasta 10 veces mayor que cuando el pavimento está seco.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "En un automóvil, ¿cuál de los siguientes elementos reduce el riesgo de lesiones de cuello en una colisión?",
+      "imagen": "examen-23_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los frenos ABS."
+        },
+        {
+          "letra": "B",
+          "texto": "El reposacabezas, ajustado de forma apropiada."
+        },
+        {
+          "letra": "C",
+          "texto": "El cinturón de seguridad."
+        }
+      ],
+      "ayuda": "El reposacabezas es un elemento fundamental de seguridad pasiva que contribuye a reducir el riesgo de lesiones de cuello en caso de colisión.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Circula de noche por un tramo recto de carretera estrecha, de menos de 6,50 metros de anchura, ¿puede utilizar la luz antiniebla delantera?\n",
+      "imagen": "examen-23_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque es una carretera estrecha."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si existen condiciones meteorológicas adversas."
+        }
+      ],
+      "ayuda": "La luz antiniebla delantera sólo podrá utilizarse cuando existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad o en tramos de vías estrechas con muchas curvas, entendiéndose por tales las que, teniendo una calzada de 6,50 metros de anchura o inferior, estén señalizadas con señales que indiquen una sucesión de curvas próximas entre sí.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "En un tramo recto, de noche sin condiciones atmosféricas adversas, ¿es correcto el alumbrado que lleva encendido el vehículo?",
+      "imagen": "examen-23_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente cuando circula por una calzada estrecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La luz antiniebla delantera debe utilizarse en condiciones meteorológicas adversas, o bien, en tramos de vías estrechas con muchas curvas, entendiéndose por tales las que, teniendo una calzada de 6,50 metros de anchura o inferior, estén señalizadas con señales que indiquen una sucesión de curvas próximas entre sí.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "En caso de decidir poner unos neumáticos de invierno, ¿cuándo deberá cambiar los neumáticos de verano por unos de invierno?",
+      "imagen": "examen-23_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Como muy tarde a principios de diciembre."
+        },
+        {
+          "letra": "B",
+          "texto": "Tan pronto como caigan las primeras nieves."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando la temperatura ambiente caiga por debajo de 7 grados centígrados, aproximadamente."
+        }
+      ],
+      "ayuda": "El momento más adecuado para cambiar los neumáticos de verano por unos de invierno es cuando la temperatura ambiente se sitúa por debajo de los 7 grados centígrados aproximadamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Si un vehículo que transporta mercancías peligrosas, que circula por una autovía, sufre una avería. ¿Podría ser remolcado por un turismo?",
+      "imagen": "examen-23_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, hasta el taller más cercano."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero sólo hasta el lugar más próximo donde pueda quedar convenientemente inmovilizado y sin entorpecer la circulación"
+        }
+      ],
+      "ayuda": "El remolque de un vehículo accidentado o averiado sólo deberá realizarse por otro específicamente destinado a este fin (grúas). Excepcionalmente, y siempre en condiciones de seguridad, se permitirá el arrastre por otros vehículos, pero sólo hasta el lugar más próximo donde pueda quedar convenientemente inmovilizado y sin entorpecer la circulación. En ningún caso será aplicable dicha excepción en las autopistas o autovías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "El vehículo amarillo que se observa en la imagen, ¿puede hacer un cambio de dirección a la izquierda a la vista de la situación?",
+      "imagen": "examen-23_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero cediendo el paso a los que circulen de frente."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La marca longitudinal continua que se observa en la imagen prohíbe el cambio de dirección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "A la vista de esta señal, ¿qué carril debe utilizar un turismo que circula a más de 70 km/h?\n",
+      "imagen": "examen-23_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El carril de la derecha, si las circunstancias del tráfico lo permiten."
+        },
+        {
+          "letra": "B",
+          "texto": "Solamente el carril sobre el que está situada la señal de velocidad mínima."
+        },
+        {
+          "letra": "C",
+          "texto": "El carril de la izquierda y, si las circunstancias del tráfico lo permiten, puede circular por el de la derecha."
+        }
+      ],
+      "ayuda": "En condiciones normales y, si la circunstancias lo permiten, se debe circular por el carril de la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "De acuerdo con el orden de prioridad entre los distintos tipos de señales de circulación, las indicaciones de las señales verticales prevalecen sobre...",
+      "imagen": "examen-23_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "las de los semáforos."
+        },
+        {
+          "letra": "B",
+          "texto": "las de la señalización y balizamiento circunstancial que modifique el régimen normal de utilización de la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "las de las marcas viales."
+        }
+      ],
+      "ayuda": "De acuerdo con el orden de prioridad entre los distintos tipos de señales de circulación, las indicaciones de las señales verticales prevalecen sobre las de las marcas viales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Los conductores de ciclomotores, en el caso de que no exista vía o parte de ella que les esté especialmente destinada, circularán en calzadas con arcén suficiente y transitable, por...",
+      "imagen": "examen-23_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el carril de la derecha correspondiente al sentido de la marcha."
+        },
+        {
+          "letra": "B",
+          "texto": "el carril de la derecha, en columna de a dos."
+        },
+        {
+          "letra": "C",
+          "texto": "el arcén de su derecha."
+        }
+      ],
+      "ayuda": "Los conductores de ciclomotores, entre otros, en el caso de que no exista vía o parte de ella que les esté especialmente destinada, circularán por el arcén de su derecha, si fuera transitable y suficiente para cada uno de éstos, y, si no lo fuera, utilizarán la parte imprescindible de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Todo conductor que se vea obligado a permanecer detenido con su vehículo en el interior de un túnel por un período de tiempo superior a dos minutos, deberá interrumpir el funcionamiento del motor hasta que pueda proseguir la marcha, conservando...",
+      "imagen": "examen-23_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "encendida la luz de emergencia y la de estacionamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "encendido el alumbrado de posición."
+        }
+      ],
+      "ayuda": "Todo conductor que se vea obligado a permanecer con su vehículo detenido en el interior de un túnel u otro lugar cerrado, por un período de tiempo superior a dos minutos, deberá interrumpir el funcionamiento del motor hasta que pueda proseguir la marcha, conservando encendido el alumbrado de posición.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Un turismo de nueva matriculación de uso privado, ¿cuándo deberá pasar la próxima inspección técnica del vehículo?\n",
+      "imagen": "examen-23_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los 3 años desde la fecha de expedición de la Tarjeta de Inspección Técnica."
+        },
+        {
+          "letra": "B",
+          "texto": "A los 5 años."
+        },
+        {
+          "letra": "C",
+          "texto": "A los 4 años desde la fecha de matriculación."
+        }
+      ],
+      "ayuda": "Un turismo de nueva matriculación debe someterse a inspección técnica a los 4 años. A partir de ese momento, debe presentarse a inspección cada dos años hasta cumplir 10 años de antigüedad. A partir de los 10 años, deberá someterse a inspección técnica periódica cada año.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

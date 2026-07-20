@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 10,
+  "nombre": "Test de examen 10",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Puede un vehículo de tres ruedas arrastrar un remolque?",
+      "imagen": "examen-10_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cualquier remolque."
+        }
+      ],
+      "ayuda": "Como norma general, las motocicletas, los vehículos de tres ruedas y los ciclomotores podrán arrastrar un remolque o semirremolque, siempre que este no supere el 50 por ciento de la masa en vacío del vehículo tractor y se cumplan determinadas condiciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Es conveniente hacer una revisión exhaustiva del estado del vehículo si el humo que despide el tubo de escape es de color negro?",
+      "imagen": "examen-10_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque el motor puede estar quemando aceite."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque solo es un problema de refrigeración que suele desaparecer."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque en este caso puede deberse a una mala combustión."
+        }
+      ],
+      "ayuda": "Si el humo que sale a través del tubo de escape es negro, se debe a que se está produciendo una combustión incorrecta. En este caso, es necesario acudir al taller para revisar el estado del vehículo y realizar las reparaciones necesarias.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Ante un paso para peatones señalizado con marca vial solamente, ¿cuándo hay que detenerse?",
+      "imagen": "examen-10_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando el peatón ya está atravesándolo, pero no cuando sólo demuestra su intención de hacerlo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo cuando lo indique un agente."
+        },
+        {
+          "letra": "C",
+          "texto": "Siempre que un peatón esté atravesándolo o demuestre su intención de hacerlo."
+        }
+      ],
+      "ayuda": "En los pasos para peatones debidamente señalizados con la marca vial correspondiente, se debe ceder el paso a los peatones cuando estén cruzando la calzada o tengan intención de hacerlo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Como norma general, si circula por esta vía con una furgoneta cargada con bultos apilados, en caso de frenada de emergencia, ¿es importante tener en cuenta su masa y su volumen?",
+      "imagen": "examen-10_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, por lo que se debe mantener una mayor distancia de seguridad ya que la distancia de frenado es mayor."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque al bajar el centro de gravedad resulta fácil derrapar y perder el control de la misma."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque a mayor peso mayor estabilidad."
+        }
+      ],
+      "ayuda": "Es importante tener en cuenta que circular con un vehículo cargado es más peligroso que hacerlo cuando este va vacío. En caso de una frenada de emergencia, la distancia de frenado será mayor cuando el vehículo esté cargado, por lo que se debe aumentar la distancia de seguridad con el vehículo que circula delante para evitar colisionar con él.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Si los ocupantes de los asientos traseros de un vehículo son menores de edad y de estatura igual o inferior a 135 cm de altura, ¿qué dispositivos de seguridad deben utilizar?",
+      "imagen": "examen-10_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un dispositivo de retención infantil adaptado a su talla y peso."
+        },
+        {
+          "letra": "B",
+          "texto": "El cinturón de seguridad que viene instalado en el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Obligatoriamente un sistema de retención infantil soldado a la carrocería del vehículo."
+        }
+      ],
+      "ayuda": "Los menores de edad cuya estatura no supere los 135 centímetros, deberán viajar en los asientos traseros del vehículo y utilizar un dispositivo de retención infantil adaptado a su talla y a su peso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Al adelantar, ¿cuándo debe volver al carril derecho?",
+      "imagen": "examen-10_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Después de recorrer 200 metros por delante del turismo."
+        },
+        {
+          "letra": "B",
+          "texto": "Después de 15 segundos."
+        },
+        {
+          "letra": "C",
+          "texto": "Después de ver en el espejo la parte delantera del vehículo adelantado."
+        }
+      ],
+      "ayuda": "Cuando se realiza un adelantamiento y se pretende regresar al carril derecho con seguridad, es conveniente observar por el espejo retrovisor interior hasta ver en el mismo la parte delantera del vehículo adelantado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Como norma general, el peatón que utilice un monopatín o aparato similar, ¿por dónde debe circular?",
+      "imagen": "examen-10_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Por las aceras o por las calles debidamente señalizadas, siempre que lo haga a paso de persona."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo por las zonas peatonales que le estén especialmente destinadas."
+        }
+      ],
+      "ayuda": "Como norma general, los peatones que utilicen monopatines u otros aparatos similares para desplazarse, deben circular por las aceras o por las calles debidamente señalizadas, siempre que lo hagan a una velocidad equivalente al paso de persona.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "A la vista de esta señal, ¿qué distancia de seguridad debe mantener el conductor de un turismo con el vehículo precedente?",
+      "imagen": "examen-10_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una separación siempre superior a la indicada en la señal."
+        },
+        {
+          "letra": "B",
+          "texto": "Una separación igual o inferior a la indicada en la señal."
+        },
+        {
+          "letra": "C",
+          "texto": "Una separación igual o superior a la indicada en la señal, excepto para adelantar."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen, indica que al circular detrás de otro vehículo se debe mantener con el mismo una separación igual o superior a la indicada en la señal (excepto para adelantar que dicha distancia podrá reducirse en condiciones de seguridad).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "En una zona de estancia y juego delimitada por la señal de la imagen...",
+      "imagen": "examen-10_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los vehículos tienen prohibida su entrada, al tratarse de una zona acondicionada exclusivamente para peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "los peatones no pueden utilizar la zona de circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "los vehículos no pueden estacionarse más que en los lugares designados por señales o por marcas."
+        }
+      ],
+      "ayuda": "En las zonas de estancia y juego debidamente señalizadas, los vehículos pueden acceder y pueden estacionarse únicamente en los lugares designados por señales o por marcas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Un automóvil constituido por un vehículo de motor acoplado a un semirremolque es un...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "vehículo articulado."
+        },
+        {
+          "letra": "B",
+          "texto": "tren de carretera."
+        },
+        {
+          "letra": "C",
+          "texto": "autocaravana."
+        }
+      ],
+      "ayuda": "Un vehículo articulado es un conjunto de vehículos constituido por un vehículo de motor acoplado a un semirremolque.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Como norma general, para realizar un cambio de dirección a la izquierda, el conductor de un turismo se situará en el borde izquierdo de la calzada...",
+      "imagen": "examen-10_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en calzadas de doble sentido de circulación en las que no estén delimitados los carriles mediante marcas viales."
+        },
+        {
+          "letra": "B",
+          "texto": "en calzadas de doble sentido de circulación en las que estén delimitados los carriles mediante marcas viales."
+        },
+        {
+          "letra": "C",
+          "texto": "en calzadas de un solo sentido."
+        }
+      ],
+      "ayuda": "En calzadas de un solo sentido de circulación (sentido único), como norma general, el conductor de un turismo se situará en el borde izquierdo de la calzada cuando pretenda realizar un cambio de dirección a la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Como norma general, el conductor de un turismo que está siendo adelantado, ¿debe permitir y facilitar la maniobra al vehículo que adelanta?",
+      "imagen": "examen-10_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, si antes no ha sido advertido de la maniobra con suficiente antelación."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, ciñéndose al borde derecho de la calzada e invadiendo el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, estando prohibido aumentar la velocidad o efectuar maniobras que impidan o dificulten el adelantamiento."
+        }
+      ],
+      "ayuda": "El conductor de un turismo que esté siendo adelantado, como norma general debe permitir y facilitar la maniobra del vehículo que adelanta para evitar situaciones de riesgo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Una distancia de frenado segura depende...",
+      "imagen": "examen-10_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "del buen estado del embrague."
+        },
+        {
+          "letra": "B",
+          "texto": "del buen estado del freno de mano."
+        },
+        {
+          "letra": "C",
+          "texto": "del buen estado de los neumáticos."
+        }
+      ],
+      "ayuda": "La distancia de frenado que permita detener el vehículo en condiciones de seguridad depende, entre otros factores, del buen estado de los neumáticos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Cuando hay mucha nieve en la calzada, ¿es aconsejable circular sobre los surcos que dejan los demás vehículos?",
+      "imagen": "examen-10_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Cuando existe una importante acumulación de nieve sobre la calzada, es recomendable circular por encima de las marcas o surcos dejados por los demás vehículos, con el objetivo de mejorar las condiciones de adherencia de los neumáticos con el pavimento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "El permiso de la clase B, ¿autoriza a conducir un cuadriciclo ligero?",
+      "imagen": "examen-10_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando no se dedica al transporte de mercancías."
+        }
+      ],
+      "ayuda": "El permiso de conducción de la clase B, también autoriza a conducir ciclomotores y cuadriciclos ligeros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Las lesiones cervicales producidas en un accidente son debidas sobre todo a una regulación incorrecta...",
+      "imagen": "examen-10_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "del cinturón de seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "del asiento."
+        },
+        {
+          "letra": "C",
+          "texto": "del reposacabezas."
+        }
+      ],
+      "ayuda": "La correcta regulación del reposacabezas tiene una importancia vital en la prevención de lesiones cervicales en determinados accidentes de circulación. Un correcto uso de este dispositivo de seguridad pasiva permite proteger la zona del cuello en caso de impacto, evitando este tipo de lesiones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Una enfermedad leve, ¿impide la conducción?",
+      "imagen": "examen-10_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre influye en la conducción."
+        },
+        {
+          "letra": "B",
+          "texto": "No, al ser leve no debe tomar ningún tipo de precaución."
+        },
+        {
+          "letra": "C",
+          "texto": "No, pero durante el tiempo que dure deben tomarse las precauciones indicadas por el médico."
+        }
+      ],
+      "ayuda": "Las enfermedades leves, en general, no representan un impedimento para conducir. No obstante, se deben seguir las indicaciones del médico y tener especial precaución, si se toman medicamentos, que estos no tengan una incidencia negativa en la capacidad para conducir con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Cuando un conductor sufre una distracción al volante...",
+      "imagen": "examen-10_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "debe avisarlo con las luces de emergencia."
+        },
+        {
+          "letra": "B",
+          "texto": "aumenta la velocidad del vehículo sin darse cuenta."
+        },
+        {
+          "letra": "C",
+          "texto": "tarda más tiempo en reaccionar."
+        }
+      ],
+      "ayuda": "Las distracciones ocasionan un drástico aumento del tiempo de reacción. Los conductores distraídos tardan más tiempo en reaccionar por lo que sus posibilidades de sufrir un accidente aumentan notoriamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "En un carril reservado para uso exclusivo de transporte público urbano fuera de horario de servicio, ¿puede estacionar?",
+      "imagen": "examen-10_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, parar y estacionar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si conocemos perfectamente el horario de la línea de autobuses."
+        }
+      ],
+      "ayuda": "Como norma general, en el carril destinado para uso exclusivo de transporte público urbano está prohibido parar y estacionar, independientemente de la hora de día.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "En una calzada de doble sentido de circulación en la que no están delimitados los carriles, está obligado a circular...",
+      "imagen": "examen-10_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "por el eje imaginario de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "por el lugar de la calzada que crea más seguro."
+        },
+        {
+          "letra": "C",
+          "texto": "por la derecha, lo más cerca posible al borde de la calzada."
+        }
+      ],
+      "ayuda": "En las calzadas de doble sentido de circulación, en las que no estén delimitados los carriles, se debe circular obligatoriamente por la derecha, lo más cerca posible del borde de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Estas señales indican...",
+      "imagen": "examen-10_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que en esta curva peligrosa la velocidad máxima permitida es de 50 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "que hay una curva peligrosa a 50 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "que hay 50 km de curvas."
+        }
+      ],
+      "ayuda": "El conjunto de señales que se observa en la imagen, advierte del peligro de una curva peligrosa y prohíbe, por lo tanto, circular a más de 50 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Se puede disminuir el riesgo de sufrir un accidente si se padece una enfermedad crónica?",
+      "imagen": "examen-10_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, sabiendo cuáles son los efectos secundarios de los medicamentos."
+        },
+        {
+          "letra": "B",
+          "texto": "No. Una enfermedad crónica incapacita para conducir."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero sólo si se padece una enfermedad cardiaca."
+        }
+      ],
+      "ayuda": "A fin de disminuir los riesgos de sufrir un accidente, en caso de padecer una enfermedad crónica, entre otras medidas, se deben conocer los efectos secundarios de los medicamentos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "La línea de borde de la calzada, ¿se puede atravesar?",
+      "imagen": "examen-10_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando sea necesario y las circunstancias lo permitan."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando la línea sea discontinua; no, cuando sea continua."
+        }
+      ],
+      "ayuda": "La línea de borde de calzada tiene por objeto delimitar la separación entre la calzada y el arcén y no tiene la consideración de marca longitudinal. Esta línea podrá ser atravesada solo cuando sea necesario y las demás circunstancias lo permitan.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Debe moderar la velocidad ante la proximidad de...",
+      "imagen": "examen-10_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "vehículos estacionados en poblado y fuera de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "vehículos estacionados en poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "un autobús en situación de parada, principalmente si se trata de un autobús de transporte escolar."
+        }
+      ],
+      "ayuda": "Cuando haya un autobús en situación de parada, principalmente si se trata de un autobús de transporte escolar, se debe extremar la precaución y moderar la velocidad si fuera necesario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Puede un ciclomotor circular a partir de esta señal?",
+      "imagen": "examen-10_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, la entrada queda prohibida a vehículos de motor de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, los vehículos de dos ruedas no pueden circular por aquí."
+        }
+      ],
+      "ayuda": "Entrada prohibida a motocicletas.\nProhibición de acceso a motocicletas y a vehículos de tres ruedas asimilados a motocicletas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "El viento sopla desde el lado derecho a ráfagas. ¿Cuándo es más peligroso?",
+      "imagen": "examen-10_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando circulo detrás de un vehículo grande."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando adelanto a un vehículo grande."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando me adelanta un vehículo grande."
+        }
+      ],
+      "ayuda": "El viento lateral es especialmente peligroso durante la maniobra de adelantamiento a un vehículo voluminoso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "En este tramo de vía, ¿cuál es la velocidad máxima?",
+      "imagen": "examen-10_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La que indica la señalización, más 20 km/h para adelantar."
+        },
+        {
+          "letra": "B",
+          "texto": "La que indica la señalización."
+        },
+        {
+          "letra": "C",
+          "texto": "La máxima genérica de 90 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima que no se debe sobrepasar en este tramo de vía es la indicada en la señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Discutir acaloradamente con el acompañante durante la conducción...",
+      "imagen": "examen-10_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no afecta a la atención del conductor durante la conducción."
+        },
+        {
+          "letra": "B",
+          "texto": "no altera la capacidad del conductor para conducir con seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "puede hacer que el conductor se distraiga."
+        }
+      ],
+      "ayuda": "Las discusiones entre los ocupantes del vehículo son una causa de distracción y generan un importante riesgo para la seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Es recomendable revisar el cinturón de seguridad después de sufrir un accidente?",
+      "imagen": "examen-10_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, es un elemento de seguridad que no debe cambiarse nunca."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque se ha probado su eficacia."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, puede haberse deteriorado el trenzado o los sistemas de anclaje."
+        }
+      ],
+      "ayuda": "Tras sufrir un accidente de tráfico grave, se debe revisar el cinturón de seguridad, ya que a causa del impacto, puede haberse deteriorado el trenzado o los sistemas de anclaje.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Con la lluvia se forma una capa de agua que crea un mayor peligro por...",
+      "imagen": "examen-10_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la posible falta de adherencia de los neumáticos al pavimento."
+        },
+        {
+          "letra": "B",
+          "texto": "el calentamiento de los frenos al mojarse."
+        },
+        {
+          "letra": "C",
+          "texto": "no se crea ningún peligro porque el agua refrigera los neumáticos y frenan mejor."
+        }
+      ],
+      "ayuda": "Al circular con lluvia la distancia de frenado aumenta debido a la disminución de la adherencia del neumático con el pavimento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

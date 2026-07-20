@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 33,
+  "nombre": "Test de examen 33",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Un vehículo tipo pick-up. ¿Puede conducirse con el permiso de la clase B?",
+      "imagen": "examen-33_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando no supere las nueve plazas."
+        },
+        {
+          "letra": "B",
+          "texto": "\tSí, pero se requieren al menos dos años de antigüedad con el permiso B. \n"
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El permiso de la clase B autoriza la conducción de automóviles en general (una pick-up es un automóvil) cuya masa máxima autorizada no exceda de 3.500 kg y no tenga más de 9 plazas, incluido el conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Cuando se utilice un distintivo ambiental, ¿dónde debe ir colocado en el vehículo?",
+      "imagen": "examen-33_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el parabrisas delantero, en el ángulo inferior derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "En el parabrisas delantero, en el ángulo superior derecho."
+        },
+        {
+          "letra": "C",
+          "texto": "En cualquier sitio bien visible."
+        }
+      ],
+      "ayuda": "Cuando se proceda a la colocación del distintivo ambiental en un vehículo, esta debe hacerse adhiriendo la pegatina en el ángulo inferior derecho del parabrisas delantero, si se dispone de él. En su defecto (en el caso de motocicletas), en cualquier sitio visible del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "En autopistas y autovías, ¿a qué velocidad máxima le está permitido circular al conductor de un vehículo derivado de turismo?",
+      "imagen": "examen-33_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 90 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "A 100 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "A 120 kilómetros por hora."
+        }
+      ],
+      "ayuda": "La velocidad máxima autorizada para los vehículos derivados de turismo, en autopistas y autovías, es de 100 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "El consumo de drogas de abuso o ilegales, ¿puede alterar la percepción del riesgo?",
+      "imagen": "examen-33_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, aumenta y el conductor percibe mejor las situaciones de riesgo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, disminuye y el conductor percibe peor las situaciones de riesgo."
+        },
+        {
+          "letra": "C",
+          "texto": "No; el consumo de drogas no altera la percepción del riesgo."
+        }
+      ],
+      "ayuda": "El consumo de drogas de abuso o ilegales puede alterar gravemente la percepción del riesgo por parte de los conductores, disminuyendo las capacidades para conducir con seguridad y provocando que se perciban peor las situaciones de riesgo.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Si su permiso de conducir tiene un año de antigüedad, ¿cuál es la tasa máxima permitida de alcohol? ",
+      "imagen": "examen-33_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0,25 miligramos por litro de aire espirado."
+        },
+        {
+          "letra": "B",
+          "texto": "0,30 miligramos por litro de aire espirado."
+        },
+        {
+          "letra": "C",
+          "texto": "0,15 miligramos por litro de aire espirado."
+        }
+      ],
+      "ayuda": "Los conductores, en general, no podrán superar la tasa de alcohol en sangre de 0,3 gramos por litro ni de alcohol en aire espirado de 0,15 miligramos por litro durante los dos años siguientes a la obtención del permiso o licencia que les habilita para conducir.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Para incorporarse a la circulación, ¿se puede dar marcha atrás? ",
+      "imagen": "examen-33_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, es una de las maniobras en las que está permitido."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo en vías urbanas."
+        }
+      ],
+      "ayuda": "Excepcionalmente, la marcha atrás está permitida, cuando se realice como maniobra complementaria de la parada, el estacionamiento o la incorporación a la circulación. En estos casos, dicho recorrido no podrá ser superior a 15 metros ni invadir un cruce de vías.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué precaución puede adoptar para evitar el riesgo de atropello a ciclistas? ",
+      "imagen": "examen-33_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Iniciar un adelantamiento cuando se acerque un grupo de ciclistas en sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Utilizar señales luminosas para avisar de su propósito de adelantarles."
+        },
+        {
+          "letra": "C",
+          "texto": "No hacer señales acústicas cerca de ellos."
+        }
+      ],
+      "ayuda": "Los ciclistas pueden verse sorprendidos por el uso de señales acústicas cerca de ellos, lo cual puede provocar pérdidas de equilibrio o alteraciones en su trayectoria, con el consiguiente riesgo de caída o atropello.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Un conductor con sueño...",
+      "imagen": "examen-33_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tarda menos tiempo en reaccionar."
+        },
+        {
+          "letra": "B",
+          "texto": "analiza situaciones de tráfico complejas en menos tiempo."
+        },
+        {
+          "letra": "C",
+          "texto": "tarda más tiempo en reaccionar."
+        }
+      ],
+      "ayuda": "Las personas que conducen bajo los efectos del sueño presentan una capacidad de reacción disminuida, por lo que su tiempo de reacción será mayor.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Una vez iniciado el adelantamiento, se producen circunstancias que hacen difícil su finalización sin provocar riesgos; ¿qué está obligado a hacer el conductor?",
+      "imagen": "examen-33_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumentar la velocidad para finalizar el adelantamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Advertir del riesgo al vehículo al que pretende adelantar para que detenga su marcha."
+        },
+        {
+          "letra": "C",
+          "texto": "Reducir la velocidad y regresar a su carril sin obstaculizar."
+        }
+      ],
+      "ayuda": "Cuando, una vez iniciada una maniobra de adelantamiento, se produzcan circunstancias que hagan difícil su finalización sin provocar riesgos, el conductor deberá reducir la velocidad y regresar a su carril sin obstaculizar ni generar peligro.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Por autopista o autovía, las ambulancias en servicio de urgencia, ¿podrán circular en sentido contrario?",
+      "imagen": "examen-33_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que lo hagan por el arcén y no comprometan la seguridad de ningún usuario."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, los vehículos prioritarios en servicio urgente están exentos de cumplir cualquier norma de circulación."
+        }
+      ],
+      "ayuda": "Las ambulancias y demás vehículos prioritarios cuando circulen en servicio de urgencia, podrán circular en sentido contrario por las autopistas y autovías, siempre que lo hagan por el arcén y no comprometan la seguridad de ningún usuario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Es correcto el adelantamiento que efectúa el turismo a la bicicleta?",
+      "imagen": "examen-33_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque está prohibido rebasar la línea continua para adelantar."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque al dejar demasiada separación tiene que ocupar el carril del sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque deja la separación adecuada y ocupa el carril contiguo."
+        }
+      ],
+      "ayuda": "El adelantamiento que está realizando el turismo a la bicicleta es correcto, porque para adelantar a las bicicletas se debe invadir el carril contiguo y se puede rebasar la línea continua.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En una vía urbana, ¿está permitido parar o estacionar en las intersecciones y en sus proximidades? ",
+      "imagen": "examen-33_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Parar sí, pero no estacionar."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando no se dificulte el giro autorizado a otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que no se dificulte la visibilidad de una señal, ni se genere peligro."
+        }
+      ],
+      "ayuda": "\tQueda prohibido parar y estacionar, entre otros casos, en las intersecciones y en sus proximidades si se dificulta el giro a otros vehículos, o en vías interurbanas, si se genera peligro por falta de visibilidad.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "En una vía interurbana, ¿está permitido parar y estacionar en una intersección o en sus proximidades?",
+      "imagen": "examen-33_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si se genera peligro por falta de visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando no se dificulte el giro a otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, nunca."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido parar y estacionar en las intersecciones y en sus proximidades cuando se dificulta el giro a otros vehículos, o en vías interurbanas, si se genera peligro por falta de visibilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Situado en un vehículo, ¿qué identifica la señal V-25 distintivo ambiental?",
+      "imagen": "examen-33_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Su clasificación ambiental en función de su nivel de emisiones y combustible empleado."
+        },
+        {
+          "letra": "B",
+          "texto": "El tipo de combustible empleado y su nivel de radiación atmosférica."
+        },
+        {
+          "letra": "C",
+          "texto": "Su clasificación ambiental en función de su nivel de contaminación acústica."
+        }
+      ],
+      "ayuda": "La señal V-25, colocada en un vehículo, indica su clasificación ambiental en función de su nivel de emisiones y combustible empleado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "Si aún no ha salido el sol pero existe buena visibilidad, ¿qué alumbrado debe utilizar si circula por una vía interurbana?",
+      "imagen": "examen-33_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El alumbrado de posición y el de corto alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "Ninguno."
+        },
+        {
+          "letra": "C",
+          "texto": "El alumbrado de posición, únicamente."
+        }
+      ],
+      "ayuda": "Cuando se circule entre el ocaso y la salida del sol, por vías urbanas o interurbanas suficientemente iluminadas, se llevará encendido (independientemente de las condiciones de visibilidad), además del alumbrado de posición, el alumbrado de corto alcance o de cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "En este caso en que la señalización se contradice, prevalece la señal...",
+      "imagen": "examen-33_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "más restrictiva."
+        },
+        {
+          "letra": "B",
+          "texto": "realizada con el brazo."
+        },
+        {
+          "letra": "C",
+          "texto": "luminosa."
+        }
+      ],
+      "ayuda": "La validez de las señales realizadas con el brazo quedará subordinada a que sean perceptibles por los demás usuarios de la vía y se efectúen de conformidad con lo dispuesto en el artículo siguiente, y anularán cualquier otra indicación óptica que las contradiga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Influye la velocidad en el campo visual del conductor?",
+      "imagen": "examen-33_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, el campo visual disminuye al aumentar la velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, el campo visual se amplía al aumentar la velocidad."
+        }
+      ],
+      "ayuda": "Durante la conducción, el 90% de la información es recogida por la vista, por lo cual es tan importante mantener un adecuado campo visual. Hay que tener en cuenta que dicho campo visual se va reduciendo a medida que aumenta la velocidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Por qué es aconsejable circular en vías urbanas respetando en todo momento la velocidad establecida para cada tramo de vía?",
+      "imagen": "examen-33_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque el motor del vehículo consume menos combustible si trabaja a altas revoluciones."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque las multas por exceso de velocidad en vías urbanas son más caras que en vías interurbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque la mayoría de los atropellos con muerte del peatón se producen en vías urbanas."
+        }
+      ],
+      "ayuda": "Es necesario tener en cuenta que la mayoría de los atropellos con muerte del peatón se producen en vías urbanas. Por lo tanto, al circular por este tipo de vías, es aconsejable hacerlo respetando en todo momento la velocidad establecida para cada tramo de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "El efecto submarino, que en un accidente de tráfico puede provocar graves lesiones al conductor, está relacionado con... ",
+      "imagen": "examen-33_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "una incorrecta presión de los neumáticos."
+        },
+        {
+          "letra": "B",
+          "texto": "un mal uso del cinturón de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "un consumo excesivo del alcohol, medicamentos o drogas de abuso."
+        }
+      ],
+      "ayuda": "Si el cinturón de seguridad no se coloca correctamente, se puede dar el fenómeno conocido como efecto submarino, el cual consiste en que el cuerpo, si no está bien sujeto por el cinturón, se desliza por debajo de la banda abdominal del mismo. Este efecto constituye uno de los riesgos más graves asociados al uso incorrecto del cinturón.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "En caso de padecer una alergia respiratoria, ¿es conveniente conducir con las ventanillas abiertas?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando el vehículo esté dotado de un filtro para el aire acondicionado."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque ayuda a una mejor ventilación del vehículo."
+        }
+      ],
+      "ayuda": "No se ha indicado ayuda para esta pregunta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "En este cruce, ¿qué se debe hacer?",
+      "imagen": "examen-33_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerse solo si se aproximan vehículos por la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Detenerse y ceder el paso a todos los vehículos que se aproximen por ambos lados."
+        },
+        {
+          "letra": "C",
+          "texto": "Detenerse solo si se aproximan vehículos por la izquierda."
+        }
+      ],
+      "ayuda": "La señal de detención obligatoria o STOP, indica la obligación para todo conductor de detener su vehículo ante la próxima línea de detención o, si no existe, inmediatamente antes de la intersección, y ceder el paso en ella a los vehículos que circulen por la vía a la que se aproxime.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "El conductor de un vehículo extiende el brazo horizontalmente con la palma de la mano hacia atrás, ¿qué indica?",
+      "imagen": "examen-33_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que va a girar a la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Que va a circular marcha atrás."
+        },
+        {
+          "letra": "C",
+          "texto": "Que tiene intención de inmovilizar el vehículo o de frenar su marcha de modo considerable."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo que extiende el brazo horizontalmente con la palma de la mano hacia atrás indica que va a circular marcha atrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "El conductor de un turismo se ve obligado a realizar el traslado de un enfermo en servicio de urgencias.; ¿qué luces debe llevar encendidas?\n",
+      "imagen": "examen-33_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las de emergencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Las largas."
+        },
+        {
+          "letra": "C",
+          "texto": "Las de posición."
+        }
+      ],
+      "ayuda": "Si, como consecuencia de circunstancias especialmente graves, el conductor de un vehículo no prioritario se viera forzado, sin poder recurrir a otro medio, a efectuar un servicio de los normalmente reservados a los prioritarios, procurará que los demás usuarios adviertan la especial situación en que circula, utilizando para ello el avisador acústico en forma intermitente y conectando la luz de emergencia, si se dispusiera de ella, o agitando un pañuelo o procedimiento similar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "Entre los gastos sanitarios derivados de los accidentes de tráfico con víctimas se encuentran...",
+      "imagen": "examen-33_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los derivados por la pérdida de producción de personas empleadas."
+        },
+        {
+          "letra": "B",
+          "texto": "los daños causados al medio ambiente."
+        },
+        {
+          "letra": "C",
+          "texto": "los de rehabilitación en centros de salud."
+        }
+      ],
+      "ayuda": "Los gastos de rehabilitación en centros de salud, forman parte de los gastos sanitarios derivados de los accidentes de tráfico con víctimas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Una persona provista de un certificado médico que le exima de utilizar los sistemas de retención del vehículo, ¿está obligada a llevar abrochado el cinturón de seguridad? ",
+      "imagen": "examen-33_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente fuera de poblado."
+        }
+      ],
+      "ayuda": "Las personas provistas de un certificado de exención por razones médicas graves o discapacitadas no están obligadas a llevar abrochado el cinturón de seguridad. El certificado, deberá ser presentado cuando lo requiera cualquier agente de la autoridad responsable del tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "En una autovía, el límite de velocidad para una motocicleta es de...",
+      "imagen": "examen-33_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120 km/h, pudiéndose superar en 20 km/h para adelantar."
+        },
+        {
+          "letra": "B",
+          "texto": "120 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "100 km/h."
+        }
+      ],
+      "ayuda": "En autopistas o autovías, la velocidad máxima, establecida con carácter general, para motocicletas, es de 120 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "En general, un conductor con estrés...",
+      "imagen": "examen-33_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se distrae con mayor facilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "toma decisiones más rápidas y comete menos errores."
+        },
+        {
+          "letra": "C",
+          "texto": "presta mayor atención al entorno y tarda más en tomar decisiones."
+        }
+      ],
+      "ayuda": "En general, los conductores que sufren estrés tienden a distraerse con mayor facilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "En vías urbanas de doble sentido de circulación, ¿en qué lado de la calzada puede estacionar un turismo?",
+      "imagen": "examen-33_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A ambos lados cuando la línea de separación de los sentidos sea discontinua."
+        },
+        {
+          "letra": "B",
+          "texto": "En el lado izquierdo de la calzada en el sentido de la marcha."
+        },
+        {
+          "letra": "C",
+          "texto": "en el lado derecho de la calzada en el sentido de la marcha."
+        }
+      ],
+      "ayuda": "El estacionamiento en vías urbanas se realizará situando el vehículo lo más cerca posible de su borde derecho, salvo en las vías de único sentido, en las que se podrá situar también en el lado izquierdo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Debido a una retención de circulación tiene que reducir, de modo considerable, la velocidad de su vehículo. ¿Debe advertir, siempre que sea posible, a los vehículos que circulan detrás? ",
+      "imagen": "examen-33_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, con el empleo de la luz de emergencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, con el empleo reiterado de las luces de frenado o moviendo el brazo alternativamente de arriba abajo."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido hacer advertencias, ya que pueden crear confusión."
+        }
+      ],
+      "ayuda": "La intención de inmovilizar el vehículo o de frenar su marcha de modo considerable, deberá advertirse, siempre que sea posible, mediante el empleo reiterado de las luces de frenado o bien moviendo el brazo alternativamente de arriba abajo con movimientos cortos y rápidos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Si no está implicado en un accidente, ¿debe prestar auxilio a los heridos? ",
+      "imagen": "examen-33_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si lo solicita algún herido."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, salvo que la ayuda ya esté organizada."
+        }
+      ],
+      "ayuda": "El usuario de la vía que se vea implicado en un accidente de tráfico, lo presencie o tenga conocimiento de él está obligado a auxiliar o solicitar auxilio para atender a las víctimas que pueda haber, prestar su colaboración, evitar mayores peligros o daños, restablecer, en la medida de lo posible, la seguridad de la circulación y esclarecer los hechos. Esta obligación no será exigible cuando la ayuda ya esté organizada, en cuyo caso se deberá proseguir la marcha sin obstaculizar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

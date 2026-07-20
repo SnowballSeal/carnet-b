@@ -1,0 +1,641 @@
+{
+  "categoria_id": 2,
+  "test_id": 5,
+  "nombre": "Serie fácil 5",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "El estado del vehículo influye en...",
+      "imagen": "serie-facil-05_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la distancia de frenado."
+        },
+        {
+          "letra": "B",
+          "texto": "el tiempo de reacción."
+        }
+      ],
+      "ayuda": "El estado del vehículo influye en la distancia de frenado del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Si no existe vía o parte de ella que les está especialmente destinada, los ciclomotores...",
+      "imagen": "serie-facil-05_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "deben circular por el arcén de la derecha, si fuera transitable y suficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "pueden circular en columna de a dos utilizando la parte imprescindible de la calzada."
+        }
+      ],
+      "ayuda": "En carreteras, los ciclomotores deben circular por el arcén de su derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "El vehículo blanco, ¿adelanta correctamente?",
+      "imagen": "serie-facil-05_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El vehículo blanco adelanta incorrectamente, ya que está poniendo en peligro al vehículo que se aproxima de frente, al él mismo y al vehículo verde.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "El personal de obras de la fotografía le está ordenando que se detenga, ¿está obligado a obedecer?",
+      "imagen": "serie-facil-05_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque está autorizado a regular el paso de vehículos en tramo de obras."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En esta situación hay que detenerse, porque el personal de obras está autorizado a regular el paso de vehículos en el tramo de obras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "El consumo de cannabis afecta al comportamiento del conductor porque...",
+      "imagen": "serie-facil-05_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aumenta su nivel de atención."
+        },
+        {
+          "letra": "B",
+          "texto": "aumenta su tiempo de reacción."
+        },
+        {
+          "letra": "C",
+          "texto": "disminuye la somnolencia."
+        }
+      ],
+      "ayuda": "El consumo de cannabis afecta al comportamiento del conductor aumentando su tiempo de reacción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Cómo se puede evitar el atropello a peatones?",
+      "imagen": "serie-facil-05_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prestando atención a la salida de los garajes, especialmente si son en rampa."
+        },
+        {
+          "letra": "B",
+          "texto": "Haciéndoles exageradas y estridentes señales acústicas."
+        }
+      ],
+      "ayuda": "Al salir de un garaje y especialmente si está en rampa, se debe hacer con precaución y cederle el paso a los peatones para evitar su atropello.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Como norma general, en una vía interurbana la parada y el estacionamiento se realizarán...",
+      "imagen": "serie-facil-05_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "siempre fuera de la calzada, en el lado derecho de la misma y dejando libre la parte transitable del arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "en el arcén, cuando sea transitable y suficiente."
+        }
+      ],
+      "ayuda": "Como norma general, la parada y el estacionamiento en vías fuera de poblado debe hacerse siempre fuera de la calzada, en el lado derecho de la misma y dejando libre la parte transitable del arcén.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Qué debe hacer un conductor que tiene sueño?",
+      "imagen": "serie-facil-05_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tomar alguna bebida alcohólica en pequeña cantidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Descansar lo antes posible en un lugar adecuado."
+        }
+      ],
+      "ayuda": "Si durante la conducción le entra sueño, debe descansar lo antes posible en un lugar seguro y permitido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "La carga sobresale del vehículo. ¿Es obligatorio señalizarla con este panel?",
+      "imagen": "serie-facil-05_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para aquellos vehículos que lleven carga que sobresalga por delante."
+        },
+        {
+          "letra": "B",
+          "texto": "No es obligatorio para los camiones."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, para aquellos vehículos que lleven carga que sobresalga por detrás."
+        }
+      ],
+      "ayuda": "La carga que sobresalga por la parte trasera de un vehículo, se debe señalizar en todo caso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "En poblado, ¿cuál es la velocidad máxima permitida para un turismo con remolque?",
+      "imagen": "serie-facil-05_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "30 kilómetros por hora en todo caso."
+        },
+        {
+          "letra": "B",
+          "texto": "50 kilómetros por hora, cuando la calzada tenga más de un carril por sentido de circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "20 kilómetros por hora si la calzada tiene un carril por sentido."
+        }
+      ],
+      "ayuda": "En poblado, existen diferentes límites de velocidad en función de las características de la vía por la que se circula. La velocidad máxima permitida para vehículos en general en vías urbanas, es de 50 kilómetros por hora (cuando dichas vías tengan dos o más carriles para cada sentido de circulación).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Cuando llueve es importante...",
+      "imagen": "serie-facil-05_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "pisar el pedal del embrague."
+        },
+        {
+          "letra": "B",
+          "texto": "comprobar de vez en cuando los frenos."
+        },
+        {
+          "letra": "C",
+          "texto": "aumentar la presión de los neumáticos."
+        }
+      ],
+      "ayuda": "Cuando llueve, es recomendable comprobar de vez en cuando el funcionamiento de los frenos para asegurarse de que, por la humedad, no han perdido eficacia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En caso de accidente, el orden de actuación es:",
+      "imagen": "serie-facil-05_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Proteger, alertar, socorrer."
+        },
+        {
+          "letra": "B",
+          "texto": "Alertar, socorrer, proteger."
+        },
+        {
+          "letra": "C",
+          "texto": "Socorrer, proteger, alertar."
+        }
+      ],
+      "ayuda": "El orden de actuación en un accidente de tráfico se conoce con el nombre de protocolo PAS (Proteger, Alertar y Socorrer). Este protocolo indica que en primer lugar se debe asegurar la protección del propio auxiliador y del lugar del accidente, seguidamente se debe solicitar ayuda avisando a los servicios de emergencia y, por último, socorrer a los heridos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Una línea blanca continua adosada sobre la calzada, sensiblemente más ancha que en el caso general...",
+      "imagen": "serie-facil-05_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Indica la existencia de un carril especial."
+        },
+        {
+          "letra": "B",
+          "texto": "Indica el borde de la calzada."
+        }
+      ],
+      "ayuda": "Una línea blanca continua más ancha que en el caso general, indica la existencia de un carril especial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Esta señal...",
+      "imagen": "serie-facil-05_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "obliga a girar a la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "prohíbe girar a la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "indica el itinerario recomendado."
+        }
+      ],
+      "ayuda": "Esta señal indica la obligación de girar a la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "El vehículo que sale de una vía no pavimentada, ¿a qué vehículos debe ceder el paso?",
+      "imagen": "serie-facil-05_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A todos los que circulen por la vía pavimentada."
+        },
+        {
+          "letra": "B",
+          "texto": "A ninguno, porque el vehículo se incorpora a una vía pavimentada."
+        }
+      ],
+      "ayuda": "Tendrán preferencia de paso los vehículos que circulen por una vía pavimenta frente a otra sin pavimentar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Si el humo que despide el tubo de escape es de color negro, ¿es conveniente hacer una revisión al vehículo?",
+      "imagen": "serie-facil-05_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque en este caso puede deberse a una mala combustión."
+        }
+      ],
+      "ayuda": "Si el humo que sale por el tubo de escape de un vehículo es de color negro, se debe a una mala combustión.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Los distribuidores de mercancías, ¿están exentos de utilizar el cinturón de seguridad?",
+      "imagen": "serie-facil-05_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en vías de poblado cuando realicen operaciones frecuentes de carga y descarga."
+        }
+      ],
+      "ayuda": "Los distribuidores de mercancías están exentos de utilizar el cinturón de seguridad en vías de poblado cuando realicen operaciones de carga y descarga a corta distancia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Cuando el fondo de las señales de orientación es amarillo, ¿indica que se circula por una vía en obras?",
+      "imagen": "serie-facil-05_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En una vía en obras, tanto el fondo de las señales de orientación como las marcas viales son de color amarillo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "El alcohol, la fatiga y la velocidad excesiva, ¿de qué factor de riesgo forman parte?",
+      "imagen": "serie-facil-05_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Del factor vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Del factor vía y entorno."
+        },
+        {
+          "letra": "C",
+          "texto": "Del factor humano."
+        }
+      ],
+      "ayuda": "El alcohol, la fatiga, la circulación a velocidad excesiva, etc. son elementos de riesgo identificados con el factor humano.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Qué usuarios han de someterse a las pruebas de alcoholemia?",
+      "imagen": "serie-facil-05_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo los conductores de automóviles y motocicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "Los conductores de vehículos que sean requeridos en controles preventivos."
+        }
+      ],
+      "ayuda": "Están obligados a someterse a las pruebas de alcoholemia, los conductores de vehículos que sean requeridos para ello en un control preventivo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Puede sentir mayor sensación de fatiga si sufre de estrés?",
+      "imagen": "serie-facil-05_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si además tiene problemas de sueño."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Si se sufre estrés, se puede sentir mayor sensación de fatiga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Por qué tipo de vías no pueden circular los ciclomotores?",
+      "imagen": "serie-facil-05_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por autopistas y autovías."
+        },
+        {
+          "letra": "B",
+          "texto": "Por las vías que no tengan arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "Por las autopistas únicamente."
+        }
+      ],
+      "ayuda": "Los ciclomotores no podrán circular por las autopistas y autovías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Una buena técnica de conducción en las curvas consiste en...",
+      "imagen": "serie-facil-05_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "frenar antes de entrar en la curva."
+        },
+        {
+          "letra": "B",
+          "texto": "acelerar antes de entrar en la curva."
+        },
+        {
+          "letra": "C",
+          "texto": "frenar dentro de la curva."
+        }
+      ],
+      "ayuda": "Para tomar una curva, adecuadamente, se debe frenar y adaptar la velocidad antes de entrar en la misma.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Qué peligro anuncia esta señal?",
+      "imagen": "serie-facil-05_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una subida con fuerte pendiente."
+        },
+        {
+          "letra": "B",
+          "texto": "Un estrechamiento de la calzada por el lado derecho."
+        },
+        {
+          "letra": "C",
+          "texto": "Un estrechamiento de la calzada sin especificar."
+        }
+      ],
+      "ayuda": "Esta señal indica estrechamiento de la calzada por la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Qué debe hacer para facilitar el paso a un vehículo de bomberos que circula en servicio urgente?",
+      "imagen": "serie-facil-05_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Me apartaré normalmente a la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Tocar el claxon para que se aparten los demás vehículos."
+        }
+      ],
+      "ayuda": "Todo conductor que observe un vehículo de bomberos en servicio de urgencia, debe facilitarle el paso apartándose normalmente a la derecha de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "El conductor que circula sin adaptarse a las circunstancias cambiantes del tráfico o a las condiciones climatológicas, circula a velocidad...",
+      "imagen": "serie-facil-05_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mínima."
+        },
+        {
+          "letra": "B",
+          "texto": "inadecuada."
+        },
+        {
+          "letra": "C",
+          "texto": "reducida."
+        }
+      ],
+      "ayuda": "Si el conductor de un vehículo circula sin adaptarse a las circunstancias cambiantes del tráfico o a las condiciones meteorológicas o ambientales, circula a una velocidad inadecuada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Está demostrado que gran parte de los accidentes de tráfico son debidos principalmente...",
+      "imagen": "serie-facil-05_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "al estado del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "a la vía y su entorno."
+        },
+        {
+          "letra": "C",
+          "texto": "al conductor."
+        }
+      ],
+      "ayuda": "Entre el 70 y el 90% de los accidentes de tráfico se deben al factor humano (conductores).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Se considera el entorno de la vía un factor de riesgo?",
+      "imagen": "serie-facil-05_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, únicamente es un factor de riesgo la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo en carreteras convencionales."
+        }
+      ],
+      "ayuda": "El entorno de la vía, también es una factor de riesgo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Cómo debe realizarse un cambio de carril en una vía saturada?",
+      "imagen": "serie-facil-05_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Utilizando el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "Realizando la maniobra rápidamente para no estorbar."
+        },
+        {
+          "letra": "C",
+          "texto": "Advirtiéndolo con suficiente antelación."
+        }
+      ],
+      "ayuda": "Antes de cambiar de carril, se debe observar y advertir la maniobra con suficiente antelación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "En bajada, ¿cuándo frena mejor el vehículo?",
+      "imagen": "serie-facil-05_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Frena igual con carga que sin ella."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando lleva carga frena mejor."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando no lleva carga frena mejor."
+        }
+      ],
+      "ayuda": "En las pendientes descendentes (bajadas), el vehículo frenará mejor cuanto menor sea su masa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

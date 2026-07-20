@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 18,
+  "nombre": "Test de examen 18",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En esta intersección y según la señalización, ¿a qué vehículos debe ceder el paso?",
+      "imagen": "examen-18_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los que se incorporen a la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "A todos los que se acerquen por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "A ninguno."
+        }
+      ],
+      "ayuda": "Los conductores de los vehículos que se aproximen a una intersección señalizada con señal de intersección con prioridad tendrán prioridad de paso sobre los vehículos que circulen por otra vía o procedan de ella.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Al aproximarse a un autobús en situación de parada, ¿qué precauciones se deben tomar?",
+      "imagen": "examen-18_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Moderar la velocidad y, si fuera preciso, detener el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical."
+        },
+        {
+          "letra": "C",
+          "texto": "Ninguna si no vienen vehículos en sentido contrario."
+        }
+      ],
+      "ayuda": "Para evitar riesgos, al aproximarse a un autobús en situación de parada, se debe moderar la velocidad y, si fuera preciso, detener el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Un semáforo con una flecha negra sobre una luz roja no intermitente...",
+      "imagen": "examen-18_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prohíbe circular por donde indica la flecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Permite seguir circulando extremando la precaución."
+        },
+        {
+          "letra": "C",
+          "texto": "Obliga a continuar por donde indica la flecha."
+        }
+      ],
+      "ayuda": "Una flecha negra sobre una luz roja no intermitente o sobre una luz amarilla no cambia el significado de dichas luces, pero lo limita exclusivamente al movimiento indicado por la flecha. En este caso, el semáforo con una flecha negra sobre una luz roja fija prohíbe circular por donde indica la flecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Para aumentar la fluidez del tráfico, se ha abierto un carril para circular en sentido contrario al habitual, ¿qué vehículos pueden circular por este carril?",
+      "imagen": "examen-18_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todos los autorizados a circular por la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Todos los que pueden circular a más de 60 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "Los turismos sin remolque y las motocicletas."
+        }
+      ],
+      "ayuda": "Como norma general y cuando se habiliten por razones de fluidez, la utilización de los carriles habilitados para la circulación en sentido contrario al habitual queda limitada a las motocicletas y turismos, y está prohibida, por lo tanto, al resto de los vehículos, incluidos los turismos con remolque.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Durante un día con temperaturas ambientales muy bajas, ¿es correcto conducir con el abrigo puesto?",
+      "imagen": "examen-18_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para no tener sensación de frío, que puede hacer que nos distraigamos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para no tener frío y, además, en caso de accidente protege al ocupante."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ya que en caso de accidente reduce la eficacia del cinturón de seguridad y del pretensor."
+        }
+      ],
+      "ayuda": "La utilización de abrigos u otras prendas voluminosas durante la conducción no resulta aconsejable, ya que además de reducir la movilidad del conductor, en caso de accidente puede reducir la eficacia del cinturón de seguridad y del pretensor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Como norma general, ¿dónde está prohibido adelantar?",
+      "imagen": "examen-18_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En las calzadas de menos de 8 metros de anchura."
+        },
+        {
+          "letra": "B",
+          "texto": "En todas las curvas y cambios de rasante."
+        },
+        {
+          "letra": "C",
+          "texto": "En las intersecciones y en sus proximidades."
+        }
+      ],
+      "ayuda": "Como norma general queda prohibido adelantar en las intersecciones y en sus proximidades, excepto cuando:\n\n- se trate de una plaza de circulación giratoria o glorieta.\n- el adelantamiento deba efectuarse por la derecha de acuerdo a lo reglamentariamente establecido.\n- la calzada en que se realice goce de prioridad en la intersección y haya señal expresa que lo indique.\n- el adelantamiento se realice a vehículos de dos ruedas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Un turismo que circula entre la puesta y la salida de sol, ¿debe llevar iluminadas las placas de matrícula?\n",
+      "imagen": "examen-18_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo la delantera."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo la trasera."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, tanto la delantera como la trasera."
+        }
+      ],
+      "ayuda": "La normativa exige que, cuando sea obligatorio el uso del alumbrado (entre la puesta y la salida del sol por ejemplo), los vehículos lleven iluminada la placa posterior de matrícula.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "La utilización del carril habilitado para VAO...",
+      "imagen": "examen-18_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se limita a primeras horas de la mañana."
+        },
+        {
+          "letra": "B",
+          "texto": "está prohibida para vehículos con remolque."
+        },
+        {
+          "letra": "C",
+          "texto": "está permitida a ciclomotores."
+        }
+      ],
+      "ayuda": "La utilización del carril habilitado para VAO queda limitada a motocicletas, turismos y vehículos mixtos adaptables, y está prohibida, por tanto, al resto de los vehículos y conjuntos de vehículos, incluidos los turismos con remolque, así como a peatones, ciclos, ciclomotores, vehículos de tracción animal y animales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Cómo se deben regular los espejos en los vehículos?\n",
+      "imagen": "examen-18_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con el vehículo parado."
+        },
+        {
+          "letra": "B",
+          "texto": "Con el vehículo en movimiento para ver mejor."
+        },
+        {
+          "letra": "C",
+          "texto": "Con el vehículo parado o en movimiento, es igual."
+        }
+      ],
+      "ayuda": "La regulación de los espejos retrovisores siempre debe realizarse con el vehículo inmovilizado y antes de comenzar la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "En esta intersección no hay línea de detención, ¿dónde hay que detenerse?",
+      "imagen": "examen-18_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Antes de entrar en la intersección."
+        },
+        {
+          "letra": "B",
+          "texto": "A una distancia mínima de 5 metros antes de la intersección."
+        },
+        {
+          "letra": "C",
+          "texto": "Dentro de la intersección."
+        }
+      ],
+      "ayuda": "En una intersección, cuando sea necesario detenerse y no exista línea de detención, los vehículos deberán detenerse antes de entrar en dicha intersección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "La señal prohíbe el paso a los vehículos...",
+      "imagen": "examen-18_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cuya anchura máxima, incluida la carga, supere la indicada."
+        },
+        {
+          "letra": "B",
+          "texto": "cuya altura máxima, incluida la carga, supere la indicada."
+        },
+        {
+          "letra": "C",
+          "texto": "cuya longitud máxima, incluida la carga, supere la indicada."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen, prohíbe el paso a los vehículos cuya anchura máxima, incluida la carga, supere a la indicada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "El triángulo blanco pintado en la calzada, ¿qué significa?",
+      "imagen": "examen-18_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que es obligatorio ceder el paso a los vehículos que se aproximen por el carril derecho cuando cambie de carril."
+        },
+        {
+          "letra": "B",
+          "texto": "Que los conductores tienen preferencia de paso al cambiar de carril."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el conductor está obligado a detener el vehículo en todo caso."
+        }
+      ],
+      "ayuda": "La señal triangular pintada sobre el pavimento indica que es obligatorio ceder el paso a los vehículos que se aproximen por el carril derecho antes de incorporarse al mismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "A la vista de esta señal, ¿debe facilitar la incorporación de los vehículos que se incorporen por la derecha?",
+      "imagen": "examen-18_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, nunca, ya que le otorga la prioridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en la medida de lo posible."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si se trata de vehículos de transporte colectivo de viajeros."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen indica intersección con prioridad sobre incorporación por la derecha.\n\nA pesar de que se dispone de prioridad de paso, en la medida de lo posible se debe facilitar la incorporación de los vehículos que accedan a la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Para ahorrar carburante, ¿qué debe hacer?",
+      "imagen": "examen-18_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular a 90 kilómetros por hora, siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "Circular con marchas cortas."
+        },
+        {
+          "letra": "C",
+          "texto": "Adaptar las marchas a las necesidades del vehículo."
+        }
+      ],
+      "ayuda": "En el contexto de la conducción eficiente, para ahorrar carburante se debe adaptar en todo momento las marchas a las necesidades del vehículo y de la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Los excesos de velocidad...",
+      "imagen": "examen-18_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "hoy apenas tienen incidencia en los accidentes, debido a la seguridad de los vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "son responsables de la mayoría de los accidentes, en vías de doble sentido solamente."
+        },
+        {
+          "letra": "C",
+          "texto": "junto con las distracciones, son responsables de la mayoría de los accidentes."
+        }
+      ],
+      "ayuda": "Los excesos de velocidad junto con las distracciones, son la causa de la mayoría de los accidentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Es recomendable la utilización de los reposacabezas en todos los asientos de un turismo?",
+      "imagen": "examen-18_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, puede evitar lesiones graves en la zona cervical."
+        },
+        {
+          "letra": "B",
+          "texto": "No, es un elemento que puede ser perjudicial para la seguridad de los ocupantes."
+        },
+        {
+          "letra": "C",
+          "texto": "No, al ser un elemento decorativo."
+        }
+      ],
+      "ayuda": "La utilización de los reposacabezas, perfectamente reglados, puede evitar lesiones graves en la zona cervical en caso de accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "En un turismo con cinco plazas, como norma general, ¿en qué asiento debe viajar un niño de tres años?",
+      "imagen": "examen-18_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En cualquiera, mientras utilice un sistema de retención infantil adecuado."
+        },
+        {
+          "letra": "B",
+          "texto": "En un asiento trasero."
+        },
+        {
+          "letra": "C",
+          "texto": "En el asiento delantero."
+        }
+      ],
+      "ayuda": "Los menores de edad de estatura igual o inferior a 135 centímetros deberán utilizar sistemas de retención infantil y situarse en los asientos traseros del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Al adelantar a este vehículo de dos ruedas, ¿qué separación lateral de seguridad es obligatorio dejar?",
+      "imagen": "examen-18_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aquella que le permita realizar el adelantamiento sin ocupar nunca el carril contiguo de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Una separación inferior a 1,5 metros, como mínimo, en todo caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Al menos 1,5 metros."
+        }
+      ],
+      "ayuda": "Cuando se adelante fuera de poblado a peatones, animales o a vehículos de dos ruedas o de tracción animal, se deberá realizar la maniobra ocupando parte o la totalidad del carril contiguo de la calzada, siempre y cuando existan las condiciones precisas para realizar el adelantamiento en las condiciones previstas reglamentariamente; en todo caso, la separación lateral no será inferior a 1,50 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "El orden de prioridad entre los distintos tipos de señales es...",
+      "imagen": "examen-18_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "semáforos, agentes y marcas viales."
+        },
+        {
+          "letra": "B",
+          "texto": "agentes, semáforos y marcas viales."
+        },
+        {
+          "letra": "C",
+          "texto": "agentes, marcas viales y semáforos."
+        }
+      ],
+      "ayuda": "El orden de preferencia entre los distintos tipos de señales de circulación es el siguiente:\n\na) Señales y órdenes de los agentes de la autoridad encargados de la vigilancia del tráfico en el ejercicio de las funciones que tengan encomendadas.\nb) Señalización circunstancial que modifique el régimen normal de utilización de la vía.\nc) Semáforos.\nd) Señales verticales de circulación.\ne) Marcas viales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Las advertencias ópticas deben hacerse...",
+      "imagen": "examen-18_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en el momento de empezar a realizar la maniobra."
+        },
+        {
+          "letra": "B",
+          "texto": "con antelación suficiente antes de iniciar la maniobra."
+        },
+        {
+          "letra": "C",
+          "texto": "únicamente con la señalización luminosa del vehículo."
+        }
+      ],
+      "ayuda": "El uso de las advertencias ópticas, debe realizarse con la antelación suficiente y antes de comenzar las maniobras. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "El titular del permiso de la clase B, ¿puede conducir una motocicleta dentro del territorio nacional?",
+      "imagen": "examen-18_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, de cualquier tipo."
+        },
+        {
+          "letra": "B",
+          "texto": "No, no puede conducir ningún tipo de motocicleta."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, aquella que se pueda conducir con el permiso A1, siempre que la antigüedad del permiso sea superior a 3 años."
+        }
+      ],
+      "ayuda": "Las personas que estén en posesión del permiso de la clase B en vigor, con una antigüedad superior a tres años, podrán conducir dentro del territorio nacional las motocicletas cuya conducción autoriza el permiso de la clase A1.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Este panel, debajo de una señal vertical...",
+      "imagen": "examen-18_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "advierte al conductor de condiciones adversas como nieve, niebla o lluvia."
+        },
+        {
+          "letra": "B",
+          "texto": "indica que se aplica únicamente cuando se den circunstancias de niebla."
+        },
+        {
+          "letra": "C",
+          "texto": "advierte de la presencia de una señalización."
+        }
+      ],
+      "ayuda": "Aplicación de la señalización a circunstancias de niebla\nIndica, bajo la señal vertical correspondiente, que esta se aplica únicamente cuando se den circunstancias de niebla. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Qué efectos puede producir en todo conductor el consumo de estupefacientes?",
+      "imagen": "examen-18_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumentan la atención y facilitan la concentración."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentan los reflejos y la visión."
+        },
+        {
+          "letra": "C",
+          "texto": "Aumentan el tiempo de reacción a los estímulos."
+        }
+      ],
+      "ayuda": "El consumo de estupefacientes aumenta el tiempo reacción de los conductores ante los estímulos procedentes del tráfico, por lo que se incrementará considerablemente el riesgo de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Este peatón conduce a pie su ciclomotor. ¿Debe obedecer las señales de los semáforos para vehículos?",
+      "imagen": "examen-18_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso, al ser un peatón."
+        },
+        {
+          "letra": "B",
+          "texto": "No, sólo debe obedecer las señales de los agentes."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre."
+        }
+      ],
+      "ayuda": "Deberán circular siempre por su derecha los que empujen o arrastren un ciclo o ciclomotor de dos ruedas, y habrán de obedecer las señales dirigidas a los conductores de vehículos: las de los agentes y semáforos, siempre ; las demás, en cuanto les sean aplicables.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Esta señal indica...",
+      "imagen": "examen-18_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la existencia de una vía para peatones y ciclos y, en su caso, VMP, segregada del tráfico motorizado."
+        },
+        {
+          "letra": "B",
+          "texto": "la intersección con una vía ciclista."
+        },
+        {
+          "letra": "C",
+          "texto": "que el acceso está prohibido a ciclos."
+        }
+      ],
+      "ayuda": "La señal de la imagen indica la existencia de una vía para peatones, ciclos y, en su caso, VMP, segregada del tráfico motorizado, y que discurre habitualmente por espacios abiertos, parques, jardines o bosques, si bien fuera de poblado puede discurrir también paralela a la carretera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Qué circunstancias contribuyen a la aparición de la fatiga?",
+      "imagen": "examen-18_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo las circunstancias relacionadas con el conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "Circunstancias relacionadas con la vía, con el vehículo y con el conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "No hay circunstancias específicas, dado que la aparición de la fatiga es una cuestión de tiempo."
+        }
+      ],
+      "ayuda": "La aparición de la fatiga depende de múltiples circunstancias, las cuales pueden estár relacionadas con todos los factores que intervienen en la circulación: vía y su entorno, vehículo y conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Las consecuencias de los accidentes de tráfico incluyen...",
+      "imagen": "examen-18_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "costes derivados del cuidado y tratamiento de las lesiones, solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "daños a la vía y su entorno."
+        },
+        {
+          "letra": "C",
+          "texto": "daños materiales de los vehículos, solamente."
+        }
+      ],
+      "ayuda": "Entre las consecuencias de los accidentes de tráfico se encuentran los costes económicos, los cuales abarcan desde los costes sanitarios, por tratamiento y atención de las lesiones, hasta los daños materiales a la vía y su entorno y al vehículo y su carga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "En un paso para peatones, ¿está permitido estacionar o parar?",
+      "imagen": "examen-18_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Está permitido parar hasta 2 minutos."
+        },
+        {
+          "letra": "B",
+          "texto": "No está permitido estacionar, pero se puede parar."
+        },
+        {
+          "letra": "C",
+          "texto": "No está permitido ni estacionar ni parar."
+        }
+      ],
+      "ayuda": "En los pasos para peatones está prohibido parar y estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Si el cinturón de seguridad no está correctamente ajustado, aún estando abrochado...",
+      "imagen": "examen-18_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no es menos eficiente, pero debe ser cambiado."
+        },
+        {
+          "letra": "B",
+          "texto": "es menos eficiente y puede causar lesiones en un accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "es menos cómodo, pero no menos eficiente."
+        }
+      ],
+      "ayuda": "Para que el cinturón de seguridad cumpla su función protectora, se debe llevar abrochado y correctamente ajustado, pues, en caso contrario, si se produce un accidente los usuarios pueden sufrir lesiones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Las medicinas naturales pueden afectar negativamente a la conducción?",
+      "imagen": "examen-18_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en algunos casos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "No, son siempre inofensivas."
+        }
+      ],
+      "ayuda": "Incluso las medicinas naturales, en ciertos casos, pueden afectar negativamente a la conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "categoria_id": 1,
+  "test_id": 58,
+  "nombre": "Test de examen 58",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Qué documentos debe llevar consigo el conductor de una motocicleta, además del permiso de conducción?",
+      "imagen": "examen-58_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La tarjeta ITV, solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "La tarjeta ITV y el permiso de circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "El permiso de circulación, solamente."
+        }
+      ],
+      "ayuda": "Además de permiso de conducir correspondiente, el conductor debe llevar consigo la tarjeta de inspecciones técnicas periódicas y el permiso de circulación del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Puede conducir si ha tomado algún medicamento?",
+      "imagen": "examen-58_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, no puede conducir por los efectos secundarios que pueda generar."
+        },
+        {
+          "letra": "B",
+          "texto": "SÍ, siempre que no altere el estado físico o mental y por tanto la capacidad para conducir."
+        },
+        {
+          "letra": "C",
+          "texto": "SÍ, en cualquier caso."
+        }
+      ],
+      "ayuda": "Durante el tratamiento con medicamentos, los conductores pueden conducir siempre y cuando los efectos de los mismos no alteren el estado físico o mental y por tanto la capacidad para conducir con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Una motocicleta, ¿puede circular por el arcén?",
+      "imagen": "examen-58_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero no puede hacerlo en paralelo con otros vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, pero es muy recomendable."
+        },
+        {
+          "letra": "C",
+          "texto": "No, debe circular por la calzada."
+        }
+      ],
+      "ayuda": "Las motocicletas, como cualquier otro vehículo automóvil, deben circular por la calzada. La circulación por el arcén, está reservada solamente a determinados usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Cuál es la velocidad máxima genérica para un turismo en autovía?",
+      "imagen": "examen-58_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120 km/h"
+        },
+        {
+          "letra": "B",
+          "texto": "100 km/h"
+        },
+        {
+          "letra": "C",
+          "texto": "90 km/h"
+        }
+      ],
+      "ayuda": "La velocidad máxima establecida con carácter genérico para turismos (sin remolque) en autopistas y autovías, es de 120 kilómetros por hora. Este límite no podrá ser rebasado en ningún caso, ni siquiera para adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Esta señal indica...",
+      "imagen": "examen-58_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El principio de una autopista."
+        },
+        {
+          "letra": "B",
+          "texto": "El principio de una autovía."
+        },
+        {
+          "letra": "C",
+          "texto": "El final de una autopista."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen indica el principio de una autopista, y por lo tanto, el lugar a partir del cual se aplican las reglas especiales de circulación en este tipo de vías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "En una vía interurbana con tres carriles para el mismo sentido, ¿por cuál debe circular con carácter general?",
+      "imagen": "examen-58_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el carril central o el izquierdo."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el carril de la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el carril izquierdo."
+        }
+      ],
+      "ayuda": "Fuera de poblado, en las calzadas con más de un carril reservado para su sentido de marcha, se circulará normalmente por el situado más a la derecha, si bien se podrá utilizar el resto de los de dicho sentido cuando las circunstancias del tráfico o de la vía lo aconsejen, a condición de que no entorpezca la marcha de otro vehículo que le siga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "El agente tenía los brazos en cruz y ha bajado los brazos. ¿Qué debe hacer?",
+      "imagen": "examen-58_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Continuar detenido hasta que realice otro tipo de señal."
+        },
+        {
+          "letra": "B",
+          "texto": "Obedecer las señales o semáforos."
+        },
+        {
+          "letra": "C",
+          "texto": "Continuar circulando."
+        }
+      ],
+      "ayuda": "Señales de los agentes.\nBrazo o brazos extendidos horizontalmente (en cruz): obliga a detenerse a todos los usuarios de la vía que se acerquen al agente desde direcciones que corten la indicada por el brazo o los brazos extendidos y cualquiera que sea el sentido de su marcha. Esta señal permanece en vigor aunque el agente baje el brazo o los brazos, siempre que no cambie de posición o efectúe otra señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Circulando fuera de poblado, ¿qué señalización podrá utilizar para advertir a otro vehículo su propósito de adelantarle?",
+      "imagen": "examen-58_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tanto la señalización óptica como la acústica."
+        },
+        {
+          "letra": "B",
+          "texto": "La acústica de sonido no estridente."
+        },
+        {
+          "letra": "C",
+          "texto": "únicamente la óptica, utilizando de forma intermitente, el alumbrado de corto o de largo alcance."
+        }
+      ],
+      "ayuda": "Se podrán utilizar señales acústicas u ópticas, para advertir, fuera de poblado, al conductor de otro vehículo el propósito de adelantarlo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Pueden algunas enfermedades implicar algún riesgo para la conducción?",
+      "imagen": "examen-58_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo las enfermedades crónicas."
+        },
+        {
+          "letra": "B",
+          "texto": "No, el estado del conductor no afecta a la seguridad vial."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque son un factor de riesgo."
+        }
+      ],
+      "ayuda": "Algunas enfermedades pueden significar un riesgo considerable para la conducción segura de vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Cometer fraude utilizando dispositivos de intercomunicación no autorizados en las pruebas para la obtención y recuperación de permisos o licencias de conducción u otras autorizaciones administrativas para conducir, es una infracción...",
+      "imagen": "examen-58_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "muy grave que conlleva una sanción económica de 500 euros y la imposibilidad de volver a presentarse a las citadas pruebas en el plazo de seis meses."
+        },
+        {
+          "letra": "B",
+          "texto": "grave, que conlleva una sanción económica de 200 euros y la imposibilidad de volver a presentarse a las citadas pruebas en el plazo de tres meses."
+        }
+      ],
+      "ayuda": "Utilizar dispositivos de intercomunicación no autorizados reglamentariamente, en las pruebas para la obtención y recuperación de permisos o licencias de conducción u otras autorizaciones administrativas para conducir, o colaborar o asistir con la utilización de dichos dispositivos, es una sanción calificada como muy grave que conlleva, además de la multa correspondiente (500 euros), la imposibilidad de volver a presentarse a las citadas pruebas en el plazo de seis meses.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Es preciso llevar en un turismo un chaleco reflectante para el acompañante?",
+      "imagen": "examen-58_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre hay que llevar dos chalecos."
+        },
+        {
+          "letra": "B",
+          "texto": "No es obligatorio, pero sí se recomienda."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, uno para cada ocupante del vehículo."
+        }
+      ],
+      "ayuda": "A pesar de que es obligatorio llevar un solo chaleco reflectante a bordo del vehículo, se recomienda llevar otro para el acompañante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Al estacionar en una pendiente descendente, ¿qué precauciones debe adoptar?",
+      "imagen": "examen-58_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Parar el motor, poner el freno de estacionamiento y dejar colocada la marcha atrás si la caja de cambios es manual."
+        },
+        {
+          "letra": "B",
+          "texto": "Dejar colocada la primera marcha."
+        },
+        {
+          "letra": "C",
+          "texto": "Parar el motor y poner el freno de estacionamiento, únicamente."
+        }
+      ],
+      "ayuda": "Al estacionar en pendientes descendentes, se debe parar el motor, accionar el freno de estacionamiento y dejar colocada la marcha atrás si la caja de cambios es manual.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "En autopistas y autovías, ¿está prohibido el cambio de sentido?",
+      "imagen": "examen-58_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, salvo en los lugares habilitados al efecto."
+        }
+      ],
+      "ayuda": "En autopistas y autovías está prohibida la maniobra de cambio de sentido, salvo que se realice en los lugares habilitados al efecto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "En una vía de poblado que tiene dos carriles para cada sentido de circulación, ¿cuál es la velocidad máxima permitida para un turismo con remolque?",
+      "imagen": "examen-58_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "60 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "40 kilómetros por hora."
+        }
+      ],
+      "ayuda": "La velocidad máxima establecida con carácter general, para vehículos automóviles cuando circulen por vías de poblado de dos o más carriles para cada sentido de circulación, es de 50 kilómetros por hora (independientemente de que lleven remolque).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "En la mayoría de accidentes, ¿cuál es el orden de influencia de los factores de riesgo?",
+      "imagen": "examen-58_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1º Factor humano, 2º Factor vía y entorno, 3º Factor vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "1º Factor vía y entorno, 2º Factor humano, 3º Factor vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "1º Factor Vehículo, 2º Factor humano, 3º Factor vía y entorno."
+        }
+      ],
+      "ayuda": "El factor humano es el que tiene una incidencia notoriamente mayor en la accidentalidad vial. Se estima que su incidencia está situada entre el 70 y el 90 %, seguida por el factor vía y su entorno (entre el 10 y el 35%), y el factor vehículo (entre un 4 y un 13%)",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Ciclo es el vehículo de...",
+      "imagen": "examen-58_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "dos ruedas accionado con un motor."
+        },
+        {
+          "letra": "B",
+          "texto": "dos o más ruedas accionado con un motor o con pedales."
+        },
+        {
+          "letra": "C",
+          "texto": "dos ruedas por lo menos, accionado por su conductor mediante pedales o manivelas."
+        }
+      ],
+      "ayuda": "Según la definición del Reglamento General de Vehículos, un ciclo es el vehículo de dos ruedas por lo menos, accionado por el esfuerzo muscular de las personas que lo ocupan, en particular mediante pedales o manivelas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Con carácter general, ¿está permitido estacionar una motocicleta en la acera?",
+      "imagen": "examen-58_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, los días laborales."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque está prohibido estacionar en la acera."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, solo los días lectivos."
+        }
+      ],
+      "ayuda": "Con carácter general está prohibido el estacionamiento de vehículos sobre la acera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "En una intersección en la que debe ceder el paso, ¿cuándo podrá reanudar la marcha?",
+      "imagen": "examen-58_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando exista espacio suficiente para incorporarse."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando esté seguro de que no obliga al que tiene la prioridad a cambiar su trayectoria o velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Inmediatamente después de que pase el vehículo al que cedo el paso."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo que haya de ceder el paso a otro no deberá iniciar o continuar su marcha o su maniobra, ni reemprenderlas, hasta haberse asegurado de que con ello no fuerza al conductor del vehículo que tiene la prioridad a modificar bruscamente la trayectoria o la velocidad de éste, y debe mostrar con suficiente antelación, por su forma de circular y especialmente con la reducción paulatina de la velocidad que efectivamente va a cederlo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "En un puesto de peaje, entra por un carril con luz verde. ¿Qué debe hacer?",
+      "imagen": "examen-58_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pasar sin detenerme porque la luz está verde."
+        },
+        {
+          "letra": "B",
+          "texto": "Detenerme para pagar o coger el ticket de entrada."
+        }
+      ],
+      "ayuda": "El semáforo con flecha verde en un carril de peaje indica que dicho carril está habilitado para su utilización y que no se encuentra cerrado. Los conductores que circulen por éste, deberán abonar el importe correspondiente o, coger el ticket de entrada al tramo de autopista.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Algunas drogas pueden causar:",
+      "imagen": "examen-58_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumento del campo visual."
+        },
+        {
+          "letra": "B",
+          "texto": "Un nivel de alerta mayor."
+        },
+        {
+          "letra": "C",
+          "texto": "Ilusiones ópticas."
+        }
+      ],
+      "ayuda": "Las ilusiones ópticas constituyen uno de los múltiples efectos nocivos que las drogas pueden tener sobre las capacidades para conducir con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "El conductor de un ciclomotor no está obligado a utilizar el casco de protección...",
+      "imagen": "examen-58_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en vías urbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "cuando el ciclomotor disponga de estructura de protección y cinturón de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "en verano."
+        }
+      ],
+      "ayuda": "Cuando las motocicletas, los vehículos de tres ruedas o los cuadriciclos y los ciclomotores cuenten con estructuras de autoprotección y estén dotados de cinturones de seguridad y así conste en la correspondiente tarjeta de inspección técnica o en el certificado de características de ciclomotor, sus conductores y viajeros quedarán exentos de utilizar el casco de protección, viniendo obligados a usar el referido cinturón de seguridad cuando circulen tanto en vías urbanas como interurbanas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Puede mantener encendida la luz de largo alcance cuando efectúe una parada?",
+      "imagen": "examen-58_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando la vía esté insuficientemente iluminada."
+        },
+        {
+          "letra": "B",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en vías interurbanas."
+        }
+      ],
+      "ayuda": "No está permitida la utilización del alumbrado de largo alcance durante las paradas o los estacionamientos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿A qué puede afectar si cambia el carenado de una motocicleta?",
+      "imagen": "examen-58_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A la visibilidad del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Exclusivamente a la estética."
+        },
+        {
+          "letra": "C",
+          "texto": "A la aerodinámica y al consumo."
+        }
+      ],
+      "ayuda": "El carenado de las motocicletas tiene una influencia fundamental en la aerodinámica del vehículo. Su modificación puede conllevar un aumento del coeficiente aerodinámico, lo cual disminuye la velocidad punta del vehículo y aumenta notoriamente el consumo de combustible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Está permitido colocar adhesivos en el parabrisas de su turismo?",
+      "imagen": "examen-58_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, mientras sea posible la visibilidad diáfana del conductor sobre toda la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "No, si no han sido previamente homologados."
+        }
+      ],
+      "ayuda": "Está permitido colocar adhesivos en el parabrisas de su turismo mientras sea posible la visibilidad diáfana del conductor sobre toda la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "La luz de posición de los vehículos, ¿qué indica?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el vehículo está parado."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el vehículo está circulando."
+        },
+        {
+          "letra": "C",
+          "texto": "El lugar que ocupa en la calzada y la anchura del vehículo."
+        }
+      ],
+      "ayuda": "Las luces de posición de los vehículos, tanto las delanteras como las traseras, son utilizadas para indicar la presencia y la anchura del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Si conduce una motocicleta y hay niebla ligera, ¿qué alumbrado debería utilizar?",
+      "imagen": "examen-58_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El de posición, el de cruce y el delantero y trasero de niebla si los tiene instalados."
+        },
+        {
+          "letra": "B",
+          "texto": "El de posición, el de cruce y el delantero de niebla si lo tiene instalado."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente el de posición y el de cruce, siendo optativo el de largo alcance."
+        }
+      ],
+      "ayuda": "Será obligatorio utilizar el alumbrado cuando existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, como en caso de niebla, lluvia intensa, nevada, nubes de humo o de polvo o cualquier otra circunstancia análoga.\nEn los casos mencionados deberá utilizarse la luz antiniebla delantera o la luz de corto o largo alcance. La luz antiniebla delantera puede utilizarse aislada o simultáneamente con la de corto alcance o, incluso, con la de largo alcance.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Un ciclomotor de dos ruedas es un vehículo con un motor de cilindrada...",
+      "imagen": "examen-58_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "inferior a 50 centímetros cúbicos."
+        },
+        {
+          "letra": "B",
+          "texto": "no superior a 50 centímetros cúbicos y una velocidad máxima no superior a 45 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "superior a 50 centímetros cúbicos si es de combustión interna."
+        }
+      ],
+      "ayuda": "Un ciclomotor es un vehículo de dos ruedas, provisto de un motor de cilindrada no superior a 50 cm3, si es de combustión interna, y con una velocidad máxima por construcción no superior a 45 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Estas señales, sobre autopista o autovía, indican salida inmediata hacia...",
+      "imagen": "examen-58_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la población indicada."
+        },
+        {
+          "letra": "B",
+          "texto": "una autopista o autovía."
+        },
+        {
+          "letra": "C",
+          "texto": "una carretera convencional."
+        }
+      ],
+      "ayuda": "Las señales que se observan indican, en una autopista o autovía, salida inmediata hacia autopista o autovía (señal de la derecha del pórtico) y dirección propia (señal de la izquierda).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Un niño va en el asiento delantero sujeto con un sistema de retención orientado hacia atrás, ¿qué debe tener en cuenta?",
+      "imagen": "examen-58_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el airbag debe estar desactivado."
+        },
+        {
+          "letra": "B",
+          "texto": "Que vaya bien sujeto."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el airbag debe estar activado."
+        }
+      ],
+      "ayuda": "En caso de tener que utilizar un sistema de retención infantil orientado hacia atrás en el asiento delantero (en sentido contrario a la marcha), se debe tener en cuenta que el airbag del asiento donde está emplazado el dispositivo se encuentre desactivado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Circula correctamente el tractor agrícola de 2500 kilogramos de masa máxima autorizada?",
+      "imagen": "examen-58_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque al no superar los 3.500 kilogramos de MMA debe circular por el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque estos vehículos deben circular por la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo si está averiado."
+        }
+      ],
+      "ayuda": "Los vehículos especiales de hasta 3.500 kg de MMA están obligados, como norma general, a circular por el arcén de su derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

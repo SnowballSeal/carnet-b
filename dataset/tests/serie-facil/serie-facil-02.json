@@ -1,0 +1,645 @@
+{
+  "categoria_id": 2,
+  "test_id": 2,
+  "nombre": "Serie fácil 2",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "El consumo de drogas de abuso, ¿tiene relación con los accidentes más graves?",
+      "imagen": "serie-facil-02_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, gran parte de los accidentes están causados por este consumo."
+        },
+        {
+          "letra": "B",
+          "texto": "No, los accidentes no tienen relación con el consumo de drogas."
+        }
+      ],
+      "ayuda": "El consumo de drogas de abuso, está normalmente relacionado con los accidetnes de tráfico más graves.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Si debido a una avería circula por una autopista a velocidad anormalmente reducida perturbando la circulación, ¿qué debe hacer?",
+      "imagen": "serie-facil-02_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular por el arcén  y abandonarla por la próxima salida."
+        },
+        {
+          "letra": "B",
+          "texto": "Detenerme."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular normalmente por cualquier carril."
+        }
+      ],
+      "ayuda": "Si se circula por una autopista o autovía a velocidad anormalmente reducida perturbando gravemente la circulación, se debe circular por el arcén de la derecha y abandonar dichas vías por la próxima salida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "El cinturón de seguridad en los asientos traseros...",
+      "imagen": "serie-facil-02_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No salva vidas en caso de accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "Puede salvar la vida de sus ocupantes y evita que éstos provoquen graves lesiones en los demás."
+        },
+        {
+          "letra": "C",
+          "texto": "No es obligatorio."
+        }
+      ],
+      "ayuda": "El cinturón de seguridad en los asientos traseros, puede salvar la vida de sus ocupantes y evita que éstos provoquen graves lesiones en los demás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En una situación incierta, podrá ganar unos metros vitales para evitar un accidente si coloca el pie derecho frente al pedal del freno...",
+      "imagen": "serie-facil-02_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, sin llegar a presionar."
+        },
+        {
+          "letra": "B",
+          "texto": "No, no es correcto llevar el pie frente al pedal del freno."
+        }
+      ],
+      "ayuda": "En una situación incierta, para ganar unos metros y evitar un accidente, es recomendable colocar el pie derecho frente al pedal del freno sin llegar a presionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Un agente con los brazos extendidos horizontalmente...",
+      "imagen": "serie-facil-02_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "prohíbe el paso."
+        },
+        {
+          "letra": "B",
+          "texto": "indica alto a los vehículos cuya trayectoria corte a la indicada por los brazos."
+        },
+        {
+          "letra": "C",
+          "texto": "indica alto a todos los vehículos."
+        }
+      ],
+      "ayuda": "Un agente con los brazos extendidos horizontalmente, indica alto a los vehículos cuya trayectoria corte a la indicada por los brazos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Los peatones que circulen de noche por el arcén, ¿deben ir provistos de un elemento luminoso o retrorreflectante?",
+      "imagen": "serie-facil-02_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, fuera de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "No, nunca."
+        }
+      ],
+      "ayuda": "Si los peatones circulan de noche por vías fuera de poblado, deben ir provistos de un dispositivo luminoso o reflectante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "En general, ¿en qué tipo de vías suelen producirse más accidentes por fatiga o somnolencia?",
+      "imagen": "serie-facil-02_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En carreteras."
+        },
+        {
+          "letra": "B",
+          "texto": "En autopistas y autovías."
+        },
+        {
+          "letra": "C",
+          "texto": "En vías urbanas."
+        }
+      ],
+      "ayuda": "En autopistas y autovías se suelen producir más accidentes por la fatiga y la somnolencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "En una vía urbana de tres carriles para cada sentido de circulación, ¿cuál es la velocidad máxima permitida para una motocicleta?",
+      "imagen": "serie-facil-02_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "30 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "50 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "60 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima permitida en vías urbanas de dos o más carriles por sentido de circulación es de 50 kilómetros por hora, como norma general, para todos los vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Al estacionar su vehículo provisto de caja de cambios manual en una pendiente descendente, ¿qué velocidad dejará colocada?",
+      "imagen": "serie-facil-02_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Punto muerto."
+        },
+        {
+          "letra": "B",
+          "texto": "La marcha atrás."
+        },
+        {
+          "letra": "C",
+          "texto": "La primera velocidad."
+        }
+      ],
+      "ayuda": "Al estacionar un vehículo con caja de cambios manual en una pendiente descendente, se debe colocar la marcha atrás, y en las pendientes ascendentes la primera velocidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Este motorista lleva el casco desabrochado. ¿Es correcto?",
+      "imagen": "serie-facil-02_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque circula a poca velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "No, debe ir ajustado a la cabeza y abrochado."
+        }
+      ],
+      "ayuda": "El casco de protección, debe ir correctamente ajustado a la cabeza y abrochado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "En esta intersección sin señalizar se encuentra con un ciclista, ¿debe cederle el paso?",
+      "imagen": "serie-facil-02_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque se aproxima por la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En las intersecciones sin señalizar la preferencia de paso, se les debe ceder el paso a todos los vehículos que se aproximen por la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Como norma general, ¿es obligatorio advertir las maniobras?",
+      "imagen": "serie-facil-02_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, con el claxon."
+        }
+      ],
+      "ayuda": "Como norma general, se deben advertir todas las maniobras con los intermites o con el brazo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Conducir automedicado, ¿supone un riesgo para la conducción?",
+      "imagen": "serie-facil-02_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solamente durante la noche."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque algunos medicamentos pueden tener efectos secundarios."
+        }
+      ],
+      "ayuda": "Algunos medicamentos pueden tener efectos secundarios, por lo que es recomendable consultárselo al médico antes de conducir.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Fumar mientras conduce, ¿qué efectos puede producir en la conducción?",
+      "imagen": "serie-facil-02_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Provoca una mayor resistencia a la fatiga."
+        },
+        {
+          "letra": "B",
+          "texto": "Disminuye la capacidad de concentración."
+        }
+      ],
+      "ayuda": "Fumar durante la conducción puede disminuir la capacidad de concentración del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Esta señal, en un carril de entrada a un peaje, obliga a quienes circulen por él a...",
+      "imagen": "serie-facil-02_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "utilizarlo en cualquier caso."
+        },
+        {
+          "letra": "B",
+          "texto": "pagar exclusivamente mediante el sistema de peaje dinámico o telepeaje."
+        },
+        {
+          "letra": "C",
+          "texto": "pagar en efectivo."
+        }
+      ],
+      "ayuda": "Esta señal colocada en un carril de entrada a un peaje, indica que los vehículos que circulen por ese carril, deben pagar el peaje exclusivamente mediante el sistema de peaje dinámico o telepeaje.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Cuándo se circula a velocidad anormalmente reducida?",
+      "imagen": "serie-facil-02_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando se circula a velocidad inferior a la máxima permitida."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando se circula a velocidad inferior a la mínima permitida."
+        }
+      ],
+      "ayuda": "Circular a una velocidad inferior a la mínima permitida, se considera velocidad anormalmente reducida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Un turismo por una autovía, ¿a qué velocidad máxima puede circular?",
+      "imagen": "serie-facil-02_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 100 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "A 120 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A 140 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima permitida en autopistas y autovías es de 120 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Para circular de noche por una travesía. ¿Qué luces son obligatorias?",
+      "imagen": "serie-facil-02_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las de posición y las cortas."
+        },
+        {
+          "letra": "B",
+          "texto": "Las de posición solamente."
+        }
+      ],
+      "ayuda": "Durante la noche en vías urbanas y travesías, se deben utilizar las luces de posición y las de cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "En un accidente con heridos graves en el que esté implicado, ¿debe detenerse?",
+      "imagen": "serie-facil-02_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Como norma general, todo conductor debe detenerse ante un accidente de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Circula conduciendo una motocicleta y como se ve en la fotografía, la calzada se encuentra mojada. En este caso la distancia de frenado será...",
+      "imagen": "serie-facil-02_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "igual que con la calzada seca."
+        },
+        {
+          "letra": "B",
+          "texto": "mayor."
+        },
+        {
+          "letra": "C",
+          "texto": "menor."
+        }
+      ],
+      "ayuda": "Cuando la calzada está mojada, la distancia de frenado de cualquier vehículo es mayor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Las personas mayores como peatones...",
+      "imagen": "serie-facil-02_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "pueden no distinguir bien los colores de los semáforos cuando la calzada es muy ancha."
+        },
+        {
+          "letra": "B",
+          "texto": "suelen tener pocos accidentes porque tienen más cuidado."
+        }
+      ],
+      "ayuda": "Las personas mayores como peatones, pueden no distinguir bien los colores de los semáforos, sobre todo, cuando la calzada es muy ancha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Esta señal indica la proximidad de un peligro por...",
+      "imagen": "serie-facil-02_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la existencia de un puente."
+        },
+        {
+          "letra": "B",
+          "texto": "suelo irregular."
+        },
+        {
+          "letra": "C",
+          "texto": "estrechamiento en la vía."
+        }
+      ],
+      "ayuda": "Esta señal indica peligro por la proximidad a un estrechamiento en la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "La inspección técnica para una motocicleta...",
+      "imagen": "serie-facil-02_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es obligatoria y se realiza periódicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "no es obligatoria."
+        },
+        {
+          "letra": "C",
+          "texto": "es aconsejable."
+        }
+      ],
+      "ayuda": "Todos los vehículos deben pasar inspecciones técnicas periódicas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Cuál es la primera causa de mortalidad juvenil en España?",
+      "imagen": "serie-facil-02_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las enfermedades cardiovasculares."
+        },
+        {
+          "letra": "B",
+          "texto": "Las enfermedades infecciosas."
+        },
+        {
+          "letra": "C",
+          "texto": "Los accidentes de tráfico."
+        }
+      ],
+      "ayuda": "La primera causa de mortalidad juvenil en España, son los accidentes de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Una línea longitudinal discontinua con los trazos muy juntos, ¿qué indica?",
+      "imagen": "serie-facil-02_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una carretera."
+        },
+        {
+          "letra": "B",
+          "texto": "Un tramo peligroso."
+        },
+        {
+          "letra": "C",
+          "texto": "Un carril aislado."
+        }
+      ],
+      "ayuda": "Una línea longitudinal discontinua con los trazos más juntos de lo normal, significa que nos aproximamos a una línea continua o a un tramo de vía que representa un riesgo especial. (tramo peligroso).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "En un paso a nivel o sus proximidades, ¿está permitido adelantar?",
+      "imagen": "serie-facil-02_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Como norma general, no."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido adelantar en los pasos a nivel y en sus proximidades.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Conduce un turismo con un remolque de un solo eje, ¿le afecta esta señal vertical?",
+      "imagen": "serie-facil-02_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque lleva un remolque de un eje."
+        }
+      ],
+      "ayuda": "Esta señal, no le afecta a los vehículos con un remolque de un solo eje.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Pueden los agentes inmovilizar un vehículo que supere los límites de humos establecidos?",
+      "imagen": "serie-facil-02_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No"
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Los agentes encargados del tráfico, podrán inmovilizar a cualquier vehículo que circule superando los límites de humos permitidos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "En la próxima intersección, ¿se puede hacer un cambio de sentido?",
+      "imagen": "serie-facil-02_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque es una glorieta."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, antes de entrar en la glorieta."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque no hay señal de cambio de sentido."
+        }
+      ],
+      "ayuda": "En las glorietas se permite cambiar el sentido de la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Los peatones deberán cruzar las plazas y glorietas...",
+      "imagen": "serie-facil-02_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "rodeándolas."
+        },
+        {
+          "letra": "B",
+          "texto": "por el centro de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "por el recorrido más corto."
+        }
+      ],
+      "ayuda": "Los peatones no deben atravesar las plazas y glorietas por la calzada, sino que deben rodearlas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 26,
+  "nombre": "Test de examen 26",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En los vehículos de uso compartido o carsharing, los menores de estatura igual o inferior a 135 centímetros, ¿están obligados a utilizar sistemas de retención infantil?",
+      "imagen": "examen-26_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo si el vehículo dispone de ellos."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Con carácter general, los menores de estatura igual o inferior a 135 centímetros, están obligados a utilizar sistemas de retención infantil adaptados a su talla y peso, independientemente del vehículo en el que viajen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Como peatones, los niños de 6 a 10 años, ¿son un grupo de riesgo para el tráfico?",
+      "imagen": "examen-26_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, entre otras razones, porque suelen desconocer las normas y señales de tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, entre otras razones, porque su campo visual es ilimitado y su visión periférica es muy grande."
+        },
+        {
+          "letra": "C",
+          "texto": "No, los niños no son un grupo de riesgo para el tráfico."
+        }
+      ],
+      "ayuda": "Los niños en general constituyen uno de los conocidos como grupos de riesgo en el entorno del tráfico.\n\nPor ejemplo, los niños de 6 a 10 años, resultan especialmente vulnerables porque, entre otras razones, su campo visual es limitado y, además, suelen desconocer las normas y señales de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Cuál es la edad mínima para viajar como acompañante en una motocicleta conducida por una persona distinta de sus padres o del tutor del menor, o por una persona mayor de edad autorizada? ",
+      "imagen": "examen-26_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "7 años."
+        },
+        {
+          "letra": "B",
+          "texto": "14 años."
+        },
+        {
+          "letra": "C",
+          "texto": "12 años."
+        }
+      ],
+      "ayuda": "Queda prohibido circular con menores de doce años como pasajeros de ciclomotores o motocicletas, con o sin sidecar, por cualquier clase de vía.\n\nExcepcionalmente, se permite esta circulación a partir de los siete años, siempre que los conductores sean el padre, la madre, el tutor o una persona mayor de edad autorizada por ellos, utilicen casco homologado y se cumplan las condiciones específicas de seguridad establecidas reglamentariamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Si circula con una motocicleta por una carretera convencional con dos carriles para cada sentido, ¿qué velocidad máxima le está permitido alcanzar para adelantar a otro vehículo? ",
+      "imagen": "examen-26_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "80 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "90 km/h."
+        }
+      ],
+      "ayuda": "En carreteras convencionales, independientemente del número de carriles que tengan, las motocicletas y los turismos no podrán superar la velocidad máxima de 90 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Esta señal prohíbe la entrada a los carros de mano? ",
+      "imagen": "examen-26_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo si el carro dispone de un eje directriz."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Señal de prohibición de entrada R-115\nIndica entrada prohibida a carros de mano, independientemente del número de ejes. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Para conducir un turismo con un remolque de menos de 750 kg de masa máxima autorizada, ¿qué permiso, al menos, se necesita? ",
+      "imagen": "examen-26_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El de la clase B."
+        },
+        {
+          "letra": "B",
+          "texto": "El de la clase B+E."
+        },
+        {
+          "letra": "C",
+          "texto": "El de la clase C1, al ser un remolque ligero."
+        }
+      ],
+      "ayuda": "En principio, un conjunto de vehículos compuesto por un turismo y un remolque ligero puede conducirse con el permiso de la clase B, sin que resulte necesaria, para ello, la obtención de otro permiso o complemento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Debe llevar un turismo, entre su dotación, un dispositivo de preseñalización de peligro?",
+      "imagen": "examen-26_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero debe llevar dos dispositivos en todo caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, el dispositivo luminoso de preseñalización de peligro V-16."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo cuando circule por poblado y carreteras convencionales."
+        }
+      ],
+      "ayuda": "\tCon carácter general, los turismos, llevarán la siguiente dotación:\n\t \n\ta) El dispositivo luminoso de preseñalización de peligro V-16.\n\tb) Un chaleco reflectante de alta visibilidad.\n\tc) Una rueda completa de repuesto o una rueda de uso temporal.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Cuáles son los cuatro distintivos ambientales para clasificar los vehículos por su potencial contaminante? ",
+      "imagen": "examen-26_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sin emisiones, ECO, A y B."
+        },
+        {
+          "letra": "B",
+          "texto": "0 emisiones, ECO, C y B."
+        },
+        {
+          "letra": "C",
+          "texto": "0 emisiones, ECO, C y D."
+        }
+      ],
+      "ayuda": "Existen, actualmente, cuatro distintivos ambientales: 0 emisiones, ECO, B y C. Estos distintivos corresponden a la clasificación que se realiza de los vehículos por su potencial contaminante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿En qué tipos de vías se producen más accidentes mortales de ciclistas? ",
+      "imagen": "examen-26_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En las travesías."
+        },
+        {
+          "letra": "B",
+          "texto": "En las vías interurbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "En las vías urbanas."
+        }
+      ],
+      "ayuda": "En las vías interurbanas se producen más accidentes mortales de ciclistas que en travesías y vías urbanas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Cuándo debe pasar la primera inspección técnica periódica una furgoneta destinada al transporte de mercancías con una MMA inferior a 3.500 kilogramos? ",
+      "imagen": "examen-26_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los dos años de antigüedad."
+        },
+        {
+          "letra": "B",
+          "texto": "A los tres años de antigüedad."
+        },
+        {
+          "letra": "C",
+          "texto": "A los cuatro años de antigüedad."
+        }
+      ],
+      "ayuda": "\tLos vehículos de la clase N1, es decir, aquellos vehículos de motor concebidos y fabricados principalmente para el transporte de mercancías y cuya masa máxima no sea superior a 3,5 toneladas, deben pasar inspecciones técnicas periódicas de acuerdo con la siguiente frecuencia:\n\t \n\tHasta 2 años: Exento.\n\tDe 2 a 6 años: Bienal.\n\tDe 6 a 10 años: Anual.\n\tDe más de 10 años: Semestral.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "En caso de sufrir un reventón circulando por una vía a velocidad elevada, ¿es aconsejable pisar el pedal de freno con brusquedad? ",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, el frenado debe ser suave y progresivo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para mantener con mayor facilidad la trayectoria recta del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si el reventón se produce en una de las ruedas delanteras."
+        }
+      ],
+      "ayuda": "En caso de reventón de uno de los neumáticos, se debe frenar de forma suave y progresiva para mantener el control y la estabilidad del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Cómo advertirá de su propósito de efectuar una parada en el carril derecho a los conductores de los vehículos que circulan por detrás del suyo? ",
+      "imagen": "examen-26_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Utilizando la señal de emergencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Utilizando el intermitente derecho."
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizando el intermitente izquierdo."
+        }
+      ],
+      "ayuda": "Como norma general, para advertir la intención de realizar una parada en la parte derecha de la calzada, se debe advertir con el intermitente derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "De los siguientes, ¿cuál es un síntoma característico de la aparición de la fatiga en el conductor? ",
+      "imagen": "examen-26_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Movimientos más rápidos, precisos y eficaces."
+        },
+        {
+          "letra": "B",
+          "texto": "Conducción más automática y menos activa."
+        },
+        {
+          "letra": "C",
+          "texto": "Disminuye el número de parpadeos y son de menor duración."
+        }
+      ],
+      "ayuda": "Uno de los síntomas característicos de la aparición de la fatiga en el conductor es conducir de forma automática (menos consciente) y menos activa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Para evitar un accidente en caso de frenada brusca, ¿debe adaptar la velocidad y la distancia de seguridad con el vehículo de delante si circula con una furgoneta cargada? ",
+      "imagen": "examen-26_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, el peso de la carga no influye en la distancia de frenado."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, el peso de la carga hace que aumente la distancia de frenado."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, el peso de la carga hace que disminuya la distancia de frenado. "
+        }
+      ],
+      "ayuda": "Cuando circulemos detrás de otro vehículo, debemos dejar una distancia de seguridad tal que nos permita detenernos sin colisionar con él en caso de frenado brusco, teniendo en cuenta especialmente la velocidad, las condiciones de adherencia y frenado, y por supuesto, la carga transportada. Con un vehículo cargado la distancia de frenado será mayor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Los chalecos reflectantes de alta visibilidad, ¿deben estar homologados? ",
+      "imagen": "examen-26_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No es obligatorio, pero sí recomendable."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si son de color naranja, los amarillos no necesitan estar homologados."
+        }
+      ],
+      "ayuda": "Los chalecos reflectantes de alta visibilidad, deben estar homologados.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Según las últimas cifras de siniestralidad, ¿cuándo se produce un mayor número de accidentes de tráfico con víctimas mortales? ",
+      "imagen": "examen-26_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los lunes y los martes. "
+        },
+        {
+          "letra": "B",
+          "texto": "Los jueves."
+        },
+        {
+          "letra": "C",
+          "texto": "Los fines de semana."
+        }
+      ],
+      "ayuda": "Según las estadísticas de siniestralidad, en los fines de semana se produce un mayor número de accidentes de tráfico con víctimas mortales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Este vehículo va a girar a la izquierda; ¿está permitido adelantarle por la derecha? ",
+      "imagen": "examen-26_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque el adelantamiento siempre debe efectuarse por la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo cuando suponga un riesgo para la seguridad vial el no adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque está indicando claramente su propósito de girar a la izquierda."
+        }
+      ],
+      "ayuda": "Por excepción, y si existe espacio suficiente para ello, el adelantamiento se efectuará por la derecha y adoptando las máximas precauciones, cuando el conductor del vehículo al que se pretenda adelantar esté indicando claramente su propósito de cambiar de dirección a la izquierda o parar en ese lado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Excepcionalmente, los conductores de vehículos no prioritarios podrán hacer advertencias acústicas...",
+      "imagen": "examen-26_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "para evitar un posible accidente y, de modo especial, en vías estrechas con muchas curvas."
+        },
+        {
+          "letra": "B",
+          "texto": "para advertir, después de un tiempo prudencial, al conductor de otro vehículo que no se ha percatado de que la fase del semáforo ha cambiado a verde."
+        },
+        {
+          "letra": "C",
+          "texto": "para advertir, en cualquier tipo de vía, al conductor de otro vehículo, el propósito de adelantarlo."
+        }
+      ],
+      "ayuda": "\tLas advertencias acústicas sólo se podrán hacer por los conductores de vehículos no prioritarios:\n\t \n\ta) Para evitar un posible accidente y, de modo especial, en vías estrechas con muchas curvas.\n\tb) Para advertir, fuera de poblado, al conductor de otro vehículo el propósito de adelantarlo.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Cómo deben comportarse los conductores cuando se encuentran con un vehículo en servicio de urgencia?",
+      "imagen": "examen-26_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Deben acelerar."
+        },
+        {
+          "letra": "B",
+          "texto": "Deben apartarse, normalmente a la derecha, y detenerse, si fuera necesario."
+        },
+        {
+          "letra": "C",
+          "texto": "Deben continuar circulando normalmente."
+        }
+      ],
+      "ayuda": "Tan pronto perciban las señales que anuncien la proximidad de un vehículo prioritario en servicio de urgencia, los demás conductores adoptarán las medidas adecuadas para facilitarles el paso, apartándose normalmente a su derecha o deteniéndose si fuera preciso.\n\n----",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "En esta carretera convencional, ¿a qué velocidad máxima puede circular una motocicleta?",
+      "imagen": "examen-26_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 90 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "A 100 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "A 120 kilómetros por hora."
+        }
+      ],
+      "ayuda": "La velocidad máxima fijada para las motocicletas y turismos en carreteras convencionales que no discurran por suelo urbano es de 90 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Cuánto puede sobresalir, como máximo, una carga indivisible, en un camión de longitud inferior a 5 metros?",
+      "imagen": "examen-26_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un tercio de la longitud del vehículo, tanto por la parte anterior como posterior del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "2 metros por la parte anterior y 3 por la parte posterior."
+        },
+        {
+          "letra": "C",
+          "texto": "3 metros tanto por la parte anterior como por la posterior."
+        }
+      ],
+      "ayuda": "Como norma general la carga no puede sobresalir de la proyección en planta del vehículo.\n\nNo obstante las cargas indivisibles podrán sobresalir en los camiones, un tercio de su longitud, tanto por delante como por detrás, cuando el camión tenga una longitud igual o inferior a 5 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Cuando una señal indica una obligación de detención, el conductor no podrá reanudar la marcha hasta que...",
+      "imagen": "examen-26_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "pase un tiempo prudencial, que no será inferior a dos minutos."
+        },
+        {
+          "letra": "B",
+          "texto": "en todo caso, otra señal lo permita."
+        },
+        {
+          "letra": "C",
+          "texto": "cumpla la obligación establecida por la señal."
+        }
+      ],
+      "ayuda": "Ante una señal de detención obligatoria o STOP, el conductor detenido no podrá reanudar su marcha hasta haber cumplido la prescripción que la señal establece.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Cuál es la velocidad máxima permitida para un turismo en esta carretera convencional? ",
+      "imagen": "examen-26_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "90 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "80 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima permitida, con carácter general, para un turismo en carreteras convencionales es de 90 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Si en un control de alcoholemia un conductor supera la tasa máxima permitida, ¿pueden hacerle una segunda prueba?",
+      "imagen": "examen-26_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, a efectos de contraste."
+        },
+        {
+          "letra": "B",
+          "texto": "No, lo trasladarán a un centro médico para realizarle un análisis de sangre."
+        },
+        {
+          "letra": "C",
+          "texto": "Solamente si presenta evidencias de haber consumido alcohol."
+        }
+      ],
+      "ayuda": "Si el resultado de la prueba practicada diera un grado de impregnación alcohólica superior al permitido el agente someterá al interesado, para una mayor garantía y a efecto de contraste, a la práctica de una segunda prueba de detección alcohólica por el aire espirado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Los antihistamínicos más modernos, utilizados para tratar las alergias, ¿son más seguros para la conducción que los llamados de primera generación? ",
+      "imagen": "examen-26_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, ya que ni mezclados con alcohol, producen efectos secundarios."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, ya que producen menos efectos secundarios."
+        },
+        {
+          "letra": "C",
+          "texto": "No, producen los mismos efectos secundarios que el resto de antihistamínicos."
+        }
+      ],
+      "ayuda": "Los antihistamínico más modernos, utilizados para tratar las alergias, son más seguros para la conducción que los llamados de primera generación, ya que producen menos efectos secundarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Si por circunstancias especialmente graves un conductor traslada en su vehículo particular a una persona enferma, ¿cómo advertirá de su presencia?",
+      "imagen": "examen-26_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Agitando el brazo de arriba abajo con movimientos cortos y rápidos."
+        },
+        {
+          "letra": "B",
+          "texto": "Instalando en el techo de su vehículo una señal luminosa especial."
+        },
+        {
+          "letra": "C",
+          "texto": "Haciendo sonar el claxon y conectando la luz de emergencia."
+        }
+      ],
+      "ayuda": "Si por circunstancias especialmente graves hubiera que trasladar al hospital a un herido o una persona enferma, se debe respetar las normas de circulación, y advertir dicha circunstancia mediante el avisador acústico (claxon) de forma intermitente y conectando la luz de emergencia o agitando un pañuelo o procedimiento similar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "El conductor de una motocicleta, que lleva a un acompañante...",
+      "imagen": "examen-26_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "debe utilizar el casco de protección y aconsejar al acompañante que lo utilice."
+        },
+        {
+          "letra": "B",
+          "texto": "debe utilizar el casco de protección y será el responsable de que lo utilice el acompañante."
+        },
+        {
+          "letra": "C",
+          "texto": "debe utilizar el caso de protección y será responsable de que lo utilice el acompañante, pero solamente en vías interurbanas."
+        }
+      ],
+      "ayuda": "Tanto el conductor como el acompañante de una motocicleta deben utilizar cascos homologados cuando circulen por cualquier vía pública. En todo caso el conductor será el responsable de la no utilización del casco por parte del acompañante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "El tiempo de reacción de un conductor, ¿es siempre el mismo o puede variar?",
+      "imagen": "examen-26_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De acuerdo con distintos factores puede disminuir, pero nunca puede aumentar."
+        },
+        {
+          "letra": "B",
+          "texto": "Puede variar de acuerdo con distintos factores, como puede ser su estado físico."
+        },
+        {
+          "letra": "C",
+          "texto": "No, es siempre el mismo y nunca es superior a un segundo."
+        }
+      ],
+      "ayuda": "En condiciones normales, el tiempo de reacción de una persona oscila entre medio y un segundo, aproximadamente; 0,75 segundos se considera un tiempo de reacción normal.\n\nSin embargo, dicho tiempo puede variar según las circunstancias y el estado psicofísico del individuo: el sueño, el cansancio, la ingesta de alcohol o drogas, las preocupaciones, etc. pueden causar un aumento del tiempo de reacción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Si hay charcos de agua en la calzada...",
+      "imagen": "examen-26_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no es aconsejable tomar ninguna precaución."
+        },
+        {
+          "letra": "B",
+          "texto": "debe moderar la velocidad."
+        },
+        {
+          "letra": "C",
+          "texto": "debe acelerar para atravesarlos lo antes posible."
+        }
+      ],
+      "ayuda": "Si fuera necesario pasar por un tramo de calzada anegado o con charcos, se debe moderar la velocidad y circular  con precaución acelerando  de forma suave y sostenida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Si conduce esta motocicleta con sidecar, los pasajeros que lleva en el sidecar ¿están obligados a llevar casco? ",
+      "imagen": "examen-26_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo cuando circula fuera de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Están obligados a utilizar el casco de protección correctamente abrochado, el conductor y los pasajeros de una motocicleta, con o sin sidecar, que circulen en cualquier vía pública.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

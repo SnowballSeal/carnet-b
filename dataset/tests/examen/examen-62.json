@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 62,
+  "nombre": "Test de examen 62",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En los pasos a nivel, ¿está prohibido adelantar a un turismo?",
+      "imagen": "examen-62_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo cuando hay señales que prohíben adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "En los pasos a nivel como norma general está prohibido adelantar. Existen algunas excepciones que permiten esta maniobra, pero sólo cuando se trate de adelantar a vehículos de dos ruedas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "En un estrechamiento sin señales de prioridad se encuentran un turismo que arrastra un remolque y un autobús, sin que se sepa cual entró primero, ¿qué vehículo tiene preferencia?",
+      "imagen": "examen-62_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El autobús."
+        },
+        {
+          "letra": "B",
+          "texto": "El turismo que arrastra el remolque."
+        },
+        {
+          "letra": "C",
+          "texto": "El que tenga que dar marcha atrás más distancia."
+        }
+      ],
+      "ayuda": "Cuando no se pueda establecer qué vehículo ha entrado primero en el tramo estrecho, la prioridad será para aquel que tenga mayor dificultad de maniobra. En este caso, el conjunto de vehículos formado por el turismo con remolque, tendrá preferencia respecto al autobús.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Cuando sólo lo ocupe su conductor, ¿puede un turismo circular por un carril para VAO?",
+      "imagen": "examen-62_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que sea un vehículo no prioritario en servicio de urgencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si el vehículo lleva la señal de minusválido."
+        },
+        {
+          "letra": "C",
+          "texto": "No, nunca."
+        }
+      ],
+      "ayuda": "En los carriles para vehículos de alta ocupación (VAO), un turismo que ostente la señal de minusválido podrá circular aún cuando no esté ocupado por el número mínimo de personas indicado en la señalización.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En una intersección, ¿está permitido realizar un cambio de sentido?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que se pueda efectuar la maniobra en un solo giro."
+        },
+        {
+          "letra": "B",
+          "texto": "No, como norma general."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido siempre."
+        }
+      ],
+      "ayuda": "Como norma general, está prohibido realizar la maniobra de cambio de sentido de la marcha en las intersecciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Si mientras conducimos tenemos una fuerte discusión y nos alteramos, es recomendable...",
+      "imagen": "examen-62_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "parar en lugar permitido y no continuar la marcha hasta sentirnos más tranquilos."
+        },
+        {
+          "letra": "B",
+          "texto": "acelerar y procurar llegar lo antes posible a nuestro destino."
+        },
+        {
+          "letra": "C",
+          "texto": "tomar un medicamento relajante."
+        }
+      ],
+      "ayuda": "Si mientras conducimos tenemos una fuerte discusión y nos alteramos, es recomendable parar en un lugar permitido y no continuar la marcha hasta sentirnos más tranquilos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Al circular, durante el día, por el carril contiguo a uno habilitado en sentido contrario al habitual, ¿debe llevar encendida alguna luz?",
+      "imagen": "examen-62_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, la de corto alcance, al menos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, la de posición."
+        }
+      ],
+      "ayuda": "En las vías en las que se haya habilitado un carril para su utilización en sentido contrario al habitual, los conductores de vehículos que circulen por dicho carril, y por los contiguos a éste, deberán encender el alumbrado de corto alcance, al menos, tanto de día como de noche e independientemente de las condiciones de visibilidad existentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué debe hacer si durante la marcha su vehículo no puede alcanzar la velocidad mínima exigida y existe peligro de alcance?",
+      "imagen": "examen-62_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Utilizar la señal de emergencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Realizar destellos con las luces de largo alcance."
+        },
+        {
+          "letra": "C",
+          "texto": "Pisar de forma intermitente el freno para advertir con las luces de frenado que va a reducir la marcha."
+        }
+      ],
+      "ayuda": "La señal de emergencia (ambos indicadores intermitentes funcionando simultáneamente) debe utilizarse, entre otros casos, cuando durante la marcha su vehículo no pueda alcanzar la velocidad mínima exigida y exista peligro de alcance.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "En un tramo con gran pendiente se encuentran dos vehículos en una zona estrecha donde no pueden cruzarse, tiene preferencia el vehículo que circula...",
+      "imagen": "examen-62_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en sentido ascendente."
+        },
+        {
+          "letra": "B",
+          "texto": "en sentido descendente."
+        },
+        {
+          "letra": "C",
+          "texto": "con mayor M.M.A."
+        }
+      ],
+      "ayuda": "En los estrechamientos situados en tramos de vía con gran pendiente, si se encuentran dos vehículos y no pueden cruzarse debido a la anchura disponible, tiene preferencia el vehículo que circula en sentido ascendente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "Es obligatorio finalizar un adelantamiento...",
+      "imagen": "examen-62_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "incorporándose al carril derecho a la mayor velocidad posible."
+        },
+        {
+          "letra": "B",
+          "texto": "incorporándose al carril de forma gradual sin obstaculizar."
+        },
+        {
+          "letra": "C",
+          "texto": "únicamente señalizando el desplazamiento lateral."
+        }
+      ],
+      "ayuda": "Cuando se finalice la maniobra de adelantamiento, se debe realizar una incorporación gradual al carril de origen, cuidando de no obstaculizar al vehículo adelantado ni a ningún otro usuario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Por qué tipo de vías no pueden circular los ciclomotores?",
+      "imagen": "examen-62_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por las vías que no tengan arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "Por las autopistas y autovías."
+        },
+        {
+          "letra": "C",
+          "texto": "Por las autopistas únicamente."
+        }
+      ],
+      "ayuda": "Los ciclomotores, ya sean de dos, tres o cuatro ruedas, no tienen autorizada la circulación por autopistas o autovías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Ante un motorista accidentado con una hemorragia por la nariz, la actuación correcta es...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no realizarle nunca taponamientos."
+        },
+        {
+          "letra": "B",
+          "texto": "retirarle el casco para realizarle un taponamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "colocarle boca arriba para que deje de sangrar."
+        }
+      ],
+      "ayuda": "A los heridos en accidente de circulación que presenten una hemorragia exteriorizada (por ejemplo: nariz u oídos) nunca se les debe realizar un taponamiento. Una actuación adecuada consistiría en cubrir con una gasa limpia, sin taponar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Cuándo se producen más accidentes de ciclistas, en verano o en invierno?",
+      "imagen": "examen-62_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es indiferente."
+        },
+        {
+          "letra": "B",
+          "texto": "En invierno, debido a las condiciones meteorológicas adversas."
+        },
+        {
+          "letra": "C",
+          "texto": "En verano, puesto que con la llegada del buen tiempo hay más ciclistas en las carreteras."
+        }
+      ],
+      "ayuda": "El verano es una época en la que hay mayor presencia de usuarios de bicicletas circulando por las vías públicas. Esto lleva aparejado una mayor cantidad de accidentes con este tipo de usuarios implicados.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Entre otros, ¿qué síntoma es indicio de fatiga?",
+      "imagen": "examen-62_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Disminución del tiempo de reacción."
+        },
+        {
+          "letra": "B",
+          "texto": "Sensación unas veces de frío y otras de calor."
+        },
+        {
+          "letra": "C",
+          "texto": "Movimientos constantes en el asiento."
+        }
+      ],
+      "ayuda": "Los movimientos continuos y los frecuentes cambios de posición en el asiento por parte del conductor, son indicios inequívocos de fatiga. Se debe buscar un lugar adecuado y parar a descansar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Si el camión está parado, ¿puede rebasarle?",
+      "imagen": "examen-62_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando se le puede rebasar sin peligro."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque tiene que invadir el sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque la marca vial lo prohíbe."
+        }
+      ],
+      "ayuda": "Cuando en un tramo de vía en el que esté prohibido el adelantamiento se encuentre inmovilizado un vehículo que, en todo o en parte, ocupe la calzada en el carril del sentido de la marcha, salvo que la inmovilización venga impuesta por las necesidades del tráfico, podrá ser rebasado, aunque para ello haya que ocupar la parte de la calzada reservada al sentido contrario, después de haberse cerciorado de que se puede realizar la maniobra sin peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "Cuando no utiliza la baca del vehículo, ¿es aconsejable quitarla?",
+      "imagen": "examen-62_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque la baca aumenta la estabilidad del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque sin baca ahorro carburante."
+        },
+        {
+          "letra": "C",
+          "texto": "Es igual, porque la baca no influye en el consumo."
+        }
+      ],
+      "ayuda": "La baca es un elemento que en caso de que no vaya a ser utilizado debe quitarse, ya que la misma altera el diseño aerodinámico del vehículo y hace que este tenga mayor resistencia durante su avance, lo cual conlleva un mayor consumo de combustible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "La carga de un turismo, ¿cuánto puede sobresalir por detrás?",
+      "imagen": "examen-62_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1/3 de la longitud del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "El 15% de la longitud del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "El 20% de la longitud del vehículo."
+        }
+      ],
+      "ayuda": "En un turismo, la carga podrá sobresalir, excepcionalmente, únicamente por la parte posterior y hasta un máximo del 15% de la longitud del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Cuando la cantidad de aire en las ruedas es poca, ¿Qué le ocurre a la cubierta?",
+      "imagen": "examen-62_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Se desgasta igual que con aire normal."
+        },
+        {
+          "letra": "B",
+          "texto": "Se desgasta menos que con aire normal."
+        },
+        {
+          "letra": "C",
+          "texto": "Se desgasta más que con aire normal."
+        }
+      ],
+      "ayuda": "Las cubiertas se desgastan de forma irregular y más rápidamente cuando la presión de inflado no es la correcta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Para adelantar a la bicicleta, ¿debe encender el intermitente?",
+      "imagen": "examen-62_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque no es obligatorio."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque para adelantar es necesario cambiar de carril."
+        },
+        {
+          "letra": "C",
+          "texto": "No es necesario, porque la marca vial me permite adelantar."
+        }
+      ],
+      "ayuda": "El indicador de dirección debe accionarse siempre que el adelantamiento requiera un desplazamiento lateral para cambiar de carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Si la caída de la carga supone un obstáculo para la circulación, debe...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "avisar en primer lugar a las autoridades para que ordenen retirarla."
+        },
+        {
+          "letra": "B",
+          "texto": "señalizarla, como única medida."
+        },
+        {
+          "letra": "C",
+          "texto": "señalizarla e intentar retirarla lo antes posible."
+        }
+      ],
+      "ayuda": "En caso de caída de la carga a la vía y cuando esta suponga un obstáculo a la circulación, se debe señalizar inmediatamente e intentar retirarla lo antes posible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Qué puede favorecer la aparición de fatiga al volante?",
+      "imagen": "examen-62_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Descansar cada 2 horas o cada 200 kilómetros aproximadamente."
+        },
+        {
+          "letra": "B",
+          "texto": "No descansar el tiempo suficiente."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular por una vía bien diseñada."
+        }
+      ],
+      "ayuda": "No realizar los descansos recomendados, es una causa frecuente de aparición de fatiga en los conductores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Cómo puede evitar el atropello de peatones?",
+      "imagen": "examen-62_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Modificando las partes exteriores de su vehículo, especialmente las delanteras."
+        },
+        {
+          "letra": "B",
+          "texto": "Prestando atención a los peatones que vayan hablando por el móvil."
+        },
+        {
+          "letra": "C",
+          "texto": "Haciéndoles señales para que crucen la calzada."
+        }
+      ],
+      "ayuda": "Es importante prestar especial atención a aquellos peatones que circulen distraídos (por ejemplo hablando por el móvil) ya que es probable que irrumpan de forma inesperada en la calzada y sin tomar las debidas precauciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Para adelantar en carretera, ¿cuándo debe dejar 1,5 metros o más?",
+      "imagen": "examen-62_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando adelanto a cualquier vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando adelanto a vehículos de dos ruedas o de tracción animal."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando adelanto a vehículos especiales."
+        }
+      ],
+      "ayuda": "Cuando se adelante fuera de poblado a peatones, animales o a vehículos de dos ruedas o de tracción animal, se deberá realizar la maniobra manteniendo una separación lateral no inferior a 1,50 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-62_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "\tEl paso de dos a tres carriles, con señalización de velocidad máxima permitida.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "El paso de uno a dos carriles, con carril especial obligatorio para vehículos lentos."
+        },
+        {
+          "letra": "C",
+          "texto": "El paso de dos a tres carriles, con señalización de velocidad máxima aconsejada."
+        }
+      ],
+      "ayuda": "La señal que se observa indica el paso de dos a tres carriles de circulación con especificación de la velocidad máxima en cada uno de ellos",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "Esta marca transversal discontinua, ¿obliga a detenerse antes de franquearla?",
+      "imagen": "examen-62_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo si hay visibilidad reducida."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque no parar no implica ningún peligro a la circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo si hay que ceder el paso."
+        }
+      ],
+      "ayuda": "Las marcas transversales indican el lugar en el que hay que detenerse en caso de que sea necesario.\n\nSignificado de la Marca transversal discontinua. \nUna línea discontinua dispuesta a lo ancho de uno o varios carriles es una línea de detención que indica que, salvo en circunstancias anormales que reduzcan la visibilidad, ningún vehículo o animal ni su carga deben franquearla, cuando tengan que ceder el paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Cuándo debe iniciar las advertencias para realizar una maniobra?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Justo antes de iniciar la maniobra."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando haya iniciado la maniobra."
+        },
+        {
+          "letra": "C",
+          "texto": "Con antelación suficiente a la iniciación de la maniobra."
+        }
+      ],
+      "ayuda": "Cuando un conductor se disponga a realizar una maniobra, debe iniciar las advertencias con antelación suficiente al inicio de la misma.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-62_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Vía obligatoria para cualquier motocicleta y prohibición de circular a los demás usuarios."
+        },
+        {
+          "letra": "B",
+          "texto": "Calzada obligatoria para motocicletas de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "Vía reservada a vehículos de dos ruedas."
+        }
+      ],
+      "ayuda": "Señal de calzada para motocicletas de dos ruedas.\nObligación para los conductores de motocicletas de dos ruedas y vehículos de tres ruedas asimilados a motocicletas de circular por la calzada a cuya entrada esté situada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Si existe gravilla en la calzada, ¿qué se debe hacer para evitar la rotura del parabrisas?",
+      "imagen": "examen-62_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumentar la velocidad para disminuir los efectos del impacto."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentar la separación con los vehículos que nos preceden."
+        },
+        {
+          "letra": "C",
+          "texto": "Nada, porque si el parabrisas está limpio se reduce el riesgo de rotura por gravilla."
+        }
+      ],
+      "ayuda": "Cuando exista gravilla en la calzada, o se pueda prever su presencia, los conductores deberán aumentar notoriamente la distancia de seguridad, para evitar que la gravilla proyectada por las ruedas del vehículo que circula delante, pueda impactar en nuestro vehículo y romper el parabrisas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "En esta situación, ¿qué debe hacer?",
+      "imagen": "examen-62_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerse, para obedecer las marcas viales."
+        },
+        {
+          "letra": "B",
+          "texto": "No disminuir la velocidad, porque la señalización lo permite."
+        },
+        {
+          "letra": "C",
+          "texto": "Moderar la velocidad, incluso detenerse, porque hay peatones en la calzada."
+        }
+      ],
+      "ayuda": "A pesar de que el semáforo permite el paso con prioridad, ante la situación que se observa (presencia de peatones en la calzada), los conductores deben moderar la velocidad, llegando incluso a detenerse si fuese preciso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Según datos estadísticos, ¿cuáles son las principales causas de accidentes con víctimas mortales?",
+      "imagen": "examen-62_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La somnolencia y el incumplimiento de las normas sobre prioridad de paso."
+        },
+        {
+          "letra": "B",
+          "texto": "Las distracciones, el consumo de alcohol y la velocidad inadecuada."
+        },
+        {
+          "letra": "C",
+          "texto": "No respetar la distancia de seguridad y la inexperiencia de los conductores."
+        }
+      ],
+      "ayuda": "Según los datos estadísticos de la DGT, las distracciones fueron el factor concurrente más frecuente en accidentes mortales, seguidas del consumo de alcohol y la velocidad inadecuada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "En las motocicletas, ¿qué es obligatorio tener en cuenta con el equipaje transportado?",
+      "imagen": "examen-62_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que vaya colocado y sujeto de forma que no afecte a la estabilidad de la motocicleta."
+        },
+        {
+          "letra": "B",
+          "texto": "Que no sobresalga por la parte trasera."
+        },
+        {
+          "letra": "C",
+          "texto": "Que no sobresalga lateralmente."
+        }
+      ],
+      "ayuda": "En los vehículos en general, pero especialmente en los de dos ruedas, es necesario tener en cuenta a la hora de acomodar el equipaje, que el mismo vaya debidamente colocado y sujeto de forma que no afecte a la estabilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

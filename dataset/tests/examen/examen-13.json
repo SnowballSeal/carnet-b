@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 13,
+  "nombre": "Test de examen 13",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Un turismo sale de una gasolinera para incorporarse a la circulación, en caso necesario, ¿cuándo tiene que ceder el paso?",
+      "imagen": "examen-13_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Siempre que se incorpore, sea por la derecha o por la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo cuando se incorpore por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo cuando se incorpore por la izquierda."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo parado o estacionado en una vía o procedente de las vías de acceso a la misma, de sus zonas de servicio o de una propiedad colindante que pretenda incorporarse a la circulación debe cerciorarse de que puede hacerlo sin peligro para los demás usuarios. Debe advertirlo con las señales obligatorias para estos casos y ceder el paso a los otros vehículos, teniendo en cuenta la posición, trayectoria y velocidad de éstos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "La flecha verde está iluminada. Si va a girar a la derecha, ¿tiene preferencia de paso?",
+      "imagen": "examen-13_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque la flecha verde me permite pasar pero tengo que ceder el paso al vehículo que se aproxima."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque la luz roja me prohíbe girar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque la flecha verde me obliga a girar."
+        }
+      ],
+      "ayuda": "Una flecha verde iluminada sobre un fondo circular negro significa que los vehículos pueden tomar la dirección y sentido indicados por aquélla, cualquiera que sea la luz que esté simultáneamente encendida en el mismo semáforo o en otro contiguo. Los vehículos que avancen siguiendo la indicación de una flecha verde deben hacerlo con precaución, dejando pasar a los vehículos que circulen por el carril al que se incorporen y no poniendo en peligro a los peatones que estén cruzando la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Las alteraciones del sueño, ¿pueden afectar al estado del conductor?",
+      "imagen": "examen-13_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, incrementando los niveles de atención."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pueden provocar estados de nerviosismo y agresividad."
+        }
+      ],
+      "ayuda": "Las alteraciones del sueño (falta de sueño o mala calidad del mismo) afectan negativamente a las capacidades para conducir con seguridad, pudiendo causar estados de nerviosismo y agresividad en los conductores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "El seguro obligatorio, ¿cubre los daños ocasionados en el vehículo asegurado?",
+      "imagen": "examen-13_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando su conductor no sea culpable del accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "El seguro obligatorio no cubre los daños ocasionados en el vehículo asegurado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Con carácter general, la velocidad máxima permitida en travesías es de 50 km/h; ¿se podrá establecer una velocidad máxima inferior a ésta?",
+      "imagen": "examen-13_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo cuando la travesía disponga de un solo carril por sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La velocidad máxima establecida con carácter general en travesías es de 50 kilómetros por hora. No obstante, las autoridades competentes podrán establecer velocidades máximas inferiores cuando así sea necesario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Los efectos del alcohol, ¿son mayores en los conductores con poca experiencia al volante?",
+      "imagen": "examen-13_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, por eso la tasa de alcoholemia permitida es menor."
+        },
+        {
+          "letra": "B",
+          "texto": "No, el alcohol afecta igual a todas las personas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, sólo dependen de la tasa de alcoholemia."
+        }
+      ],
+      "ayuda": "La conducción tras haber consumido alcohol representa un importantísimo riesgo para la seguridad de la circulación. En el caso de los conductores nóveles, los efectos del alcohol sobre sus capacidades para conducir pueden ser aún más peligrosos, debido a la escasa experiencia y a la falta de automatización de determinadas conductas relacionadas con la conducción segura.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Con fuerte viento y ciclistas circulando, debemos...",
+      "imagen": "examen-13_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "al estar cerca de ellos hacer señales acústicas para indicar nuestra presencia."
+        },
+        {
+          "letra": "B",
+          "texto": "mantener la velocidad y estar atentos al cumplimiento de la señalización vertical."
+        },
+        {
+          "letra": "C",
+          "texto": "extremar la precaución porque existe más probabilidad de movimientos bruscos."
+        }
+      ],
+      "ayuda": "El viento es especialmente peligroso para las bicicletas y los vehículos de dos ruedas en general. Cuando exista viento, al circular cerca de este tipo de vehículos se debe extremar la precaución porque existe más probabilidad de movimientos bruscos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Si tiene problemas de sueño, debe tener en cuenta que...",
+      "imagen": "examen-13_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "debe dormir más horas para conducir."
+        },
+        {
+          "letra": "B",
+          "texto": "es recomendable tomar sustancias suficientes para mantenerse despierto."
+        },
+        {
+          "letra": "C",
+          "texto": "no se encuentra en perfectas condiciones para conducir."
+        }
+      ],
+      "ayuda": "Las alteraciones del sueño (falta de sueño o mala calidad del mismo) afectan negativamente a las capacidades para conducir con seguridad, pudiendo causar estados de nerviosismo y agresividad en los conductores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Las malas condiciones meteorológicas, como lluvia, viento o hielo, ¿pueden influir en los accidentes de motocicleta?",
+      "imagen": "examen-13_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, ya que existe mayor probabilidad de movimientos bruscos o caídas de los motoristas."
+        },
+        {
+          "letra": "B",
+          "texto": "No, las condiciones meteorológicas no influyen en la conducción de motocicletas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solamente cuando el conductor no vaya bien equipado."
+        }
+      ],
+      "ayuda": "Las malas condiciones meteorológicas tienen una incidencia especialmente importante en los accidentes sufridos por motocicletas, ya que bajo estas condiciones existe mayor probabilidad de movimientos bruscos o caídas de los motoristas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "El consumo de combustible puede incrementarse cuando...",
+      "imagen": "examen-13_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "las ventanillas del vehículo están subidas."
+        },
+        {
+          "letra": "B",
+          "texto": "los neumáticos carecen de dibujo."
+        },
+        {
+          "letra": "C",
+          "texto": "el vehículo va muy cargado."
+        }
+      ],
+      "ayuda": "La cantidad de carga y la colocación de la misma en el vehículo son un factor determinante en el consumo de combustible.  Cuando el vehículo circula muy cargado, el esfuerzo del motor es mayor y por lo tanto el consumo de combustible aumenta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Las ruedas motrices, ¿cuáles son?",
+      "imagen": "examen-13_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pueden ser las ruedas delanteras o las ruedas traseras según el tipo de vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Las ruedas traseras."
+        },
+        {
+          "letra": "C",
+          "texto": "Las ruedas delanteras."
+        }
+      ],
+      "ayuda": "Las ruedas motrices son aquellas que reciben el movimiento del motor y posibilitan el movimiento del vehículo. Las ruedas motrices pueden ser las traseras o las delanteras (o incluso ambas), según el tipo de vehículo de que se trate.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Sobre los raíles de tranvías, ¿qué está prohibido?",
+      "imagen": "examen-13_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular."
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionar, aunque está permitida la parada."
+        },
+        {
+          "letra": "C",
+          "texto": "Parar y estacionar."
+        }
+      ],
+      "ayuda": "Está prohibido parar y estacionar sobre los raíles de tranvías o tan cerca de ellos que pueda entorpecerse su circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿En qué asiento debe viajar un menor de tres años?",
+      "imagen": "examen-13_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En brazos de un adulto."
+        },
+        {
+          "letra": "B",
+          "texto": "En el asiento delantero o trasero con cinturón de seguridad abrochado."
+        },
+        {
+          "letra": "C",
+          "texto": "En el asiento trasero con un dispositivo homologado adaptado a su talla y peso."
+        }
+      ],
+      "ayuda": "Los menores deben viajar utilizando un sistema de retención homologado adaptado a su talla y peso y en los asientos traseros de los vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Algo que caracteriza a la conducción eficiente es...",
+      "imagen": "examen-13_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circular a menor velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "cambiar de marcha a altas revoluciones."
+        },
+        {
+          "letra": "C",
+          "texto": "utilizar marchas largas en bajas revoluciones."
+        }
+      ],
+      "ayuda": "Una de las técnicas características de la conducción eficiente es la utilización de marchas largas, incluso en regímenes bajos de revoluciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Cuando está lloviendo, ¿qué presión deben tener los neumáticos?",
+      "imagen": "examen-13_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La presión que aconseja el fabricante."
+        },
+        {
+          "letra": "B",
+          "texto": "Menor que la aconsejada por el fabricante."
+        },
+        {
+          "letra": "C",
+          "texto": "Mayor que la aconsejada por el fabricante."
+        }
+      ],
+      "ayuda": "La presión de los neumáticos debe ser siempre la indicada por el fabricante, independientemente de las condiciones climatológicas. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "El vehículo detenido en el semáforo pretende girar a la izquierda, ¿debe mantener encendido el indicador de dirección?",
+      "imagen": "examen-13_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No es obligatorio, pero es aconsejable."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, obligatoriamente."
+        },
+        {
+          "letra": "C",
+          "texto": "No, puede encenderlo cuando continúe la marcha."
+        }
+      ],
+      "ayuda": "La señalización de una maniobra debe permanecer encendida hasta la finalización de la misma.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿En qué condiciones debe estar la rueda de repuesto?",
+      "imagen": "examen-13_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con menor presión de aire que las ruedas del eje trasero."
+        },
+        {
+          "letra": "B",
+          "texto": "En condiciones adecuadas para ser utilizada en cualquier momento."
+        },
+        {
+          "letra": "C",
+          "texto": "Con mayor presión de aire que las del eje delantero."
+        }
+      ],
+      "ayuda": "La rueda de repuesto debe estar en condiciones adecuadas para ser utilizada en cualquier momento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Es aconsejable que los conductores de motocicletas lleven guantes?",
+      "imagen": "examen-13_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo en vías urbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Los guantes constituyen un elemento importante en la indumentaria de seguridad del motociclista.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Un conjunto de vehículos no agrícolas en circulación debe llevar, entre sus accesorios...",
+      "imagen": "examen-13_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un equipo homologado de extinción de incendios, adecuado a sus condiciones de uso."
+        },
+        {
+          "letra": "B",
+          "texto": "una rueda de repuesto del remolque o del semirremolque."
+        },
+        {
+          "letra": "C",
+          "texto": "dos chalecos reflectantes de alta visibilidad."
+        }
+      ],
+      "ayuda": "Los conjuntos de vehículos, entre su dotación obligatoria, deben llevar un equipo homologado de extinción de incendios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Si en un control de alcoholemia el conductor supera la tasa máxima permitida, los agentes...",
+      "imagen": "examen-13_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "realizarán una segunda prueba pasado un tiempo mínimo de 10 minutos."
+        },
+        {
+          "letra": "B",
+          "texto": "precintarán el vehículo y llevarán al conductor ante una autoridad judicial."
+        },
+        {
+          "letra": "C",
+          "texto": "trasladarán al conductor a un centro médico para realizar un análisis de sangre."
+        }
+      ],
+      "ayuda": "Si en un control de alcoholemia el conductor supera la tasa máxima permitida, los agentes realizarán una segunda prueba para contraste, pasado un tiempo mínimo de 10 minutos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Un simple analgésico para el dolor de cabeza, ¿podrá alterar las capacidades necesarias para conducir?",
+      "imagen": "examen-13_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente si está caducado."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Todos los medicamentos pueden alterar las capacidades para conducir. En caso de duda, se debe consultar con el médico o farmacéutico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Esta señal, ¿qué indica?",
+      "imagen": "examen-13_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que hay una vía que tiene cuatro carreteras."
+        },
+        {
+          "letra": "B",
+          "texto": "El lugar a partir del cual rigen las normas de las autopistas."
+        },
+        {
+          "letra": "C",
+          "texto": "Las direcciones de las distintas salidas en la próxima glorieta."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen indica las direcciones de las distintas salidas en la próxima glorieta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "El límite genérico de velocidad en vías urbanas de dos o más carriles por sentido de circulación, será de...",
+      "imagen": "examen-13_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "30 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "20 kilómetros por hora."
+        }
+      ],
+      "ayuda": "Con carácter general, el límite genérico de velocidad en vías urbanas de dos o más carriles por sentido de circulación, será de 50 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "Con carácter general, ¿cuál es la tasa máxima de alcohol permitida para el conductor de una bicicleta?",
+      "imagen": "examen-13_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los conductores de bicicletas no tienen tasa máxima de alcohol."
+        },
+        {
+          "letra": "B",
+          "texto": "0,25 miligramos por litro de aire espirado."
+        },
+        {
+          "letra": "C",
+          "texto": "0,15 miligramos por litro de aire espirado."
+        }
+      ],
+      "ayuda": "No podrán circular los conductores de vehículos ni los conductores de bicicletas con una tasa de alcohol en sangre superior a 0,5 gramos por litro, o de alcohol en aire espirado superior a 0,25 miligramos por litro.\n\t \n\tSi el conductor es menor de edad, la tasa máxima de alcoholemia permitida es de 0.0, tanto en aire espirado como en sangre.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Este conjunto de vehículos, ¿cómo tiene que advertir de su presencia en la vía?",
+      "imagen": "examen-13_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con una luz intermitente amarilla."
+        },
+        {
+          "letra": "B",
+          "texto": "Utilizando la señalización de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizando tanto de día como de noche una luz rotativa de color amarillo auto."
+        }
+      ],
+      "ayuda": "Los vehículos especiales agrícolas deberán utilizar una luz rotativa de color amarillo auto, tanto de día como de noche, siempre que circulen a una velocidad que no supere los 40 kilómetros por hora. En caso de avería de la mencionada señal, deberá utilizarse la luz de cruce junto con la señal de emergencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Se detiene en un carril donde espera para hacer un cambio de sentido. ¿Está permitido?",
+      "imagen": "examen-13_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "No, tiene que salir siempre por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que no se obstaculice a los vehículos que circulan detrás."
+        }
+      ],
+      "ayuda": "Está permitido detenerse en dentro del carril correspondiente para esperar para realizar un cambio de sentido de la marcha, siempre que no se obstaculice a los vehículos que circulan detrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-13_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un peligro porque se están realizando obras en la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Un peligro porque puede saltar gravilla de otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "Un peligro porque puede haber desprendimientos."
+        }
+      ],
+      "ayuda": "Señal de advertencia de peligro por desprendimiento.\nPeligro por la proximidad a una zona con desprendimientos frecuentes y la consiguiente posible presencia de obstáculos en la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Con el permiso de la clase B, ¿está permitido conducir un turismo de 3.000 kg de M.M.A. y un remolque de 800 kg de M.M.A.?",
+      "imagen": "examen-13_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, el permiso de la clase B no autoriza nunca a llevar un remolque no ligero."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo si el conductor también es titular de la autorización que lo complementa (B96)."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si el permiso tiene una antigüedad superior a 3 años."
+        }
+      ],
+      "ayuda": "Con el permiso de la clase B podrá conducirse un conjunto de vehículos compuesto por un turismo de 3.000 kg de masa máxima autorizada y un remolque de 800 kg, siempre que el conductor sea titular de la autorización complementaria de dicho permiso (B96).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Los agentes podrán someter a la prueba de detección de estupefacientes, psicotrópicos u otras sustancias análogas a...",
+      "imagen": "examen-13_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cualquier usuario de la vía o conductor del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "cualquier usuario de la vía con síntomas de estar bajo sus efectos."
+        },
+        {
+          "letra": "C",
+          "texto": "los conductores que sean denunciados por alguna infracción."
+        }
+      ],
+      "ayuda": "Los agentes de la autoridad encargados de la vigilancia del tráfico podrán someter a las pruebas de alcoholemia:\na) A cualquier usuario de la vía o conductor de vehículo implicado directamente como posible responsable en un accidente de circulación.\nb) A quienes conduzcan cualquier vehículo con síntomas evidentes, manifestaciones que denoten o hechos que permitan razonablemente presumir que lo hacen bajo la influencia de bebidas alcohólicas.\nc) A los conductores que sean denunciados por la comisión de alguna de las infracciones a las normas contenidas en este reglamento.\nd) A los que, con ocasión de conducir un vehículo, sean requeridos al efecto por la autoridad o sus agentes dentro de los programas de controles preventivos de alcoholemia ordenados por dicha autoridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Puede circular si las luces de frenado de su vehículo están averiadas?",
+      "imagen": "examen-13_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si dispone de una tercera luz de freno."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque son opcionales."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque son obligatorias."
+        }
+      ],
+      "ayuda": "Las luces de frenado son obligatorias, por lo que no se podrá circular si las mismas están averiadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

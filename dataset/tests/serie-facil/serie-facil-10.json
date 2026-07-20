@@ -1,0 +1,649 @@
+{
+  "categoria_id": 2,
+  "test_id": 10,
+  "nombre": "Serie fácil 10",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Cuál es la función del sistema antibloqueo ABS?",
+      "imagen": "serie-facil-10_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hace que los neumáticos se desgasten menos."
+        },
+        {
+          "letra": "B",
+          "texto": "Impide el bloqueo de las ruedas durante el frenado."
+        }
+      ],
+      "ayuda": "El sistema de frenos ABS evita el bloqueo de las ruedas durante el frenado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "El panel bajo la señal indica...",
+      "imagen": "serie-facil-10_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la distancia al comienzo del peligro."
+        },
+        {
+          "letra": "B",
+          "texto": "la extensión del peligro a ambos lados de la calzada."
+        }
+      ],
+      "ayuda": "El panel que hay debajo de la señal, indica la distancia al comienzo del peligro indicado en la señal. Es decir, a 10 metros existe el firme irregular.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Al incorporarse a una vía debe tener en cuenta la posición, trayectoria y velocidad...",
+      "imagen": "serie-facil-10_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "solo de los vehículos que circulan por la parte izquierda de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "de otros vehículos y usuarios que circulan por la vía."
+        }
+      ],
+      "ayuda": "Todo conductor que pretenda incorporarse a la circulación, debe tener en cuenta la posición, trayectoria y velocidad de todos los vehículos y usuarios que circulan por la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Cuándo tiene que mirar los retrovisores?",
+      "imagen": "serie-facil-10_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando vaya a realizar una maniobra, únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Regularmente, aunque no vaya a realizar ninguna maniobra."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo cuando sea necesario."
+        }
+      ],
+      "ayuda": "Por los espejos retrovisores, se debe mirar con frecuencia y brevedad, aún cuando no se vaya a realizar ninguna maniobra.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Cuando un vehículo quiera adelantarlo. ¿Debe hacer algo para impedirlo?",
+      "imagen": "serie-facil-10_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "No se puede impedir que nos adelanten, sino por el contrario, se debe facilitar el adelantamiento siempre que sea posible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Si detrás de su vehículo se sitúa un agente en una motocicleta que lleva encendido el dispositivo que emite una luz roja intermitente, ¿qué debe hacer?",
+      "imagen": "serie-facil-10_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerme en el lado derecho de la calzada, delante del vehículo policial."
+        },
+        {
+          "letra": "B",
+          "texto": "Continuar circulando hasta que el agente no utilice la megafonía."
+        }
+      ],
+      "ayuda": "Si detrás de nuestro vehículo se coloca un vehículo policial que lleva encendido un dispositivo que emite luz roja intermitente, tenemos que detenernos en el lado derecho de la calzada, delante del vehículo policial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Circulando por una autopista se prevé que un vehículo pueda quedar inmovilizado por circunstancias del tráfico. ¿Cómo deberá advertirlo a los demás?",
+      "imagen": "serie-facil-10_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Utilizando las luces de antiniebla traseras."
+        },
+        {
+          "letra": "B",
+          "texto": "Poniendo las luces de posición, aunque sea de día."
+        },
+        {
+          "letra": "C",
+          "texto": "Advirtiéndolo mediante el empleo reiterado de las luces de frenado."
+        }
+      ],
+      "ayuda": "Si prevé que se va a quedar inmovilizado por circunstancias del tráfico, debe advertirlo mediante el empleo reiterado de las luces de frenado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "En este túnel bien iluminado, ¿qué alumbrado debe encender?",
+      "imagen": "serie-facil-10_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La luz de posición y la corta."
+        },
+        {
+          "letra": "B",
+          "texto": "La luz de posición solamente."
+        }
+      ],
+      "ayuda": "En los túneles suficientemente iluminados, se deben encender las luces de posición y las de cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "En esta intersección, ¿cuándo está permitido adelantar por la derecha?",
+      "imagen": "serie-facil-10_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando no haya señales de vía preferente."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando el vehículo que va delante va a girar a la izquierda."
+        }
+      ],
+      "ayuda": "Se podrá adelantar por la derecha en una intersección cuando el vehículo que va delante esté indicando su propósito de girar a la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Las materias que produzcan polvo o puedan caer, es obligatorio transportarlas...",
+      "imagen": "serie-facil-10_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cubriéndolas total y eficazmente."
+        },
+        {
+          "letra": "B",
+          "texto": "en contenedores de pequeño tamaño."
+        }
+      ],
+      "ayuda": "Las materias que produzcan polvo o pueden caer, se deben transportar cubriéndolas total y eficazmente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Concentrar la atención en una conversación o discutir con un acompañante, ¿puede favorecer la distracción?",
+      "imagen": "serie-facil-10_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, conversar con el acompañante no favorece la distracción."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo en trayectos largos."
+        }
+      ],
+      "ayuda": "Concentrar la atención en una conversación o discutir con el acompañante puede favorecer la distracción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "La mayoría de los accidentes de circulación...",
+      "imagen": "serie-facil-10_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se pueden evitar."
+        },
+        {
+          "letra": "B",
+          "texto": "son inevitables."
+        },
+        {
+          "letra": "C",
+          "texto": "casi nunca se pueden evitar."
+        }
+      ],
+      "ayuda": "La mayoría de los accidentes de tráfico se pueden evitar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Esta señal indica...",
+      "imagen": "serie-facil-10_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "bifurcación hacia la izquierda en calzada de tres carriles."
+        },
+        {
+          "letra": "B",
+          "texto": "proximidad de salida de la autovía."
+        },
+        {
+          "letra": "C",
+          "texto": "bifurcación hacia la derecha en calzada de tres carriles."
+        }
+      ],
+      "ayuda": "Esta señal indica bifurcación hacia la izquierda en calzada de tres carriles para el mismo sentido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Cuándo termina la limitación de velocidad que indica esta marca vial?",
+      "imagen": "serie-facil-10_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando circule por encima de ella."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando encuentre otras señal de velocidad máxima distinta, una señal de fin de limitación de velocidad o una señal de fin de prohibiciones."
+        }
+      ],
+      "ayuda": "La limitación que indica la señal de la fotografía, termina cuando encuentre otra señal de velocidad máxima distinta, una señal de fin de limitación de velocidad o una señal de fin de prohibiciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "En una intersección regulada por esta señal, ¿a quién debe ceder el paso?",
+      "imagen": "serie-facil-10_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A ninguno, porque esta señal me indica que circulo por la vía con prioridad."
+        },
+        {
+          "letra": "B",
+          "texto": "A los vehículos que se aproximen por mi derecha."
+        }
+      ],
+      "ayuda": "Como norma general en las intersecciones señalizadas con esta señal, solo hay que ceder el paso a los vehículos que se aproximen por la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Cuando avise de un accidente, ¿qué información es útil que aporte a los servicios de emergencia?",
+      "imagen": "serie-facil-10_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El lugar del accidente y el número de matrícula de los vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "El lugar del accidente, el número de víctimas y su identificación."
+        }
+      ],
+      "ayuda": "Cuando se avise de un accidente de tráfico, la información que se les debe llegar a los servicios de emergencias es, el lugar del accidente, el número de víctimas y su identificación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Un accidente por fallo de los frenos...",
+      "imagen": "serie-facil-10_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "puede evitarse con un correcto mantenimiento."
+        },
+        {
+          "letra": "B",
+          "texto": "es imposible que suceda."
+        },
+        {
+          "letra": "C",
+          "texto": "es inevitable."
+        }
+      ],
+      "ayuda": "Los accidentes por fallos de los frenos, se pueden evitar con un correcto mantenimiento del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Descansar durante un viaje...",
+      "imagen": "serie-facil-10_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "únicamente es necesario para conductores profesionales."
+        },
+        {
+          "letra": "B",
+          "texto": "solo es aconsejable para conductores noveles."
+        },
+        {
+          "letra": "C",
+          "texto": "es una forma de evitar la aparición de la fatiga."
+        }
+      ],
+      "ayuda": "Para evitar el cansancio y la fatiga durante un viaje se debe descansar, lo cual es una forma de evitar la aparición de la fatiga y el cansancio.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Como norma general, ¿en qué vías está prohibido circular marcha atrás?",
+      "imagen": "serie-facil-10_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo en autopistas y autovías."
+        },
+        {
+          "letra": "B",
+          "texto": "En todas las vías, salvo como complemento a determinadas maniobras."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo en vías urbanas."
+        }
+      ],
+      "ayuda": "Circular marcha atrás está prohibido como norma general, en todas las vías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿El casco de protección que utiliza este motorista, ¿es recomendable?",
+      "imagen": "serie-facil-10_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque proporciona escasa aireación."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque protege la cabeza y el mentón o barbilla."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque en caso de accidente, es difícil extraer."
+        }
+      ],
+      "ayuda": "El casco de protección que lleva el conductor de la motocicleta, es de los mejores, ya que protege la cabeza y el mentón o barbilla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Se considera que se obstaculiza gravemente la circulación con el hecho de efectuar una parada...",
+      "imagen": "serie-facil-10_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "impidiendo la entrada o salida de personas a un inmueble."
+        },
+        {
+          "letra": "B",
+          "texto": "en doble fila."
+        },
+        {
+          "letra": "C",
+          "texto": "en una zona reservada a carga y descarga."
+        }
+      ],
+      "ayuda": "Se considera que se obstaculiza gravemente la circulación el hecho de efectuar una parara de tal forma que impida la entrada o salida de personas a un inmueble. Como por ejemplo, su casa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿A qué vehículos prohíbe el paso esta señal?",
+      "imagen": "serie-facil-10_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A bicicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "A ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "A vehículos de motor."
+        }
+      ],
+      "ayuda": "Esta señal prohíbe la entrada a cualquier vehículo de motor, sin excepciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Cargar un vehículo con más carga que la autorizada...",
+      "imagen": "serie-facil-10_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "solo afecta a los neumáticos, por lo que se deberá incrementar su presión."
+        },
+        {
+          "letra": "B",
+          "texto": "no influye para nada en la seguridad vial."
+        },
+        {
+          "letra": "C",
+          "texto": "influye, especialmente, en la aceleración, frenado y estabilidad del vehículo."
+        }
+      ],
+      "ayuda": "Cargar un vehículo con más carga que la autorizada, influye especialmente, en la aceleración, en la distancia de frenado y en la estabilidad del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Qué vehículos son los más afectados por el viento lateral?",
+      "imagen": "serie-facil-10_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los camiones."
+        },
+        {
+          "letra": "B",
+          "texto": "Las motocicletas y los ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "Los turismos."
+        }
+      ],
+      "ayuda": "Debido a su fragilidad, son más afectados por el viento lateral, las motocicletas, ciclomotores y las bicicletas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Está permitido conducir normalmente con una rueda de uso temporal?",
+      "imagen": "serie-facil-10_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, debe atender a las limitaciones que indica el fabricante."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, llevando el neumático con una presión superior a las demás ruedas."
+        }
+      ],
+      "ayuda": "Normalmente no se permite conducir con una rueda de uso temporal, ya que se debe atender a las limitaciones que indique el fabricante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "En una vía así señalizada, ¿qué vehículos no pueden acceder?",
+      "imagen": "serie-facil-10_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Motocicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "Bicicletas."
+        },
+        {
+          "letra": "C",
+          "texto": "Ciclomotores."
+        }
+      ],
+      "ayuda": "Esta señal prohíbe la entrada a bicicletas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿A qué vehículos les está permitido circular por un carril bici?",
+      "imagen": "serie-facil-10_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A bicicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "A bicicletas, ciclomotores y motocicletas ligeras."
+        },
+        {
+          "letra": "C",
+          "texto": "A todos los vehículos que no sean de motor."
+        }
+      ],
+      "ayuda": "Por los carriles bici solamente podrán circular los ciclistas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Durante la conducción, el uso del teléfono móvil es peligroso...",
+      "imagen": "serie-facil-10_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "solamente si se utiliza de forma manual."
+        },
+        {
+          "letra": "B",
+          "texto": "solamente si se utiliza el dispositivo de manos libres."
+        },
+        {
+          "letra": "C",
+          "texto": "tanto si se utiliza de forma manual o con el dispositivo de manos libres."
+        }
+      ],
+      "ayuda": "Hablar por teléfono móvil mientras se conduce es siempre peligroso, independientemente si se hace de forma manual o con un dispositivo de manos libres.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "El vehículo rojo...",
+      "imagen": "serie-facil-10_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "debe apagar las luces para no deslumbrar al conductor del vehículo azul."
+        },
+        {
+          "letra": "B",
+          "texto": "debe cambiar la luz larga por la corta al cruzarse con el vehículo azul."
+        },
+        {
+          "letra": "C",
+          "texto": "debe seguir circulando con la luz larga en la curva."
+        }
+      ],
+      "ayuda": "El conductor del vehículo rojo del gráfico, debe sustituir las luces de largo alcance por las de corto alcance o cruce para evitar deslumbrar al conductor del vehículo azul.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿A qué está obligado si el resultado de la inspección ITV es favorable?",
+      "imagen": "serie-facil-10_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente a llevar la tarjeta ITV sellada."
+        },
+        {
+          "letra": "B",
+          "texto": "A colocar el distintivo en cualquier sitio visible del parabrisas."
+        },
+        {
+          "letra": "C",
+          "texto": "A colocar el distintivo en el ángulo superior derecho del parabrisas y a llevar el informe de la inspección en el vehículo."
+        }
+      ],
+      "ayuda": "Si la inspección técnica ha sido favorable, debe colocar el distintivo que lo acredita en el ángulo superior derecho del parabrisas y llevar el informe de la inspección en el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

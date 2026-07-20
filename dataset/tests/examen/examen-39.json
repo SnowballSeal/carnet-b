@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 39,
+  "nombre": "Test de examen 39",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "De las siguientes obligaciones, ¿cuál corresponde al conductor de un vehículo?",
+      "imagen": "examen-39_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Contratar y mantener en vigor un seguro de responsabilidad civil."
+        },
+        {
+          "letra": "B",
+          "texto": "Someter el vehículo a las inspecciones técnicas obligatorias que le correspondan."
+        },
+        {
+          "letra": "C",
+          "texto": "Asegurarse que las placas de matrícula no presentan obstáculos que impidan su lectura."
+        }
+      ],
+      "ayuda": "El conductor debe verificar que las placas de matrícula del vehículo no presentan obstáculos que impidan o dificulten su lectura e identificación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Qué dimensiones debe tener la placa L de conductor novel?",
+      "imagen": "examen-39_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es indiferente mientras resulte bien visible."
+        },
+        {
+          "letra": "B",
+          "texto": "15,5 centímetros de ancho por 13 de alto."
+        },
+        {
+          "letra": "C",
+          "texto": "19,5 centímetros de alto y 15 de ancho."
+        }
+      ],
+      "ayuda": "La placa de conductor novel que deberán llevar los vehículos cuyos conductores hayan obtenido por primera vez un permiso de conducción durante el período de un año, debe tener unas dimensiones reglamentarias de 19,5 centímetros de alto por 15 centímetros de ancho como norma general.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Cuando existan placas de hielo en la calzada, ¿cuál es la forma más aconsejable y segura de descender una pendiente prolongada?",
+      "imagen": "examen-39_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reduciendo la velocidad con el freno de mano, especialmente al trazar la curva."
+        },
+        {
+          "letra": "B",
+          "texto": "Con marchas cortas para frenar lo menos posible."
+        },
+        {
+          "letra": "C",
+          "texto": "Con marchas largas para mejorar el agarre de las ruedas motrices."
+        }
+      ],
+      "ayuda": "Al bajar una pendiente sobre hielo o nieve, se recomienda utilizar marchas cortas para retener el coche con el freno motor y frenar con el pie solo cuando sea totalmente imprescindible y de una forma muy suave.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Para adelantar a un vehículo de movilidad personal (VMP), ¿está permitido atravesar una línea continua?",
+      "imagen": "examen-39_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si se puede realizar sin peligro, aunque sea necesario invadir el sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero únicamente si no se invade el sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Una marca longitudinal consistente en una línea continua sobre la calzada significa que ningún conductor con su vehículo o animal debe atravesarla ni circular con su vehículo sobre ella ni, cuando la marca separe los dos sentidos de circulación, circular por la izquierda de aquella.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Qué tipo de molestias o lesiones provoca frecuentemente el latigazo cervical?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fracturas en las piernas, dolor abdominal y contractura muscular."
+        },
+        {
+          "letra": "B",
+          "texto": "Rotura de las costillas, encharcamiento pulmonar y dolor cervical."
+        },
+        {
+          "letra": "C",
+          "texto": "Contractura muscular, disminución de la movilidad del cuello y vértigos."
+        }
+      ],
+      "ayuda": "La persona que ha sufrido un latigazo cervical puede experimentar, entre otras molestias, contractura muscular, disminuión de la movilidad del cuello y vértigos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿A qué presión de inflado se deben llevar los neumáticos de un vehículo?",
+      "imagen": "examen-39_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un 10% por encima de la recomendada por el fabricante del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "A la recomendada en cada caso por el fabricante del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Un 15% por debajo de la recomendada por el fabricante del vehículo."
+        }
+      ],
+      "ayuda": "La presión correcta a la que deben estar inflados los neumáticos para que cumplan su cometido, es la recomendada por el fabricante para cada caso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Padecer estrés durante mucho tiempo, ¿puede ocasionar importantes problemas de salud?",
+      "imagen": "examen-39_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero no afecta a las capacidades para conducir con seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "No, el estrés es solo un mecanismo de defensa ante situaciones críticas. "
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, y puede afectar a las capacidades para conducir con seguridad. "
+        }
+      ],
+      "ayuda": "Padecer estrés durante períodos prolongados puede acarrear diversos problemas de salud. Además, puede afectar el rendimiento físico y mental del conductor, disminuyendo su capacidad para reaccionar rápidamente y tomar decisiones ante las situaciones de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿A qué grupo de edad de los que se mencionan, pertenecen la mayor parte de los peatones fallecidos en accidente de tráfico?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De 17 a 24 años."
+        },
+        {
+          "letra": "B",
+          "texto": "De 75 años en adelante."
+        },
+        {
+          "letra": "C",
+          "texto": "De 6 a 14 años."
+        }
+      ],
+      "ayuda": "Según las cifras de siniestralidad vial, en las personas mayores (en los grupos de edades de 65 a 74 y 75 a 84  años) son las que se registran mayor cantidad de víctimas mortales por atropello.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Está permitido circular con un turismo por una vía en cuyo acceso está situada esta señal?",
+      "imagen": "examen-39_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque es una vía permitida para todos los vehículos, excepto ciclos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque es una vía reserva para ciclos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque es una vía reservada para todos los vehículos de dos ruedas."
+        }
+      ],
+      "ayuda": "Esta señal establece la obligación para los conductores de ciclos de circular por la vía a cuya entrada esté situada y la prohibición a los demás usuarios de utilizarla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Los animales tienen preferencia de paso en el lugar indicado con la...",
+      "imagen": "examen-39_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "señal A."
+        },
+        {
+          "letra": "B",
+          "texto": "señal B."
+        },
+        {
+          "letra": "C",
+          "texto": "señal C."
+        }
+      ],
+      "ayuda": "La señal de advertencia de peligro por animales domésticos o ganado, obliga a los demás conductores a ceder el paso a los animales, sólo cuando vaya acompañada por el panel complementario de \"Cañada\".",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Como norma general, los efectos del alcohol son mayores...",
+      "imagen": "examen-39_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "entre 30 y 90 minutos después de haberlo consumido."
+        },
+        {
+          "letra": "B",
+          "texto": "Inmediatamente después de su consumo."
+        },
+        {
+          "letra": "C",
+          "texto": "Tres horas después de haberlo consumido."
+        }
+      ],
+      "ayuda": "La detección del alcohol puede realizarse a partir de los cinco minutos de haberlo ingerido. La alcoholemia aumenta rápidamente hasta alcanzar su pico más alto en los 30-90 minutos posteriores a la ingesta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-39_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Entrada prohibida a motocicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "Entrada prohibida a ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "Entrada prohibida a vehículos de dos ruedas."
+        }
+      ],
+      "ayuda": "Entrada prohibida a motocicletas.\nProhibición de acceso a motocicletas y a vehículos de tres ruedas asimilados a motocicletas. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Si conducimos de noche para evitar los atascos debemos tener en cuenta que...",
+      "imagen": "examen-39_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la oscuridad impide la aparición del sueño, pero favorece la aparición de la fatiga."
+        },
+        {
+          "letra": "B",
+          "texto": "no es necesario descansar en trayectos largos, ya que durante la noche no aparece la fatiga."
+        },
+        {
+          "letra": "C",
+          "texto": "el sueño o la somnolencia al volante aparecen con mayor facilidad."
+        }
+      ],
+      "ayuda": "Durante la noche, el sueño o la somnolencia al volante aparecen con mayor facilidad, lo cual puede suponer un peligro para la seguridad vial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "El tráfico está congestionado y prevé que se va a quedar detenido sobre el paso para peatones; ¿debe entrar en el paso?",
+      "imagen": "examen-39_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque se obstaculiza el paso a los peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si no hay ningún peatón con intención de cruzar por el paso."
+        }
+      ],
+      "ayuda": "Aún cuando goce de prioridad de paso, ningún conductor deberá penetrar con su vehículo en una intersección o en un paso para peatones o para ciclistas, si la situación de la circulación es tal que, previsiblemente, pueda quedar detenido de forma que impida u obstruya la circulación transversal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Es aconsejable conducir un turismo calzado con unas chanclas?",
+      "imagen": "examen-39_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque podrían caerse y dificultar el manejo de los pedales."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque al no sujetar el pie, es más fácil ejercer la presión correcta sobre los pedales."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque permiten un manejo más rápido y seguro de los pedales."
+        }
+      ],
+      "ayuda": "La utilización de chanclas o cualquier otro calzado que no quede bien sujeto al pie no resulta aconsejable para la conducción, porque puede dificultar el correcto manejo de los pedales y ocasiones situaciones de peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "En vías interurbanas, ¿cuáles son las infracciones que cometen con mayor frecuencia los conductores de furgonetas implicados en accidentes con víctimas?",
+      "imagen": "examen-39_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Adelantar de forma antirreglamentaria y circular por lugar prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Invadir parcialmente el sentido contrario y exceso o mala colocación de la carga."
+        },
+        {
+          "letra": "C",
+          "texto": "No respetar la distancia de seguridad y circular a velocidad inadecuada."
+        }
+      ],
+      "ayuda": "No respetar la distancia de seguridad y circular a velocidad inadecuada son las infracciones que cometen con mayor frecuencia los conductores de furgonetas implicados en accidentes con víctimas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Puede incorporarse a la circulación dando marcha atrás invadiendo una intersección?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando el recorrido no sea superior a 15 metros.\n"
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero a una velocidad reducida que permita detenerse en caso de peligro.\n"
+        },
+        {
+          "letra": "C",
+          "texto": "No, marcha atrás no se puede invadir una intersección.\n"
+        }
+      ],
+      "ayuda": "Cuando se realice la marcha atrás, como complemento de la maniobra de incorporación a la circulación, no se podrá circular más de 15 metros ni invadir una intersección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "El estado de los neumáticos, ¿influye en la distancia de frenado?",
+      "imagen": "examen-39_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo influye cuando la profundidad del dibujo es inferior a 1,6 milímetros."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, los neumáticos en buen estado se agarran mejor al suelo y el vehículo frena mejor."
+        },
+        {
+          "letra": "C",
+          "texto": "No, la distancia de frenado depende solo del estado de los frenos."
+        }
+      ],
+      "ayuda": "El estado de los neumáticos influye de forma determinante en la distancia de frenado. Los neumáticos en buen estado se presentan mejores condiciones de adherencia, se agarran mejor al suelo y reducen la distancia de frenado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "En condiciones de mala visibilidad, ¿qué debe hacer un conductor ante la presencia de ciclistas en la vía?",
+      "imagen": "examen-39_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular lo más cerca posible del borde derecho de la calzada al adelantarles."
+        },
+        {
+          "letra": "B",
+          "texto": "Extremar la precaución para reducir el riesgo de accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "Hacer señales acústicas al llegar a su altura para advertir de su presencia."
+        }
+      ],
+      "ayuda": "Ante la presencia de ciclistas en la vía, los conductores de los demás vehículos deberán extremar la precaución, especialmente en condiciones de mala visibilidad o de condiciones meteorológicas adversas.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Que obligación tiene si observa que otro vehículo tiene el propósito de adelantarle utilizando el carril izquierdo contiguo al suyo?",
+      "imagen": "examen-39_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Disminuir la velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Indicarle con el intermitente derecho que puede adelantar con seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Ceñirse al borde derecho de la calzada."
+        }
+      ],
+      "ayuda": "Los conductores que adviertan que el vehículo que le sigue tiene el propósito de adelantarles, deberán ceñirse al borde derecho de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Si circula por un túnel suficientemente iluminado, ¿qué alumbrado debe utilizar?",
+      "imagen": "examen-39_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El alumbrado de posición y el de corto alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "El alumbrado de posición y el de largo alcance."
+        },
+        {
+          "letra": "C",
+          "texto": "Solamente el alumbrado de posición."
+        }
+      ],
+      "ayuda": "En los túneles suficientemente iluminados se debe utilizar las luces de posición y las de corto alcance o de cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Un conductor con sueño...",
+      "imagen": "examen-39_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tarda más tiempo en tomar decisiones y comete más errores."
+        },
+        {
+          "letra": "B",
+          "texto": "tarda menos tiempo en reaccionar ante una situación imprevista."
+        },
+        {
+          "letra": "C",
+          "texto": "percibe mejor las señales y es más difícil que se distraiga."
+        }
+      ],
+      "ayuda": "Las personas que conducen bajo los efectos del sueño presentan una capacidad de reacción disminuida, por lo que tardan más tiempo en tomar decisiones y cometen más errores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿En qué tipo de vía se produce un mayor número de accidentes mortales de motoristas?",
+      "imagen": "examen-39_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En vías interurbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "En vías urbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "En travesías."
+        }
+      ],
+      "ayuda": "El mayor número de accidentes mortales de motoristas se produce en las vías interurbanas. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "Los ciclistas tienen prioridad de paso respecto a los vehículos de motor...",
+      "imagen": "examen-39_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "siempre que circulen en grupo."
+        },
+        {
+          "letra": "B",
+          "texto": "únicamente en los pasos para ciclistas."
+        },
+        {
+          "letra": "C",
+          "texto": "cuando circulen por un carril bici debidamente señalizado."
+        }
+      ],
+      "ayuda": "\tLos conductores de bicicletas tienen prioridad de paso respecto a los vehículos de motor:\n\t \n\ta) Cuando circulen por un carril bici, paso para ciclistas o arcén debidamente señalizados.\n\t \n\tb) Cuando para entrar en otra vía el vehículo de motor gire a derecha o izquierda, en los supuestos permitidos, y haya un ciclista en sus proximidades.\n\t \n\tc) Cuando circulando en grupo, el primero haya iniciado ya el cruce o haya entrado en una glorieta.\n\t \n\tEn los demás casos serán aplicables las normas generales sobre prioridad de paso entre vehículos.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "En una curva, ¿qué debe hacer el conductor para contrarrestar la tendencia del vehículo a salirse de la calzada debido a la fuerza centrífuga?",
+      "imagen": "examen-39_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pisar el freno mientras toma la curva."
+        },
+        {
+          "letra": "B",
+          "texto": "Reducir la velocidad antes de la curva y acelerar suavemente al salir."
+        },
+        {
+          "letra": "C",
+          "texto": "Acelerar a la entrada de la curva."
+        }
+      ],
+      "ayuda": "Para tomar una curva adecuadamente se debe frenar antes de llegar a ella, moderar la velocidad adaptándola al radio de la misma y acelerar suavemente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Una persona mayor de edad, ¿puede llevar de pasajero en su ciclomotor a su hermano si este tiene 8 años de edad?",
+      "imagen": "examen-39_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si es su tutor o si está autorizado por el padre, la madre o el tutor del menor."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, al ser familiares en primer grado."
+        },
+        {
+          "letra": "C",
+          "texto": "No, el menor debe tener una edad de, al menos, 12 años."
+        }
+      ],
+      "ayuda": "Excepcionalmente, los mayores de siete años podrán circular en motocicletas o ciclomotores conducidos por su padre, madre o tutor o por personas mayores de edad por ellos autorizadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Está permitido estacionar en una zona señalizada para uso exclusivo de personas con movilidad reducida?",
+      "imagen": "examen-39_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo si se estaciona durante menos de 30 minutos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que no esté siendo utilizada por un vehículo autorizado."
+        }
+      ],
+      "ayuda": "En zonas señalizadas para uso exclusivo de minusválidos, está prohibido tanto parar como estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Qué función tienen las guías sonoras situadas en el borde derecho de la calzada, ubicadas normalmente en el arcén o coincidiendo con la marca vial que delimita el carril derecho?",
+      "imagen": "examen-39_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Alertar al conductor en caso de que se desvíe de la trayectoria de su carril."
+        },
+        {
+          "letra": "B",
+          "texto": "Balizar el borde de la calzada, especialmente en condiciones de baja visibilidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Indicar la existencia de un carril especial o reservado a determinados vehículos."
+        }
+      ],
+      "ayuda": "Las guías sonoras longitudinales (rumble-strips), son pequeñas hendiduras o resaltes en el firme, que al ser pisadas por el neumático del vehículo producen una vibración o un sonido que pretende alertar al conductor de maniobras prohibidas o desvíos involuntarios de la trayectoria del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "En general, un conductor que circula bajo los efectos del LSD...",
+      "imagen": "examen-39_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "puede sufrir alucinaciones y alteraciones emocionales."
+        },
+        {
+          "letra": "B",
+          "texto": "sobrevalora sus capacidades al volante."
+        },
+        {
+          "letra": "C",
+          "texto": "tiene una fuerte sensación de fatiga y sueño."
+        }
+      ],
+      "ayuda": "Drogas de abuso - LSD (Dietilamida de ácido lisérgico)\nEs una sustancia de las conocidas como sicodélicas y bajo sus efectos se experimentan distorsiones de la realidad y alucinaciones. Las alteraciones experimentadas bajo la influencia de esta droga pueden prolongarse aproximadamente 10-12 horas. Bajo los efectos de esta droga de abuso se experimentan importantes distorsiones en la percepción y alucinaciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Este pictograma incluido en el envase de un medicamento, ¿permite la conducción de vehículos mientras dure el tratamiento del mismo?",
+      "imagen": "examen-39_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, aunque advierte de posibles efectos secundarios que afectan a la conducción."
+        },
+        {
+          "letra": "B",
+          "texto": "No, su ingesta siempre es incompatible con la conducción de vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, indica que el medicamento no tiene efectos secundarios negativos para la conducción."
+        }
+      ],
+      "ayuda": "\tLa ingesta de medicamentos en cuyo envase aparece el pictograma que se observa en la imagen, puede causar efectos secundarios que disminuyan la capacidad para conducir con seguridad.\n\t\n\tSi bien no está prohibido conducir cuando se tomen estos medicamentos, se debe extremar la precaución y consultar con el médico o farmacéutico sobre la conveniencia, o no, de conducir mientras dure el tratamiento.\n\t \n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

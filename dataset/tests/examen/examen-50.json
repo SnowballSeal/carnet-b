@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 50,
+  "nombre": "Test de examen 50",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Un turismo que circula arrastrando un remolque, podría circular por esta vía a 90 km/h?",
+      "imagen": "examen-50_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, ya que esa es la velocidad máxima permitida para esta carretera."
+        },
+        {
+          "letra": "B",
+          "texto": "No, debe reducir la velocidad a 70 km/h como máximo."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La velocidad máxima establecida con carácter genérico para automóviles con remolque en esta clase de vías (carreteras convencionales) es de 80 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Quién tiene la responsabilidad por las infracciones cometidas sobre las normas de circulación?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El conductor, y si es menor de edad, sus padres o tutores."
+        },
+        {
+          "letra": "B",
+          "texto": "El conductor causante de la infracción."
+        },
+        {
+          "letra": "C",
+          "texto": "El titular del vehículo."
+        }
+      ],
+      "ayuda": "La responsabilidad por las infracciones sobre las normas de circulación recaerá directamente en el autor del hecho en que consista la infracción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Una motocicleta nueva, ¿cuándo tiene que pasar la primera ITV?",
+      "imagen": "examen-50_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los dos años."
+        },
+        {
+          "letra": "B",
+          "texto": "A los cuatro años desde su fecha de matriculación."
+        },
+        {
+          "letra": "C",
+          "texto": "A los cinco años desde su fecha de matriculación."
+        }
+      ],
+      "ayuda": "Las motocicletas deberán ser sometidas a su primera inspección técnica periódica, cuando alcancen los cuatro años de antigüedad contados a partir de la fecha de su primera matriculación. Posteriormente deberán realizarse inspecciones con carácter bienal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Como norma general, ¿qué vehículos tienen permitido circular por un carril de sentido contrario al habitual?",
+      "imagen": "examen-50_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Turismos con o sin remolque y motocicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "Cualquier vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Turismos y motocicletas."
+        }
+      ],
+      "ayuda": "Con carácter general, los únicos vehículos autorizados a circular por un carril habilitado para su utilización en sentido contrario al habitual, son los turismos sin remolque y las motocicletas. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "En los pasos a nivel, una barrera o semibarrera móvil en movimiento...",
+      "imagen": "examen-50_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "obliga a detenerse."
+        },
+        {
+          "letra": "B",
+          "texto": "sólo prohíbe el paso cuando se encuentre en posición transversal a la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "obliga a extremar la precaución, y únicamente puede cruzarse cuando no se aproxime ningún vehículo."
+        }
+      ],
+      "ayuda": "Cuando en un paso a nivel exista una barrera o una semibarrera móvil, que se encuentre en movimiento, los vehículos deberán detenerse y esperar a que la misma se encuentre inmóvil y en posición vertical.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Qué alteraciones produce el alcohol en el comportamiento del conductor?",
+      "imagen": "examen-50_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumento del campo visual."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumento de los niveles de atención."
+        },
+        {
+          "letra": "C",
+          "texto": "Exceso de seguridad en sí mismo."
+        }
+      ],
+      "ayuda": "Además de otros múltiples efectos nocivos que el alcohol provoca sobre las capacidades para conducir, la ingesta de alcohol produce en el conductor un exceso de seguridad en sí mismo, lo que muchas veces le induce a cometer imprudencias.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "En condiciones meteorológicas que disminuyan sensiblemente las condiciones de visibilidad...",
+      "imagen": "examen-50_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "únicamente es obligatorio conectar la luz antiniebla trasera."
+        },
+        {
+          "letra": "B",
+          "texto": "es obligatorio utilizar el sistema de alumbrado."
+        },
+        {
+          "letra": "C",
+          "texto": "no es obligatorio usar el alumbrado, excepto que la señalización lo indique."
+        }
+      ],
+      "ayuda": "Cuando se circule bajo condiciones meteorológicas que disminuyan sensiblemente las condiciones de visibilidad, es obligatoria la utilización del alumbrado correspondiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "A la vista de la señal, ¿es obligatorio detenerse para dejar pasar a un vehículo que circula en sentido contrario?",
+      "imagen": "examen-50_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, mientras no se pueda continuar la marcha sin obligar a detenerse a los vehículos que circulen en sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque la señal otorga prioridad de paso."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque la señal no afecta a la prioridad de paso."
+        }
+      ],
+      "ayuda": "La señal de la imagen indica prohibición de entrada en un paso estrecho mientras no sea posible atravesarlo sin obligar a los vehículos que circulen en sentido contrario a detenerse.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "Para incorporarse a una vía, se debe tener en cuenta la posición, velocidad y trayectoria...",
+      "imagen": "examen-50_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "únicamente de los vehículos que circulen por la izquierda de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "de otros vehículos y usuarios que circulan por dicha vía."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo de los vehículos que circulen por la parte derecha de la calzada."
+        }
+      ],
+      "ayuda": "Para incorporarse a una vía, se debe tener en cuenta la posición, velocidad y trayectoria de otros vehículos y usuarios que circulan por dicha vía, respetando las preferencias que en cada caso correspondan.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Puede una bicicleta, sobresalir por la parte posterior de una caravana?",
+      "imagen": "examen-50_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En los vehículos no destinados exclusivamente al transporte de mercancías la carga podrá sobresalir por la parte posterior, hasta un 10% de la longitud del vehículo y hasta un 15% de la longitud del vehículo, si la carga fuera indivisible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "La tasa máxima de alcoholemia en sangre, para conductores noveles es...",
+      "imagen": "examen-50_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0.30 gramos por litro."
+        },
+        {
+          "letra": "B",
+          "texto": "0.40 gramos por litro."
+        },
+        {
+          "letra": "C",
+          "texto": "0.50 gramos por litro."
+        }
+      ],
+      "ayuda": "Los conductores noveles, y aquellos cuya antigüedad del permiso de conducir sea inferior a dos años, no podrán circular por las vías públicas si presentan una tasa de alcoholemia superior a 0.30 gramos de alcohol por litro de sangre.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Evitando los factores de riesgo, ¿puede reducirse la probabilidad de sufrir un accidente?",
+      "imagen": "examen-50_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque es algo que no se puede evitar."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, especialmente aquellos que dependen del propio conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero únicamente los que dependen del mantenimiento del vehículo."
+        }
+      ],
+      "ayuda": "Si los conductores evitan los factores de riesgo tanto del vehículo como aquellos que afectan directamente a sus capacidades, podrán reducir notoriamente las probabilidades de sufrir un accidente de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Está permitido realizar una parada en una autopista o autovía?",
+      "imagen": "examen-50_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo si el arcén es transitable y su anchura es superior a 1,5 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en la mediana o en el arcén, indistintamente."
+        },
+        {
+          "letra": "C",
+          "texto": "No, excepto en las zonas habilitadas."
+        }
+      ],
+      "ayuda": "En las autopistas o autovías está terminantemente prohibido parar o estacionar. Sólo podrán realizarse estás maniobras, en aquellas zonas previstas al efecto, como las áreas de descanso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "El alcohol se elimina...",
+      "imagen": "examen-50_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a la misma velocidad dormido que despierto."
+        },
+        {
+          "letra": "B",
+          "texto": "más deprisa mientras se duerme."
+        },
+        {
+          "letra": "C",
+          "texto": "más despacio mientras se duerme."
+        }
+      ],
+      "ayuda": "Al dormir el metabolismo se ralentiza, por lo que el proceso de absorción y posterior eliminación del alcohol en sangre, puede llegar a alargarse durante muchas horas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Qué vehículos podrán llevar la señal de advertencia de peligro de ángulos muertos para vehículos de transporte de pasajeros y mercancías?",
+      "imagen": "examen-50_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "todos los vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "los turismos y las motocicletas."
+        },
+        {
+          "letra": "C",
+          "texto": "los vehículos de reparto, de distribución de mercancías, los autobuses urbanos y de escolares y los camiones pesados."
+        }
+      ],
+      "ayuda": "La señal de advertencia de peligro de ángulos muertos para vehículos de transporte de pasajeros y mercancías la podrán llevar los vehículos de reparto, distribución de mercancías, autobuses urbanos, escolares y camiones pesados. El objetivo es indicar a los usuarios vulnerables en zonas urbanas, la importancia de situarse fuera de las zonas no visibles para los conductores de estos vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Al entrar a una autopista debe...",
+      "imagen": "examen-50_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tener en cuenta la posición, trayectoria y velocidad de los vehículos que puedan aproximarse."
+        },
+        {
+          "letra": "B",
+          "texto": "detenerse siempre y ceder el paso a los vehículos que circulan por la autopista."
+        },
+        {
+          "letra": "C",
+          "texto": "aumentar la velocidad para incorporarse rápidamente, no siendo obligatorio ceder el paso."
+        }
+      ],
+      "ayuda": "Cuando se vaya a realizar una incorporación a una autopista o autovía, se debe tener en cuenta la posición, trayectoria y velocidad de los vehículos que puedan aproximarse. Se debe comprobar al principio del carril de aceleración y ceder el paso cuando sea necesario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Qué indica la señal?",
+      "imagen": "examen-50_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La obligación de circular a 100 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "Que a 100 metros comienzan las obras."
+        },
+        {
+          "letra": "C",
+          "texto": "La velocidad máxima permitida por obras."
+        }
+      ],
+      "ayuda": "La señal que se observa en la fotografía, con fondo amarillo, establece la velocidad máxima permitida por razones de obras en la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Son los accidentes de tráfico una de las principales causas de lesiones en nuestro país?",
+      "imagen": "examen-50_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, especialmente entre la población más joven."
+        },
+        {
+          "letra": "B",
+          "texto": "No, pero tienen un alto coste económico."
+        },
+        {
+          "letra": "C",
+          "texto": "No, generalmente los heridos son de escasa importancia."
+        }
+      ],
+      "ayuda": "Los accidentes de tráfico constituyen una de las principales causas de lesiones en nuestro país, afectando especialmente a la población más joven.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Están obligadas a llevar placa de matrícula, las motocicletas que se conducen con el permiso A1?",
+      "imagen": "examen-50_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo si llevan sidecar."
+        }
+      ],
+      "ayuda": "Las motocicletas, independientemente de sus características técnicas, están obligadas a llevar en su parte posterior una placa de matrícula.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Para que el cinturón de seguridad sea eficaz...",
+      "imagen": "examen-50_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se desconectará el airbag porque el cinturón de seguridad no es obligatorio cuando el vehículo tiene airbag."
+        },
+        {
+          "letra": "B",
+          "texto": "es necesario colocar un cojín sobre el asiento para que el cinturón esté a la altura adecuada."
+        },
+        {
+          "letra": "C",
+          "texto": "no se colocará nada en el asiento para impedir el efecto submarino."
+        }
+      ],
+      "ayuda": "No es recomendable utilizar cojines o toallas en el asiento del conductor, porque en caso de frenado brusco o accidente, reduce la eficacia del cinturón de seguridad favoreciendo el denominado efecto submarino.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Circular con el escape libre está prohibido a...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "todos los vehículos de motor y a los ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "los vehículos automóviles únicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "los vehículos de motor, excepto ciclomotores, en vías urbanas."
+        }
+      ],
+      "ayuda": "La circulación sin el dispositivo silenciador de explosiones está prohibida a todos los vehículos de motor y a los ciclomotores. El ruido ocasionado por los vehículos que circulan con el \"escape libre\" ocasiona importantes niveles de contaminación acústica.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Invertir en la seguridad de su vehículo es...",
+      "imagen": "examen-50_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "poco importante, ya que lo que hay que hacer es mejorar las vías."
+        },
+        {
+          "letra": "B",
+          "texto": "importante."
+        },
+        {
+          "letra": "C",
+          "texto": "poco importante, ya que sólo el conductor es el que puede evitar los accidentes."
+        }
+      ],
+      "ayuda": "Es muy importante, a la hora de elegir un nuevo vehículo o de mantenerlo en buenas condiciones, no escatimar en aquellos aspectos relacionados con la seguridad. El equipamiento de seguridad de los vehículos, así como el adecuado mantenimiento del mismo, resulta vital para reducir los riesgos de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "En general, la mayoría de los accidentes se deben...",
+      "imagen": "examen-50_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "al estado de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "al estado del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "al factor humano."
+        }
+      ],
+      "ayuda": "Un porcentaje situado entre el 80 y 90 por ciento de los accidentes, está directamente relacionado con el factor humano.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Qué debe hacer si al aproximarse a una intersección, observa que existen señales que regulan la prioridad, y un agente que regula el tráfico temporalmente?",
+      "imagen": "examen-50_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obedecer las señales del agente."
+        },
+        {
+          "letra": "B",
+          "texto": "Obedecer las señales que regulan la prioridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Aplicar las normas genéricas de prioridad de paso de los vehículos que se aproximen por la derecha."
+        }
+      ],
+      "ayuda": "Las señales de los agentes prevalecen sobre cualquier otra señal o norma. Cuando en una intersección con prioridad señalizada exista un agente que regule el tráfico temporalmente, todos los usuarios deberán acatar las indicaciones de éste último.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "En los accidentes de tráfico influyen de forma significativa...",
+      "imagen": "examen-50_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la vía y el vehículo fundamentalmente."
+        },
+        {
+          "letra": "B",
+          "texto": "únicamente el conductor y la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "el conductor, la vía y el vehículo."
+        }
+      ],
+      "ayuda": "El conductor, la vía y el vehículo, son los tres factores que influyen de forma significativa en los accidentes de tráfico. Se estima que el factor humano está directamente relacionado con un porcentaje situado entre el 70 y 90% de los accidentes, mientras que al factor vehículo se le atribuye un porcentaje entre el 4 y el 13% y al factor vía entre un 10 y un 35%.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "En un adelantamiento, en vía interurbana, ¿qué distancia lateral debe mantener una motocicleta?",
+      "imagen": "examen-50_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un espacio no inferior a 1,50 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "El espacio dependerá de la velocidad y del tipo de vehículo al que se vaya a adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "Una distancia que el conductor valore como segura."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo de dos ruedas que pretenda adelantar fuera de poblado a otro cualquiera, lo hará de forma que entre aquél y las partes más salientes del vehículo al que adelanta quede un espacio no inferior a 1.50 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Qué debe hacer si al aproximarse a una intersección, observa un agente con el brazo levantado verticalmente?",
+      "imagen": "examen-50_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerme sólo si ya he entrado en la intersección."
+        },
+        {
+          "letra": "B",
+          "texto": "Detenerme sólo si veo el agente de frente y siempre que pueda hacerlo en condiciones de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Detener el vehículo en condiciones de seguridad."
+        }
+      ],
+      "ayuda": "Cuando el conductor de un vehículo observe a un agente con el brazo levantado verticalmente, se deberá detener en condiciones de seguridad independientemente de la dirección desde la cual se acerque.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "El automóvil es un vehículo de motor que sirve normalmente para...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "realizar obras o determinados servicios."
+        },
+        {
+          "letra": "B",
+          "texto": "transportar personas o cosas o ambas a la vez, o para la tracción de otros vehículos con ese fin."
+        },
+        {
+          "letra": "C",
+          "texto": "la realización de trabajos agrícolas."
+        }
+      ],
+      "ayuda": "Definición de automóvil: \nVehículo de motor que sirve, normalmente, para el transporte de personas o cosas, o de ambas a la vez, o para la tracción de otros vehículos con aquel fin. Se excluyen de esta definición los vehículos especiales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Esta señal prohíbe...",
+      "imagen": "examen-50_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "parar y estacionar la primera quincena del mes."
+        },
+        {
+          "letra": "B",
+          "texto": "estacionar la primera quincena del mes."
+        },
+        {
+          "letra": "C",
+          "texto": "estacionar durante un tiempo superior a 1 hora y 15 minutos."
+        }
+      ],
+      "ayuda": "Señal de estacionamiento prohibido la primera quincena.\nProhibición de estacionamiento en el lado de la calzada en que esté situada la señal, desde las 9 horas del día 1 hasta las 9 horas del día 16. Salvo indicación en contrario, la prohibición comienza en la vertical de la señal y termina en la intersección más próxima.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Estas señales indican...",
+      "imagen": "examen-50_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el límite de 40 km/h para los vehículos que van a girar a la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "el límite de velocidad en una travesía."
+        },
+        {
+          "letra": "C",
+          "texto": "el límite de velocidad en un tramo frecuentado por niños."
+        }
+      ],
+      "ayuda": "Las señales que se observan en la imagen, indican el límite de velocidad máxima en un tramo frecuentado por niños. Los conductores de vehículos, deberán respetar estrictamente esta señalización.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

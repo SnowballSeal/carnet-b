@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 28,
+  "nombre": "Test de examen 28",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "El consumo de alcohol, ¿es una de las principales causas que explican los accidentes de tráfico? ",
+      "imagen": "examen-28_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo está presente en los accidentes que sufren los conductores noveles."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El consumo de alcohol es una de las principales causas que provocan accidentes de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Si el recorrido que va a realizar con su vehículo es corto, ¿está permitido llevar a un niño pequeño en brazos?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando todo el recorrido transcurre por vías urbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "No, es obligatorio usar un sistema de retención infantil."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si se circula a una velocidad igual o inferior a 30 km/h."
+        }
+      ],
+      "ayuda": "Al circular, queda prohibido, y además es muy peligroso, llevar a un niño pequeño en brazos. En este caso, se debe utilizar obligatoriamente un sistema de retención infantil homologado y adaptado a la talla y el peso del niño.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Los síntomas de las enfermedades más comunes, como gripes, resfriados o alergias, ¿pueden afectar a las capacidades para conducir con seguridad?",
+      "imagen": "examen-28_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, y resultan tan familiares que a veces se olvidan sus síntomas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero no es necesario tomar ninguna precaución."
+        },
+        {
+          "letra": "C",
+          "texto": "No, sus síntomas no afectan a las capacidades para conducir."
+        }
+      ],
+      "ayuda": "Las personas con gripe, resfriados o alergias, suelen estar tan familiarizadas con su enfermedad que a veces olvidan sus síntomas, los cuales son especialmente molestos.\n\nA pesar de que los afectados suelen estar acostumbrados a estos síntomas, muchas veces ocasionan distracciones y una disminución de la capacidad para mantener la concentración en el tráfico, lo cual puede derivar en un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "El permiso de la clase B con más de tres años de antigüedad, ¿permite conducir por territorio nacional una motocicleta con sidecar? ",
+      "imagen": "examen-28_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que la motocicleta se pueda conducir con el permiso de la clase A1."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que la cilindrada de la motocicleta no sea superior a 250 cc.\n"
+        }
+      ],
+      "ayuda": "Los titulares del permiso de la clase B con más de tres años de antigüedad, podrán conducir por territorio nacional motocicletas de las que autoriza a conducir el permiso de la clase A1 (hasta 125 cc de cilindrada además de otras limitaciones).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Esta señal indica...",
+      "imagen": "examen-28_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "desnivel a lo largo de la vía en el lado derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "vehículo accidentado."
+        },
+        {
+          "letra": "C",
+          "texto": "una zona con baches y obras."
+        }
+      ],
+      "ayuda": "Esta señal indica peligro por la existencia de un desnivel a lo largo de la vía, en el lado derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Durante el día, el conductor de un turismo, ¿cuándo está obligado a circular con las luces de cruce encendidas? ",
+      "imagen": "examen-28_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando circule por un carril reversible."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando circule por un carril para vehículos con alta ocupación (VAO)."
+        },
+        {
+          "letra": "C",
+          "texto": "Siempre que llueva."
+        }
+      ],
+      "ayuda": "Entre otros casos, durante el día, se deben encender las luces de corto alcance o de cruce, cuando se circule por un carril reversible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "En un trayecto largo, ¿qué se puede hacer para evitar que aparezcan los síntomas de la fatiga?",
+      "imagen": "examen-28_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sustituir las pausas en la conducción por café o bebidas energéticas."
+        },
+        {
+          "letra": "B",
+          "texto": "Realizar descansos suficientemente largos."
+        },
+        {
+          "letra": "C",
+          "texto": "Poner música o una emisora de radio a un volumen bastante elevado."
+        }
+      ],
+      "ayuda": "Para evitar que aparezcan los síntomas de la fatiga y la consecuente reducción de la seguridad durante la conducción, se deben realizar descansos frecuentes y suficientemente largos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Si circula por una vía interurbana insuficientemente iluminada a una velocidad inferior a 40 km/h, ¿qué luces deberá llevar encendidas?",
+      "imagen": "examen-28_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las luces de corto alcance, al menos."
+        },
+        {
+          "letra": "B",
+          "texto": "Las luces de largo alcance."
+        },
+        {
+          "letra": "C",
+          "texto": "Las luces de posición solamente."
+        }
+      ],
+      "ayuda": "Si por cualquier circunstancia se circula con un turismo por una vía interurbana insuficientemente iluminada a velocidad inferior a 40 km/h, se deben llevar encendidas, al menos, las luces de corto alcance o de cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Es peligrosa la conducción de vehículos bajo los efectos del alcohol o de drogas de abuso o ilegales? ",
+      "imagen": "examen-28_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo cuando la tasa de alcoholemia está por encima de la máxima permitida."
+        },
+        {
+          "letra": "B",
+          "texto": "No, el alcohol y las drogas permiten conducir con más seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, incluso cuando se consumen en pequeñas cantidades."
+        }
+      ],
+      "ayuda": "Conducir bajo los efectos del alcohol o de las drogas siempre es muy peligroso, incluso cuando se consumen en pequeñas cantidades.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Si va a cambiar el sentido de la marcha, se debe asegurar que... ",
+      "imagen": "examen-28_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "está en una vía urbana, porque es una maniobra prohibida fuera de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "no haya otros usuarios en la vía a menos de 100 metros de distancia."
+        },
+        {
+          "letra": "C",
+          "texto": "puede hacerlo sin poner en peligro a los demás usuarios de la vía."
+        }
+      ],
+      "ayuda": "El conductor que pretenda cambiar el sentido de la marcha, deberá elegir un lugar adecuado para efectuar la maniobra, de forma que se intercepte la vía el menor tiempo posible, y sin poner en peligro a los demás usuarios de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Al estacionar un vehículo con remolque en una pendiente ascendente, si no dispone de calzos, ¿qué debe hacer?",
+      "imagen": "examen-28_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Utilizar como calzos elementos naturales, tales como piedras, maderas, etc."
+        },
+        {
+          "letra": "B",
+          "texto": "Apoyar una de las ruedas delanteras en el bordillo, orientada hacia el centro de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Es suficiente con dejar puesta la marcha atrás o la primera marcha."
+        }
+      ],
+      "ayuda": "Al estacionar un vehículo que arrastra un remolque, en una pendiente ascendente, se debe parar el motor, accionar el freno de mano y seleccionar la primera velocidad. Por otra parte, se debe apoyar una de las ruedas delanteras en el bordillo, orientadas hacia el centro de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Quién es el responsable de mantener en vigor la tarjeta ITV? ",
+      "imagen": "examen-28_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El conductor del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "El titular del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "El titular del seguro obligatorio del vehículo."
+        }
+      ],
+      "ayuda": "La responsabilidad de mantener en vigor la tarjeta de inspección técnica ITV, así como el resto de la documentación, recae sobre el titular del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Los peatones que circulen por el arcén de vías fuera de poblado, ¿cuándo deben utilizar un elemento luminoso o reflectante homologado? ",
+      "imagen": "examen-28_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando las condiciones meteorológicas disminuyan sensiblemente la visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Siempre que circule por el arcén, tanto de día como de noche."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando el arcén tenga una anchura inferior a 1,5 metros, tanto de día como de noche."
+        }
+      ],
+      "ayuda": "Los peatones que circulen por el arcén de vías fuera de poblado, deberán utilizar elementos luminosos o reflectantes homologados durante la noche y en condiciones meteorológicas que disminuyan sensiblemente la visibilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Qué factores pueden provocar fatiga en un conductor?",
+      "imagen": "examen-28_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una ventilación adecuada o un asiento confortable, entre otros factores."
+        },
+        {
+          "letra": "B",
+          "texto": "El estrés, las preocupaciones o un exceso de tiempo de conducción, entre otros factores."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo factores externos, como el mal estado de la vía o el exceso de calor."
+        }
+      ],
+      "ayuda": "Diversos factores, tanto externos como internos, pueden provocar fatiga en el conductor. Entre los más habituales, se encuentran el estrés, la conducción durante largos periodos sin realizar los descansos suficientes, el sueño, las preocupaciones, la ingesta de alcohol, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "En una autovía, un autobús pretende entrar a la circulación desde una parada señalizada. Los demás conductores, ¿están obligados a facilitar la maniobra?",
+      "imagen": "examen-28_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si para hacerlo no tienen que reducir la velocidad ni cambiar de carril."
+        },
+        {
+          "letra": "B",
+          "texto": "No, solo es obligatorio facilitar la maniobra en una zona urbana."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en la medida de lo posible."
+        }
+      ],
+      "ayuda": "Los conductores facilitarán, en la medida de lo posible, la incorporación a la circulación, especialmente si se trata de un vehículo de transporte colectivo de viajeros que pretende incorporarse a la circulación desde una parada señalizada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Como norma general, si un herido en un accidente está inconsciente pero mantiene la respiración, ¿en qué posición se debe colocar?",
+      "imagen": "examen-28_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En posición antishock, con la cabeza más baja que el resto del cuerpo."
+        },
+        {
+          "letra": "B",
+          "texto": "En posición lateral de seguridad o de defensa."
+        },
+        {
+          "letra": "C",
+          "texto": "Sentado, procurando que tenga la espalda apoyada en un objeto rígido."
+        }
+      ],
+      "ayuda": "Ante un accidente de circulación, como norma general, a los heridos inconscientes, que presentan signos de respiración, se les debe colocar en la denominada posición de defensa o posición lateral de seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Respecto al uso del teléfono móvil con un dispositivo manos libres mientras conduce, es recomendable... ",
+      "imagen": "examen-28_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no mantener conversaciones de más de un minuto."
+        },
+        {
+          "letra": "B",
+          "texto": "circular a velocidad anormalmente reducida hasta terminar la llamada."
+        },
+        {
+          "letra": "C",
+          "texto": "detener el vehículo en cualquier lugar para poder hablar con tranquilidad."
+        }
+      ],
+      "ayuda": "En relación al uso del teléfono móvil durante la conducción, es necesario tener en cuenta que aunque se utilicen dispositivos de manos libres, no se debe mantener una conversación que exceda de aproximadamente un minuto de duración. Está demostrado que, tras un minuto y medio de conversación, el conductor no percibe un importante porcentaje de las señales, su velocidad media se reduce y se tarda más tiempo en reaccionar ante un imprevisto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "El conductor de un vehículo de distribución de mercancías, ¿cuándo podrá circular por una vía urbana sin utilizar el cinturón de seguridad? ",
+      "imagen": "examen-28_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En trayectos cortos, cuando haga sucesivas operaciones de carga y descarga."
+        },
+        {
+          "letra": "B",
+          "texto": "En cualquier momento, en poblado no está obligado a utilizar el cinturón de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "En todo caso debe utilizar el cinturón de seguridad."
+        }
+      ],
+      "ayuda": "Los distribuidores de mercancías, podrán circular sin hacer uso de los cinturones de seguridad, cuando realicen sucesivas operaciones de carga y descarga de mercancías en lugares situados a corta distancia unos de otros.\n\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Cuando no se trate de una intersección, ¿dónde deberá detenerse el conductor de un vehículo que se aproxime de frente a un agente que tiene el brazo levantado verticalmente? ",
+      "imagen": "examen-28_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En vías de doble sentido, inmediatamente después del agente."
+        },
+        {
+          "letra": "B",
+          "texto": "Ante la línea de detención y, si no la hay, inmediatamente antes del agente."
+        },
+        {
+          "letra": "C",
+          "texto": "Inmediatamente delante del agente, aunque haya línea de detención."
+        }
+      ],
+      "ayuda": "La señal efectuada obliga a detenerse a todos los usuarios de la vía que se acerquen al agente. La detención debe efectuarse ante la línea de detención más cercana o, en su defecto, inmediatamente antes del agente. En una intersección, la detención debe efectuarse antes de entrar en ella.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Si ha consumido estupefacientes o sustancias análogas que alteren el estado físico o mental necesario para conducir sin peligro, no podrán circular por las vías públicas... ",
+      "imagen": "examen-28_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "ni los conductores de vehículos ni los de bicicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "ni los conductores de vehículos, ni los de bicicletas ni los peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "los conductores de vehículos a motor, pero sí los de bicicletas."
+        }
+      ],
+      "ayuda": "No podrán circular los conductores de vehículos o bicicletas que hayan ingerido o incorporado a su organismo psicotrópicos, estimulantes u otras sustancias análogas, entre las que se incluirán, en cualquier caso, los medicamentos u otras sustancias bajo cuyo efecto se altere el estado físico o mental apropiado para circular sin peligro.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Al aproximarse a un mercado, ¿qué precauciones debe tomar?\n",
+      "imagen": "examen-28_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mantener la velocidad y estar atento al comportamiento de la señalización vertical."
+        },
+        {
+          "letra": "B",
+          "texto": "Moderar la velocidad y, si fuera necesario, detener el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Hacer señales acústicas para indicar nuestra presencia."
+        }
+      ],
+      "ayuda": "Se circulará a velocidad moderada y, si fuera preciso, se detendrá el vehículo cuando las circunstancias lo exijan, entre otros casos, al aproximarse a ciclos circulando, así como en las intersecciones y en las proximidades de vías de uso exclusivo de ciclos y de los pasos de peatones no regulados por semáforo o agentes de la circulación, así como al acercarse a mercados, centros docentes o a lugares en que sea previsible la presencia de niños.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Cuál de los siguientes es un síntoma característico que nos avisa de la aparición de la fatiga al volante?",
+      "imagen": "examen-28_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un aumento en el número y la duración de los parpadeos."
+        },
+        {
+          "letra": "B",
+          "texto": "La sensación de euforia."
+        },
+        {
+          "letra": "C",
+          "texto": "No hacer cambios frecuentes de postura."
+        }
+      ],
+      "ayuda": "Es importante reconocer los síntomas de la fatiga para evitar accidentes por esta causa. Uno de los sítomas que presentan los conductores fatigados es el aumento del número y la duración de los parpadeos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Es conveniente utilizar ropa voluminosa, como un abrigo, cuando se circula en un turismo? ",
+      "imagen": "examen-28_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo es aconsejable que la utilice el conductor porque tiene mayor libertad de movimientos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque el cinturón de seguridad puede perder su eficacia."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque el conductor va más cómodo y no afecta a la seguridad."
+        }
+      ],
+      "ayuda": "No resulta aconsejable la utilización de ropa de abrigo o voluminosa al viajar en un vehículo. No solo limita la movilidad, en el caso del conductor, sino que además, en caso de accidente, puede hacer que el cinturón de seguridad pierda eficacia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Qué grupos de peatones tienen más riesgo de sufrir un atropello?",
+      "imagen": "examen-28_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los niños y los jóvenes."
+        },
+        {
+          "letra": "B",
+          "texto": "Solamente las personas mayores."
+        },
+        {
+          "letra": "C",
+          "texto": "Los niños y las personas mayores."
+        }
+      ],
+      "ayuda": "Tanto los niños como las personas mayores son considerados como usuarios vulnerables de la vía y presentan un riego mayor de sufrir un atropello.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "El vehículo azul se ha convertido en un obstáculo para la circulación, ¿qué debe hacer su conductor? ",
+      "imagen": "examen-28_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular marcha atrás y dejar libre el cruce, aunque para ello tenga que subir a la acera."
+        },
+        {
+          "letra": "B",
+          "texto": "Quedarse detenido hasta que el semáforo le permita continuar circulando."
+        },
+        {
+          "letra": "C",
+          "texto": "Salir del cruce sin esperar que esté permitida la circulación en la dirección que va a seguir."
+        }
+      ],
+      "ayuda": "El conductor que tenga detenido su vehículo en una intersección regulada por semáforo, constituyendo un obstáculo para la circulación, debe salir de aquélla sin esperar a que se permita la circulación en la dirección que se propone tomar, siempre que al hacerlo no entorpezca la marcha de los demás usuarios que avancen en el sentido permitido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Está prohibido circular marcha atrás... ",
+      "imagen": "examen-28_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cuando no sea posible ir hacia adelante ni cambiar de dirección o sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "como maniobra complementaria de la incorporación a la circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "en las autovías."
+        }
+      ],
+      "ayuda": "Queda terminantemente prohibido circular marcha atrás en autopistas y autovías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "El carril izquierdo está abierto en sentido contrario al habitual. ¿A qué velocidad máxima pueden circular los vehículos que circulen por el carril derecho? ",
+      "imagen": "examen-28_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 60 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "A 80 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A la velocidad máxima de la vía: 120 km/h."
+        }
+      ],
+      "ayuda": "Los vehículos que circulen por el carril derecho, contiguo al habilitado en sentido contrario al habitual, no podrán superar la velocidad máxima de 80 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Con el permiso de conducir de la clase B, ¿puede conducir una motocicleta de 125 centímetros cúbicos? ",
+      "imagen": "examen-28_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, se puede conducir cualquier tipo de motocicleta por toda Europa."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo por España y cuando la antigüedad del permiso supere los tres años."
+        }
+      ],
+      "ayuda": "Si lleva más de tres años con el permiso de conducción de la clase B, se permite conducir, solo en territorio nacional, motocicletas de hasta 125 centímetros cúbicos que puedan conducirse con el permiso de la clase A1.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Si circula por el carril de la derecha, cuando vea el semáforo, ¿qué debe hacer? ",
+      "imagen": "examen-28_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Continuar circulando por el carril derecho a una velocidad máxima de 80 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "Detener el vehículo al llegar a la altura del semáforo."
+        },
+        {
+          "letra": "C",
+          "texto": "Entrar con precaución en el carril izquierdo."
+        }
+      ],
+      "ayuda": "De acuerdo con la señalización que se observa, los vehículos que circulen por el carril de la derecha, deberán cambiarse al carril hacia el que apunta la flecha (izquierdo), siempre en condiciones de seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "El personal de protección civil, ¿puede impedir el acceso a vehículos a un itinerario afectado por una actividad deportiva? ",
+      "imagen": "examen-28_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que esté habilitado por la autoridad responsable del tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "No, solo puede impedir el acceso a vehículos los agentes de la autoridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solamente cuando el itinerario se desarrolle por vías secundarias."
+        }
+      ],
+      "ayuda": "El personal de protección civil, si está habilitado por la autoridad responsable del tráfico, podrá impedir el acceso a vehículos por itinerarios afectados por actividades deportivas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

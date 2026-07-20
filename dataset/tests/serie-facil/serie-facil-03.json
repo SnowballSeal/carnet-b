@@ -1,0 +1,605 @@
+{
+  "categoria_id": 2,
+  "test_id": 3,
+  "nombre": "Serie fácil 3",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En las glorietas se circulará...",
+      "imagen": "serie-facil-03_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "dejando a la izquierda el centro."
+        },
+        {
+          "letra": "B",
+          "texto": "dejando a la derecha el centro."
+        }
+      ],
+      "ayuda": "La circulación por las glorietas se hará siempre por la derecha, es decir, dejando el centro de la misma en la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Para evitar los accidentes con la motocicleta, ¿es recomendable no circular en paralelo con otros vehículos?",
+      "imagen": "serie-facil-03_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido que las motocicletas circulen en paralelo por el peligro que supone.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Su vehículo se incendia y no tiene extintor, ¿cómo puede apagarlo?",
+      "imagen": "serie-facil-03_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con tierra."
+        },
+        {
+          "letra": "B",
+          "texto": "Con aire."
+        },
+        {
+          "letra": "C",
+          "texto": "Con espuma."
+        }
+      ],
+      "ayuda": "Si no se dispone de un extintor y se incendia el vehículo, se debe apagar el fuego con tierra o mantas ahogándolo, pero nunca con agua o aire.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Para adelantar en carretera con un turismo, ¿puede circular a 90 km/h?",
+      "imagen": "serie-facil-03_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, excepto cuando la señalización establezca un límite inferior."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "No, debo circular al menos a 100 km/h para adelantar."
+        }
+      ],
+      "ayuda": "La velocidad máxima fijada con carácter general en carreteras convencionales es de 90 kilómetros por hora. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "En una explanada de peaje de una autopista, ¿está permitido recoger a una persona que hace autostop?",
+      "imagen": "serie-facil-03_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En las autopistas, y en las autovías, no se permite recoger a una persona que esté haciendo autostop, aunque esté en la explanada de peaje.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Con el vehículo en movimiento, ¿puede el conductor poner en marcha un navegador GPS?",
+      "imagen": "serie-facil-03_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Queda prohibido poner en marcha el navegador GPS, durante la conducción, ya que es incompatible con la obligatoria atención a la conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Los reposacabezas de los asientos de atrás, ¿hay que regularlos?",
+      "imagen": "serie-facil-03_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Tanto los reposacabezas de los asientos delanteros como traseros, se deben regular antes de iniciar la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Si lleva instalado un navegador GPS, ¿debe tener en cuenta que el criterio del conductor prevalecerá en todo momento?",
+      "imagen": "serie-facil-03_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El criterio del conductor debe prevalecer en todo momento sobre las indicaciones del GPS.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Está permitido adelantar en una glorieta?",
+      "imagen": "serie-facil-03_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, por la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En las glorietas se permite adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Un vehículo con esta señal indica que...",
+      "imagen": "serie-facil-03_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es lento y no puede superar los 40 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "transporta mercancías peligrosas."
+        }
+      ],
+      "ayuda": "La señal que lleva este vehículo, indica que se trata de un vehículo lento y que no puede superar la velocidad máxima de 40 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Esta señal indica...",
+      "imagen": "serie-facil-03_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la prohibición de utilizar la calzada para peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "la proximidad de un lugar frecuentado por peatones."
+        }
+      ],
+      "ayuda": "Esta señal indica, peligro por la proximidad de un lugar o tramo con elevado tránsito de peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Se puede circular marcha atrás en una autopista?",
+      "imagen": "serie-facil-03_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sin obstaculizar."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En las autopistas y autovías, queda terminantemente prohibido circular marcha atrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "La distribución de la carga en un vehículo, ¿afecta al consumo de combustible?",
+      "imagen": "serie-facil-03_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, por ello es muy importante colocar la carga de manera adecuada."
+        }
+      ],
+      "ayuda": "Una mala distribución de la carga en el vehículo, aumenta el consumo de combustible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "serie-facil-03_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Entrada prohibida a toda clase de vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "Entrada prohibida a todos los vehículos, salvo ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "Calle cortada."
+        }
+      ],
+      "ayuda": "Esta señal prohíbe la entrada a toda clase de vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "En una vía urbana de sentido único, está permitido estacionar en el lado...",
+      "imagen": "serie-facil-03_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "derecho únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "derecho o izquierdo."
+        }
+      ],
+      "ayuda": "En vías urbanas de sentido único, se permite parar y estacionar tanto en el lado derecho como en el izquierdo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Como norma general, el pedal de cambio de velocidades de una motocicleta, ¿con qué pie se acciona?",
+      "imagen": "serie-facil-03_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con el pie derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Con el pie izquierdo."
+        }
+      ],
+      "ayuda": "Como norma general, el pedal de cambio de velocidades de una motocicleta se encuentra situado en el lado izquierdo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "En un tramo de vía estrecho, de gran pendiente, debe ceder el paso...",
+      "imagen": "serie-facil-03_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el vehículo que baja."
+        },
+        {
+          "letra": "B",
+          "texto": "el vehículo que sube."
+        }
+      ],
+      "ayuda": "En las fuertes pendientes, debe ceder el paso el vehículo que circule en sentido descendente (hacia abajo).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Para disminuir la probabilidad de somnolencia debe evitar conducir...",
+      "imagen": "serie-facil-03_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "durante las horas de la madrugada."
+        },
+        {
+          "letra": "B",
+          "texto": "durante las últimas horas de la tarde."
+        }
+      ],
+      "ayuda": "Para evitar la somnolencia, se debe evitar conducir durante las horas de la madrugada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Un agente que balancea una luz roja o amarilla indica que...",
+      "imagen": "serie-facil-03_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "deben detenerse aquellos usuarios a los que el agente dirija la luz."
+        },
+        {
+          "letra": "B",
+          "texto": "la calzada está totalmente cerrada al tráfico."
+        }
+      ],
+      "ayuda": "El agente del gráfico indica, que deben detenerse aquellos usuarios a los que dirija la luz.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "La velocidad elevada, ¿puede ser peligrosa?",
+      "imagen": "serie-facil-03_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque puede hacer que resulte difícil controlar el vehículo ante una situación de peligro."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La velocidad elevada siempre es peligrosa, porque puede resultar muy difícil controlar el vehículo en una situación de peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Conducir con depresión, ¿puede provocar un accidente?",
+      "imagen": "serie-facil-03_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque se pueden tomar decisiones erróneas."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque es algo habitual en muchos conductores."
+        }
+      ],
+      "ayuda": "Conducir con depresión es muy peligroso, porque se pueden tomar decisiones erróneas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "serie-facil-03_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que hay un control de altura de gálibo."
+        },
+        {
+          "letra": "B",
+          "texto": "Que hay que circular con precaución, por la proximidad de un puente."
+        },
+        {
+          "letra": "C",
+          "texto": "El principio de una autopista."
+        }
+      ],
+      "ayuda": "Esta señal indica el principio de una autopista y, por tanto, el lugar a partir del cual se aplican las reglas especiales en este tipo de vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "La intención de efectuar una maniobra debe indicarse...",
+      "imagen": "serie-facil-03_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "con las señales luminosas y, en su defecto, con el brazo."
+        },
+        {
+          "letra": "B",
+          "texto": "siempre con el brazo."
+        }
+      ],
+      "ayuda": "La intención de realizar cualquier maniobra se debe señalizar correctamente con las señales luminosas y, en su defecto, con el brazo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "No están obligados a utilizar el cinturón de seguridad, como norma general...",
+      "imagen": "serie-facil-03_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los conductores de taxis cuando están de servicio en vía urbana."
+        },
+        {
+          "letra": "B",
+          "texto": "los menores de 16 años."
+        }
+      ],
+      "ayuda": "En vías urbanas, los conductores de taxis cuando estén en servicio, no están obligados a utilizar el cinturón de seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Su vehículo tiene luces antiniebla delanteras. ¿Cuándo debe encenderlas?",
+      "imagen": "serie-facil-03_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando hay niebla, o cuando llueve intensamente o nieva."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando circulo por un carril adicional."
+        }
+      ],
+      "ayuda": "Las luces de antiniebla delanteras no son obligatorias, pero si el vehículo dispone de ellas podrá utilizarlas en los casos de niebla, lluvia intensa o nevada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "En relación con el consumo de drogas, ¿cómo afecta el éxtasis a la conducción?",
+      "imagen": "serie-facil-03_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Puede provocar en el conductor ilusiones ópticas."
+        },
+        {
+          "letra": "B",
+          "texto": "Facilita la concentración del conductor."
+        }
+      ],
+      "ayuda": "El éxtasis puede provocar en el conductor ilusiones ópticas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "El permiso de la clase B, ¿autoriza a conducir un cuadriciclo ligero?",
+      "imagen": "serie-facil-03_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando no se dedica al transporte de mercancías."
+        }
+      ],
+      "ayuda": "El permiso de conducción de la clase B, también autoriza a conducir ciclomotores y cuadriciclos ligeros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Los accidentes de tráfico, ¿son una de las causas principales de mortalidad?",
+      "imagen": "serie-facil-03_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, especialmente entre los jóvenes."
+        }
+      ],
+      "ayuda": "Una de las principales causas de mortalidad en nuestro país entre la gente más joven, son los accidentes de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "En un paso para ciclistas, ¿tienen éstos prioridad sobre otros vehículos a motor?",
+      "imagen": "serie-facil-03_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solo si se aproximan por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre."
+        }
+      ],
+      "ayuda": "Entre otros casos, los ciclistas tendrán prioridad de paso en los pasos para ciclistas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Los peatones suelen cometer muchas infracciones, entre ellas...",
+      "imagen": "serie-facil-03_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "evaluar bien los riesgos de la circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "no situarse correctamente en las calzadas."
+        }
+      ],
+      "ayuda": "Una de las infracciones más frecuentes de los peatones es, no situarse correctamente en la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

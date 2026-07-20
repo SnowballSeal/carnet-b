@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 75,
+  "nombre": "Test de examen 75",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En su turismo lleva enganchado un remolque, ¿debe concertar el seguro obligatorio para el remolque?",
+      "imagen": "examen-75_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo si la MMA del remolque supera los 750 kg."
+        },
+        {
+          "letra": "B",
+          "texto": "No, sólo para el turismo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cualquiera que sea la MMA del remolque."
+        }
+      ],
+      "ayuda": "La obligación de aseguramiento también alcanza a los remolques y semirremolques NO ligeros, es decir aquellos que superen los 750 kilogramos de masa máxima autorizada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Si queda detenido en un atasco, ¿qué distancia es aconsejable mantener con el vehículo de delante?",
+      "imagen": "examen-75_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Mínimo 2 o 3 metros, para evitar golpear al vehículo de delante en caso de alcance trasero."
+        },
+        {
+          "letra": "B",
+          "texto": "Un metro como máximo."
+        },
+        {
+          "letra": "C",
+          "texto": "Un espacio mínimo para ocupar menos espacio."
+        }
+      ],
+      "ayuda": "La correcta gestión del espacio delantero puede ayudarnos a evitar un accidente por alcance. Cuando el vehículo queda detenido en una retención o atasco, es aconsejable guardar al menos dos o tres metros con el vehículo que nos precede, de forma que podamos evitar golpearle en caso de alcance trasero.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Una motocicleta, ¿puede llevar instaladas luces antiniebla?",
+      "imagen": "examen-75_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, de forma opcional, tanto en la parte delantera como trasera."
+        },
+        {
+          "letra": "B",
+          "texto": "No, las motocicletas no pueden llevar luces antiniebla."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero únicamente en la parte trasera."
+        }
+      ],
+      "ayuda": "Los dispositivos de alumbrado antiniebla, tanto delanteros como traseros, son opcionales en las motocicletas.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "En una curva sin visibilidad, ¿cuándo se puede adelantar?",
+      "imagen": "examen-75_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Siempre, porque no hay señal vertical de \"prohibido adelantar\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando el vehículo de delante circula despacio."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando para adelantar no necesito ocupar el carril de la izquierda."
+        }
+      ],
+      "ayuda": "En las curvas de reducida visibilidad con doble sentido de circulación, únicamente se podrá adelantar cuando para ello no sea necesario ocupar el carril del sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Está permitido circular por una travesía con las luces antiniebla encendidas en condiciones normales de visibilidad?",
+      "imagen": "examen-75_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque en travesía están prohibidas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Las luces de antiniebla solo se podrán encender en los casos previstos reglamentariamente, como niebla, lluvia intensa, nieve, nubes de humo o de polvo o cualquier circunstancia análoga. La utilización de estos dispositivos de alumbrado en condiciones normales de visibilidad está prohibida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Cuál es la principal causa de los accidentes por alcance?",
+      "imagen": "examen-75_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las velocidades anormalmente reducidas."
+        },
+        {
+          "letra": "B",
+          "texto": "No guardar la distancia de seguridad con el vehículo que circula delante."
+        },
+        {
+          "letra": "C",
+          "texto": "Las velocidades superiores a 100 km por hora."
+        }
+      ],
+      "ayuda": "La principal causa de los accidentes por alcance, es no mantener la suficiente distancia de seguridad con el vehículo que circula delante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-75_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Entrada a una travesía."
+        },
+        {
+          "letra": "B",
+          "texto": "Fin de poblado, aunque las normas relativas al mismo rigen hasta la próxima señal de \"Fin de prohibiciones\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Fin de poblado, dejando de aplicarse las normas relativas al mismo."
+        }
+      ],
+      "ayuda": "Esta señal indica el lugar desde donde dejan de ser aplicables las normas de comportamiento en la circulación relativas a poblado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Cuál es la misión principal del líquido refrigerante?",
+      "imagen": "examen-75_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Enfriar el motor del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el vehículo tenga calefacción."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el vehículo tenga aire acondicionado."
+        }
+      ],
+      "ayuda": "La misión principal del líquido refrigerante es enfriar el motor del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "Una de las infracciones de los conductores que implica más riesgo para los peatones es...",
+      "imagen": "examen-75_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "estacionar sobre la acera, obligando al peatón a invadir la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "no utilizar los cinturones de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "el exceso de velocidad en autopistas."
+        }
+      ],
+      "ayuda": "Una de las infracciones de los conductores que implica más riesgo para los peatones es estacionar sobre las aceras, obligando al peatón a invadir la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "Un agente mueve el brazo extendido de arriba abajo, ¿qué está indicando?",
+      "imagen": "examen-75_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reducir la velocidad si circula por el lado del brazo que ejecuta la señal."
+        },
+        {
+          "letra": "B",
+          "texto": "Detener el vehículo si circula por el lado del brazo que ejecuta la señal."
+        },
+        {
+          "letra": "C",
+          "texto": "Detener el vehículo en condiciones de seguridad."
+        }
+      ],
+      "ayuda": "Cuando un agente mueve el brazo extendido de arriba abajo obliga a disminuir la velocidad de su vehículo, a los conductores que se le acerquen perpendicularmente por el lado correspondiente al brazo que ejecuta la señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "En un paso a nivel o sus proximidades, ¿está permitido adelantar?",
+      "imagen": "examen-75_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, nunca."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando se adelante a vehículos de dos ruedas que no impidan la visibilidad lateral."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido adelantar en los pasos a nivel y en sus proximidades, salvo que se adelante a vehículos de dos ruedas que no impidan la visibilidad lateral.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Cómo debe hacer el mantenimiento preventivo?",
+      "imagen": "examen-75_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Acudiendo anualmente a un taller para una revisión."
+        },
+        {
+          "letra": "B",
+          "texto": "Sustituyendo únicamente las piezas desgastadas."
+        },
+        {
+          "letra": "C",
+          "texto": "Según las indicaciones del fabricante del vehículo y pasando las inspecciones ITV."
+        }
+      ],
+      "ayuda": "El mantenimiento preventivo de un vehículo, se debe realizar siguiendo las indicaciones del fabricante y pasando las inspecciones técnicas periódicas cuando procedan.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "El espejo exterior izquierdo está roto. ¿Está permitido circular así?",
+      "imagen": "examen-75_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando tiene espejo exterior derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque el espejo exterior izquierdo es imprescindible."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando tiene el espejo exterior derecho y el interior."
+        }
+      ],
+      "ayuda": "Si el espejo exterior izquierdo de su turismo está roto, no le está permitido circular ya que dicho espejo es imprescindible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Los accidentes debidos al sueño suceden...",
+      "imagen": "examen-75_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "únicamente cuando el conductor se queda totalmente dormido."
+        },
+        {
+          "letra": "B",
+          "texto": "también antes de que el conductor se quede totalmente dormido."
+        },
+        {
+          "letra": "C",
+          "texto": "siempre por la noche."
+        }
+      ],
+      "ayuda": "Los accidentes relacionados con el sueño no solo se producen cuando el conductor se ha quedado totalmente dormido, sino también antes de que eso sucede, debido a la somnolencia y a la pérdida de la capacidad de reacción que ello conlleva.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Para cambiar de dirección a la izquierda, en calzadas de doble sentido, ¿dónde debe dejar el centro de la intersección?",
+      "imagen": "examen-75_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "A la izquierda."
+        }
+      ],
+      "ayuda": "Para cambiar de dirección a la izquierda en calzadas de doble sentido de circulación, se debe dejar el centro de la misma en el lado izquierdo del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Con nieve en la calzada, ¿cómo se debe iniciar la marcha?",
+      "imagen": "examen-75_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pisando a fondo el acelerador para que el coche salga de golpe."
+        },
+        {
+          "letra": "B",
+          "texto": "Utilizando la segunda o tercera marcha."
+        },
+        {
+          "letra": "C",
+          "texto": "Con la marcha más corta posible."
+        }
+      ],
+      "ayuda": "Si existe nieve sobre la calzada y las ruedas patinan, se debe salir utilizando la segunda o la tercera velocidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Cuando se pueda prever la presencia de animales en la vía, ¿qué precauciones se deben tomar?",
+      "imagen": "examen-75_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Moderar la velocidad y si fuera preciso, detener el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical."
+        },
+        {
+          "letra": "C",
+          "texto": "Ninguna si no vienen vehículos en sentido contrario."
+        }
+      ],
+      "ayuda": "Cuando haya animales en la calzada o pueda preverse su irrupción en la misma, se debe moderar la velocidad y si fuera preciso, detener el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "En esta situación, ¿está permitido adelantar al vehículo policial?",
+      "imagen": "examen-75_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, ya que la calzada está cerrada al tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, por el lado derecho, ya que el carril izquierdo va a quedar cerrado al tráfico."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, extremando la precaución."
+        }
+      ],
+      "ayuda": "En esta situación no se puede adelantar al vehículo policial, ya que el agente indica que la calzada queda cerrada al tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Es recomendable revisar la dirección del vehículo cuando...",
+      "imagen": "examen-75_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se vuelve demasiado dura o demasiado floja."
+        },
+        {
+          "letra": "B",
+          "texto": "el vehículo no se desvía al soltar el volante."
+        },
+        {
+          "letra": "C",
+          "texto": "los neumáticos se desgastan de forma regular."
+        }
+      ],
+      "ayuda": "Es recomendable revisar la dirección del vehículo cuando, se desvía el vehículo hacia un lado al soltar el volante en terreno llano, cuando vibre el volante a ciertas velocidades, cuando esté excesivamente dura o blanda, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Esta señal prohíbe:",
+      "imagen": "examen-75_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la entrada a animales de montura."
+        },
+        {
+          "letra": "B",
+          "texto": "las carreras ecuestres."
+        },
+        {
+          "letra": "C",
+          "texto": "la circulación de vehículos a motor por ser una vía exclusiva para animales de montura."
+        }
+      ],
+      "ayuda": "Esta señal prohíbe el acceso a animales de montura.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Debe cambiar los neumáticos de su vehículo...",
+      "imagen": "examen-75_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "al menos cada 5 años."
+        },
+        {
+          "letra": "B",
+          "texto": "cada 5 años si no tienen dibujo suficiente."
+        },
+        {
+          "letra": "C",
+          "texto": "al menos cada 10 años."
+        }
+      ],
+      "ayuda": "Por motivos de seguridad, es recomendable cambiar los neumáticos al menos cada cinco años de antigüedad, ya que con el paso del tiempo, el caucho se endurece y pierde capacidad de adherencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Para ahorrar carburante, ¿cómo se debe ventilar el vehículo?",
+      "imagen": "examen-75_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con las entradas de aire que hay en el salpicadero."
+        },
+        {
+          "letra": "B",
+          "texto": "Abriendo todas las ventanillas."
+        },
+        {
+          "letra": "C",
+          "texto": "Abriendo solamente las ventanillas traseras."
+        }
+      ],
+      "ayuda": "Para ahorrar combustible, el vehículo se debe ventilar con las entradas de aire que hay en el salpicadero.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Qué puede causar somnolencia en un conductor?",
+      "imagen": "examen-75_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dormir más horas de las habituales."
+        },
+        {
+          "letra": "B",
+          "texto": "Cambiar las horas habituales de sueño."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente dormir pocas horas."
+        }
+      ],
+      "ayuda": "Entre otros casos, cambiar las horas habituales de sueño puede causar somnolencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Circula correctamente el vehículo de la derecha?",
+      "imagen": "examen-75_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque lleva la carga bien sujeta."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque la carga es indivisible."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque circula con el maletero abierto."
+        }
+      ],
+      "ayuda": "Se prohíbe circular tanto con el maletero como con las puertas del vehículo abiertas, así como, abrirlas antes de su completa inmovilización.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Para ahorrar combustible es recomendable...",
+      "imagen": "examen-75_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circular con el motor revolucionado."
+        },
+        {
+          "letra": "B",
+          "texto": "evitar cambios de marcha innecesarios."
+        },
+        {
+          "letra": "C",
+          "texto": "circular utilizando la marcha más corta posible."
+        }
+      ],
+      "ayuda": "Para ahorrar combustible se debe evitar circular en marchas cortas y con acelerones bruscos, así como los cambios de marcha innecesarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Nada más producirse un accidente, antes de atender a las víctimas hay que...",
+      "imagen": "examen-75_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "avisar a la policía."
+        },
+        {
+          "letra": "B",
+          "texto": "proteger y señalizar la zona del accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "organizar a los servicios de urgencia."
+        }
+      ],
+      "ayuda": "Para actuar correctamente en el auxilio de las víctimas en un accidente de tráfico, el orden correcto para proteger a los heridos es, la autoprotección, la protección del lugar del accidente y la protección a las víctimas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Los ciclistas están exentos de llevar casco cuando circulen...",
+      "imagen": "examen-75_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en condiciones extremas de calor."
+        },
+        {
+          "letra": "B",
+          "texto": "por vías interurbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "por pendientes descendentes."
+        }
+      ],
+      "ayuda": "Los ciclistas están exentos de utilizar el casco cuando circulen en condiciones extremas de calor y por razones médicas graves.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Una línea blanca continua sobre la calzada, sensiblemente más ancha que en el caso general...",
+      "imagen": "examen-75_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sirve para delimitar, únicamente, los carriles bus."
+        },
+        {
+          "letra": "B",
+          "texto": "indica la existencia de un carril especial."
+        },
+        {
+          "letra": "C",
+          "texto": "indica el borde de la calzada."
+        }
+      ],
+      "ayuda": "Una línea longitudinal continua blanca sobre la calzada, sensiblemente más ancha que en el caso general, indica la existencia de un carril especial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Al fumar no se debe arrojar el cigarro por la ventanilla porque...",
+      "imagen": "examen-75_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "está prohibido y puede provocar un incendio."
+        },
+        {
+          "letra": "B",
+          "texto": "puede molestar a las personas que no fuman."
+        },
+        {
+          "letra": "C",
+          "texto": "en ese momento el conductor maneja el volante con una sola mano."
+        }
+      ],
+      "ayuda": "Se prohíbe arrojar a la vía o en sus inmediaciones, cualquier objeto que pueda dar lugar a la producción de incendios o, en general, poner en peligro la seguridad vial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-75_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Calzada obligatoria para peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "Que está prohibida la entrada a los peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "Prohibida la entrada a menores de 18 años."
+        }
+      ],
+      "ayuda": "Esta señal prohíbe la entrada a todos los peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

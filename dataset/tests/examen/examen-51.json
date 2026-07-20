@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 51,
+  "nombre": "Test de examen 51",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "La obligación de dejar espacio suficiente para permitir el adelantamiento no será aplicable...",
+      "imagen": "examen-51_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en vías con un único carril por sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "donde esté prohibido el adelantamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "en carreteras convencionales."
+        }
+      ],
+      "ayuda": "Las normas que obligan a dejar un espacio suficiente para permitir el adelantamiento del vehículo que circula detrás, cuando no se tenga intención de adelantar, no serán de aplicación:\n- En poblado.\n- Donde estuviere prohibido el adelantamiento.\n- Donde hubiere más de un carril destinado a la circulación en un mismo sentido.\n- Cuando la circulación estuviere tan saturada que no permita el adelantamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Qué vehículo tendrá preferencia de paso en un estrechamiento cuando la prioridad no esté expresamente señalizada?",
+      "imagen": "examen-51_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El vehículo que tenga que dar marcha atrás mayor distancia."
+        },
+        {
+          "letra": "B",
+          "texto": "El vehículo que haya entrado primero."
+        },
+        {
+          "letra": "C",
+          "texto": "El vehículo que haya llegado primero."
+        }
+      ],
+      "ayuda": "Cuando no exista señalización que regule la prioridad de paso en un estrechamiento, tendrá preferencia aquel que haya entrado primero en el mismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Los accidentes debidos a distracciones suceden más...",
+      "imagen": "examen-51_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "durante la tarde."
+        },
+        {
+          "letra": "B",
+          "texto": "en los meses de invierno."
+        },
+        {
+          "letra": "C",
+          "texto": "durante el día y los fines de semana."
+        }
+      ],
+      "ayuda": "En relación a las estadísticas sobre accidentalidad vial, las cifras demuestran que la mayoría de los accidentes a causa de las distracciones se producen en los meses de verano, los fines de semana y durante el día.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Cuando la calzada está helada...",
+      "imagen": "examen-51_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la distancia de frenado se mantiene igual que en condiciones normales."
+        },
+        {
+          "letra": "B",
+          "texto": "la distancia de frenado aumenta."
+        },
+        {
+          "letra": "C",
+          "texto": "la distancia de frenado disminuye."
+        }
+      ],
+      "ayuda": "Cuando la calzada está helada, las condiciones de adherencia disminuyen sustancialmente, por lo que la distancia de frenado será mayor que en una situación normal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Los Agentes de la Autoridad de Tráfico, ¿cuándo podrán proceder a la inmovilización de una motocicleta?",
+      "imagen": "examen-51_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando su conductor no lleve puesto el casco."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo cuando el pasajero de la misma circule sin el casco."
+        },
+        {
+          "letra": "C",
+          "texto": "En ningún caso."
+        }
+      ],
+      "ayuda": "Cuando el conductor de una motocicleta circule sin el preceptivo casco protector, los Agentes encargados de la vigilancia del tráfico podrán ordenar la inmovilización del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Si la luz del semáforo pasa a verde y el agente mantiene el brazo en alto, ¿puedo pasar?",
+      "imagen": "examen-51_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque la señal del agente tiene prioridad respecto a las otras señales."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque la luz verde me lo permite."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que antes de cruzar deje pasar a todos los vehículos."
+        }
+      ],
+      "ayuda": "El orden de prioridad entre los distintos tipos de señales de circulación es el siguiente:\nSeñales y órdenes de los agentes de circulación, señalización circunstancial que modifica el régimen normal de utilización de la vía y señales de balizamiento fijo, semáforos, señales verticales de circulación y marcas viales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Los dos primeros años con permiso de conducir, ¿cuál es la tasa máxima de alcohol?",
+      "imagen": "examen-51_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0.10 mg/l en aire espirado = 0.2 g/l en sangre."
+        },
+        {
+          "letra": "B",
+          "texto": "0.15 mg/l en aire espirado = 0.3 g/l en sangre."
+        },
+        {
+          "letra": "C",
+          "texto": "0.25 mg/l en aire espirado = 0.5 g/l en sangre."
+        }
+      ],
+      "ayuda": "Aquellos conductores cuya antigüedad de su primer permiso de conducción sea inferior a dos años, tendrán limitada la tasa máxima de alcoholemia a 0.15 miligramos de alcohol por litro de aire espirado, ó 0.3 gramos de alcohol por litro de sangre, dependiendo de la técnica de detección utilizada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Si por accidente u otra emergencia un vehículo tiene que ser inmovilizado en una autovía o autopista...",
+      "imagen": "examen-51_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sus ocupantes pueden transitar por la calzada, tomando las debidas precauciones."
+        },
+        {
+          "letra": "B",
+          "texto": "ninguno de los ocupantes del vehículo puede transitar por la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "los ocupantes del vehículo pueden transitar por la calzada, excepto los menores de edad."
+        }
+      ],
+      "ayuda": "Si por accidente u otra emergencia un vehículo tiene que ser inmovilizado en una autovía o autopista ninguno de los ocupantes del vehículo podrá transitar por la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Los peatones, ¿dónde sufren más accidentes?",
+      "imagen": "examen-51_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En las autopistas y autovías."
+        },
+        {
+          "letra": "B",
+          "texto": "En las vías urbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "En las vías interurbanas."
+        }
+      ],
+      "ayuda": "Los peatones suelen sufrir la mayor parte de atropellos y otros accidentes relacionados con el tráfico, en las vías urbanas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Si en un estrechamiento sin señalizar llegan a la vez un vehículo de tracción animal y un turismo; ¿cuál de los dos vehículos tendrá preferencia de paso?",
+      "imagen": "examen-51_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El turismo."
+        },
+        {
+          "letra": "B",
+          "texto": "El vehículo de tracción animal."
+        },
+        {
+          "letra": "C",
+          "texto": "El que tenga que dar marcha atrás una mayor distancia."
+        }
+      ],
+      "ayuda": "Cuando no existe señalización que regule la prioridad y no se puede determinar qué vehículo ha entrado primero, la preferencia será para el vehículo que presente una mayor dificultad de maniobra. En este caso, pasará primero el vehículo de tracción animal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Qué motocicletas están obligadas a pasar a partir de esta señal?",
+      "imagen": "examen-51_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo las motocicletas sin sidecar."
+        },
+        {
+          "letra": "C",
+          "texto": "Las motocicletas con sidecar."
+        }
+      ],
+      "ayuda": "Calzada obligatoria para motocicletas de dos ruedas\nObligación para los conductores de motocicletas de dos ruedas y vehículos de tres ruedas asimilados a motocicletas de circular por la calzada a cuya entrada esté situada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Con el permiso de la clase B, ¿se puede conducir un turismo con un remolque de menos de 750 kilogramos de masa máxima autorizada?",
+      "imagen": "examen-51_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, se necesita al menos el permiso de la clase B+E."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, es necesario el permiso de la clase C1 o C."
+        }
+      ],
+      "ayuda": "El permiso de la clase B, como norma general, permite la conducción de conjuntos de vehículos compuestos por un turismo y un remolque ligero.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Si la carga de un camión produce polvo o humo. ¿Cómo se debe transportar?",
+      "imagen": "examen-51_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cubriéndolas eficazmente con una lona."
+        },
+        {
+          "letra": "B",
+          "texto": "En un remolque pequeño."
+        },
+        {
+          "letra": "C",
+          "texto": "Sujetándola con amarres adecuados."
+        }
+      ],
+      "ayuda": "Cuando la carga de un camión produzca polvo o humo, deberá transportarse cubriendo eficazmente dicha carga, con una lona o elemento similar, de dimensiones adecuadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "A causa de una avería no puede alcanzar la velocidad mínima en una autovía y existe peligro de alcance por otros vehículos, debe...",
+      "imagen": "examen-51_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circular con la luz de emergencia y la de cruce encendidas."
+        },
+        {
+          "letra": "B",
+          "texto": "detener obligatoriamente el vehículo en el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "circular sólo hasta la próxima salida."
+        }
+      ],
+      "ayuda": "Todo conductor que, por razones de emergencia, se vea obligado a circular con su vehículo por una autopista o una autovía a velocidad anormalmente reducida, es decir, a una velocidad inferior a 60 kilómetros por hora, deberá abandonarla por la primera salida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Bajo los efectos del sueño...",
+      "imagen": "examen-51_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "puede aparecer la fatiga ocular."
+        },
+        {
+          "letra": "B",
+          "texto": "es más difícil sufrir un deslumbramiento."
+        },
+        {
+          "letra": "C",
+          "texto": "es más fácil reaccionar ante una situación de peligro."
+        }
+      ],
+      "ayuda": "Bajo los efectos del sueño, es muy probable que el conductor, entre otros síntomas, se vea afectado por la fatiga ocular, lo cual reducirá notablemente su capacidad perceptiva visual.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Cómo se deben colocar los espejos?",
+      "imagen": "examen-51_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con el coche inmovilizado en calzada recta."
+        },
+        {
+          "letra": "B",
+          "texto": "Parado o en movimiento, es igual."
+        },
+        {
+          "letra": "C",
+          "texto": "Con el coche en movimiento para ver mejor."
+        }
+      ],
+      "ayuda": "La correcta colocación y reglaje de los espejos retrovisores, es una de las comprobaciones que los conductores deben realizar con el vehículo inmovilizado y, preferiblemente, en calzadas situadas en terreno llano.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "En una situación incierta, podrá ganar unos metros vitales para evitar un accidente si coloca el pie...",
+      "imagen": "examen-51_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "encima del pedal del freno, presionando levemente."
+        },
+        {
+          "letra": "B",
+          "texto": "frente al pedal del freno sin llegar a presionar."
+        },
+        {
+          "letra": "C",
+          "texto": "frente al pedal del embrague."
+        }
+      ],
+      "ayuda": "Ante una situación incierta, la colocación del pie derecho frente al pedal de freno, sin llegar a presionar sobre el mismo hasta que sea necesario, garantiza una rápida respuesta y puede ser vital para evitar un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "En un control de alcoholemia, ¿cuántas pruebas pueden realizarle?",
+      "imagen": "examen-51_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una única prueba con el etilómetro."
+        },
+        {
+          "letra": "B",
+          "texto": "Dos pruebas a elegir entre aire espirado con el etilómetro o un análisis de sangre."
+        },
+        {
+          "letra": "C",
+          "texto": "La primera de aire espirado con el etilómetro y puede solicitar una segunda prueba transcurridos 10 minutos."
+        }
+      ],
+      "ayuda": "En un control de alcoholemia, normalmente se mide la presencia de alcohol en sangre en aire espirado con el etilómetro. En caso de duda, los interesados, pueden solicitar una segunda prueba transcurridos 10 minutos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Cuántos espejos tiene que llevar instalados una motocicleta con estructura de autoprotección?",
+      "imagen": "examen-51_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obligatoriamente dos, uno a cada lado, independientemente de la velocidad máxima que pueda alcanzar."
+        },
+        {
+          "letra": "B",
+          "texto": "Uno interior y otro exterior izquierdo."
+        },
+        {
+          "letra": "C",
+          "texto": "Uno si su velocidad máxima no supera los 100 kilómetros por hora."
+        }
+      ],
+      "ayuda": "Las motocicletas, cuando su velocidad máxima es menor o igual a 100 kilómetros por hora, deberán llevar obligatoriamente un espejo exterior izquierdo. Optativamente, podrán llevar otro espejo en su lado derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿En qué situación se puede encender solamente la luz de posición entre la puesta y la salida del sol?",
+      "imagen": "examen-51_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando circule por una carretera suficientemente iluminada."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando circule por una calle suficientemente iluminada."
+        },
+        {
+          "letra": "C",
+          "texto": "Para inmovilizar el vehículo en un arcén fuera de poblado."
+        }
+      ],
+      "ayuda": "Entre la puesta y la salida del sol, está prohibida la circulación de vehículos obligados a llevar alumbrado, utilizando solamente las luces de posición. De los casos mencionados, sólo se podrá utilizar aisladamente la luz de posición, cuando el vehículo se encuentre inmovilizado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "En los ciclistas el uso del casco...",
+      "imagen": "examen-51_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no tiene influencia en las lesiones que puedan sufrir."
+        },
+        {
+          "letra": "B",
+          "texto": "reduce totalmente la probabilidad de sufrir lesiones en la cabeza."
+        },
+        {
+          "letra": "C",
+          "texto": "reduce considerablemente la probabilidad de sufrir lesiones en la cabeza."
+        }
+      ],
+      "ayuda": "El uso del casco protector por parte de los ciclistas, reduce considerablemente la probabilidad de sufrir lesiones en la cabeza.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "La circulación de peatones está prohibida en...",
+      "imagen": "examen-51_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "autovías, pero no en autopistas."
+        },
+        {
+          "letra": "B",
+          "texto": "autopistas, pero no en autovías."
+        },
+        {
+          "letra": "C",
+          "texto": "autopistas y autovías."
+        }
+      ],
+      "ayuda": "Tanto en autopistas o autovías, la circulación de peatones está absolutamente prohibida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Por qué las personas mayores corren más peligro en el tráfico?",
+      "imagen": "examen-51_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque suelen valorar correctamente la velocidad de los vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque son menos ágiles, aunque suelen reaccionar más rápidamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque suelen ver y oír peor."
+        }
+      ],
+      "ayuda": "Las personas mayores, suelen correr más peligro en el tráfico, debido a la reducción de sus capacidades perceptivas como la vista y el oído.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Cuando se adelante a vehículos de tracción animal, fuera de poblado, la separación lateral...",
+      "imagen": "examen-51_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no debe ser inferior a 1,5 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "debe ser inferior a 1,5 metros, en todos los casos."
+        },
+        {
+          "letra": "C",
+          "texto": "debe ser siempre proporcional a la anchura y características de la vía."
+        }
+      ],
+      "ayuda": "Cuando se adelante a vehículos de tracción animal, en vías situadas fuera de poblado, la separación lateral que se debe guardar entre este y nuestro vehículo, no será inferior a 1.50 metros en ningún caso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "La colocación de los dispositivos de retención infantil resulta más segura en...",
+      "imagen": "examen-51_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el asiento trasero central, ya que resulta menos afectado por los impactos laterales."
+        },
+        {
+          "letra": "B",
+          "texto": "cualquiera de los asientos traseros laterales."
+        },
+        {
+          "letra": "C",
+          "texto": "el asiento delantero, para que el conductor pueda vigilar al niño."
+        }
+      ],
+      "ayuda": "El emplazamiento que en principio resulta más seguro para la colocación de un dispositivo de retención infantil, es en el asiento trasero central, ya que este, se encuentra más resguardado de los impactos laterales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Puede emplear en su vehículo luces adaptativas?",
+      "imagen": "examen-51_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, están prohibidas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, son obligatorias."
+        }
+      ],
+      "ayuda": "La luces adaptativas ofrecen mejores condiciones de iluminación cuando el vehículo varía su trayectoria, como en una curva o una intersección, ya que permiten la visualización del espacio que el vehículo va a ocupar. En la actualidad, muchos vehículos traen incorporado de serie este dispositivo de alumbrado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Qué relación de marchas se debe utilizar al circular por una pendiente ascendente?",
+      "imagen": "examen-51_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La más larga posible."
+        },
+        {
+          "letra": "B",
+          "texto": "La más corta posible."
+        },
+        {
+          "letra": "C",
+          "texto": "Es indiferente."
+        }
+      ],
+      "ayuda": "En condiciones normales de adherencia, y de acuerdo a los principios de la conducción moderna y eficiente, se debe circular con la marcha más larga posible en todo caso, tanto en pendientes como en tramos de perfil recto. La diferencia es que en las pendientes ascendentes, la inercia tiende a perderse más rápidamente debido a la incidencia de la gravedad sobre el vehículo, por lo que se tendrá precaución de mantener una velocidad constante y uniforme y aplicar el principio de anticipación para seleccionar la marcha adecuada antes de iniciar el ascenso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Por debajo de las tasas permitidas de alcoholemia...",
+      "imagen": "examen-51_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "también es posible tener un accidente debido a los efectos del alcohol."
+        },
+        {
+          "letra": "B",
+          "texto": "no es posible tener un accidente debido a los efectos del alcohol."
+        },
+        {
+          "letra": "C",
+          "texto": "es muy poco probable tener un accidente debido a los efectos del alcohol."
+        }
+      ],
+      "ayuda": "El alcohol, aún en pequeñas cantidades, puede ser causa de accidentes. Los conductores que hayan consumido alcohol, aunque no alcancen los límites máximos permitidos, tienen una mayor probabilidad de sufrir un accidente de circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Cuál es el tipo de accidente más frecuente que sufren las furgonetas en vías interurbanas?",
+      "imagen": "examen-51_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Colisiones frontales."
+        },
+        {
+          "letra": "B",
+          "texto": "Colisiones traseras y múltiples."
+        },
+        {
+          "letra": "C",
+          "texto": "Colisiones laterales."
+        }
+      ],
+      "ayuda": "El 43% de los accidentes en vías interurbanas, en los que estuvo implicada una furgoneta fueron colisiones traseras y múltiples. En vías urbanas, el 37% fueron colisiones laterales y frontolaterales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Se considera que una parada o un estacionamiento obstaculiza gravemente la circulación, cuando...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se realiza en una vía pública calificada de atención preferente."
+        },
+        {
+          "letra": "B",
+          "texto": "se obstaculiza la utilización normal de los pasos rebajados para disminuidos físicos."
+        },
+        {
+          "letra": "C",
+          "texto": "se efectúa en doble fila."
+        }
+      ],
+      "ayuda": "Cuando se obstaculice la utilización normal de los pasos rebajados para personas con movilidad reducida, se considerará que, tanto la parada como el estacionamiento, obstaculizan gravemente la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

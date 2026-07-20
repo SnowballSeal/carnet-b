@@ -1,0 +1,646 @@
+[
+  {
+    "n": 1,
+    "tipo": "imagen",
+    "titulo": "Bienvenido al Tema 9",
+    "texto": "Tema 9\n\nManiobras I. Incorporación al tráfico y adelantamientos"
+  },
+  {
+    "n": 2,
+    "tipo": "imagen",
+    "titulo": "Maniobras. Concepto",
+    "texto": "Se considera maniobra cualquier variación de la situación o posición de un vehículo en la calzada, pudiendo suponer una alteración de las circunstancias normales del tráfico. En consecuencia, cualquier maniobra implica siempre una situación de riesgo en función de los elementos que entran a formar parte de su esencia."
+  },
+  {
+    "n": 3,
+    "tipo": "imagen",
+    "titulo": "Maniobras básicas de circulación",
+    "texto": "Las maniobras básicas de circulación son las siguientes:\n\n- Incorporación a la circulación.\n- Desplazamiento lateral.\n- Adelantamiento.\n- Cambio de dirección y de sentido.\n- Parada y estacionamiento."
+  },
+  {
+    "n": 4,
+    "tipo": "imagen",
+    "titulo": "Reglas de seguridad",
+    "texto": "Al realizar una maniobra se debe seguir la regla de seguridad siguiente:\n\n1 - Observar el tráfico en todas las direcciones, directamente o través de los espejos retrovisores, para comprobar que se puede realizar la maniobra sin poner en peligro a ningún usuario de la vía.\n\n2 - Advertir con suficiente antelación a los demás usuarios acerca de la maniobra que se va a realizar, mediante la correspondiente señalización.\n\n3 - Ejecutar la maniobra de forma reglamentaria."
+  },
+  {
+    "n": 5,
+    "tipo": "imagen",
+    "titulo": "Obligación de advertir las maniobras",
+    "texto": "SEÑALES DE ADVERTENCIA QUE REALIZAN LOS CONDUCTORES CON SUS VEHÍCULOS\n\nObligación de advertir las maniobras.\n\nLos conductores están obligados a advertir a los demás usuarios de la vía, acerca de las maniobras que vayan a efectuar con sus vehículos. Como norma general, dichas advertencias se realizarán utilizando la señalización luminosa del vehículo o, en su defecto, con el brazo.\n\nLa validez de las advertencias realizadas con el brazo quedará subordinada a que sean perceptibles por los demás usuarios de la vía, y anularán cualquier otra indicación óptica que las contradiga. Dicho de otro modo, en caso de contradicción entre las señales ópticas y las realizadas con el brazo prevalecerán estas últimas."
+  },
+  {
+    "n": 6,
+    "tipo": "imagen",
+    "titulo": "Advertencias ópticas",
+    "texto": "El conductor debe advertir, mediante señales ópticas, toda maniobra que implique un desplazamiento lateral o hacia atrás de su vehículo, así como su propósito de inmovilizarlo o de frenar su marcha de modo considerable.\n\nTales advertencias ópticas se efectuarán con antelación suficiente a la iniciación de la maniobra y, si son luminosas, permanecerán en funcionamiento hasta que la misma termine."
+  },
+  {
+    "n": 7,
+    "tipo": "imagen",
+    "titulo": "Desplazamiento lateral",
+    "texto": "El desplazamiento lateral será advertido con la luz indicadora de dirección correspondiente al lado hacia el que se va a realizar el mismo.\n\nToda maniobra de desplazamiento lateral que implique cambio de carril, deberá realizarse respetando la prioridad del que circule por el carril que se pretende ocupar."
+  },
+  {
+    "n": 8,
+    "tipo": "imagen",
+    "titulo": "Desplazamiento lateral hacia la izquierda",
+    "texto": "Si el desplazamiento lateral es hacia la izquierda, el conductor deberá advertirlo con el indicador de dirección izquierdo o con el brazo izquierdo en posición horizontal con la palma de la mano extendida hacia abajo."
+  },
+  {
+    "n": 9,
+    "tipo": "video",
+    "titulo": "Desplazamiento lateral hacia la izquierda. Señal óptica",
+    "texto": "El conductor de este vehículo advierte con el intermitente izquierdo un desplazamiento lateral hacia la izquierda.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/XYoY0AChV_c?si=Nc7jP2YWBE_KPx-L"
+  },
+  {
+    "n": 10,
+    "tipo": "video",
+    "titulo": "Desplazamiento lateral hacia la izquierda. Señal con el brazo",
+    "texto": "Este otro conductor también advierte un desplazamiento lateral hacia la izquierda, pero lo hace utilizando el brazo izquierdo colocado en posición horizontal, con la palma de la mano hacia abajo.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/2k-pmuMDMyc?si=4b4zQ1GrulhPBDb7"
+  },
+  {
+    "n": 11,
+    "tipo": "imagen",
+    "titulo": "Desplazamiento lateral hacia la derecha",
+    "texto": "El conductor debe advertir los desplazamientos laterales hacia la derecha con el indicador de dirección derecho, o con el brazo izquierdo doblado hacia arriba en posición vertical y la palma de la mano extendida."
+  },
+  {
+    "n": 12,
+    "tipo": "video",
+    "titulo": "Indicación de desplazamiento lateral hacia la derecha",
+    "texto": "Este conductor advierte un desplazamiento lateral hacia la derecha, con el intermitente derecho y con el brazo izquierdo doblado hacia arriba y la palma de la mano extendida.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/r9siVlny4sM?si=RCncEY9g9mrm3Gqy"
+  },
+  {
+    "n": 13,
+    "tipo": "imagen",
+    "titulo": "Señalización de maniobras que impliquen desplazamiento lateral",
+    "texto": "En las maniobras que impliquen un desplazamiento lateral, es éste el que exclusivamente se avisa, por lo que la advertencia deberá concluir tan pronto como el vehículo haya adoptado la nueva trayectoria.\n\nPor ejemplo: Si un conductor va a realizar un adelantamiento, debe encender el intermitente izquierdo y mantenerlo encendido mientras el vehículo se desplaza lateralmente hacia la izquierda. Una vez que se ha situado en el carril izquierdo, debe quitar el intermitente y cuando vaya a desplazarse nuevamente al carril derecho, deberá accionar el intermitente derecho."
+  },
+  {
+    "n": 14,
+    "tipo": "imagen",
+    "titulo": "Señalización de la marcha atrás",
+    "texto": "La marcha hacia atrás será advertida con la correspondiente luz de marcha atrás y/o extendiendo el brazo horizontalmente y con la palma de la mano hacia atrás."
+  },
+  {
+    "n": 15,
+    "tipo": "video",
+    "titulo": "Señalización de la marcha atrás",
+    "texto": "El conductor del video está advirtiendo la marcha atrás con las luces de marcha atrás y con el brazo.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/9aUTWjqy3qU?si=Axw_j4T6ztZrWz9T"
+  },
+  {
+    "n": 16,
+    "tipo": "imagen",
+    "titulo": "Inmovilizar el vehículo o frenar su marcha",
+    "texto": "La intención de inmovilizar el vehículo o de frenar su marcha de modo considerable, aun cuando tales hechos vengan impuestos por las circunstancias del tráfico, deberá advertirse siempre que sea posible mediante el empleo reiterado de las luces de frenado o moviendo el brazo alternativamente de arriba abajo, con movimientos cortos y rápidos."
+  },
+  {
+    "n": 17,
+    "tipo": "video",
+    "titulo": "Advertencia con el brazo",
+    "texto": "El conductor de este vehículo está advirtiendo, con el brazo, que va a frenar su vehículo de modo considerable.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/-mH2pqfs7yg?si=8pDIldSzusc_1KK8"
+  },
+  {
+    "n": 18,
+    "tipo": "video",
+    "titulo": "Advertencia con las luces de frenado",
+    "texto": "El conductor de este vehículo está advirtiendo, con las luces de frenado de forma reiterada, su intención de frenar su marcha de modo considerable.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/Jz50iyQg3Vw?si=b7tndNd8FnzZInE8"
+  },
+  {
+    "n": 19,
+    "tipo": "imagen",
+    "titulo": "Advertencias acústicas",
+    "texto": "Los conductores de vehículos no prioritarios solo podrán realizar advertencias acústicas en los siguientes casos:\n\nPara evitar un posible accidente, tanto dentro como fuera de poblado.\n\nPara advertir, fuera de poblado, al conductor de otro vehículo el propósito de adelantarlo.\n\nEn vías estrechas con muchas curvas.\n\nPara advertir a los demás usuarios de la vía de que se circula prestando un servicio de urgencia.\n\nDentro de poblado, están prohibidas las señales acústicas para advertir el adelantamiento. En este caso, se pueden utilizar las luces de largo o corto alcance en forma de destellos, pero siempre evitando el deslumbramiento.\n\nFuera de poblado, la intención de adelantar se puede advertir con señales luminosas en forma de destellos o ráfagas de la luz de largo o corto alcance, y con las señales acústicas."
+  },
+  {
+    "n": 20,
+    "tipo": "imagen",
+    "titulo": "Incorporación a la circulación",
+    "texto": "Realización de la maniobra\n\nEl conductor de un vehículo que pretenda incorporarse a la circulación, deberá tener en cuenta el concepto de -Ceda el Paso- y, además, deberá cumplir con las siguientes obligaciones:\n\n- Comprobar que puede realizar la maniobra sin peligro.\n- Advertir a los demás usuarios de la vía.\n- Ejecutar la maniobra de incorporación en el menor tiempo posible pero con prudencia."
+  },
+  {
+    "n": 21,
+    "tipo": "imagen",
+    "titulo": "Incorporación por un carril de aceleración",
+    "texto": "En vías dotadas de un carril de aceleración, el conductor de un vehículo que pretenda utilizarlo para incorporarse a la calzada deberá cerciorarse, al principio de dicho carril, de que puede hacerlo sin peligro para los demás usuarios que transiten por dicha calzada, teniendo en cuenta la posición, trayectoria y velocidad de éstos e incluso deteniéndose en caso necesario.\n\nA continuación, deberá advertir la maniobra con el indicador de dirección correspondiente, generalmente el izquierdo, y acelerará hasta alcanzar la velocidad adecuada al final del carril de aceleración para incorporarse a la circulación de la calzada."
+  },
+  {
+    "n": 22,
+    "tipo": "video",
+    "titulo": "Incorporación por un carril de aceleración",
+    "texto": "En esta animación, el conductor pretende incorporarse a la vía principal por un carril de aceleración.\n\nPara ello, observa al principio del carril que puede incorporarse sin peligro, a continuación acciona el intermitente izquierdo y acelera hasta alcanzar la velocidad adecuada al final del carril, con objeto de incorporarse a la vía sin peligro.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/TJnowlsLwME?si=MdoZrt8eijeWxRVT"
+  },
+  {
+    "n": 23,
+    "tipo": "imagen",
+    "titulo": "Incorporación desde un camino exclusivamente privado",
+    "texto": "Siempre que un conductor salga a una vía de uso público por un camino exclusivamente privado, pavimentado o no, debe:\n\n1 - Asegurarse previamente de que puede hacerlo sin peligro para nadie.\n\n2 - Advertir mediante señales ópticas su intención de incorporarse a la vía.\n\n3 - Incorporarse a una velocidad que le permita detenerse en el acto y ceder el paso a los vehículos que circulen por la vía pública, cualquiera que sea el sentido en que lo hagan."
+  },
+  {
+    "n": 24,
+    "tipo": "video",
+    "titulo": "Incorporación desde un camino exclusivamente privado",
+    "texto": "El conductor del vehículo rojo, cede el paso a los vehículos que circulan por la vía pavimentada, ya que tienen preferencia de paso sobre los que pretendan acceder a la misma.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/jNAEZLqQs9g?si=VidvXRKD2durEIhc"
+  },
+  {
+    "n": 25,
+    "tipo": "imagen",
+    "titulo": "Obligaciones de los demás conductores de facilitar la maniobra",
+    "texto": "Con independencia de la obligación de los conductores de los vehículos que se incorporen a la circulación de cerciorarse y ceder el paso, los demás conductores facilitarán dicha maniobra, en la medida de lo posible.\n\nEn los poblados, con el fin de facilitar la incorporación de los vehículos de transporte colectivo de viajeros, los conductores de los demás vehículos deberán desplazarse lateralmente, siempre que sea posible, o reducir su velocidad cerciorándose de que no existe peligro y señalizándolo adecuadamente, llegando a detenerse, si fuera preciso, para que los vehículos de transporte colectivo puedan incorporarse a la circulación desde las paradas señalizadas como tales."
+  },
+  {
+    "n": 26,
+    "tipo": "video",
+    "titulo": "Obligaciones de los demás conductores de facilitar la maniobra",
+    "texto": "Como los conductores tienen la obligación de facilitar la incorporación, en la medida de lo posible, y no circulan vehículos por el carril izquierdo, el conductor del vehículo que se observa en la animación se cambia de carril para facilitar la incorporación a la furgoneta.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/-r6tqc2kvTc?si=4923Yj54ftA13fyz"
+  },
+  {
+    "n": 27,
+    "tipo": "video",
+    "titulo": "Obligaciones de los demás conductores de facilitar la maniobra",
+    "texto": "En este otro caso, debido a la densidad de la circulación, el conductor no puede desplazarse al carril izquierdo, por lo que opta por reducir la velocidad para facilitar la incorporación a la furgoneta.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/YU3An-Q4MeY?si=ObCgbed873Z-JuvP"
+  },
+  {
+    "n": 28,
+    "tipo": "imagen",
+    "titulo": "Adelantamientos",
+    "texto": "En términos generales, adelantamiento es la maniobra que consiste en sobrepasar a otro vehículo en movimiento, de marcha más lenta, que circula delante del que se conduce."
+  },
+  {
+    "n": 29,
+    "tipo": "imagen",
+    "titulo": "Adelantamiento por la izquierda",
+    "texto": "Como norma general, en todas las vías, el adelantamiento debe efectuarse por la izquierda del vehículo que se pretende adelantar."
+  },
+  {
+    "n": 30,
+    "tipo": "video",
+    "titulo": "Adelantamiento por la izquierda",
+    "texto": "Cumpliendo con la norma general, el vehículo del video adelanta por la izquierda del vehículo que pretende adelantar.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/QaKVVU2yGo8?si=5rFSg0tOyBwmTtbT"
+  },
+  {
+    "n": 31,
+    "tipo": "video",
+    "titulo": "Accidente a causa de adelantamiento por la derecha",
+    "texto": "Adelantar por la derecha en vías fuera de poblado puede causar un accidente.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/OQnvdy4chE0?si=pIxoiCEE_p4HdjYZ"
+  },
+  {
+    "n": 32,
+    "tipo": "video",
+    "titulo": "Accidente a causa de adelantamiento por la derecha",
+    "texto": "Desde esta perspectiva, se aprecia mejor el tipo de accidente que se puede producir por adelantar por la derecha.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/8f3nIQMu2Hs?si=TYTNe1JHbGG_m6Y6"
+  },
+  {
+    "n": 33,
+    "tipo": "imagen",
+    "titulo": "Adelantamientos por la derecha permitidos",
+    "texto": "Como excepción, y si existe espacio para ello, el adelantamiento se efectuará por la derecha y adoptando las máximas precauciones, en los siguientes casos:\n\n- Cuando el conductor del vehículo al que se pretende adelantar esté indicando claramente su propósito de cambiar de dirección a la izquierda o parar en ese lado.\n\n- Cuando se pretenda adelantar a tranvías que marchen por la zona central, en una calzada de doble sentido de circulación."
+  },
+  {
+    "n": 34,
+    "tipo": "video",
+    "titulo": "Adelantamiento por la derecha en intersección",
+    "texto": "En esta intersección, el conductor del vehículo amarillo adelanta por la derecha al vehículo azul, ya que éste está indicando claramente su propósito de cambiar de dirección a la izquierda.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/R-H4uiCabHQ?si=NOv23vezu8Rg4JTP"
+  },
+  {
+    "n": 35,
+    "tipo": "video",
+    "titulo": "Adelantamiento por la derecha a tranvía que circula por la zona central",
+    "texto": "En esta calzada de doble sentido de circulación, el vehículo adelanta correctamente por la derecha al tranvía que circula por la zona central.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/jNinIQrJOIE?si=LVI5IA7QGljw4k8Z"
+  },
+  {
+    "n": 36,
+    "tipo": "imagen",
+    "titulo": "Adelantamiento en poblado",
+    "texto": "En poblado, se podrá adelantar por la derecha cuando exista más de un carril para el mismo sentido de la marcha delimitados por líneas longitudinales."
+  },
+  {
+    "n": 37,
+    "tipo": "video",
+    "titulo": "Adelantamientos en poblado",
+    "texto": "En esta vía de poblado con más de un carril por sentido, delimitados por líneas longitudinales, los vehículos pueden adelantar tanto por la derecha como por la izquierda.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/oNbgp0N2y0I?si=UuI2a_RDYDr6LutP"
+  },
+  {
+    "n": 38,
+    "tipo": "imagen",
+    "titulo": "Supuestos no considerados adelantamiento",
+    "texto": "- Sobrepasar a un vehículo inmovilizado en la vía.\n\n- Los producidos entre ciclistas que circulen en grupo."
+  },
+  {
+    "n": 39,
+    "tipo": "imagen",
+    "titulo": "Supuestos no considerados adelantamiento",
+    "texto": "Tampoco se considera adelantamiento circular por un carril de aceleración o deceleración más rápido que los vehículos que circulen por la calzada de la vía principal o viceversa."
+  },
+  {
+    "n": 40,
+    "tipo": "video",
+    "titulo": "Supuestos no considerados adelantamiento. Ejemplo",
+    "texto": "En este ejemplo, no se considera adelantamiento el rebasamiento que realiza el conductor del vehículo rojo.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/ZvVqKnxOux8?si=jh3ls-wCZjq2oU5J"
+  },
+  {
+    "n": 41,
+    "tipo": "video",
+    "titulo": "Supuestos no considerados adelantamiento. Ejemplo",
+    "texto": "En esta otra situación, no se considera adelantamiento el rebasamiento que realiza el conductor del vehículo que circula por el carril de aceleración al coche rojo que circula por la vía principal.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/kSfEbbroS6E?si=tbSdvhiQVKjP2GWM"
+  },
+  {
+    "n": 42,
+    "tipo": "imagen",
+    "titulo": "Supuestos no considerados adelantamiento",
+    "texto": "No tendrá consideración de adelantamiento circular por la calzada más rápidamente que los vehículos que circulen por un carril de autobuses o viceversa."
+  },
+  {
+    "n": 43,
+    "tipo": "video",
+    "titulo": "Supuestos no considerados adelantamiento",
+    "texto": "No se considera adelantamiento la maniobra que realiza el vehículo blanco rebasando al autobús que circula por un carril-BUS.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/6CWU6vxGLbg?si=4s9BqAnSX7ed82NH"
+  },
+  {
+    "n": 44,
+    "tipo": "imagen",
+    "titulo": "Cómo realizar la maniobra de adelantamiento",
+    "texto": "Antes de realizar un adelantamiento que requiera desplazamiento lateral, el conductor que se proponga adelantar deberá advertirlo, con suficiente antelación, con las señales preceptivas.\n\nDurante el adelantamiento, deberá llevar una velocidad notoriamente superior a la del vehículo que pretende adelantar y, una vez efectuado el adelantamiento, deberá volver a su carril de forma gradual, y tan pronto como sea posible."
+  },
+  {
+    "n": 45,
+    "tipo": "imagen",
+    "titulo": "Desistimiento de la maniobra de adelantamiento en caso de peligro",
+    "texto": "Si después de iniciar un adelantamiento, el conductor comprobara que se producen circunstancias que puedan dificultar la finalización del mismo (una curva de reducida visibilidad, un vehículo que se aproxima en sentido contrario, etc.), deberá reducir rápidamente la velocidad y regresar de nuevo a su carril, advirtiéndolo con las señales preceptivas a los vehículos que le sigan."
+  },
+  {
+    "n": 46,
+    "tipo": "video",
+    "titulo": "Desistimiento de la maniobra de adelantamiento",
+    "texto": "En este caso, el conductor decide adelantar pero al comprobar que se aproxima un vehículo en sentido contrario, desiste de la maniobra, reduce la velocidad y regresa al carril derecho rápidamente.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/lOsI2ReJnl0?si=ZDQehhuk2bdzbmzG"
+  },
+  {
+    "n": 47,
+    "tipo": "video",
+    "titulo": "Consecuencias de adelantamiento indebido",
+    "texto": "En este otro caso, el conductor del vehículo que adelanta, aun comprobando que se aproxima otro vehículo en sentido contrario, decide no desistir de la maniobra y se produce una colisión frontal.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/ZVBH0scz7pc?si=AKwouZYqfo5NoeIh"
+  },
+  {
+    "n": 48,
+    "tipo": "imagen",
+    "titulo": "Separación lateral en adelantamientos",
+    "texto": "Cuando se adelante fuera de poblado a peatones, animales, a vehículos de dos ruedas o de tracción animal, a vehículos inmovilizados en la vía o a los vehículos de auxilio cuando estén realizando operaciones de auxilio y rescate, se deberá realizar la maniobra ocupando parte o la totalidad del carril contiguo de la calzada, y mantener una separación lateral no inferior a  un metro y medio."
+  },
+  {
+    "n": 49,
+    "tipo": "imagen",
+    "titulo": "Adelantamiento a ciclos o ciclomotores",
+    "texto": "Por otra parte, el conductor de un vehículo que pretenda realizar un adelantamiento a un ciclo o ciclomotor, o conjunto de ellos, debe realizarlo ocupando parte o la totalidad del carril contiguo o contrario, en su caso, de la calzada y guardando una anchura de seguridad de, al menos, 1,5 metros, salvo cuando la calzada cuente con más de un carril por sentido, en cuyo caso será obligatorio el cambio completo de carril."
+  },
+  {
+    "n": 50,
+    "tipo": "imagen",
+    "titulo": "Ciclistas en sentido contrario",
+    "texto": "Queda expresamente prohibido adelantar poniendo en peligro o entorpeciendo a ciclistas que circulen en sentido contrario."
+  },
+  {
+    "n": 51,
+    "tipo": "video",
+    "titulo": "Separación lateral en adelantamientos",
+    "texto": "En esta vía fuera de poblado, el conductor adelanta a un vehículo de dos ruedas invadiendo el carril contiguo y dejando una separación lateral de seguridad de, al menos, metro y medio.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/zJcvHpRzxhI?si=nx2VEzBkHmCqBJsq"
+  },
+  {
+    "n": 52,
+    "tipo": "imagen",
+    "titulo": "Separación lateral en adelantamientos",
+    "texto": "El conductor de un vehículo de dos ruedas, cuando adelante a otro vehículo cualquiera fuera de poblado, también deberá dejar una separación lateral de un metro y medio como mínimo."
+  },
+  {
+    "n": 53,
+    "tipo": "imagen",
+    "titulo": "Adelantamiento en calzadas de varios carriles para el mismo sentido",
+    "texto": "En calzadas que tengan, por lo menos, dos carriles reservados a la circulación en el mismo sentido de su marcha, el conductor que vaya a efectuar un nuevo adelantamiento podrá permanecer en el carril que haya utilizado para realizar el anterior, siempre que no moleste indebidamente a otros conductores que le sigan."
+  },
+  {
+    "n": 54,
+    "tipo": "imagen",
+    "titulo": "Adelantamiento en calzadas de doble sentido y tres carriles",
+    "texto": "En calzadas de doble sentido de circulación y tres carriles separados por marcas longitudinales discontinuas, el adelantamiento solo se podrá efectuar cuando los conductores que circulen en sentido contrario no hayan ocupado el carril central."
+  },
+  {
+    "n": 55,
+    "tipo": "imagen",
+    "titulo": "Obligaciones del vehículo adelantado",
+    "texto": "El conductor que advierta que otro que le sigue tiene el propósito de adelantarle, estará obligado a ceñirse al borde derecho de la calzada y no podrá aumentar la velocidad o efectuar maniobras que impidan o dificulten el adelantamiento."
+  },
+  {
+    "n": 56,
+    "tipo": "imagen",
+    "titulo": "Obligaciones del vehículo adelantado en situaciones de peligro",
+    "texto": "El conductor del vehículo que va a ser adelantado, estará obligado a disminuir la velocidad cuando, una vez iniciada la maniobra de adelantamiento, se produzca alguna situación que entrañe peligro para su propio vehículo, para el vehículo que lo está efectuando, para los que circulan en sentido contrario o para cualquier otro usuario de la vía.\n\nCuando el conductor que pretendía adelantar, diera muestras inequívocas de desistir de la maniobra reduciendo su velocidad, el conductor del vehículo que iba a ser adelantado no estará obligado a disminuir la suya si con ello pone en peligro la seguridad de la circulación.\n\nSin embargo, sí estará obligado a facilitar la vuelta a su mano al conductor que ha desistido de adelantarle, debiendo aumentar la velocidad en los casos que así lo requieran."
+  },
+  {
+    "n": 57,
+    "tipo": "imagen",
+    "titulo": "Obligaciones de los vehículos pesados al ser adelantados",
+    "texto": "En caso de que no sea posible ceñirse al borde derecho de la calzada y, sin embargo, el adelantamiento pueda efectuarse con seguridad, el conductor de un vehículo pesado, de grandes dimensiones u obligado a respetar un límite específico de velocidad, deberá indicar la posibilidad de que puede ser adelantado.\n\nDicha indicación se hará extendiendo el brazo horizontalmente y con el dorso de la mano hacia atrás, moviéndolo repetidas veces de atrás hacia delante, o bien poniendo en funcionamiento el intermitente derecho cuando no crea conveniente hacer la señal con el brazo."
+  },
+  {
+    "n": 58,
+    "tipo": "video",
+    "titulo": "Indicación con el intermitente derecho",
+    "texto": "En esta imagen, el conductor del camión está indicando con el intermitente derecho que se le puede adelantar.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/wXA3bRunZA4?si=ETI3hcN8o6jHwzJ6"
+  },
+  {
+    "n": 59,
+    "tipo": "imagen",
+    "titulo": "Maniobras de adelantamiento prohibidas",
+    "texto": "Queda prohibido adelantar en curvas y cambios de rasante de reducida visibilidad y, en general, en todo lugar o circunstancia en que la visibilidad disponible no sea suficiente para poder efectuar la maniobra, a no ser que los dos sentidos de circulación estén claramente delimitados y la maniobra pueda efectuarse sin invadir la zona reservada al sentido contrario."
+  },
+  {
+    "n": 60,
+    "tipo": "video",
+    "titulo": "Adelantamiento indebido en curva de visibilidad reducida",
+    "texto": "En esta animación, el conductor insiste en adelantar en una curva de visibilidad reducida y termina sufriendo un accidente.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/ZHevc-8r8wM?si=-kZNxtYPEJbxhe64"
+  },
+  {
+    "n": 61,
+    "tipo": "video",
+    "titulo": "Adelantamiento indebido en cambio de rasante de visibilidad reducida",
+    "texto": "En esta otra simulación, el accidente es consecuencia de un adelantamiento en un cambio de rasante de visibilidad reducida.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/KbpWMne0apA?si=5MGBbpwLPvxGeeC7"
+  },
+  {
+    "n": 62,
+    "tipo": "imagen",
+    "titulo": "Adelantamiento detrás de un vehículo que está adelantando",
+    "texto": "En calzadas de doble sentido de circulación, se prohíbe el adelantamiento detrás de un vehículo que realiza la misma maniobra cuando las dimensiones del vehículo que la efectúa en primer lugar impidan la visibilidad de la parte delantera de la vía al conductor del vehículo que le sigue.\n\nEn todo caso, se prohíbe adelantar a los vehículos que ya están adelantando a otro si el conductor del tercer vehículo, para efectuar dicha maniobra, debe invadir la parte de la calzada reservada a la circulación en sentido contrario."
+  },
+  {
+    "n": 63,
+    "tipo": "video",
+    "titulo": "Adelantamiento detrás de un vehículo que está adelantando. Consecuencias",
+    "texto": "En esta calzada de doble sentido de circulación, el conductor del vehículo azul decide adelantar detrás de otro que se encuentra, a su vez, adelantando a un tercero y, al no disponer de visibilidad de la parte delantera de la vía, termina sufriendo una colisión frontal.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/l-Zi6wJh84E?si=nJe78H1toA8Nzj7U"
+  },
+  {
+    "n": 64,
+    "tipo": "imagen",
+    "titulo": "Precauciones durante el adelantamiento",
+    "texto": "El conductor que pretenda adelantar, deberá asegurarse de que ningún conductor que le siga por el mismo carril ha iniciado la maniobra de adelantar a su vehículo, y de que dispone de espacio suficiente para reintegrarse a su carril cuando termine el adelantamiento."
+  },
+  {
+    "n": 65,
+    "tipo": "imagen",
+    "titulo": "Prioridad para adelantar",
+    "texto": "Si se observa que el vehículo que circula detrás tiene puesto el intermitente izquierdo, se podrá adelantar siempre que dicho vehículo no haya iniciado el adelantamiento."
+  },
+  {
+    "n": 66,
+    "tipo": "video",
+    "titulo": "Ejecución incorrecta de la maniobra. Consecuencias",
+    "texto": "Si se inicia un adelantamiento cuando el vehículo que circula detrás está adelantando al propio, es muy probable que se produzca un accidente.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/BnLd2A6egas?si=hVNWt8GJU_8I4GmV"
+  },
+  {
+    "n": 67,
+    "tipo": "imagen",
+    "titulo": "Adelantamiento a varios vehículos",
+    "texto": "Ningún conductor deberá adelantar a varios vehículos a la vez si no tiene la total seguridad de que, al presentarse otro en sentido contrario, puede desviarse hacia el lado derecho sin causar perjuicios o poner en situación de peligro a alguno de los vehículos adelantados."
+  },
+  {
+    "n": 68,
+    "tipo": "imagen",
+    "titulo": "Preferencia del vehículo que circula delante para adelantar",
+    "texto": "Se prohíbe adelantar al vehículo que circula delante en el mismo carril, cuando haya indicado su propósito de desplazamiento hacia la izquierda, en cuyo caso se deberá respetar la preferencia que le asiste.\n\nNo obstante, si después de un tiempo prudencial, el conductor del citado vehículo no ejerciera su derecho prioritario, se podrá iniciar la maniobra de adelantamiento del mismo, advirtiendo previamente con la señal acústica u óptica."
+  },
+  {
+    "n": 69,
+    "tipo": "video",
+    "titulo": "Ejecución incorrecta de la maniobra. Consecuencias",
+    "texto": "En esta animación, el vehículo negro no tiene en cuenta que el vehículo que circula delante ha indicado, con el intermitente, su intención de desplazarse hacia la izquierda.\n\nEn consecuencia, cuando el vehículo gris, haciendo uso de la prioridad tiene, decide girar a la izquierda ambos automóviles colisionan.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/MEM7yPWaJsI?si=cQC6gccH27PT5Cdc"
+  },
+  {
+    "n": 70,
+    "tipo": "imagen",
+    "titulo": "Prohibiciones de adelantamiento",
+    "texto": "También está prohibido adelantar en los pasos para peatones señalizados como tales, en las intersecciones de vías para ciclistas, en los pasos a nivel y en sus proximidades."
+  },
+  {
+    "n": 71,
+    "tipo": "video",
+    "titulo": "Adelantamiento indebido en paso de peatones. Consecuencias",
+    "texto": "En esta animación, se ve claramente por qué no se debe adelantar en un paso para peatones.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/74TkXoeHqOI?si=Xr1hdYqYtrmq7Zdg"
+  },
+  {
+    "n": 72,
+    "tipo": "imagen",
+    "titulo": "Prohibiciones de adelantamiento",
+    "texto": "Del mismo modo, se prohíbe adelantar en los túneles, pasos inferiores y tramos de vía afectados por la señal Túnel en los que sólo se disponga de un carril para el sentido de circulación del vehículo que pretende adelantar, y en las intersecciones y en sus proximidades."
+  },
+  {
+    "n": 73,
+    "tipo": "video",
+    "titulo": "Adelantamiento sin visibilidad en intersección sin prioridad",
+    "texto": "En esta intersección sin prioridad, el turismo gris, al adelantar por la izquierda, no tiene visibilidad suficiente como para determinar si se aproximan vehículos por la derecha a los cuales debe ceder el paso, y al no hacerlo se produce una colisión lateral.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/8ch6ZVY0SXU?si=TlWfxsnZVdcPmVQQ"
+  },
+  {
+    "n": 74,
+    "tipo": "video",
+    "titulo": "Adelantamiento en intersección sin prioridad",
+    "texto": "En esta otra animación, el conductor también decide adelantar en una intersección en la que debe ceder el paso a la derecha y, nuevamente, el resultado es un accidente.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/U8qRkRiqfGI?si=hrEmejFFKwZxiPyl"
+  },
+  {
+    "n": 75,
+    "tipo": "imagen",
+    "titulo": "Adelantamientos en intersecciones y en sus proximidades",
+    "texto": "Excepcionalmente, se podrá adelantar en las intersecciones y en sus proximidades cuando:\n\n- Se trate de una plaza de circulación giratoria o glorieta.\n\n- El adelantamiento deba efectuarse por la derecha, (porque el conductor del vehículo al que se pretende adelantar, esté indicando claramente su propósito de girar hacia la izquierda).\n\n- La calzada en que se realice, goce de prioridad de paso en la intersección y haya señal expresa que lo indique.\n\n- El adelantamiento se realice a vehículos de dos ruedas."
+  },
+  {
+    "n": 76,
+    "tipo": "video",
+    "titulo": "Adelantamientos en glorieta",
+    "texto": "En esta glorieta el conductor realiza un adelantamiento correcto ya que se incorpora a la misma cediendo el paso al vehículo gris, posteriormente, adelanta por la izquierda, vuelve al carril derecho sin cortar la trayectoria del otro vehículo y, finalmente, abandona la glorieta desde el carril derecho.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/yJV5XIwmfq4?si=eC0JTdh6-Zbv1Z0t"
+  },
+  {
+    "n": 77,
+    "tipo": "video",
+    "titulo": "Adelantamientos en glorieta",
+    "texto": "En esta animación, se muestra la maniobra de adelantamiento anterior pero desde otra perspectiva.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/Atm7iMpLsT4?si=KzboUt0_dmtvDnaP"
+  },
+  {
+    "n": 78,
+    "tipo": "video",
+    "titulo": "Adelantamientos en intersección con prioridad",
+    "texto": "El vehículo verde, realiza un adelantamiento reglamentario, porque el semáforo en verde le concede prioridad de paso en esta intersección.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/op4FBq50Dd4?si=mvdQtWOQcdbbF_IY"
+  },
+  {
+    "n": 79,
+    "tipo": "video",
+    "titulo": "Adelantamiento por la derecha en intersección",
+    "texto": "Esta animación muestra otro de los supuestos en los que se puede adelantar en las intersecciones: el vehículo azul advierte con el intermitente izquierdo que va a girar hacia ese lado, y existe espacio suficiente para adelantarle por la derecha.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/B50hpySTVQw?si=Z-Pxo4f9zSlgnd7L"
+  },
+  {
+    "n": 80,
+    "tipo": "video",
+    "titulo": "Adelantamiento en intersección a vehículo de dos ruedas",
+    "texto": "En las intersecciones también se puede adelantar a vehículos de dos ruedas, siempre que no exista peligro para ningún usuario.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/IuAskdOwcyM?si=xZ99jpduSYVsXc3n"
+  },
+  {
+    "n": 81,
+    "tipo": "imagen",
+    "titulo": "Supuestos especiales de ocupación del sentido contrario",
+    "texto": "Cuando en un tramo de vía en el que esté prohibido el adelantamiento se encuentre inmovilizado un vehículo que, todo o en parte, ocupe la calzada en el carril del sentido de la marcha, salvo que la inmovilización venga impuesta por necesidades del tráfico, podrá ser rebasado aunque para ello haya que ocupar parte del carril izquierdo de la calzada.\n\nEn las mismas condiciones, también, se podrá adelantar a conductores de bicicletas, ciclos y ciclomotores de dos, tres y cuatro ruedas, peatones, animales y vehículos de tracción animal cuando, por la velocidad a la que circulen, puedan ser adelantados sin riesgo para ellos ni para la circulación en general."
+  },
+  {
+    "n": 82,
+    "tipo": "video",
+    "titulo": "Ocupación del sentido contrario para rebasar a vehículo inmovilizado",
+    "texto": "Como el vehículo gris del video se encuentra inmovilizado ocupando parcialmente el carril derecho de esta calzada, aunque existe una línea longitudinal continua, es correcto que el vehículo que circula detrás lo rebase invadiendo el carril contrario.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/fNpJtLbV8VM?si=FmDrDbxICjP0jJYs"
+  },
+  {
+    "n": 83,
+    "tipo": "imagen",
+    "titulo": "El tema 9 ha finalizado.\n\nA continuación, vamos a realizar un resumen.",
+    "texto": null
+  },
+  {
+    "n": 84,
+    "tipo": "imagen",
+    "titulo": "Observación previa y señalización de cambios de carril",
+    "texto": "Antes de hacer un cambio de carril, el conductor debe observar el tráfico y advertir la maniobra, haciendo uso de los intermitentes, con antelación suficiente."
+  },
+  {
+    "n": 85,
+    "tipo": "imagen",
+    "titulo": "Cómo se advierten las maniobras",
+    "texto": "Las maniobras se pueden advertir con los indicadores de dirección o con el brazo, siempre que éstas últimas sean perceptibles por los demás usuarios de la vía."
+  },
+  {
+    "n": 86,
+    "tipo": "imagen",
+    "titulo": "Obligación de advertir las maniobras",
+    "texto": "En general, el conductor de un vehículo está obligado a advertir, mediante señales ópticas, toda maniobra que implique desplazamiento lateral así como la marcha atrás."
+  },
+  {
+    "n": 87,
+    "tipo": "imagen",
+    "titulo": "Señalización de los cambios de carril",
+    "texto": "La señalización luminosa utilizada para indicar un cambio de carril debe concluir cuando el vehículo haya adoptado la nueva trayectoria."
+  },
+  {
+    "n": 88,
+    "tipo": "imagen",
+    "titulo": "Inmovilización del vehículo",
+    "texto": "También es obligatorio advertir, mediante señales ópticas, el propósito de inmovilizar el vehículo o frenar la marcha de modo considerable.\n\nCuando, por encontrarse en una vía saturada, el conductor prevea que va a frenar considerablemente la marcha debe advertirlo mediante el empleo reiterado de las luces de frenado."
+  },
+  {
+    "n": 89,
+    "tipo": "imagen",
+    "titulo": "Ejecución del adelantamiento",
+    "texto": "Como norma general, en todas las vías los adelantamientos se efectuarán por la izquierda del vehículo que se pretenda adelantar."
+  },
+  {
+    "n": 90,
+    "tipo": "imagen",
+    "titulo": "Adelantamiento por la derecha en vías urbanas",
+    "texto": "En vías urbanas con dos o más carriles para el mismo sentido delimitados por marcas viales, se permite adelantar por la derecha."
+  },
+  {
+    "n": 91,
+    "tipo": "imagen",
+    "titulo": "Circulación por vías saturadas",
+    "texto": "En una vía saturada, el hecho de que una fila de vehículos circule más rápidamente que otra no se considera adelantamiento."
+  },
+  {
+    "n": 92,
+    "tipo": "imagen",
+    "titulo": "Comportamiento del vehículo adelantado",
+    "texto": "Para facilitar el adelantamiento, el conductor que va a ser adelantado debe ceñirse al borde derecho de la calzada y no podrá aumentar la velocidad."
+  },
+  {
+    "n": 93,
+    "tipo": "imagen",
+    "titulo": "Adelantamientos prohibidos",
+    "texto": "Entre otros casos, queda prohibido adelantar en las curvas y cambios de rasante de reducida visibilidad si, para ello, se ha de invadir el sentido contrario.\n\nTambién está prohibido adelantar en los pasos para peatones y en los pasos a nivel."
+  },
+  {
+    "n": 94,
+    "tipo": "imagen",
+    "titulo": "Tramos con adelantamiento prohibido. Excepciones",
+    "texto": "En un tramo de vía en el que esté prohibido el adelantamiento se podrá adelantar, incluso invadiendo el sentido contrario, a conductores de bicicletas y ciclomotores."
+  },
+  {
+    "n": 95,
+    "tipo": "imagen",
+    "titulo": "Muchas gracias por tu atención.\n\nA continuación puedes hacer el test de repaso de este tema.",
+    "texto": null
+  }
+]

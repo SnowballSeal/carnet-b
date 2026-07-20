@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 1,
+  "nombre": "Test de examen 1",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Cuál es la función del sistema antibloqueo de frenos ABS? ",
+      "imagen": "examen-01_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hace que los neumáticos se desgasten menos."
+        },
+        {
+          "letra": "B",
+          "texto": "Impide el bloqueo de las ruedas durante el frenado."
+        },
+        {
+          "letra": "C",
+          "texto": "Evita el bloqueo de las ruedas sólo en calzadas secas."
+        }
+      ],
+      "ayuda": "El sistema de frenado ABS, impide que las ruedas se bloqueen durante una frenada de emergencia. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "El panel bajo la señal indica...\n",
+      "imagen": "examen-01_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la longitud del tramo peligroso o sujeto a prescripción."
+        },
+        {
+          "letra": "B",
+          "texto": "la distancia al comienzo del peligro o prescripción."
+        },
+        {
+          "letra": "C",
+          "texto": "la extensión del peligro o prescripción a ambos lados de la calzada."
+        }
+      ],
+      "ayuda": "El panel que se observa bajo la señal de advertencia de peligro, indica la distancia que existe al comienzo del peligro o prescripción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Al incorporarse a una vía debe tener en cuenta la posición, trayectoria y velocidad...",
+      "imagen": "examen-01_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sólo de los vehículos que circulan por la parte izquierda de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "de otros vehículos y usuarios que circulan por la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo de los vehículos que circulan por la parte derecha de la vía."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo que pretenda incorporarse, deberá tener en cuenta la posición, trayectoria y velocidad de los otros vehículos y usuarios que circulan por la vía a la que pretende incorporarse.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Hablar por el teléfono móvil mientras se conduce...",
+      "imagen": "examen-01_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "supone un mayor riesgo de distracción aunque se utilice el manos libres."
+        },
+        {
+          "letra": "B",
+          "texto": "aumenta el riesgo de accidente sólo en los casos que se tiene que manipular el teléfono."
+        },
+        {
+          "letra": "C",
+          "texto": "no influye sobre el control de la velocidad ni de la trayectoria."
+        }
+      ],
+      "ayuda": "Mantener una conversación por el teléfono móvil mientras se conduce es muy peligroso, ya que supone un importante riesgo de distracción aunque se utilice el manos libres.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Dónde debe colocarse para cambiar de dirección a la izquierda en esta vía de doble sentido y tres carriles?",
+      "imagen": "examen-01_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ceñido al borde izquierdo de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "En el carril central, siempre que esté libre."
+        },
+        {
+          "letra": "C",
+          "texto": "Ceñido a la marca longitudinal que separa los sentidos, sin invadir el sentido contrario."
+        }
+      ],
+      "ayuda": "En calzadas de doble sentido de circulación y tres carriles separados por líneas longitudinales discontinuas, el conductor de un vehículo que pretenda cambiar de dirección a la izquierda deberá colocarse en el carril central, y siempre que dicho carril esté libre.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Cuándo tiene que mirar los retrovisores?",
+      "imagen": "examen-01_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando vaya a realizar una maniobra, únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Regularmente, aunque no vaya a realizar ninguna maniobra."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo cuando sea necesario."
+        }
+      ],
+      "ayuda": "Por los espejos retrovisores, se debe mirar con frecuencia y brevedad, aún cuando no se vaya a realizar ninguna maniobra.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué vehículos están obligados a circular por una vía con esta señal?",
+      "imagen": "examen-01_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los ciclos y las bicicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "Los ciclos y los ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "Los ciclomotores, únicamente."
+        }
+      ],
+      "ayuda": "Vía reservada y obligatoria para ciclomotores\n\nObligación para los conductores de ciclomotores de circular por la vía a cuya entrada esté situada y prohibición a los demás usuarios de la vía de utilizarla. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Cuando un autobús pretende incorporarse desde una parada señalizada, ¿qué deben hacer los demás conductores?",
+      "imagen": "examen-01_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerse y cederle el paso."
+        },
+        {
+          "letra": "B",
+          "texto": "Facilitarle la incorporación."
+        },
+        {
+          "letra": "C",
+          "texto": "Continuar la marcha, ya que el conductor del autobús debe cederles el paso."
+        }
+      ],
+      "ayuda": "Como norma general, se les debe facilitar la incorporación a todos los vehículos, incluyendo a los autobuses que pretendan incorporarse a la circulación desde una parada señalizada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Si no hay niebla espesa, ¿en qué otra circunstancia puede emplear la luz antiniebla delantera?",
+      "imagen": "examen-01_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo puede encender la luz antiniebla delantera con niebla espesa."
+        },
+        {
+          "letra": "B",
+          "texto": "En tramos de vía estrechos, con una sucesión de curvas peligrosas señalizada."
+        },
+        {
+          "letra": "C",
+          "texto": "En cualquier circunstancia en que disminuya la visibilidad."
+        }
+      ],
+      "ayuda": "La luz de antiniebla delantera se podrá utilizar como caso especial, aunque no exista niebla, en vías estrechas con muchas curvas, entendiéndose como tales las que, teniendo una calzada de 6,50 metros de anchura o inferior, estén debidamente señalizadas con señales que indiquen una sucesión de curvas próximas entre sí.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Este conjunto de marcas blancas pintadas en la calzada...",
+      "imagen": "examen-01_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "indica un paso para peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "obliga al vehículo a detenerse siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "indica que ningún conductor puede entrar con su vehículo o animal en esta zona."
+        }
+      ],
+      "ayuda": "Marca de paso para peatones.\nUna serie de líneas de gran anchura, dispuestas sobre el pavimento de la calzada en bandas paralelas al eje de ésta y que forman un conjunto transversal a la calzada, indica un paso para peatones, donde los conductores de vehículos o animales deben dejarles paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "En doble fila, ¿qué está prohibido?",
+      "imagen": "examen-01_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Estacionar."
+        },
+        {
+          "letra": "B",
+          "texto": "Parar."
+        },
+        {
+          "letra": "C",
+          "texto": "Parar y estacionar."
+        }
+      ],
+      "ayuda": "El estacionamiento en doble fila está prohibido en todo caso. En determinadas circunstancias, sí que se permite la parada en doble fila en los supuestos reglamentarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Si detrás de su vehículo se sitúa un agente en una motocicleta que lleva encendido el dispositivo que emite luz roja intermitente, ¿qué debe hacer?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Continuar circulando hasta que el agente no emplee la megafonía."
+        },
+        {
+          "letra": "B",
+          "texto": "Detenerse en el lado derecho de la calzada, delante del vehículo policial."
+        },
+        {
+          "letra": "C",
+          "texto": "Detenerse cuando pueda y salir del vehículo inmediatamente."
+        }
+      ],
+      "ayuda": "Señales de los Agentes.\nLuz roja intermitente o destellante hacia delante: el agente desde un vehículo indica al conductor del que le precede que debe detener el vehículo en el lado derecho, delante del vehículo policial, en un lugar donde no genere mayores riesgos o molestias para el resto de los usuarios, y siguiendo las instrucciones que imparta el agente mediante la megafonía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Circulando por autopista se prevé que un vehículo puede quedar inmovilizado por circunstancias del tráfico. ¿Cómo deberá actuar?",
+      "imagen": "examen-01_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Utilizando las luces antiniebla traseras."
+        },
+        {
+          "letra": "B",
+          "texto": "Poniendo las luces de posición, aunque sea de día."
+        },
+        {
+          "letra": "C",
+          "texto": "Advertirlo mediante el empleo reiterado de las luces de frenado."
+        }
+      ],
+      "ayuda": "Si circulando por una autopista prevé que su vehículo puede quedar inmovilizado por circunstancias del tráfico (atascos, retenciones, vehículos accidentados, etc.), deberá advertir dicha circunstancia mediante el empleo reiterado de las luces de frenado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "El filtro del aire, ¿para qué sirve?",
+      "imagen": "examen-01_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para limpiar el aire de la calefacción."
+        },
+        {
+          "letra": "B",
+          "texto": "Para limpiar el aire que enfría el motor."
+        },
+        {
+          "letra": "C",
+          "texto": "Para limpiar el aire que se mezcla con el combustible."
+        }
+      ],
+      "ayuda": "El filtro de aire es un elemento vital del sistema de alimentación del vehículo. Este elemento, filtra el aire, quitando impurezas y otros elementos extraños, que posteriormente se mezclará con el combustible dentro del motor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Esta señal prohíbe...",
+      "imagen": "examen-01_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la parada los días indicados en la señal."
+        },
+        {
+          "letra": "B",
+          "texto": "la parada y estacionamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "el estacionamiento desde las 9 horas del día 16 hasta las 9 horas del día 1."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen, prohíbe el estacionamiento desde las 9 horas del día 16 hasta las 9 horas del día 1.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "En esta autopista, ¿está permitido realizar un cambio de sentido?",
+      "imagen": "examen-01_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, utilizando los pasos abiertos de la mediana."
+        },
+        {
+          "letra": "B",
+          "texto": "No, excepto en los lugares autorizados y señalizados."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando haya visibilidad suficiente."
+        }
+      ],
+      "ayuda": "En las autopistas y autovías está prohibido realizar cambios de sentido, excepto en los lugares autorizados y debidamente señalizados.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "La furgoneta está en doble fila, ¿puede hacer una parada para descargar? ",
+      "imagen": "examen-01_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando no hay un lugar de descarga cerca."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque está prohibido."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, el tiempo que quiera."
+        }
+      ],
+      "ayuda": "El estacionamiento en doble fila está prohibido en todo caso. En determinadas circunstancias, sí que se permite la parada en doble fila en los supuestos reglamentarios y cuando no exista espacio libre en las proximidades.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "En caso de reventón, ¿es correcto frenar bruscamente?",
+      "imagen": "examen-01_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Si una rueda sufre un reventón, no se debe frenar bruscamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Esta señal indica la proximidad de...",
+      "imagen": "examen-01_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un puente móvil."
+        },
+        {
+          "letra": "B",
+          "texto": "un cruce sin prioridad."
+        },
+        {
+          "letra": "C",
+          "texto": "un cruce con una línea de tranvía."
+        }
+      ],
+      "ayuda": "Señal de aproximación de un paso a nivel, puente móvil o muelle.\n\tIndica la existencia de un paso a nivel, un puente móvil o un muelle a una distancia de 200 metros.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Cuando tomo medicinas que afectan al sistema nervioso, ¿qué debo hacer para conducir?",
+      "imagen": "examen-01_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nada, porque mejoran mis capacidades."
+        },
+        {
+          "letra": "B",
+          "texto": "Consultar al médico y obedecer sus indicaciones."
+        },
+        {
+          "letra": "C",
+          "texto": "No debo conducir hasta dos horas después de tomarlas."
+        }
+      ],
+      "ayuda": "Cuando se esté bajo tratamiento con medicamentos, hay que tener en cuenta que estos pueden afectar negativamente las condiciones psicofísicas para conducir. Se debe consultar con el médico los posibles efectos del tratamiento y seguir en todo caso sus indicaciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "En este túnel bien iluminado, ¿qué alumbrado debe encender?",
+      "imagen": "examen-01_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La luz de posición y la corta."
+        },
+        {
+          "letra": "B",
+          "texto": "La luz de posición solamente."
+        },
+        {
+          "letra": "C",
+          "texto": "La luz de posición y la larga."
+        }
+      ],
+      "ayuda": "En los túneles que estén suficientemente iluminados, se debe circular con la luz de posición y la de corto alcance (cruce) encendidas, independientemente de la hora del día.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Los vehículos que incorporan luces adaptativas, ¿cómo evitan el deslumbramiento?",
+      "imagen": "examen-01_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Desviando las luces hacia fuera de la carretera mientras haya en la vía otros usuarios que pueden ser deslumbrados."
+        },
+        {
+          "letra": "B",
+          "texto": "Ajustando automáticamente la intensidad y la dirección de la iluminación de las luces de carretera o de cruce."
+        },
+        {
+          "letra": "C",
+          "texto": "Reduciendo la velocidad del vehículo llegando incluso a detenerlo."
+        }
+      ],
+      "ayuda": "Las luces adaptativas evitan el deslumbramiento utilizando sensores y tecnología para ajustar automáticamente la dirección e intensidad de la luz. Lo logran a través de mecanismos que, al detectar otros vehículos o el movimiento del volante, modifican el haz de luz para iluminar la carretera de forma óptima sin deslumbrar a otros conductores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "En esta intersección, ¿cuándo está permitido adelantar por la derecha?",
+      "imagen": "examen-01_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando el vehículo que va delante va a girar a la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando no hay señales de detención obligatoria o ceda el paso."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando no hay señales de vía preferente."
+        }
+      ],
+      "ayuda": "En las intersecciones, como norma general, está prohibido adelantar. Existen algunas excepciones, como por ejemplo, cuando el vehículo que circula delante está indicando que va a girar a la izquierda, se le podrá adelantar por la derecha con las debidas precauciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "Las materias que produzcan polvo o puedan caer, es obligatorio transportarlas...",
+      "imagen": "examen-01_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en contenedores de pequeño tamaño."
+        },
+        {
+          "letra": "B",
+          "texto": "en vehículos totalmente cerrados."
+        },
+        {
+          "letra": "C",
+          "texto": "cubriéndolas total y eficazmente."
+        }
+      ],
+      "ayuda": "Las materias que produzcan polvo o puedan caer, es obligatorio transportarlas cubriéndolas total y eficazmente con una lona u otro elemento análogo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Cuando se acerca a un puente móvil. ¿Qué debe hacer?",
+      "imagen": "examen-01_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Disminuir la velocidad y conducir con más atención."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentar la velocidad y pasar rápidamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Detener mi vehículo antes de pasar."
+        }
+      ],
+      "ayuda": "Al acercarse a un puente móvil o a un paso a nivel, los conductores deberán extremar la precaución, disminuyendo la velocidad y conduciendo con más atención.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Qué indica la señal?",
+      "imagen": "examen-01_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fin de prohibido circular a más de 50 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "Obligatorio circular como mínimo a 50 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "Prohibido circular a más de 50 km/h."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen, indica la finalización de la prohibición de circular a más de 50 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Si hay dos señales de distinto tipo con indicaciones que parezcan estar en contradicción, ¿cuál prevalece?",
+      "imagen": "examen-01_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La menos restrictiva."
+        },
+        {
+          "letra": "B",
+          "texto": "La más restrictiva."
+        },
+        {
+          "letra": "C",
+          "texto": "La prioritaria."
+        }
+      ],
+      "ayuda": "Cuando existan señales de distinto tipo que parezcan estar en contradicción, prevalecerá la prioritaria, según el orden establecido reglamentariamente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Cubre el seguro obligatorio los daños que sufra el conductor culpable del accidente?",
+      "imagen": "examen-01_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, tanto los daños materiales como los corporales."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero únicamente los daños corporales."
+        }
+      ],
+      "ayuda": "El seguro obligatorio no cubre los daños sufridos por el conductor causante del accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Si en un vehículo se realiza una reforma técnica de importancia, ¿es obligatorio pasar una inspección?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en un taller autorizado."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en una estación ITV."
+        },
+        {
+          "letra": "C",
+          "texto": "No es necesario."
+        }
+      ],
+      "ayuda": "El titular de un vehículo, o persona por él autorizada, al que se le haya efectuado una reforma de importancia, está obligado a presentar el mismo a una inspección técnica extraordinaria en una estación I.T.V.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Bajo los efectos del sueño...",
+      "imagen": "examen-01_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se tarda más tiempo en tomar decisiones y se cometen más errores."
+        },
+        {
+          "letra": "B",
+          "texto": "es más difícil sufrir una distracción."
+        },
+        {
+          "letra": "C",
+          "texto": "los movimientos son más rápidos."
+        }
+      ],
+      "ayuda": "Al conducir bajo los efectos del sueño se reduce la capacidad de reacción, por lo que se tarda más tiempo en tomar decisiones y se cometen más errores, con el consiguiente riesgo de sufrir un accidente de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

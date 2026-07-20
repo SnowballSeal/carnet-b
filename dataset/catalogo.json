@@ -1,0 +1,752 @@
+{
+  "titulo": "Permiso B — Teórica común",
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Tests de examen",
+      "carpeta": "examen",
+      "tests": [
+        {
+          "id": 1,
+          "nombre": "Test de examen 1",
+          "archivo": "examen-01",
+          "preguntas": 30
+        },
+        {
+          "id": 2,
+          "nombre": "Test de examen 2",
+          "archivo": "examen-02",
+          "preguntas": 30
+        },
+        {
+          "id": 3,
+          "nombre": "Test de examen 3",
+          "archivo": "examen-03",
+          "preguntas": 30
+        },
+        {
+          "id": 4,
+          "nombre": "Test de examen 4",
+          "archivo": "examen-04",
+          "preguntas": 30
+        },
+        {
+          "id": 5,
+          "nombre": "Test de examen 5",
+          "archivo": "examen-05",
+          "preguntas": 30
+        },
+        {
+          "id": 6,
+          "nombre": "Test de examen 6",
+          "archivo": "examen-06",
+          "preguntas": 30
+        },
+        {
+          "id": 7,
+          "nombre": "Test de examen 7",
+          "archivo": "examen-07",
+          "preguntas": 30
+        },
+        {
+          "id": 8,
+          "nombre": "Test de examen 8",
+          "archivo": "examen-08",
+          "preguntas": 30
+        },
+        {
+          "id": 9,
+          "nombre": "Test de examen 9",
+          "archivo": "examen-09",
+          "preguntas": 30
+        },
+        {
+          "id": 10,
+          "nombre": "Test de examen 10",
+          "archivo": "examen-10",
+          "preguntas": 30
+        },
+        {
+          "id": 11,
+          "nombre": "Test de examen 11",
+          "archivo": "examen-11",
+          "preguntas": 30
+        },
+        {
+          "id": 12,
+          "nombre": "Test de examen 12",
+          "archivo": "examen-12",
+          "preguntas": 30
+        },
+        {
+          "id": 13,
+          "nombre": "Test de examen 13",
+          "archivo": "examen-13",
+          "preguntas": 30
+        },
+        {
+          "id": 14,
+          "nombre": "Test de examen 14",
+          "archivo": "examen-14",
+          "preguntas": 30
+        },
+        {
+          "id": 15,
+          "nombre": "Test de examen 15",
+          "archivo": "examen-15",
+          "preguntas": 30
+        },
+        {
+          "id": 16,
+          "nombre": "Test de examen 16",
+          "archivo": "examen-16",
+          "preguntas": 30
+        },
+        {
+          "id": 17,
+          "nombre": "Test de examen 17",
+          "archivo": "examen-17",
+          "preguntas": 30
+        },
+        {
+          "id": 18,
+          "nombre": "Test de examen 18",
+          "archivo": "examen-18",
+          "preguntas": 30
+        },
+        {
+          "id": 19,
+          "nombre": "Test de examen 19",
+          "archivo": "examen-19",
+          "preguntas": 30
+        },
+        {
+          "id": 20,
+          "nombre": "Test de examen 20",
+          "archivo": "examen-20",
+          "preguntas": 30
+        },
+        {
+          "id": 21,
+          "nombre": "Test de examen 21",
+          "archivo": "examen-21",
+          "preguntas": 30
+        },
+        {
+          "id": 22,
+          "nombre": "Test de examen 22",
+          "archivo": "examen-22",
+          "preguntas": 30
+        },
+        {
+          "id": 23,
+          "nombre": "Test de examen 23",
+          "archivo": "examen-23",
+          "preguntas": 30
+        },
+        {
+          "id": 24,
+          "nombre": "Test de examen 24",
+          "archivo": "examen-24",
+          "preguntas": 30
+        },
+        {
+          "id": 25,
+          "nombre": "Test de examen 25",
+          "archivo": "examen-25",
+          "preguntas": 30
+        },
+        {
+          "id": 26,
+          "nombre": "Test de examen 26",
+          "archivo": "examen-26",
+          "preguntas": 30
+        },
+        {
+          "id": 27,
+          "nombre": "Test de examen 27",
+          "archivo": "examen-27",
+          "preguntas": 30
+        },
+        {
+          "id": 28,
+          "nombre": "Test de examen 28",
+          "archivo": "examen-28",
+          "preguntas": 30
+        },
+        {
+          "id": 29,
+          "nombre": "Test de examen 29",
+          "archivo": "examen-29",
+          "preguntas": 30
+        },
+        {
+          "id": 30,
+          "nombre": "Test de examen 30",
+          "archivo": "examen-30",
+          "preguntas": 30
+        },
+        {
+          "id": 31,
+          "nombre": "Test de examen 31",
+          "archivo": "examen-31",
+          "preguntas": 30
+        },
+        {
+          "id": 32,
+          "nombre": "Test de examen 32",
+          "archivo": "examen-32",
+          "preguntas": 30
+        },
+        {
+          "id": 33,
+          "nombre": "Test de examen 33",
+          "archivo": "examen-33",
+          "preguntas": 30
+        },
+        {
+          "id": 34,
+          "nombre": "Test de examen 34",
+          "archivo": "examen-34",
+          "preguntas": 30
+        },
+        {
+          "id": 35,
+          "nombre": "Test de examen 35",
+          "archivo": "examen-35",
+          "preguntas": 30
+        },
+        {
+          "id": 36,
+          "nombre": "Test de examen 36",
+          "archivo": "examen-36",
+          "preguntas": 30
+        },
+        {
+          "id": 37,
+          "nombre": "Test de examen 37",
+          "archivo": "examen-37",
+          "preguntas": 30
+        },
+        {
+          "id": 38,
+          "nombre": "Test de examen 38",
+          "archivo": "examen-38",
+          "preguntas": 30
+        },
+        {
+          "id": 39,
+          "nombre": "Test de examen 39",
+          "archivo": "examen-39",
+          "preguntas": 30
+        },
+        {
+          "id": 40,
+          "nombre": "Test de examen 40",
+          "archivo": "examen-40",
+          "preguntas": 30
+        },
+        {
+          "id": 41,
+          "nombre": "Test de examen 41",
+          "archivo": "examen-41",
+          "preguntas": 30
+        },
+        {
+          "id": 42,
+          "nombre": "Test de examen 42",
+          "archivo": "examen-42",
+          "preguntas": 30
+        },
+        {
+          "id": 43,
+          "nombre": "Test de examen 43",
+          "archivo": "examen-43",
+          "preguntas": 30
+        },
+        {
+          "id": 44,
+          "nombre": "Test de examen 44",
+          "archivo": "examen-44",
+          "preguntas": 30
+        },
+        {
+          "id": 45,
+          "nombre": "Test de examen 45",
+          "archivo": "examen-45",
+          "preguntas": 30
+        },
+        {
+          "id": 46,
+          "nombre": "Test de examen 46",
+          "archivo": "examen-46",
+          "preguntas": 30
+        },
+        {
+          "id": 47,
+          "nombre": "Test de examen 47",
+          "archivo": "examen-47",
+          "preguntas": 30
+        },
+        {
+          "id": 48,
+          "nombre": "Test de examen 48",
+          "archivo": "examen-48",
+          "preguntas": 30
+        },
+        {
+          "id": 49,
+          "nombre": "Test de examen 49",
+          "archivo": "examen-49",
+          "preguntas": 30
+        },
+        {
+          "id": 50,
+          "nombre": "Test de examen 50",
+          "archivo": "examen-50",
+          "preguntas": 30
+        },
+        {
+          "id": 51,
+          "nombre": "Test de examen 51",
+          "archivo": "examen-51",
+          "preguntas": 30
+        },
+        {
+          "id": 52,
+          "nombre": "Test de examen 52",
+          "archivo": "examen-52",
+          "preguntas": 30
+        },
+        {
+          "id": 53,
+          "nombre": "Test de examen 53",
+          "archivo": "examen-53",
+          "preguntas": 30
+        },
+        {
+          "id": 54,
+          "nombre": "Test de examen 54",
+          "archivo": "examen-54",
+          "preguntas": 30
+        },
+        {
+          "id": 55,
+          "nombre": "Test de examen 55",
+          "archivo": "examen-55",
+          "preguntas": 30
+        },
+        {
+          "id": 56,
+          "nombre": "Test de examen 56",
+          "archivo": "examen-56",
+          "preguntas": 30
+        },
+        {
+          "id": 57,
+          "nombre": "Test de examen 57",
+          "archivo": "examen-57",
+          "preguntas": 30
+        },
+        {
+          "id": 58,
+          "nombre": "Test de examen 58",
+          "archivo": "examen-58",
+          "preguntas": 30
+        },
+        {
+          "id": 59,
+          "nombre": "Test de examen 59",
+          "archivo": "examen-59",
+          "preguntas": 30
+        },
+        {
+          "id": 60,
+          "nombre": "Test de examen 60",
+          "archivo": "examen-60",
+          "preguntas": 30
+        },
+        {
+          "id": 61,
+          "nombre": "Test de examen 61",
+          "archivo": "examen-61",
+          "preguntas": 30
+        },
+        {
+          "id": 62,
+          "nombre": "Test de examen 62",
+          "archivo": "examen-62",
+          "preguntas": 30
+        },
+        {
+          "id": 63,
+          "nombre": "Test de examen 63",
+          "archivo": "examen-63",
+          "preguntas": 30
+        },
+        {
+          "id": 64,
+          "nombre": "Test de examen 64",
+          "archivo": "examen-64",
+          "preguntas": 30
+        },
+        {
+          "id": 65,
+          "nombre": "Test de examen 65",
+          "archivo": "examen-65",
+          "preguntas": 30
+        },
+        {
+          "id": 66,
+          "nombre": "Test de examen 66",
+          "archivo": "examen-66",
+          "preguntas": 30
+        },
+        {
+          "id": 67,
+          "nombre": "Test de examen 67",
+          "archivo": "examen-67",
+          "preguntas": 30
+        },
+        {
+          "id": 68,
+          "nombre": "Test de examen 68",
+          "archivo": "examen-68",
+          "preguntas": 30
+        },
+        {
+          "id": 69,
+          "nombre": "Test de examen 69",
+          "archivo": "examen-69",
+          "preguntas": 30
+        },
+        {
+          "id": 70,
+          "nombre": "Test de examen 70",
+          "archivo": "examen-70",
+          "preguntas": 30
+        },
+        {
+          "id": 71,
+          "nombre": "Test de examen 71",
+          "archivo": "examen-71",
+          "preguntas": 30
+        },
+        {
+          "id": 72,
+          "nombre": "Test de examen 72",
+          "archivo": "examen-72",
+          "preguntas": 30
+        },
+        {
+          "id": 73,
+          "nombre": "Test de examen 73",
+          "archivo": "examen-73",
+          "preguntas": 30
+        },
+        {
+          "id": 74,
+          "nombre": "Test de examen 74",
+          "archivo": "examen-74",
+          "preguntas": 30
+        },
+        {
+          "id": 75,
+          "nombre": "Test de examen 75",
+          "archivo": "examen-75",
+          "preguntas": 30
+        },
+        {
+          "id": 76,
+          "nombre": "Test de examen 76",
+          "archivo": "examen-76",
+          "preguntas": 30
+        },
+        {
+          "id": 77,
+          "nombre": "Test de examen 77",
+          "archivo": "examen-77",
+          "preguntas": 30
+        },
+        {
+          "id": 78,
+          "nombre": "Test de examen 78",
+          "archivo": "examen-78",
+          "preguntas": 30
+        },
+        {
+          "id": 79,
+          "nombre": "Test de examen 79",
+          "archivo": "examen-79",
+          "preguntas": 30
+        },
+        {
+          "id": 80,
+          "nombre": "Test de examen 80",
+          "archivo": "examen-80",
+          "preguntas": 30
+        },
+        {
+          "id": 81,
+          "nombre": "Test de examen 81",
+          "archivo": "examen-81",
+          "preguntas": 30
+        },
+        {
+          "id": 82,
+          "nombre": "Test de examen 82",
+          "archivo": "examen-82",
+          "preguntas": 30
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Serie fácil",
+      "carpeta": "serie-facil",
+      "tests": [
+        {
+          "id": 1,
+          "nombre": "Serie fácil 1",
+          "archivo": "serie-facil-01",
+          "preguntas": 30
+        },
+        {
+          "id": 2,
+          "nombre": "Serie fácil 2",
+          "archivo": "serie-facil-02",
+          "preguntas": 30
+        },
+        {
+          "id": 3,
+          "nombre": "Serie fácil 3",
+          "archivo": "serie-facil-03",
+          "preguntas": 30
+        },
+        {
+          "id": 4,
+          "nombre": "Serie fácil 4",
+          "archivo": "serie-facil-04",
+          "preguntas": 30
+        },
+        {
+          "id": 5,
+          "nombre": "Serie fácil 5",
+          "archivo": "serie-facil-05",
+          "preguntas": 30
+        },
+        {
+          "id": 6,
+          "nombre": "Serie fácil 6",
+          "archivo": "serie-facil-06",
+          "preguntas": 30
+        },
+        {
+          "id": 7,
+          "nombre": "Serie fácil 7",
+          "archivo": "serie-facil-07",
+          "preguntas": 30
+        },
+        {
+          "id": 8,
+          "nombre": "Serie fácil 8",
+          "archivo": "serie-facil-08",
+          "preguntas": 30
+        },
+        {
+          "id": 9,
+          "nombre": "Serie fácil 9",
+          "archivo": "serie-facil-09",
+          "preguntas": 30
+        },
+        {
+          "id": 10,
+          "nombre": "Serie fácil 10",
+          "archivo": "serie-facil-10",
+          "preguntas": 30
+        },
+        {
+          "id": 11,
+          "nombre": "Serie fácil 11",
+          "archivo": "serie-facil-11",
+          "preguntas": 30
+        },
+        {
+          "id": 12,
+          "nombre": "Serie fácil 12",
+          "archivo": "serie-facil-12",
+          "preguntas": 30
+        },
+        {
+          "id": 13,
+          "nombre": "Serie fácil 13",
+          "archivo": "serie-facil-13",
+          "preguntas": 30
+        },
+        {
+          "id": 14,
+          "nombre": "Serie fácil 14",
+          "archivo": "serie-facil-14",
+          "preguntas": 30
+        },
+        {
+          "id": 15,
+          "nombre": "Serie fácil 15",
+          "archivo": "serie-facil-15",
+          "preguntas": 30
+        },
+        {
+          "id": 16,
+          "nombre": "Serie fácil 16",
+          "archivo": "serie-facil-16",
+          "preguntas": 30
+        },
+        {
+          "id": 17,
+          "nombre": "Serie fácil 17",
+          "archivo": "serie-facil-17",
+          "preguntas": 30
+        },
+        {
+          "id": 18,
+          "nombre": "Serie fácil 18",
+          "archivo": "serie-facil-18",
+          "preguntas": 30
+        },
+        {
+          "id": 19,
+          "nombre": "Serie fácil 19",
+          "archivo": "serie-facil-19",
+          "preguntas": 30
+        },
+        {
+          "id": 20,
+          "nombre": "Serie fácil 20",
+          "archivo": "serie-facil-20",
+          "preguntas": 30
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Tests temáticos",
+      "carpeta": "tematicos",
+      "tests": [
+        {
+          "id": 1,
+          "nombre": "Conceptos básicos y definiciones",
+          "archivo": "conceptos-basicos",
+          "preguntas": 30
+        },
+        {
+          "id": 2,
+          "nombre": "Tema 1 — Definiciones y documentación",
+          "archivo": "tema-01",
+          "preguntas": 30
+        },
+        {
+          "id": 3,
+          "nombre": "Tema 2 — Señalización de la vía",
+          "archivo": "tema-02",
+          "preguntas": 30
+        },
+        {
+          "id": 4,
+          "nombre": "Tema 3 — Señales verticales I. Advertencia de peligro y reglamentación",
+          "archivo": "tema-03",
+          "preguntas": 30
+        },
+        {
+          "id": 5,
+          "nombre": "Tema 4 — Señales verticales II. Señales de indicación",
+          "archivo": "tema-04",
+          "preguntas": 30
+        },
+        {
+          "id": 6,
+          "nombre": "Tema 5 — Marcas viales",
+          "archivo": "tema-05",
+          "preguntas": 30
+        },
+        {
+          "id": 7,
+          "nombre": "Tema 6 — Alumbrado y señalización óptica de los vehículos",
+          "archivo": "tema-06",
+          "preguntas": 30
+        },
+        {
+          "id": 8,
+          "nombre": "Tema 7 — Uso de las vías públicas",
+          "archivo": "tema-07",
+          "preguntas": 30
+        },
+        {
+          "id": 9,
+          "nombre": "Tema 8 — Velocidad y distancia entre vehículos",
+          "archivo": "tema-08",
+          "preguntas": 30
+        },
+        {
+          "id": 10,
+          "nombre": "Tema 9 — Maniobras I. Incorporación al tráfico y adelantamientos",
+          "archivo": "tema-09",
+          "preguntas": 30
+        },
+        {
+          "id": 11,
+          "nombre": "Tema 10 — Maniobras II. Cambios de dirección, de sentido y marcha atrás",
+          "archivo": "tema-10",
+          "preguntas": 30
+        },
+        {
+          "id": 12,
+          "nombre": "Tema 11 — Maniobras III. Inmovilizaciones",
+          "archivo": "tema-11",
+          "preguntas": 30
+        },
+        {
+          "id": 13,
+          "nombre": "Tema 12 — Prioridad de paso",
+          "archivo": "tema-12",
+          "preguntas": 30
+        },
+        {
+          "id": 14,
+          "nombre": "Tema 13 — Transporte de personas y mercancías. Señalización de los vehículos",
+          "archivo": "tema-13",
+          "preguntas": 30
+        },
+        {
+          "id": 15,
+          "nombre": "Tema 14 — Conocimiento y mantenimiento del automóvil I",
+          "archivo": "tema-14",
+          "preguntas": 30
+        },
+        {
+          "id": 16,
+          "nombre": "Tema 15 — Conocimiento y mantenimiento del automóvil II",
+          "archivo": "tema-15",
+          "preguntas": 30
+        },
+        {
+          "id": 17,
+          "nombre": "Tema 16 — Estado psicofísico del conductor",
+          "archivo": "tema-16",
+          "preguntas": 30
+        },
+        {
+          "id": 18,
+          "nombre": "Tema 17 — La conducción. Situaciones de riesgo",
+          "archivo": "tema-17",
+          "preguntas": 30
+        },
+        {
+          "id": 19,
+          "nombre": "Tema 18 — Viajes, civismo vial y accidentes de circulación",
+          "archivo": "tema-18",
+          "preguntas": 30
+        }
+      ]
+    }
+  ]
+}

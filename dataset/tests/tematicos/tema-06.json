@@ -1,0 +1,697 @@
+{
+  "categoria_id": 3,
+  "test_id": 7,
+  "nombre": "Tema 6 — Alumbrado y señalización óptica de los vehículos",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Cuando su vehículo quede inmovilizado de noche en el arcén de esta vía, ¿qué luces debe dejar encendidas?",
+      "imagen": "tema-06_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las luces de posición."
+        },
+        {
+          "letra": "B",
+          "texto": "Las luces de corto alcance."
+        },
+        {
+          "letra": "C",
+          "texto": "Las luces de estacionamiento."
+        }
+      ],
+      "ayuda": "Todo vehículo que, por cualquier circunstancia, se encuentre inmovilizado entre la puesta y la salida del sol o bajo condiciones que disminuyan la visibilidad, en la calzada o arcén de una vía, deberá tener encendidas las luces de posición y, en su caso, las de gálibo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "En esta vía es obligatorio utilizar la luz de corto alcance...",
+      "imagen": "tema-06_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sólo cuando no se disponga de luz larga."
+        },
+        {
+          "letra": "B",
+          "texto": "cuando exista la posibilidad de deslumbrar a otros usuarios."
+        },
+        {
+          "letra": "C",
+          "texto": "siempre."
+        }
+      ],
+      "ayuda": "El alumbrado de carretera deberá ser sustituido por el de corto alcance o cruce, tan pronto como surja la posibilidad de deslumbrar a otros usuarios de esa o de cualquier otra vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Debe encender la luz de corto alcance en un túnel suficientemente iluminado?",
+      "imagen": "tema-06_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, debe encender la luz de largo alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, es obligatorio."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque está iluminado."
+        }
+      ],
+      "ayuda": "En los túneles suficientemente iluminados, se deben encender las luces de posición y las de cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Qué luces debe encender si tiene que detenerse para retirar una carga que ha caído en la vía?",
+      "imagen": "tema-06_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ninguna si la vía está suficientemente iluminada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo las luces de emergencia si es de noche."
+        },
+        {
+          "letra": "C",
+          "texto": "Las luces de posición y las de emergencia."
+        }
+      ],
+      "ayuda": "En caso de realizar una inmovilización por razones de emergencia, como caída de la carga, se deben encender las luces de emergencia y, cuando proceda, las luces de posición (entre la puesta y la salida del sol o en condiciones meteorológicas adversas).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Qué indica la luz de posición de los vehículos?",
+      "imagen": "tema-06_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el vehículo está circulando."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el vehículo está parado."
+        },
+        {
+          "letra": "C",
+          "texto": "El lugar que ocupa en la calzada y la anchura del vehículo."
+        }
+      ],
+      "ayuda": "Las luces de posición se utilizan para indicar la presencia y anchura de un vehículo cuando se vea tanto por delante como por detrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "La regulación, el funcionamiento y el estado del sistema de alumbrado, ¿hay que revisarlos con frecuencia?",
+      "imagen": "tema-06_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Una vez cada dos o tres años es suficiente."
+        },
+        {
+          "letra": "C",
+          "texto": "No, sólo es necesario cambiar las bombillas cuando estén fundidas."
+        }
+      ],
+      "ayuda": "Para evitar deslumbramientos a los demás usuarios de la vía, se debe regular el funcionamiento del sistema de alumbrado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "La luz de antiniebla trasera deberá utilizarse en caso de...",
+      "imagen": "tema-06_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "nubes densas de humo."
+        },
+        {
+          "letra": "B",
+          "texto": "heladas nocturnas."
+        },
+        {
+          "letra": "C",
+          "texto": "frenada brusca."
+        }
+      ],
+      "ayuda": "Las luces de antiniebla traseras, sólo se podrán llevar encendidas en caso de niebla espesa, lluvia muy intensa, fuertes nevadas y nubes densas de polvo o de humo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Se considera que una vía está insuficientemente iluminada cuando...",
+      "imagen": "tema-06_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "con vista normal no se puede leer la placa de matrícula a 10 metros o distinguir un vehículo pintado de oscuro a 50 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "la vía no permite ver con claridad."
+        },
+        {
+          "letra": "C",
+          "texto": "no pueda distinguirse la placa de matrícula de otro vehículo a 50 metros."
+        }
+      ],
+      "ayuda": "Se entiende por vía insuficientemente iluminada aquella en la que, con vista normal, no puede leerse la placa de matrícula a 10 metros o no se distingue un vehículo pintado de oscuro a 50 metros de distancia, en ningún punto de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Qué debe hacer un conductor que ha sido deslumbrado?",
+      "imagen": "tema-06_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reducir la velocidad, incluso hasta llegar a detenerse totalmente, si fuera necesario."
+        },
+        {
+          "letra": "B",
+          "texto": "Encender el alumbrado de largo alcance."
+        },
+        {
+          "letra": "C",
+          "texto": "Desviarse siempre a la derecha para detenerse en el arcén."
+        }
+      ],
+      "ayuda": "En caso de deslumbramiento, el conductor que lo sufra reducirá la velocidad lo necesario, incluso hasta la detención total, para evitar el alcance de vehículos o peatones que circulen en el mismo sentido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Para qué sirven los indicadores?",
+      "imagen": "tema-06_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para señalizar las maniobras durante la noche solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Para señalizar las maniobras tanto de día como de noche."
+        },
+        {
+          "letra": "C",
+          "texto": "Para ser visto durante la noche."
+        }
+      ],
+      "ayuda": "Los indicadores de dirección sirven para advertir a los demás usuarios de la vía las maniobras y demás desplazamientos laterales que el vehículo vaya a realizar. Los indicadores de dirección deben utilizarse tanto de día como de noche e independientemente de las condiciones de visibilidad existentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Cuando las pantallas protectoras de las luces de un vehículo están muy sucias...",
+      "imagen": "tema-06_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se mejora la iluminación de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "disminuye la eficacia de las luces."
+        },
+        {
+          "letra": "C",
+          "texto": "no se deslumbra a otros conductores."
+        }
+      ],
+      "ayuda": "La suciedad de los faros del vehículo modifica la dirección de los rayos luminosos provocando deslumbramientos y otros efectos no deseados. Para un óptimo aprovechamiento del alumbrado, los cristales deben mantenerse limpios en todo momento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Hay mucha niebla, ¿qué luces deben llevar encendidas los vehículos?",
+      "imagen": "tema-06_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las luces de antiniebla junto con las luces cortas."
+        },
+        {
+          "letra": "B",
+          "texto": "Las luces de antiniebla junto con las luces de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Las luces de posición solamente."
+        }
+      ],
+      "ayuda": "Si existe mucha niebla se debe utilizar las luces de antiniebla junto con las luces de posición y cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "En caso de lluvia no intensa, ¿está permitido utilizar la luz de antiniebla?",
+      "imagen": "tema-06_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, tanto la delantera como la trasera."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero sólo la trasera."
+        }
+      ],
+      "ayuda": "Si la lluvia no es intensa, no se permite utilizar las luces de antiniebla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Puede circular si las luces de frenado de su vehículo están averiadas?",
+      "imagen": "tema-06_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si dispone de una tercera luz de freno."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque son opcionales."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque son obligatorias."
+        }
+      ],
+      "ayuda": "Las luces de frenado son obligatorias, por lo que no se podrá circular si las mismas están averiadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Aún es de día, pero ya se ha puesto el sol. ¿Qué luces debe encender?",
+      "imagen": "tema-06_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Está prohibido encender las luces cuando es de día."
+        },
+        {
+          "letra": "B",
+          "texto": "Basta con las de posición."
+        },
+        {
+          "letra": "C",
+          "texto": "Las de corto alcance o de cruce."
+        }
+      ],
+      "ayuda": "Las luces del vehículo deben encenderse entre la puesta y la salida del sol, independientemente de la hora del día.  \n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Un turismo que circula entre la puesta y la salida de sol, ¿debe llevar iluminadas las placas de matrícula?\n",
+      "imagen": "tema-06_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo la delantera."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo la trasera."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, tanto la delantera como la trasera."
+        }
+      ],
+      "ayuda": "La normativa exige que, cuando sea obligatorio el uso del alumbrado (entre la puesta y la salida del sol por ejemplo), los vehículos lleven iluminada la placa posterior de matrícula.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Un turismo circula por una travesía insuficientemente iluminada, ¿qué alumbrado debe llevar?",
+      "imagen": "tema-06_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El alumbrado de posición y el de cruce."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo el alumbrado de posición."
+        },
+        {
+          "letra": "C",
+          "texto": "El alumbrado de posición y el de carretera."
+        }
+      ],
+      "ayuda": "En vías de poblado, tanto suficiente como insuficientemente iluminadas, se debe utilizar las luces de posición junto con las de cruce o corto alcance.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Qué alumbrado debe utilizar si circula antes de la salida del sol, pero con buena visibilidad?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El de posición y el de corto alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente el alumbrado de posición."
+        },
+        {
+          "letra": "C",
+          "texto": "No es necesario que utilice ningún alumbrado."
+        }
+      ],
+      "ayuda": "Si se circula antes de la salida del sol con buena visibilidad se debe utilizar las luces de posición junto con las de cruce o corto alcance.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Puede circular por una vía interurbana con el alumbrado de largo alcance en caso de lluvia intensa o niebla densa?",
+      "imagen": "tema-06_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque en este caso la vía está insuficientemente iluminada."
+        },
+        {
+          "letra": "B",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero no es recomendable porque el reflejo en la niebla o la lluvia le puede deslumbrar."
+        }
+      ],
+      "ayuda": "Cuando exista lluvia intensa en vías interurbanas, se pueden utilizar también las luces de largo alcance, aunque no es muy recomendable, ya que el reflejo en la niebla o la lluvia puede deslumbrar al conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Es obligatorio utilizar las luces de carretera al circular a más de 40 km/h por una vía...",
+      "imagen": "tema-06_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "interurbana suficientemente iluminada."
+        },
+        {
+          "letra": "B",
+          "texto": "interurbana insuficientemente iluminada."
+        },
+        {
+          "letra": "C",
+          "texto": "insuficientemente iluminada, dentro o fuera de poblado."
+        }
+      ],
+      "ayuda": "Todo vehículo equipado con luz de largo alcance o carretera que circule a más de 40 km/h, entre el ocaso y la salida del sol, fuera de poblado, por vías insuficientemente iluminadas deberá llevar encendidas las luces de posición y las de largo alcance o carretera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Una motocicleta, ¿puede disponer de señal de emergencia?",
+      "imagen": "tema-06_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, sólo cuando es de más de 125 centímetros cúbicos."
+        }
+      ],
+      "ayuda": "Las motocicletas pueden disponer de señal de emergencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "El alumbrado de gálibo es obligatorio para...",
+      "imagen": "tema-06_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los vehículos que transporten mercancías peligrosas."
+        },
+        {
+          "letra": "B",
+          "texto": "los vehículos cuya anchura sea mayor de 2,10 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "los vehículos de asistencia en carretera."
+        }
+      ],
+      "ayuda": "Están obligados a llevar luces de gálibo, los vehículos de más de 2,10 metros de anchura y opcional, los vehículos de anchura entre 1,80 y 2,10 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "El vehículo azul lleva el alumbrado de largo alcance. Por tanto...",
+      "imagen": "tema-06_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circula correctamente."
+        },
+        {
+          "letra": "B",
+          "texto": "debe apagar todas las luces para evitar deslumbramientos."
+        },
+        {
+          "letra": "C",
+          "texto": "debe cambiar el alumbrado de largo alcance por el de corto alcance para no deslumbrar al conductor del vehículo amarillo."
+        }
+      ],
+      "ayuda": "Atendiendo al gráfico, el conductor del vehículo azul debe cambiar el alumbrado de largo alcance por el de corto alcance para no deslumbrar al conductor del vehículo amarillo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Si la niebla es espesa, un vehículo deberá circular utilizando...",
+      "imagen": "tema-06_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sólo la luz de antiniebla delantera."
+        },
+        {
+          "letra": "B",
+          "texto": "la luz de antiniebla trasera, además del alumbrado correspondiente en la parte delantera."
+        },
+        {
+          "letra": "C",
+          "texto": "sólo la luz de antiniebla trasera."
+        }
+      ],
+      "ayuda": "Las luces de antiniebla traseras, sólo se podrán llevar encendidas en caso de niebla espesa, lluvia muy intensa, fuertes nevadas y nubes densas de polvo o de humo, además del alumbrado correspondiente en la parte delantera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Un turismo por avería circula a 40 km/h por esta vía insuficientemente iluminada y lleva encendidas las luces de cruce, ¿es correcto?",
+      "imagen": "tema-06_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque no hay otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, debe llevar las luces de carretera."
+        }
+      ],
+      "ayuda": "Si por avería se circula por una vía interurbana insuficientemente iluminada a 40 kilómetros por hora, se puede utilizar tanto las luces de carretera como las de cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "La luz de carretera, ¿dónde está prohibido utilizarla?",
+      "imagen": "tema-06_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En vías urbanas y travesías."
+        },
+        {
+          "letra": "B",
+          "texto": "En vías estrechas."
+        },
+        {
+          "letra": "C",
+          "texto": "Fuera de las ciudades en túneles y tramos de vía con la señal túnel."
+        }
+      ],
+      "ayuda": "Las luces de largo alcance se prohíbe encenderlas en los siguientes casos: en poblado, cuando el vehículo se encuentre parado o estacionado y cuando se aprecie la posibilidad de deslumbrar a otros conductores y usuarios de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "De noche, para evitar deslumbramientos a otros usuarios, un conductor debe...",
+      "imagen": "tema-06_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circular en carretera, siempre por precaución con la luz de cruce."
+        },
+        {
+          "letra": "B",
+          "texto": "cambiar la luz de carretera por las de cruce cuando sea necesario."
+        },
+        {
+          "letra": "C",
+          "texto": "sustituir la luz de carretera por la delantera de antiniebla cuando exista riesgo de deslumbramiento."
+        }
+      ],
+      "ayuda": "Durante la noche para evitar deslumbramiento a los demás usuarios de la vía, se debe cambiar la luz de carretera por las de cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Qué función cumplen los sistemas de alumbrado del vehículo?",
+      "imagen": "tema-06_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente la de alumbrar la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente la de ser vistos por los demás usuarios de la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "Tanto ver como la de ser vistos por los demás usuarios de la vía."
+        }
+      ],
+      "ayuda": "La finalidad de las luces de los vehículos es la de permitir ver, ser vistos y advertir las maniobras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Si el reglaje del sistema de alumbrado está demasiado bajo...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se necesita más tiempo para percibir un obstáculo."
+        },
+        {
+          "letra": "B",
+          "texto": "se necesita menos tiempo para percibir un obstáculo."
+        },
+        {
+          "letra": "C",
+          "texto": "no influye en la percepción del obstáculo en la calzada."
+        }
+      ],
+      "ayuda": "Si el reglaje del sistema de alumbrado está demasiado bajo, se necesita más tiempo para percibir un obstáculo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Está permitido circular en poblado con la luz de largo alcance?",
+      "imagen": "tema-06_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando circule a más de 40 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando la vía esté insuficientemente iluminada."
+        }
+      ],
+      "ayuda": "Dentro de poblado, está prohibido el uso de las luces de largo alcance o carretera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

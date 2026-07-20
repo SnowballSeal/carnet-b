@@ -1,0 +1,633 @@
+{
+  "categoria_id": 2,
+  "test_id": 18,
+  "nombre": "Serie fácil 18",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "La edad mínima para viajar como acompañante en una motocicleta o ciclomotor será de...",
+      "imagen": "serie-facil-18_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tres años, pero siempre con asiento adicional."
+        },
+        {
+          "letra": "B",
+          "texto": "12 años y, excepcionalmente, siete años si la motocicleta o ciclomotor van conducidos por el padre, madre o tutor."
+        }
+      ],
+      "ayuda": "La edad mínima para poder viajar como acompañante en una motocicleta o ciclomotor, es de 12 años y, excepcionalmente, siete años si la motocicleta o ciclomotor son conducidos por el padre, madre o tutor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Un agente de tráfico que circula delante muestra una bandera de color rojo, ¿qué está indicando?",
+      "imagen": "serie-facil-18_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que la calzada queda temporalmente cerrada al tráfico a todos los vehículos y usuarios."
+        },
+        {
+          "letra": "B",
+          "texto": "Que la calzada queda de nuevo abierta al tráfico."
+        }
+      ],
+      "ayuda": "Un agente de tráfico que muestra una bandera roja, indica que la calzada queda temporalmente cerrada al tráfico a todos los vehículos y usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Si no existe vía o parte de ella que le esté especialmente destinada, circularán por el arcén...",
+      "imagen": "serie-facil-18_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los vehículos para personas de movilidad reducida."
+        },
+        {
+          "letra": "B",
+          "texto": "todos los vehículos que tengan motor."
+        }
+      ],
+      "ayuda": "Entre otros vehículos, si no existe vía o parte de ella que le esté especialmente destinada,, circularán por el arcén de su derecha los vehículos para personas de movilidad reducida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Qué vehículo tiene preferencia en el cruce?",
+      "imagen": "serie-facil-18_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El blanco."
+        },
+        {
+          "letra": "B",
+          "texto": "El verde."
+        }
+      ],
+      "ayuda": "Se debe ceder el paso a los vehículos que se aproximen por la derecha. En este caso, tiene preferencia de paso el vehículo verde, porque le sale por la derecha al vehículo blanco.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Está permitido que los vehículos prioritarios en servicio de urgencia utilicen únicamente la señal luminosa?",
+      "imagen": "serie-facil-18_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando circulen por vías urbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando no supongan un peligro para los demás usuarios."
+        }
+      ],
+      "ayuda": "Los vehículos prioritarios podrán utilizar únicamente la señal especial luminosa cuando la omisión de las señales acústicas no suponga un peligro para los demás usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "En un tramo de vía con la señal túnel, ¿está permitido hacer un cambio de sentido?",
+      "imagen": "serie-facil-18_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido cambiar el sentido de la marcha en los túneles y tramos de vía afectados por la señal túnel.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Cuándo se producen accidentes de tráfico con más frecuencia?",
+      "imagen": "serie-facil-18_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los lunes."
+        },
+        {
+          "letra": "B",
+          "texto": "En los periodos de vacaciones y los fines de semana."
+        },
+        {
+          "letra": "C",
+          "texto": "En invierno."
+        }
+      ],
+      "ayuda": "Los accidentes de tráfico se sufren con más frecuencia en los periodos de vacaciones y los fines de semana.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Es recomendable que los guantes que se utilicen para conducir una motocicleta...",
+      "imagen": "serie-facil-18_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "permitan un agarre firme."
+        },
+        {
+          "letra": "B",
+          "texto": "sean muy gruesos."
+        }
+      ],
+      "ayuda": "Los guantes que se utilizan para conducir motocicletas, deben permitir un agarre firme.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "En general, ¿a quiénes afecta más el alcohol?",
+      "imagen": "serie-facil-18_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A los hombres."
+        },
+        {
+          "letra": "B",
+          "texto": "A las mujeres."
+        }
+      ],
+      "ayuda": "En general, los efectos del alcohol le afecta más a las mujeres.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "En las operaciones de carga y descarga, ¿está permitido depositar la mercancía en la acera?",
+      "imagen": "serie-facil-18_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "En las operaciones de carga y descarga queda prohibido depositar la carga en las aceras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Un turismo que arrastra un remolque ligero, ¿a qué velocidad máxima puede circular por autopista o autovía?",
+      "imagen": "serie-facil-18_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 120 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "A 100 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A 90 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima permitida en una autopista o autovía para un turismo que arrastra un remolque ligero, es de 90 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Con niebla no espesa, ¿qué luces antiniebla está permitido encender en su turismo?",
+      "imagen": "serie-facil-18_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La delantera, únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Ninguna."
+        },
+        {
+          "letra": "C",
+          "texto": "La trasera únicamente."
+        }
+      ],
+      "ayuda": "Cuando la niebla no espesa, solo está permitido utilizar el alumbrado antiniebla delantero. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Es recomendable conducir de noche para evitar el cansancio?",
+      "imagen": "serie-facil-18_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque el sueño aparece con mayor facilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para evitar los atascos si el viaje es largo."
+        }
+      ],
+      "ayuda": "Conducir de noche es más peligroso que conducir de día, ya que el sueño aparece con mayor facilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "Un vehículo de bomberos circula con la señalización luminosa de vehículo prioritario encendida. ¿Debe facilitarle el paso?",
+      "imagen": "serie-facil-18_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Si un vehículo prioritario circula en servicio de urgencia solo con las luces amarillas encendidas, se les debe facilitar el paso, ya que tienen preferencia de paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Es de noche y necesita inmovilizar su vehículo en el arcén de una carretera por avería. ¿Qué luces debe encender?",
+      "imagen": "serie-facil-18_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo las luces de posición."
+        },
+        {
+          "letra": "B",
+          "texto": "Las luces de posición y las de emergencia."
+        }
+      ],
+      "ayuda": "Si durante la noche se queda averiado en el arcén de una carretera, debe saber que ha de dejar encendidas las luces de posición y las de emergencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "El uso de los intermitentes, ¿contribuye a reducir los accidentes?",
+      "imagen": "serie-facil-18_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, al no formar parte de los sistemas de seguridad activa."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque avisa a los demás de la maniobra."
+        }
+      ],
+      "ayuda": "El uso de los intermitentes reduce los accidentes de tráfico, ya que su finalidad es advertir a los demás de las maniobras que se pretendan realizar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "La señal prohíbe circular a más de 80 km/h. ¿Cuándo termina la prohibición?",
+      "imagen": "serie-facil-18_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Después de la intersección."
+        },
+        {
+          "letra": "B",
+          "texto": "Inmediatamente antes de la intersección."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando encuentre una señal de fin de prohibido adelantar."
+        }
+      ],
+      "ayuda": "Atendiendo a la señalización, la prohibición de circular a más de 80 kilómetros por hora, termina al pasar la intersección con prioridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Un semáforo de carril con una luz roja en forma de aspa, ¿qué indica?",
+      "imagen": "serie-facil-18_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que la calzada está cerrada al tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "Que está prohibido ocupar el carril sobre el que se encuentra situado."
+        }
+      ],
+      "ayuda": "Un semáforo de carril con una luz roja en forma de aspa indica que está prohibido ocupar el carril sobre el que se encuentra situado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Qué indican las luces blancas traseras del vehículo?",
+      "imagen": "serie-facil-18_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que esté averiado."
+        },
+        {
+          "letra": "B",
+          "texto": "Que está parado en doble fila."
+        },
+        {
+          "letra": "C",
+          "texto": "Que está efectuando la maniobra de marcha atrás."
+        }
+      ],
+      "ayuda": "Las luces blancas de marcha atrás que se observan en el vehículo, indican que el vehículo está dando marcha atrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Las señales y placas de la parte trasera del camión, ¿qué indican?",
+      "imagen": "serie-facil-18_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que transporta productos alimenticios."
+        },
+        {
+          "letra": "B",
+          "texto": "Que transporta mercancías peligrosas y que mide más de 12 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "Que su peso y dimensiones son mayores que los normales."
+        }
+      ],
+      "ayuda": "La señal de color naranja que lleva el camión, indica que transporta mercancías peligrosas y la señal rectangular de color amarillo, indica que el vehículo mide más de 12 metros de longitud.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Cuando sólo lo ocupe su conductor, ¿puede un turismo circular por un carril para VAO?",
+      "imagen": "serie-facil-18_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, nunca."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si el vehículo lleva la señal de minusválido."
+        }
+      ],
+      "ayuda": "Un turismo solo con el conductor podrá circular por un carril VAO si el turismo ostenta la señal de minusválidos",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Dónde puede encontrar estos paneles?",
+      "imagen": "serie-facil-18_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Antes de una señal vertical."
+        },
+        {
+          "letra": "B",
+          "texto": "Bajo una señal de prohibición."
+        },
+        {
+          "letra": "C",
+          "texto": "Encima de una señal vertical."
+        }
+      ],
+      "ayuda": "Estos paneles se pueden encontrar bajo una señal de prohibición.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Como norma general, ¿puede circular con su turismo con la línea del arcén entre las ruedas?",
+      "imagen": "serie-facil-18_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Como norma general, no se permite circular con la línea del arcén entre las ruedas del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Esta señal indica...",
+      "imagen": "serie-facil-18_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La situación de un lugar donde se puede apartar el vehículo, en caso de emergencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Una zona de estacionamiento autorizado."
+        },
+        {
+          "letra": "C",
+          "texto": "Una zona de emergencia."
+        }
+      ],
+      "ayuda": "Esta señal indica, la situación de un lugar donde se puede apartar el vehículo en caso de emergencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Cuándo se le debe ceder el paso a un ciclista que se acerca a una intersección sin señalizar la preferencia de paso?",
+      "imagen": "serie-facil-18_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando se aproxime por la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando se aproxime por la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Siempre. Los ciclistas en las proximidades de las intersecciones siempre tienen preferencia de paso."
+        }
+      ],
+      "ayuda": "En defecto de señal que regule la preferencia de paso, el conductor está obligado a cederlo a los vehículos (cualquier vehículo, bicicletas, tracción animal, automóviles, etc.) que se aproximen por su derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Sobre qué parte del cuerpo debe pasar la parte abdominal del cinturón de seguridad?",
+      "imagen": "serie-facil-18_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sobre el abdomen."
+        },
+        {
+          "letra": "B",
+          "texto": "Sobre la pelvis."
+        },
+        {
+          "letra": "C",
+          "texto": "Sobre el pecho."
+        }
+      ],
+      "ayuda": "La parte abdominal del cinturón de seguridad, debe pasar por la pelvis (huesos de la cadera).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Circula por esta vía dentro de poblado sin intención de adelantar, ¿por qué carril debe circular?",
+      "imagen": "serie-facil-18_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el que mejor convenga a mi destino."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el de la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Por cualquiera de ellos, ya que al no estar delimitados por líneas longitudinales, es como si tuviera un sólo carril."
+        }
+      ],
+      "ayuda": "En calzadas de poblado de más de un carril para el mismo sentido, donde no existan marcas longitudinales que los delimiten, los conductores circularán por el carril de la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Qué está indicando el agente que se observa en la fotografía con la luz amarilla que está balanceando de arriba-abajo? ",
+      "imagen": "serie-facil-18_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que los vehículos a los que se dirija deben disminuir la velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Que los vehículos a los que se dirija deben detenerse."
+        },
+        {
+          "letra": "C",
+          "texto": "Que deben detenerse todos los vehículos."
+        }
+      ],
+      "ayuda": "Un agente que balancee una luz roja o amarilla intermitente o destellante hacia delante indica, a los vehículos a los que la dirija, que deben detenerse.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "En esta vía urbana con dos carriles para cada sentido que no tiene líneas de separación de carriles, ¿por qué carril se debe circular?",
+      "imagen": "serie-facil-18_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el de su derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el carril que más convenga para mi destino."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el carril de la derecha y no puedo cambiar al segundo."
+        }
+      ],
+      "ayuda": "Dentro de poblado, cuando la calzada disponga de más de un carril para el mismo sentido de circulación, y estos no estén delimitados por líneas longitudinales, se deberá circular por el carril de la derecha como norma general.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Cómo se debe atender a un accidentado de tráfico?",
+      "imagen": "serie-facil-18_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dándole de beber agua o zumos para evitar que pierda la conciencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Protegiéndole el cuello para evitar lesiones en la médula espinal."
+        },
+        {
+          "letra": "C",
+          "texto": "Administrándole, cuanto antes, un medicamento para disminuirle el dolor."
+        }
+      ],
+      "ayuda": "Las lesiones en la médula son muy graves, por este motivo, el auxiliador debe inmovilizar el cuello del herido para evitar que se produzcan lesiones cervicales y, consecuentemente, en la médula espinal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+Carnet B - copia local
+======================
+
+Esta carpeta contiene la web de estudio completa (temario, tests, simulacro)
+con todos sus datos. No necesita internet salvo para los videos del temario
+(YouTube) y las fuentes tipograficas. No hace falta instalar nada a mano:
+los arrancadores instalan Python solos si falta.
+
+Como abrirla
+------------
+- Windows: doble clic en "Iniciar web.bat".
+- Linux / macOS / Android (Termux): en una terminal, dentro de esta carpeta:
+      sh iniciar-web.sh
+- Si ya tienes Python, tambien vale directamente:  python servidor.py
+- iPhone / iPad: iOS no permite ejecutar el servidor, asi que la copia no
+  puede arrancarse ahi. Alternativa: arrancala en un ordenador (o Android)
+  de tu casa y abre en Safari la direccion de red que el servidor muestra
+  al arrancar (http://IP-del-ordenador:8724); ambos aparatos deben estar
+  en la misma red wifi.
+
+Se abre en http://localhost:8724 (el servidor tambien muestra la direccion
+para abrirla desde otros dispositivos de tu red, como un movil).
+
+Compartir la web
+----------------
+Esta copia tambien puede compartirse: mientras el servidor este en marcha,
+la propia web muestra el apartado "Copia local" con el boton de descarga,
+para que otra persona se lleve su copia identica (y asi sucesivamente).
+
+Tu progreso
+-----------
+El progreso (tests hechos, fallos, laminas vistas) se guarda en el navegador,
+por origen: la copia local no ve automaticamente lo que hiciste en la web
+original. Para llevarlo: en la web original, Progreso > "Exportar progreso";
+en esta copia, Progreso > "Importar progreso" con el archivo descargado.

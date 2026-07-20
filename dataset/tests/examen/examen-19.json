@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 19,
+  "nombre": "Test de examen 19",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Qué carril se debe usar normalmente en una autopista con tres carriles para cada sentido?",
+      "imagen": "examen-19_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El carril derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Cualquiera."
+        },
+        {
+          "letra": "C",
+          "texto": "El carril central o el derecho, es indiferente."
+        }
+      ],
+      "ayuda": "Fuera de poblado, en las calzadas con más de un carril reservado para su sentido de marcha, se debe circular normalmente por el carril situado más a la derecha, si bien se podrá utilizar el resto de los de dicho sentido cuando las circunstancias del tráfico o de la vía lo aconsejen, a condición de que no se entorpezca la marcha de otro vehículo que le siga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Puede un menor de 12 años viajar como pasajero en una motocicleta?",
+      "imagen": "examen-19_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "No, los menores de 12 años nunca pueden viajar como pasajeros de motocicletas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que tenga más de 7 años y el conductor de la motocicleta sea su padre, madre, tutor o persona autorizada."
+        }
+      ],
+      "ayuda": "Como norma general, los menores de 12 años no pueden viajar en motocicletas. Excepcionalmente, se permite que lo hagan, cuando tengan más de 7 años y el conductor sea su padre, madre, tutor o una persona autorizada por ellos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Puede un resfriado común afectar a la capacidad para conducir?",
+      "imagen": "examen-19_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, puede producir somnolencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo en las personas mayores."
+        }
+      ],
+      "ayuda": "Un resfriado común puede producir somnolencia, con lo cual el estado psicofísico del conductor y su capacidad para conducir con seguridad se verían alteradas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "El semáforo está en rojo. ¿Dónde debo detenerme?",
+      "imagen": "examen-19_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Siempre junto al semáforo."
+        },
+        {
+          "letra": "B",
+          "texto": "En la línea de detención, aunque esté situada después del semáforo."
+        },
+        {
+          "letra": "C",
+          "texto": "Antes de la línea de detención y del semáforo."
+        }
+      ],
+      "ayuda": "Cuando la luz de un semáforo se encuentre en rojo, los conductores no deben rebasar el semáforo ni, si existe, la línea de detención anterior más próxima a aquél.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "La Organización Mundial de la Salud (OMS) considera que los accidentes de tráfico constituyen un problema prioritario de salud pública...",
+      "imagen": "examen-19_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mundial."
+        },
+        {
+          "letra": "B",
+          "texto": "en Europa, pero no en Estados Unidos o Japón, porque sus cifras de accidentalidad son muy bajas."
+        },
+        {
+          "letra": "C",
+          "texto": "solo en los países más desarrollados."
+        }
+      ],
+      "ayuda": "La Organización Mundial de la Salud (OMS) considera que los accidentes de tráfico constituyen un problema prioritario de salud pública en todo el mundo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Si se ve obligado a detener su vehículo en una autopista, ¿puede hacerlo en la mediana?",
+      "imagen": "examen-19_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando no exista otra alternativa."
+        },
+        {
+          "letra": "B",
+          "texto": "No, se debe continuar hasta el área de descanso más cercana."
+        },
+        {
+          "letra": "C",
+          "texto": "No, solo se puede detener el vehículo en la parte derecha de la vía, aun ocupando parte del arcén para ello."
+        }
+      ],
+      "ayuda": "Los vehículos que habiendo sufrido un accidente o avería puedan continuar su marcha, lo harán de forma inmediata, asegurándose de circular con seguridad. Si precisaran de un servicio de auxilio, deberán abandonar lo antes posible los carriles de circulación y dirigirse hacia la primera salida disponible utilizando para ello el arcén derecho.\n\nSi ello no fuera posible, deberán detenerse en el arcén derecho de la vía o en el lugar donde cause menor obstáculo a la circulación",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Las señales de obras...",
+      "imagen": "examen-19_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "establecen para los tramos de obras una reducción de la velocidad máxima en 10 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "tienen distinto símbolo y tamaño que las usadas en tramos sin obras."
+        },
+        {
+          "letra": "C",
+          "texto": "tienen el mismo significado que las usadas en tramos sin obras."
+        }
+      ],
+      "ayuda": "Las señales que su utilizan en la señalización de los tramos en obras, tienen el mismo significado que las señales ordinarias colocadas en tramos sin obras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "La varilla del aceite del motor, ¿para qué sirve?",
+      "imagen": "examen-19_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para comprobar la temperatura del aceite."
+        },
+        {
+          "letra": "B",
+          "texto": "Para comprobar el nivel del aceite."
+        },
+        {
+          "letra": "C",
+          "texto": "Para comprobar la presión del aceite."
+        }
+      ],
+      "ayuda": "La varilla que incorporan los motores de los vehículos es para comprobar el nivel de aceite. En condiciones normales, el nivel de aceite debe situarse entre las marcas de máximo y mínimo señaladas en la varilla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Debido a un pinchazo sustituye una de las ruedas de su vehículo por una rueda de uso temporal. ¿Cuántos kilómetros podrá circular en esas condiciones?",
+      "imagen": "examen-19_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tantos como sean necesarios siempre que dicha rueda no haya sido utilizada anteriormente."
+        },
+        {
+          "letra": "B",
+          "texto": "Los que recomiende, como máximo cada fabricante y circulando a la velocidad que se indica en dicha rueda."
+        },
+        {
+          "letra": "C",
+          "texto": "No hay limitación de kilómetros porque se trata de una situación excepcional."
+        }
+      ],
+      "ayuda": "No existe una norma concreta que regule las condiciones de uso de las ruedas de uso temporal. Al utilizarlas, se deberán tener en cuenta las indicaciones del fabricante en relación con el recorrido máximo y la velocidad que no se debe sobrepasar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Los animales conducidos en manada o en rebaño...",
+      "imagen": "examen-19_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "irán al paso, lo más cerca posible del borde derecho de la vía y sin ocupar más de la mitad derecha de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "no podrán circular por la noche en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "podrán invadir la zona peatonal, siempre que estén custodiados por una persona mayor de 18 años."
+        }
+      ],
+      "ayuda": "Los animales conducidos en manada o rebaño deben ir conducidos, al menos, por una persona mayor de 18 años, capaz de dominarlos en todo momento y que tendrá en cuenta, entre otras, las siguientes obligaciones:\n\n- No invadirán la zona peatonal.\n- Irán al paso, lo más cerca posible del borde derecho de la vía y de forma que nunca ocupen más de la mitad derecha de la calzada.\n- Si circulan de noche por vía insuficientemente iluminada o bajo condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, su conductor o conductores llevarán en el lado más próximo al centro de la calzada luces en número necesario para precisar su situación y dimensiones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Esta señal nos indica:",
+      "imagen": "examen-19_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fuente con agua."
+        },
+        {
+          "letra": "B",
+          "texto": "Fuente con agua potable."
+        },
+        {
+          "letra": "C",
+          "texto": "Un lugar en el que se puede refrigerar el vehículo."
+        }
+      ],
+      "ayuda": "La señal de indicación que se observa en la imagen, indica la situación de una fuente con agua.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Si se conduce en condiciones climatológicas adversas...",
+      "imagen": "examen-19_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es necesario descansar más frecuentemente."
+        },
+        {
+          "letra": "B",
+          "texto": "es menos probable que la fatiga aparezca."
+        },
+        {
+          "letra": "C",
+          "texto": "no es necesario descansar."
+        }
+      ],
+      "ayuda": "La conducción bajo condiciones meteorológicas adversas favorece la aparición de la fatiga, por lo que es necesario descansar con mayor frecuencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "El titular del permiso A, ¿puede conducir motocicletas con sidecar?",
+      "imagen": "examen-19_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si la motocicleta supera los 125 centímetros cúbicos."
+        }
+      ],
+      "ayuda": "El permiso de la clase A permite la conducción de motocicletas con o sin sidecar, sin ninguna clase de limitación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Qué debe hacer si circulando duda de las condiciones de luminosidad?",
+      "imagen": "examen-19_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En caso de duda, encender las luces de cruce."
+        },
+        {
+          "letra": "B",
+          "texto": "En caso de duda, encender las luces de carretera."
+        },
+        {
+          "letra": "C",
+          "texto": "En caso de duda, apagar las luces para no provocar deslumbramientos."
+        }
+      ],
+      "ayuda": "En caso de existir dudas sobre las condiciones de luminosidad ambiental y sobre la necesidad de hacer uso del alumbrado, es conveniente encender el alumbrado de posición y el de cruce para circular con mayor seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Es obligatorio para los agentes de la autoridad y para el personal de obras que regule el paso, utilizar dispositivos retrorreflectantes que les permitan ser distinguidos a una distancia mínima de 150 metros?",
+      "imagen": "examen-19_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solamente durante la noche."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Tanto los agentes de la autoridad como el personal de obras que regule el paso, deberán utilizar prendas de colores llamativos y dispositivos o elementos retrorreflectantes que permitan a los conductores y demás usuarios de la vía que se aproximen distinguirlos a una distancia mínima de 150 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "En los accidentes de tráfico, ¿qué porcentaje de mortalidad tiene lugar durante la llamada hora de oro?",
+      "imagen": "examen-19_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Entre el 15 y el 20%."
+        },
+        {
+          "letra": "B",
+          "texto": "Un porcentaje cercano al 75%."
+        },
+        {
+          "letra": "C",
+          "texto": "Aproximadamente el 10%."
+        }
+      ],
+      "ayuda": "La hora de oro corresponde a la primera o segunda hora tras el accidente.\n\nEn ella se produce el mayor porcentaje de fallecimientos, aproximadamente un 75% de los casos, los cuales se deben, generalmente, a obstrucción de las vías aéreas o pérdidas importantes de sangre.\n\nSin embargo, muchas de estas muertes se podrían haber evitado si la atención recibida por el herido hubiera sido rápida y adecuada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "En un automóvil, ¿qué es el servofreno?",
+      "imagen": "examen-19_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es un mecanismo que evita el bloqueo de las ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "Es un mecanismo de frenado que actúa sobre la transmisión."
+        },
+        {
+          "letra": "C",
+          "texto": "Es un mecanismo que multiplica la fuerza aplicada sobre el pedal de freno."
+        }
+      ],
+      "ayuda": "El servofreno es un mecanismo auxiliar que multiplica automáticamente el esfuerzo aplicado por el conductor al pedal de freno.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Conducir con sueño, ¿por qué es peligroso?",
+      "imagen": "examen-19_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque se circula más rápido."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque disminuye la concentración."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque el viaje se hace más largo."
+        }
+      ],
+      "ayuda": "Conducir con sueño es muy peligroso debido a que, además de la pérdida de reflejos, se reduce la concentración y la capacidad de reacción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Puede un turismo circular por un carril VAO, cuando solo lo ocupa su conductor?",
+      "imagen": "examen-19_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si el vehículo lleva la señal de minusválidos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, nunca."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que sea un vehículo no prioritario en servicio de urgencia."
+        }
+      ],
+      "ayuda": "Los carriles para VAO podrán ser utilizados por turismos, aun cuando sólo lo ocupe su conductor, si el vehículo ostenta la señal V-15 (minusválidos).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "La falta de experiencia del pasajero, ¿puede ser la causa de un accidente de moto?",
+      "imagen": "examen-19_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, a causa del aumento del peso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, sobre todo en las curvas."
+        }
+      ],
+      "ayuda": "La falta de experiencia del pasajero de una motocicleta puede constituir un peligro y causar un accidente, especialmente al circular por curvas o girar, donde se requiere una adecuada posición del cuerpo para mantener la estabilidad del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Circulando cuesta abajo, ¿puede poner punto muerto para ahorrar carburante?",
+      "imagen": "examen-19_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque se puede romper el motor."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque puedo perder el control del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque en punto muerto el motor no consume."
+        }
+      ],
+      "ayuda": "No es aconsejable poner punto muerto en los descensos. Es una práctica que además de ser ineficiente (aumenta el consumo de combustible) pone en peligro la estabilidad y control del vehículo por parte del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Es peligroso que las personas que viajan en los asientos traseros no utilicen los cinturones de seguridad?",
+      "imagen": "examen-19_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, entre otras razones porque en caso de choque son un peligro adicional para el conductor y el acompañante."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque los airbags pierden su efecto protector."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque a baja velocidad los respaldos de los asientos delanteros protegen suficientemente contra lesiones."
+        }
+      ],
+      "ayuda": "El uso del cinturón de seguridad es obligatorio en todos los asientos del vehículo.\n\nEn un impacto frontal, por ejemplo, la probabilidad de que un pasajero de los asientos traseros que no lleva el cinturón puesto, golpee mortalmente a un ocupante de los asientos delanteros es muy elevada, por lo que se pone en peligro a todos los ocupantes del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "En un carril VAO, ¿puede circular un turismo que arrastra un remolque de menos de 750 kg de M.M.A.?",
+      "imagen": "examen-19_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo de día."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre."
+        }
+      ],
+      "ayuda": "La utilización del carril habilitado para VAO queda limitada a motocicletas, turismos y vehículos mixtos adaptables, y está prohibida, por tanto, al resto de los vehículos y conjuntos de vehículos, incluidos los turismos con remolque.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Uno de los pasajeros del turismo que usted conduce no lleva puesto el cinturón de seguridad. Si un agente de la autoridad denuncia la infracción, ¿quién es el responsable?",
+      "imagen": "examen-19_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El tomador del seguro."
+        },
+        {
+          "letra": "B",
+          "texto": "El pasajero."
+        },
+        {
+          "letra": "C",
+          "texto": "El conductor."
+        }
+      ],
+      "ayuda": "Según la normativa vigente, la responsabilidad por las infracciones de circulación recaerá directamente en el autor del hecho en que consista la infracción. En el caso de la no utilización del cinturón de seguridad cuando esta sea obligatoria, la responsabilidad será del propio ocupante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "El personal de organización de un evento deportivo, como una carrera de ciclistas, ¿puede regular la circulación de vehículos?",
+      "imagen": "examen-19_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, al igual que los Agentes del tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "No, pero podrán impedirnos el acceso a una determinada zona."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero no estamos obligados a obedecerlos."
+        }
+      ],
+      "ayuda": "Durante las actividades deportivas, la autoridad responsable del tráfico podrá habilitar al personal de protección civil o de la organización responsable para impedir el acceso de vehículos o peatones a la zona o itinerario afectados.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "La velocidad a la que deben ser conducidos unos animales en manada o rebaño será...",
+      "imagen": "examen-19_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la máxima correspondiente a la vía por la que circulen."
+        },
+        {
+          "letra": "B",
+          "texto": "la más rápida posible para evitar entorpecimientos."
+        },
+        {
+          "letra": "C",
+          "texto": "la del paso."
+        }
+      ],
+      "ayuda": "Los animales conducidos en manada o rebaño irán al paso, lo más cerca posible del borde derecho de la vía y de forma que nunca ocupen más de la mitad derecha de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "El número de emergencias 112, es de ámbito...",
+      "imagen": "examen-19_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "exclusivamente nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "europeo."
+        },
+        {
+          "letra": "C",
+          "texto": "mundial."
+        }
+      ],
+      "ayuda": "El número 112 se utiliza para solicitar ayuda, accediendo a un servicio de emergencias integral.\nEste número no solo se utiliza en España, sino que es el número reservado en Europa para atender todas las emergencias.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Una furgoneta de 2.000 kilogramos de masa máxima autorizada con cuatro años de antigüedad, debe someterse a la inspección técnica periódica...",
+      "imagen": "examen-19_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cada año."
+        },
+        {
+          "letra": "B",
+          "texto": "cada 6 meses."
+        },
+        {
+          "letra": "C",
+          "texto": "cada 2 años."
+        }
+      ],
+      "ayuda": "Frecuencia de vehículos y conjuntos de vehículos dedicados al transporte de mercancías o cosas, de M.M.A. menor o igual a 3,5 Toneladas.\n\nAntigüedad:\n- Hasta dos años: Exento\n- De dos a seis años: Bienal\n- De seis a diez años: Anual\n- De más de diez años: Semestral",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Qué usuarios de la vía están obligados a someterse a las pruebas de detección de estupefacientes que se establecen en los controles preventivos?",
+      "imagen": "examen-19_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente los conductores de los vehículos de motor."
+        },
+        {
+          "letra": "B",
+          "texto": "Todos los usuarios de la vía que sean requeridos para ello por parte de la autoridad competente."
+        },
+        {
+          "letra": "C",
+          "texto": "Los conductores de vehículos, incluyendo los de bicicletas."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos (todos los vehículos, incluidas las bicicletas) están obligados a someterse a las pruebas para la detección de alcohol o de la presencia de drogas en el organismo, las que se practicarán por los agentes de la autoridad encargados de la vigilancia del tráfico en el ejercicio de las funciones que tienen encomendadas. Los demás usuarios de la vía (que no sean conductores de vehículos) igualmente quedan obligados cuando se hallen implicados en un accidente de tráfico o hayan cometido una infracción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Al circular por una pendiente descendente con una marcha engranada y sin acelerar, utilizando el freno motor...",
+      "imagen": "examen-19_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se incrementa el consumo de combustible."
+        },
+        {
+          "letra": "B",
+          "texto": "se reduce el consumo de combustible."
+        },
+        {
+          "letra": "C",
+          "texto": "se sobrecalientan los frenos y se gastan más las pastillas y otros elementos del sistema de frenado."
+        }
+      ],
+      "ayuda": "Al circular en una pendiente descendente sin pisar el acelerador y con una marcha engranada, el consumo de combustible es nulo, por lo que se reducen, además del gasto energético, las emisiones contaminantes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 7,
+  "nombre": "Test de examen 7",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "La distribución de la carga en un vehículo, ¿afecta al consumo de combustible?",
+      "imagen": "examen-07_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en el consumo solo afecta la velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en el consumo solo afecta el tipo de vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, por ello es muy importante colocar la carga de manera adecuada."
+        }
+      ],
+      "ayuda": "La correcta colocación de la carga en un vehículo tiene un influencia muy importante en la estabilidad del mismo. Además, hay que tener en cuenta que  una mala colocación de la carga puede afectar al consumo de combustible de vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "En una vía urbana de sentido único, está permitido estacionar en el lado...",
+      "imagen": "examen-07_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "derecho o izquierdo."
+        },
+        {
+          "letra": "B",
+          "texto": "derecho o izquierdo, fuera de la calzada o el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "derecho."
+        }
+      ],
+      "ayuda": "En las vías urbanas de sentido único se podrá estacionar, siempre que no esté prohibido y las demás circunstancias lo permitan,  en ambos lados de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Los peatones suelen cometer muchas infracciones, entre ellas...",
+      "imagen": "examen-07_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no situarse correctamente en las calzadas."
+        },
+        {
+          "letra": "B",
+          "texto": "evaluar bien los riesgos de la circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "valorar correctamente la velocidad de los vehículos."
+        }
+      ],
+      "ayuda": "Una de las infracciones más habituales en los peatones es situarse incorrectamente en las calzadas (fuera de los pasos para peatones, cruzar por el medio de la calzada, circular por debajo de la acera, etc.).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Cuando el fondo de las señales de orientación es amarillo, indica que se circula por...",
+      "imagen": "examen-07_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un tramo de vía especialmente peligroso."
+        },
+        {
+          "letra": "B",
+          "texto": "una vía para automóviles."
+        },
+        {
+          "letra": "C",
+          "texto": "un tramo de vía en obras."
+        }
+      ],
+      "ayuda": "Cuando el fondo de las señales de circulación es de color amarillo, indica que se circula por un tramo de obras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Una carga sobresale por la parte trasera de un turismo. ¿Debe ir señalizada?",
+      "imagen": "examen-07_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sólo de noche o cuando existan condiciones meteorológicas que disminuyan sensiblemente la visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, tanto de día como de noche."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque no es un vehículo destinado exclusivamente al transporte de mercancías."
+        }
+      ],
+      "ayuda": "La carga que, excepcionalmente sobresalga por la parte trasera de un turismo, debe señalizarse tanto de día como de noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Cómo se puede evitar el atropello a peatones?",
+      "imagen": "examen-07_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Invitándoles con señas a que crucen las calzadas."
+        },
+        {
+          "letra": "B",
+          "texto": "Haciéndoles exageradas y estridentes señales acústicas."
+        },
+        {
+          "letra": "C",
+          "texto": "Prestando atención a la salida de los garajes, especialmente si son en rampa."
+        }
+      ],
+      "ayuda": "Cuando se atraviesan aceras u otras zonas peatonales, se debe extremar la precaución para evitar el atropello a peatones, especialmente cuando se sale de garajes en rampa, los cuales debido a su escasa visibilidad resultan peligrosos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué usuarios han de someterse a las pruebas de alcoholemia?",
+      "imagen": "examen-07_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo los conductores de automóviles y motocicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "Los conductores de vehículos que sean requeridos en controles preventivos."
+        },
+        {
+          "letra": "C",
+          "texto": "Cualquier usuario de la vía aunque no esté implicado en un accidente."
+        }
+      ],
+      "ayuda": "Los agentes encargados de la vigilancia del tráfico podrán someter a pruebas de alcoholemia a:\n- cualquier usuario de la vía o conductor de vehículo implicado directamente como posible responsable en un accidente de circulación.\n- quienes conduzcan cualquier vehículo con síntomas evidentes, manifestaciones que denoten o hechos que permitan razonablemente presumir que lo hacen bajo la influencia de bebidas alcohólicas.\n- los conductores que sean denunciados por la comisión de alguna de las infracciones a las normas del Reglamento General de Circulación.\n- quienes sean requeridos por la autoridad o sus agentes dentro de los programas de controles preventivos de alcoholemia ordenados por dicha autoridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Pueden los agentes inmovilizar un vehículo que supere los límites de humo establecidos?",
+      "imagen": "examen-07_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, cuando circula por carreteras."
+        },
+        {
+          "letra": "C",
+          "texto": "No, cuando el vehículo es antiguo."
+        }
+      ],
+      "ayuda": "Cuando se superen los límites de emisión de humo establecidos, los Agentes encargados de la vigilancia del tráfico podrán inmovilizar el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "En vías urbanas de dos o más carriles por sentido de circulación, ¿cuál es la velocidad máxima permitida para motocicletas?",
+      "imagen": "examen-07_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "60 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "50 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "45 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima establecida con carácter general, en vías urbanas de dos o más carriles por sentido de circulación, es de 50 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Un agente que balancea una luz roja o amarilla indica que...",
+      "imagen": "examen-07_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los conductores deben disminuir su velocidad y extremar la precaución."
+        },
+        {
+          "letra": "B",
+          "texto": "los usuarios de la vía hacia los que el agente dirija la luz deben detenerse."
+        },
+        {
+          "letra": "C",
+          "texto": "la calzada está totalmente cerrada al tráfico."
+        }
+      ],
+      "ayuda": "Cuando un agente de circulación balancea una luz roja o amarilla, está indicando que deben detenerse los usuarios de la vía a los que el agente dirija la luz.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "A los conductores noveles se les aplica una tasa de alcoholemia menor...",
+      "imagen": "examen-07_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "porque en ellos los efectos del alcohol son menores."
+        },
+        {
+          "letra": "B",
+          "texto": "porque carecen de la suficiente experiencia en la conducción."
+        },
+        {
+          "letra": "C",
+          "texto": "únicamente porque las normas de tráfico lo imponen."
+        }
+      ],
+      "ayuda": "Los conductores noveles tienen una escasa experiencia en la conducción, la cual muchas veces resulta insuficiente para resolver las distintas situaciones que se presentan en el tráfico. Por esta razón, a estos conductores se les fija una tasa máxima de alcoholemia permitida menor que la establecida para los conductores en general.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Los conductores de bicicletas tienen prioridad de paso respecto los vehículos de motor...",
+      "imagen": "examen-07_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cuando circulan por un paso para ciclistas."
+        },
+        {
+          "letra": "B",
+          "texto": "en las zonas de peatones debidamente señalizadas."
+        },
+        {
+          "letra": "C",
+          "texto": "en todas las intersecciones."
+        }
+      ],
+      "ayuda": "En los pasos para ciclistas, los conductores de bicicletas tendrán prioridad de paso respecto a los vehículos de motor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "El calor, ¿influye en el desgaste de los neumáticos?",
+      "imagen": "examen-07_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, aumentando el desgaste."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, reduciendo el desgaste."
+        }
+      ],
+      "ayuda": "El calor influye de forma determinante en la duración de los neumáticos. En condiciones extremas de altas temperaturas, el desgaste de los neumáticos es significativamente mayor que en climas fríos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Un dispositivo de retención infantil, ¿cómo se ha de elegir?",
+      "imagen": "examen-07_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El de mayor medida, para que pueda utilizarse más tiempo."
+        },
+        {
+          "letra": "B",
+          "texto": "En función del peso del niño."
+        },
+        {
+          "letra": "C",
+          "texto": "En función de la edad."
+        }
+      ],
+      "ayuda": "Los SRI (Sistemas de Retención Infantil) deben elegirse en función de la talla y el peso del niño, nunca de la edad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "El pasajero que viaja en un cuadriciclo como el de la fotografía, ¿debe utilizar casco?",
+      "imagen": "examen-07_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, solo es obligatorio para las motocicletas y los ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en los cuadriciclos solo es obligatorio para el conductor."
+        }
+      ],
+      "ayuda": "Estarán obligados a utilizar casco de protección tanto el conductor como el pasajero de: \n\t\tCiclomotores.\n\t\tMotocicletas con o sin sidecar.\n\t\tVehículos de tres ruedas y cuadriciclos.\n\t\tVehículos especiales tipo “quad”.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Si no hay ninguna zona para los peatones, dentro de poblado, ¿por dónde deben circular los peatones?",
+      "imagen": "examen-07_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Siempre por su derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la derecha o por la izquierda, dependiendo de las circunstancias."
+        },
+        {
+          "letra": "C",
+          "texto": "Siempre por su izquierda."
+        }
+      ],
+      "ayuda": "En vías de poblado, los peatones podrán circular tanto por la derecha como por la izquierda de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Tratar de expulsar un insecto del vehículo, ¿es una de las causas más frecuentes de distracciones?",
+      "imagen": "examen-07_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo en algunas carreteras."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Intentar expulsar un insecto por la ventanilla del vehículo, es una de las causas más frecuentes y peligrosas de distracciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Cualquier usuario de la vía implicado en un accidente de circulación, en la medida de lo posible...",
+      "imagen": "examen-07_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "debe esforzarse en restablecer o mantener la seguridad de la circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "debe trasladar inmediatamente a los heridos en su vehículo, sin esperar la ayuda sanitaria."
+        },
+        {
+          "letra": "C",
+          "texto": "después de avisar a la autoridad, debe modificar el estado de las cosas, para restablecer la circulación."
+        }
+      ],
+      "ayuda": "Como norma general, todos los usuarios de la vía que se vean implicados en un accidente de tráfico, están obligados a auxiliar o solicitar auxilio para atender a las víctimas si las hubiera y restablecer la seguridad de la circulación en la medida de lo posible y colaborar para esclarecer los hechos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Un vehículo quiere adelantarlo. ¿Debe hacer algo para impedírselo?",
+      "imagen": "examen-07_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El conductor que advierta que otro que le sigue tiene el propósito de adelantarle, estará obligado a ceñirse al borde derecho de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "El desgaste de los neumáticos puede ser mayor a causa de...",
+      "imagen": "examen-07_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "hacer viajes largos a alta velocidad, únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "circular a una velocidad adecuada."
+        },
+        {
+          "letra": "C",
+          "texto": "la carga, el estado de la vía y la temperatura del ambiente."
+        }
+      ],
+      "ayuda": "Algunos factores influyen negativamente en la duración de los neumáticos. Las temperaturas elevadas, el mal estado del pavimento y la carga que se transporte en el vehículo, son algunos de los factores que provocan un desgaste prematuro de los neumáticos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Utilizar el teléfono móvil mientras conduce hace que el riesgo de accidente sea...",
+      "imagen": "examen-07_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "menor que si no se utiliza."
+        },
+        {
+          "letra": "B",
+          "texto": "igual que si no se utiliza."
+        },
+        {
+          "letra": "C",
+          "texto": "mayor que si no se utiliza."
+        }
+      ],
+      "ayuda": "Utilizar durante la conducción el teléfono móvil, aumenta cuatro veces más el riesgo de accidente que cuando no se utiliza.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Para que el reposacabezas esté regulado correctamente, la distancia a la cabeza debe ser...",
+      "imagen": "examen-07_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la que resulte más cómoda para el conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "superior a 4 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "la mínima posible y nunca superior a 4 cm."
+        }
+      ],
+      "ayuda": "El reposacabezas debe estar convenientemente regulado, de tal manera que la distancia entre el mismo y la cabeza no sea superior a 4 cm.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Se estima que, de cada 100 accidentes de tráfico, los causados por el factor humano son...",
+      "imagen": "examen-07_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "entre 10 y 35."
+        },
+        {
+          "letra": "B",
+          "texto": "entre 4 y 13."
+        },
+        {
+          "letra": "C",
+          "texto": "entre 70 y 90."
+        }
+      ],
+      "ayuda": "Entre un 70 y un 90% de los accidentes de tráfico se deben al factor humano.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Qué debe hacer para avisar que va a disminuir la velocidad de su vehículo?",
+      "imagen": "examen-07_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pisar varias veces el pedal del freno."
+        },
+        {
+          "letra": "B",
+          "texto": "Encender las luces de posición."
+        },
+        {
+          "letra": "C",
+          "texto": "Encender el intermitente izquierdo."
+        }
+      ],
+      "ayuda": "La intención de inmovilizar el vehículo o frenar su marcha de modo considerable, se debe advertir siempre que sea posible, con las luces de frenado de forma reiterada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "En una carretera convencional, está permitido que un peatón circule por la calzada?",
+      "imagen": "examen-07_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando no exista arcén o no sea transitable."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando arrastre un vehículo."
+        }
+      ],
+      "ayuda": "En todas las vías fuera de poblado, la circulación de peatones se hará por el arcén de su izquierda, salvo que no exista o no sea transitable, en cuyo caso podrán circular por la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Está detenido ante un semáforo. ¿Cuándo está permitido hablar por el teléfono móvil?",
+      "imagen": "examen-07_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo cuando se utilice un dispositivo manos libres."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo cuando el semáforo esté rojo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo cuando el semáforo está en zona urbana."
+        }
+      ],
+      "ayuda": "Tanto circulando como detenido ante una señal de STOP, semáforos, atascos, etc., sólo está permitido utilizar el teléfono móvil si se usa el dispositivo “manos libres”.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Para qué sirve el carril de deceleración?",
+      "imagen": "examen-07_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para que circulen los vehículos lentos."
+        },
+        {
+          "letra": "B",
+          "texto": "Para adelantar por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Para reducir la velocidad cuando sale de la autopista."
+        }
+      ],
+      "ayuda": "El carril de deceleración tiene por finalidad que los vehículos puedan reducir la velocidad una vez dentro del mismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Se consideran más seguras las autopistas y las autovías que las carreteras convencionales?",
+      "imagen": "examen-07_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque hay más tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque se circula a más velocidad."
+        }
+      ],
+      "ayuda": "Las autopistas y las autovías son, en general, más seguras que las carreteras convencionales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Conducir de forma temeraria...",
+      "imagen": "examen-07_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es una infracción muy grave aunque no conlleva pérdida de puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "es una infracción muy grave que conlleva pérdida de puntos."
+        },
+        {
+          "letra": "C",
+          "texto": "es recomendable en algunas situaciones de emergencia."
+        }
+      ],
+      "ayuda": "Conducir de forma negligente o temeraria conlleva una sanción económica y pérdida de puntos. En algunos casos, la conducción temeraria podría, incluso, ser constitutiva de delito.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Es necesario encender el alumbrado de posición...",
+      "imagen": "examen-07_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "si estaciona en la calzada de una travesía suficientemente iluminada."
+        },
+        {
+          "letra": "B",
+          "texto": "siempre que haya que utilizar cualquier otro alumbrado en circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "siempre que esté estacionado en el arcén de una vía urbana suficientemente iluminada."
+        }
+      ],
+      "ayuda": "Siempre que se vaya a utilizar cualquier alumbrado durante la circulación, las luces de posición deben ir encendidas junto con dicho alumbrado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

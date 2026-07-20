@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 31,
+  "nombre": "Test de examen 31",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "No pueden circular por autopista...",
+      "imagen": "examen-31_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "las motocicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "los ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "los camiones de más de 3.500 kg de MMA."
+        }
+      ],
+      "ayuda": "Con carácter general, se prohíbe circular por autopistas y autovías con vehículos de tracción animal, bicicletas, ciclomotores y vehículos para personas de movilidad reducida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "La mayoría de los vehículos disponen de un filtro en el habitáculo. ¿Debe sustituirse?",
+      "imagen": "examen-31_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, sobre todo al inicio de la primavera, ya que su capacidad de retención es limitada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cada seis meses, porque es un elemento sujeto a inspección técnica periódica."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ya que es un filtro que se limpia automáticamente."
+        }
+      ],
+      "ayuda": "La función del filtro de habitáculo, o “filtro antipolen”, es proporcionar a los ocupantes del vehículo una buena calidad del aire en el interior del vehículo. Dada la gran cantidad de impurezas y partículas, contenidas en el aire procedente del exterior y que este filtro retiene, es necesario cambiarlo, para mantener su capacidad de filtrado y retención en óptimas condiciones, especialmente al inicio de la primavera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "La luz antiniebla trasera deberá utilizarse siempre que...",
+      "imagen": "examen-31_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circule por un puerto de montaña."
+        },
+        {
+          "letra": "B",
+          "texto": "circule por un túnel."
+        },
+        {
+          "letra": "C",
+          "texto": "circule con fuerte nevada."
+        }
+      ],
+      "ayuda": "La luz antiniebla trasera solamente deberá llevarse encendida cuando las condiciones meteorológicas o ambientales sean especialmente desfavorables, como en caso de niebla espesa, lluvia muy intensa, fuerte nevada o nubes densas de polvo o humo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Cuál de las siguientes es una de las principales funciones del airbag en caso de accidente?",
+      "imagen": "examen-31_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Evitar el efecto submarino."
+        },
+        {
+          "letra": "B",
+          "texto": "Reducir el riesgo de heridas en la cara producidas por fragmentos de cristal procedentes del parabrisas."
+        },
+        {
+          "letra": "C",
+          "texto": "Evitar que la columna de dirección golpee al conductor."
+        }
+      ],
+      "ayuda": "Una de las principales funciones del airbag en caso de accidente es reducir el riesgo de heridas en la cara producidas por fragmentos de cristal procedentes del parabrisas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Si sufre una avería y tiene que salir de su vehículo, ¿en cuál de los siguientes casos debe utilizar el chaleco reflectante?",
+      "imagen": "examen-31_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al ocupar el arcén en vías interurbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "Solamente al ocupar la calzada o el arcén en autopistas o autovías."
+        },
+        {
+          "letra": "C",
+          "texto": "Al ocupar la calzada en vías urbanas."
+        }
+      ],
+      "ayuda": "Como norma general, los conductores deberán utilizar el chaleco reflectante de alta visibilidad cuando salgan del vehículo y ocupen la calzada o el arcén de las vías interurbanas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "No deberá iniciar un adelantamiento sin comprobar previamente que...",
+      "imagen": "examen-31_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "existe espacio suficiente para volver al carril derecho cuando termine la maniobra."
+        },
+        {
+          "letra": "B",
+          "texto": "los vehículos que circulan detrás mantienen la distancia de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "el vehículo de delante reduce su velocidad para facilitar la maniobra."
+        }
+      ],
+      "ayuda": "Los conductores, antes de iniciar una maniobra de adelantamiento, deben asegurarse de que disponen de espacio suficiente para volver a su carril cuando terminen de adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Si entra en una curva a la izquierda a velocidad excesiva, la fuerza centrífuga, ¿puede afectar a la trayectoria del vehículo?",
+      "imagen": "examen-31_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, se desplazará hacia la izquierda de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, se desplazará hacia la derecha de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "No, la fuerza centrífuga no afecta a la trayectoria del vehículo."
+        }
+      ],
+      "ayuda": "Al entrar en un curva a velocidad excesiva, se generará una fuerza centrífuga que afectará peligrosamente a la trayectoria del vehículo, desplazándolo hacia el lado opuesto al de la dirección de la curva.\n\nEn este caso, si la curva es a la izquierda, la fuerza centrífuga desplazará al vehículo hacia la parte derecha de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "El conductor de un vehículo podrá adelantar en un túnel cuando...",
+      "imagen": "examen-31_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "exista más de un carril en el sentido contrario de su marcha."
+        },
+        {
+          "letra": "B",
+          "texto": "exista más de un carril en su sentido de circulación."
+        },
+        {
+          "letra": "C",
+          "texto": "exista un carril para cada sentido, siempre que el túnel esté bien iluminado."
+        }
+      ],
+      "ayuda": "En los túneles o pasos inferiores con circulación en ambos sentidos, está prohibido el adelantamiento, salvo que exista más de un carril para su sentido de circulación, en los que se podrá adelantar sin invadir el sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "La flecha izquierda de la señal, ¿qué indica?",
+      "imagen": "examen-31_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obliga a seguir la dirección de la flecha en la próxima intersección."
+        },
+        {
+          "letra": "B",
+          "texto": "Que en el próximo tramo se desvía el carril de la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Que es obligatorio circular por el arcén izquierdo."
+        }
+      ],
+      "ayuda": "La flecha izquierda de la señal indica que en el próximo tramo se desvía el carril de la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "En esta autovía, para adelantar al camión, ¿a qué velocidad puede circular como máximo el turismo?",
+      "imagen": "examen-31_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 140 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "A 110 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A 120 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima fijada con carácter general para turismos, cuando circulen por autopistas o autovías, es de 120 kilómetros por hora. Esta velocidad no puede ser rebasada en ningún caso, ni siquiera para adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Qué es un catadióptrico?",
+      "imagen": "examen-31_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un dispositivo que refleja la luz procedente de una fuente luminosa."
+        },
+        {
+          "letra": "B",
+          "texto": "Una placa de matrícula reflectante."
+        },
+        {
+          "letra": "C",
+          "texto": "Un dispositivo de alumbrado del vehículo."
+        }
+      ],
+      "ayuda": "Un catadióptrico es un dispositivo que refleja la luz procedente de una fuente luminosa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-31_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La prohibición de detenerse en el peaje."
+        },
+        {
+          "letra": "B",
+          "texto": "La prohibición de pasar sin detenerse en el peaje."
+        },
+        {
+          "letra": "C",
+          "texto": "La prohibición de acceder al peaje."
+        }
+      ],
+      "ayuda": "Señal de prohibición de pasar sin detenerse\nIndica el lugar donde es obligatoria la detención por la proximidad, según la inscripción que contenga, de un puesto de aduana, de policía, de peaje u otro, y que tras ellos pueden estar instalados medios mecánicos de detención.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Está permitido que un turismo adelante a una bicicleta en las proximidades  de un paso a nivel? ",
+      "imagen": "examen-31_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está prohibido adelantar en los pasos a nivel y en sus proximidades en todo caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si las dimensiones de la bicicleta no impiden la visibilidad lateral, y previas las oportunas señales acústicas u ópticas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre que se guarde una separación lateral de un metro y medio."
+        }
+      ],
+      "ayuda": "\tComo norma general está prohibido adelantar en los pasos a nivel y en sus proximidades. No obstante, dicha prohibición no será aplicable cuando el adelantamiento se realice a vehículos de dos ruedas que por sus reducidas dimensiones no impidan la visibilidad lateral, previas las oportunas señales acústicas u ópticas.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Los ciclistas, ¿están obligados a encender el alumbrado cuando circulan de noche?",
+      "imagen": "examen-31_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, si llevan puestas prendas reflectantes."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo cuando circulan por vías interurbanas."
+        }
+      ],
+      "ayuda": "Las bicicletas, para circular de noche, deberán disponer de luz de posición delantera y trasera, catadióptrico trasero, y podrán disponer de catadióptricos en los radios de las ruedas y en los pedales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "La carga transportada en un turismo no deberá...",
+      "imagen": "examen-31_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "descargarse por el lado del vehículo más próximo al borde la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "sobresalir por la parte posterior más de un 5% de su longitud."
+        },
+        {
+          "letra": "C",
+          "texto": "comprometer su estabilidad."
+        }
+      ],
+      "ayuda": "La carga transportada en un vehículo en ningún caso puede comprometer su estabilidad ni comprometer la seguridad de la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Fuera de poblado, una autocaravana va a adelantar a un vehículo pesado. ¿Puede producirse una situación de riesgo cuando circulen en paralelo si sopla fuerte viento lateral por la izquierda?",
+      "imagen": "examen-31_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, si ambos vehículos tienen el mismo volumen y peso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque se produciría un empuje brusco de los dos vehículos hacia la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, puede producirse el efecto pantalla y aproximarse de forma brusca al vehículo pesado."
+        }
+      ],
+      "ayuda": "Adelantar a un vehículo pesado cuando existe viento lateral puede resultar peligroso. El conocido como “efecto pantalla” es una consecuencia que se puede producir al salir de un túnel o adelantar a un vehículo voluminoso, como un camión o un autobús.  En esos instantes, el vehículo que adelanta puede sufrir un \"golpe\" de viento lateral y, por este motivo, desplazarse peligrosamente hacia la mediana, contra otro coche o, incluso, fuera de la carretera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Está permitida la circulación de vehículos cuyo nivel de emisión de ruidos supere los límites establecidos? ",
+      "imagen": "examen-31_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo está permitida su circulación por vías urbanas."
+        }
+      ],
+      "ayuda": "El ruido procedente de los vehículos produce contaminación acústica, por lo que no está permitida la circulación de vehículos cuyo nivel de ruidos supere los límites establecidos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Cómo puede reducir la velocidad de su vehículo?",
+      "imagen": "examen-31_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo con el sistema de frenado."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo con el motor."
+        },
+        {
+          "letra": "C",
+          "texto": "Tanto con el sistema de frenado como con el motor."
+        }
+      ],
+      "ayuda": "Durante la conducción la velocidad puede reducirse, bien utilizando el sistema de frenado, bien utilizando el propio motor del vehículo como freno.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Esta señal indica que... ",
+      "imagen": "examen-31_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a su altura puede realizar un cambio de sentido de la marcha a la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "las únicas direcciones aconsejadas son seguir de frente o girar a la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "debe seguir una de las direcciones y sentidos que señalan las flechas."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen indica que debe seguir obligatoriamente una de las direcciones y sentidos que señalan las flechas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿En esta vía de doble sentido, el conductor del turismo blanco, ¿dónde situará su vehículo para girar a la izquierda?",
+      "imagen": "examen-31_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sobre la línea discontinua, invadiendo ligeramente el sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Junto a la línea discontinua, sin invadir el sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "A la derecha, fuera de la calzada siempre que sea posible."
+        }
+      ],
+      "ayuda": "Para girar a la izquierda en calzadas de doble sentido de la circulación, el conductor se ceñirá a la marca longitudinal de separación entre sentidos sin invadir la zona destinada al sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Cuando viaje con su mascota, ¿en qué lugar del vehículo podrá situarse para evitar que interfiera en la conducción? ",
+      "imagen": "examen-31_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el asiento delantero ya que si dispone de airbag frontal estará doblemente protegida."
+        },
+        {
+          "letra": "B",
+          "texto": "Donde no comprometa su seguridad ni la del resto de pasajeros, además de ir sujeta con el dispositivo adecuado."
+        },
+        {
+          "letra": "C",
+          "texto": "En los asientos traseros sujeta con el cinturón de seguridad como un pasajero más."
+        }
+      ],
+      "ayuda": "Las mascotas deben situarse donde no comprometan su seguridad ni la del resto de pasajeros y no entorpezcan la labor del conductor. Además, deber ir sujetas con el dispositivo adecuado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "La falta de experiencia al volante, ¿puede ser una de las causas que expliquen los accidentes de tráfico que sufren los conductores noveles? ",
+      "imagen": "examen-31_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, es una de las causas de los accidentes protagonizados por jóvenes."
+        },
+        {
+          "letra": "B",
+          "texto": "No, el estado de la vía y del vehículo son los únicos factores que explican los accidentes."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si el conductor novel ha consumido alcohol o drogas ilegales."
+        }
+      ],
+      "ayuda": "La falta de experiencia al volante es una de las causas que explican los accidentes protagonizados por los conductores noveles.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Esta carretera no tiene arcén, ¿puede estacionar a la derecha, fuera de la vía?",
+      "imagen": "examen-31_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque estoy fuera de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque es una vía interurbana."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si hay una señal que permita expresamente el estacionamiento."
+        }
+      ],
+      "ayuda": "La parada o el estacionamiento de un vehículo en vías interurbanas deberá efectuarse siempre fuera de la calzada, en el lado derecho de ésta y dejando libre la parte transitable del arcén.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "El consumo de alcohol, ¿afecta al tiempo que tarda en reaccionar el conductor ante una situación de emergencia?",
+      "imagen": "examen-31_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, el tiempo de reacción aumenta."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, el tiempo de reacción disminuye."
+        },
+        {
+          "letra": "C",
+          "texto": "No, el consumo de alcohol no afecta al tiempo de reacción."
+        }
+      ],
+      "ayuda": "El aumento del tiempo de reacción del conductor es una de las múltiples consecuencias negativas del consumo de alcohol.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "En esta carretera, ¿dónde se puede estacionar? ",
+      "imagen": "examen-31_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dentro de la vía, en el lado derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "En ninguna parte; está prohibido estacionar dentro y fuera de la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "Fuera de la vía, en el lado derecho."
+        }
+      ],
+      "ayuda": "La parada o el estacionamiento de un vehículo en vías interurbanas deberá efectuarse siempre fuera de la calzada, en el lado derecho de ésta y dejando libre la parte transitable del arcén.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Puede perder puntos de su saldo si pone en peligro a un grupo de ciclistas durante un adelantamiento?",
+      "imagen": "examen-31_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, es una infracción que supone la pérdida de 6 puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "No; es una infracción que no supone la pérdida de puntos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque es un delito contra la seguridad vial, no una sanción administrativa."
+        }
+      ],
+      "ayuda": "Adelantar poniendo en peligro o entorpeciendo a ciclistas es una infracción que lleva aparejada la pérdida de 6 puntos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Un conductor que, pese a poder hacerlo sin riesgo, no se detiene a ayudar a una víctima grave de accidente que se encuentra desamparada, ¿podría estar cometiendo un delito?",
+      "imagen": "examen-31_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, aunque el conductor no esté implicado en el accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "No; ayudar a las víctimas es un gesto de solidaridad, pero no es un deber."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo si el conductor está implicado en el accidente."
+        }
+      ],
+      "ayuda": "Un conductor que, pese a poder hacerlo sin riesgo, no se detiene a ayudar a una víctima grave de accidente que se encuentra desamparada, podría estar cometiendo un delito de omisión del deber de socorro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "\tEl conductor de un turismo circula por una vía señalizada con esta señal, ¿debe ceder el paso a un tranvía que se aproxima por la derecha?\n",
+      "imagen": "examen-31_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque el tranvía se aproxima por la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque el tranvía circula sobre raíles."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque el turismo circula por una calzada con prioridad."
+        }
+      ],
+      "ayuda": "Los conductores de los vehículos que se aproximen a una intersección señalizada con señal de intersección con prioridad, o que circulen por una vía señalizada con señal de calzada con prioridad, tendrán prioridad de paso sobre los vehículos que circulen por otra vía o procedan de ella.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Qué indica la señal colocada en la parte trasera del vehículo compuesta por una lámina reflectante de color amarillo rodeada de una lámina fluorescente de color rojo?",
+      "imagen": "examen-31_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el vehículo o el conjunto de vehículos tiene una longitud superior a 12 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el vehículo transporta mercancías peligrosas."
+        },
+        {
+          "letra": "C",
+          "texto": "Que el vehículo no podrá circular a una velocidad superior a 90 km/h."
+        }
+      ],
+      "ayuda": "\tSeñal de Vehículo largo\n\tIndica que el vehículo o conjunto de vehículos tiene una longitud superior a 12 metros.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Si un vehículo queda detenido por avería en un paso a nivel, el conductor debe adoptar en primer lugar las medidas necesarias para...",
+      "imagen": "examen-31_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que todos los ocupantes abandonen el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "desconectar los bornes de la batería del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "colocar el triángulo de preseñalización de peligro en la vía."
+        }
+      ],
+      "ayuda": "Cuando por razones de fuerza mayor quede un vehículo detenido en un paso a nivel o se produzca la caída de su carga dentro de aquél, el conductor estará obligado a adoptar las medidas adecuadas para el rápido desalojo de los ocupantes del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

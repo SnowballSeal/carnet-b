@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 72,
+  "nombre": "Test de examen 72",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Un requisito indispensable que debe cumplir el casco es que debe ser...\n",
+      "imagen": "examen-72_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "convencional, porque es más cómodo que el integral."
+        },
+        {
+          "letra": "B",
+          "texto": "homologado."
+        },
+        {
+          "letra": "C",
+          "texto": "Integral, porque protege más que el casco convencional."
+        }
+      ],
+      "ayuda": "Los cascos que se utilicen al viajar en un vehículo para el cual es obligatorio su uso, deben cumplir necesariamente con el requisito de estar homologados. \nNo está permitida la utilización de cascos \"certificados\" o NO homologados.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Qué puede causar que el conductor se distraiga?",
+      "imagen": "examen-72_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Manipular un aparato de música."
+        },
+        {
+          "letra": "B",
+          "texto": "Conducir sin utilizar el teléfono móvil."
+        },
+        {
+          "letra": "C",
+          "texto": "Conducir descansado."
+        }
+      ],
+      "ayuda": "Toda tarea que obligue al conductor a desviar su atención de la conducción como, por ejemplo, fumar, manipular el GPS, mirar un mapa o manipular la radio, es causa de distracción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "El medio ambiente,¿se ve afectado por los accidentes de tráfico?",
+      "imagen": "examen-72_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente en vía interurbana."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Entre las consecuencias de los accidentes de tráfico se encuentran los daños materiales, los cuales comprenden daños a la vía y su entorno, daños en los vehículos y su carga y daños al medio ambiente (derrames de combustible, fugas de mercancías peligrosas, incendios, etc.).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Con niebla que reduce sensiblemente la visibilidad, ¿está permitido conducir únicamente con los alumbrados de posición y corto alcance?",
+      "imagen": "examen-72_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, debe encender obligatoriamente el alumbrado delantero y trasero de niebla."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando el vehículo no dispone de luces delanteras de niebla."
+        },
+        {
+          "letra": "C",
+          "texto": "No, debe llevar las luces delanteras de niebla en todos los casos."
+        }
+      ],
+      "ayuda": "Cuando existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad (lluvia intensa, niebla, nieve, etc.) se deberá llevar encendida la luz de cruce o corto alcance, la cual podrá ser sustituida o complementada con la de antiniebla delantera, si el vehículo dispone de la misma.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Con esta señalización, ¿a qué velocidad debe circular?",
+      "imagen": "examen-72_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obligatoriamente a 30 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "A 30 km/h, como recomendación, durante el tramo que subsista el peligro.\n"
+        },
+        {
+          "letra": "C",
+          "texto": "Al menos a 30 km/h."
+        }
+      ],
+      "ayuda": "La señal de velocidad máxima aconsejada de la imagen recomienda una velocidad aproximada de circulación, en kilómetros por hora, que se aconseja no sobrepasar, aunque las condiciones meteorológicas y ambientales de la vía y de la circulación sean favorables. Cuando está colocada bajo una señal de advertencia de peligro (como en este caso), la recomendación se refiere al tramo en que dicho peligro subsista.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Los agentes de tráfico, ¿pueden hacer señales ópticas y acústicas?",
+      "imagen": "examen-72_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, sólo pueden hacer señales ópticas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pueden hacer señales ópticas y acústicas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, sólo pueden hacer señales acústicas."
+        }
+      ],
+      "ayuda": "Los agentes de tráfico que regulen la circulación podrán realizar, con este fin, señales tanto ópticas (balanceo de una luz roja o amarilla) como acústicas (toques de silbato).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "En un puente que disponga de un ancho de calzada inferior a 6 metros, ¿qué vehículos tienen prohibido cruzarse?",
+      "imagen": "examen-72_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los vehículos que necesitan una autorización especial para circular."
+        },
+        {
+          "letra": "B",
+          "texto": "Los vehículos articulados."
+        },
+        {
+          "letra": "C",
+          "texto": "Los vehículos prioritarios en servicio urgente."
+        }
+      ],
+      "ayuda": "Los vehículos que necesitan autorización especial para circular no podrán cruzarse en los puentes si el ancho de la calzada es inferior a seis metros. En caso de encuentro o cruce entre dichos vehículos, se deberá respetar el orden de prioridad en estrechamientos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Entre los principales problemas que encuentran las personas mayores como peatones en las vías públicas se encuentra...",
+      "imagen": "examen-72_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la mayor capacidad de orientación."
+        },
+        {
+          "letra": "B",
+          "texto": "el reconocer mejor los sonidos e identificar su procedencia."
+        },
+        {
+          "letra": "C",
+          "texto": "la dificultad de apreciar la velocidad de los vehículos."
+        }
+      ],
+      "ayuda": "Entre los problemas que presentan las personas mayores en su condición de peatones se encuentran: la dificultad para estimar la velocidad de los vehículos, el ruido ambiental excesivo, problemas de orientación, mala iluminación de las vías, calles demasiado anchas, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Qué circunstancias favorecen la aparición de la fatiga?",
+      "imagen": "examen-72_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Conducir con poco tráfico, porque exige mayor concentración."
+        },
+        {
+          "letra": "B",
+          "texto": "Que el recorrido sea por una vía muy conocida."
+        },
+        {
+          "letra": "C",
+          "texto": "Mantener en el interior del vehículo una temperatura elevada, porque puede afectar al estado psicofísico."
+        }
+      ],
+      "ayuda": "Uno de los factores que favorecen la aparición de la fatiga en el conductor es circular con una temperatura elevada en el interior del vehículo, ya que esta circunstancia puede alterar el estado psicofísico del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "El nivel del depósito de lavaparabrisas ha de ser vigilado:",
+      "imagen": "examen-72_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con frecuencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Cada año."
+        },
+        {
+          "letra": "C",
+          "texto": "Cada seis meses."
+        }
+      ],
+      "ayuda": "Entre las comprobaciones periódicas que debe realizar el conductor se encuentra comprobar con frecuencia el nivel del líquido lavaparabrisas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Encender el intermitente, ¿da preferencia siempre para hacer maniobras?",
+      "imagen": "examen-72_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero debo hacer la maniobra rápidamente."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque he avisado."
+        }
+      ],
+      "ayuda": "El uso del intermitente tiene como finalidad advertir a los demás usuarios de la maniobra que se va a realizar, pero no otorga ninguna clase de preferencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-72_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La obligación de girar a la derecha en la intersección."
+        },
+        {
+          "letra": "B",
+          "texto": "La dirección y el sentido del movimiento giratorio que los vehículos deben seguir."
+        },
+        {
+          "letra": "C",
+          "texto": "La obligación de girar a la izquierda en la intersección."
+        }
+      ],
+      "ayuda": "La señal de la imagen indica que se trata de una intersección de sentido obligatorio en glorieta, y en ella las flechas señalan la dirección y sentido del movimiento giratorio que los vehículos deben seguir.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "En los carriles reservados para bicicletas está prohibido...",
+      "imagen": "examen-72_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "estacionar, solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "parar, únicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "parar y estacionar."
+        }
+      ],
+      "ayuda": "Está prohibido parar y estacionar en los carriles o parte de las vías reservados exclusivamente para la circulación o el servicio de determinados usuarios (bicicletas en este caso).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Qué se debe hacer con el aceite usado del vehículo?",
+      "imagen": "examen-72_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tirarlo en una alcantarilla o desagüe."
+        },
+        {
+          "letra": "B",
+          "texto": "Entregarlo en un contenedor de recuperación de aceite."
+        },
+        {
+          "letra": "C",
+          "texto": "Tirarlo en tierra."
+        }
+      ],
+      "ayuda": "Cuando se realice el cambio de aceite del vehículo, el aceite usado que se retira del mismo, debe ser depositado en un contenedor de recuperación de aceite para su reciclaje.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Si inmoviliza el vehículo junto al borde de esta calzada, ¿incumple alguna norma de circulación?",
+      "imagen": "examen-72_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, si es para efectuar una parada."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque es una zona de carga y descarga y está prohibido cualquier tipo de inmovilización."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ya que esta marca vial no prohíbe parar ni estacionar."
+        }
+      ],
+      "ayuda": "La marca amarilla en forma zig-zag que aparece en la imagen, generalmente, se utiliza en zonas de parada de autobuses o destinadas a la carga y descarga de vehículos, para indicar  que en ese lugar de la calzada está prohibido el estacionamiento  de los vehículos en general. Es decir, que en dicha zona no se puede estacionar pero sí parar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "En una situación de lluvia y ciclistas circulando, debemos...",
+      "imagen": "examen-72_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "al estar cerca de ellos hacer señales acústicas para indicar nuestra presencia."
+        },
+        {
+          "letra": "B",
+          "texto": "extremar la precaución porque existe más probabilidad de caídas."
+        },
+        {
+          "letra": "C",
+          "texto": "mantener la velocidad y estar atento al cumplimiento de la señalización vertical."
+        }
+      ],
+      "ayuda": "Cuando llueve, si existen ciclistas circulando los conductores de otros vehículos deben extremar las precauciones porque en esas circunstancias el riesgo de que los ciclistas resbalen y caigan es mayor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "En una glorieta, ¿por dónde se debe circular?",
+      "imagen": "examen-72_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Puedo circular por la derecha o por la izquierda indistintamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la izquierda, dejando a mi derecha al centro de la glorieta."
+        },
+        {
+          "letra": "C",
+          "texto": "Por la derecha, dejando a mi izquierda el centro de la glorieta."
+        }
+      ],
+      "ayuda": "Las glorietas son vías circulares de sentido único y cuando los conductores circulen por ellas, deberán hacerlo por la derecha dejando el centro de la glorieta a su izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Podrá ser utilizado normalmente un carril VAO por un ciclomotor ocupado por dos personas?",
+      "imagen": "examen-72_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si circula por el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque van dos personas."
+        }
+      ],
+      "ayuda": "La utilización de carriles VAO quedará limitada a motocicletas, turismos y vehículos mixtos adaptables. Por lo tanto, está prohibida al resto de los vehículos y conjuntos de vehículos, incluidos los turismos con remolque, así como a peatones, ciclos, ciclomotores, vehículos de tracción animal y animales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "En esta intersección, ¿qué señal debe obedecer el vehículo azul para girar a la derecha?",
+      "imagen": "examen-72_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La señal de stop, por ser la más restrictiva."
+        },
+        {
+          "letra": "B",
+          "texto": "La señal de ceda el paso."
+        },
+        {
+          "letra": "C",
+          "texto": "La señal de stop, por estar situada a la izquierda."
+        }
+      ],
+      "ayuda": "Si en una intersección existen señales con indicaciones distintas en la derecha y en la izquierda, los vehículos que pretendan girar a la derecha deben obedecer a aquellas señales situadas a la derecha y quienes deseen continuar de frente o girar a la izquierda deben obedecer a las situadas a su izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "En este carril de aceleración, ¿puede un turismo avanzar más rápido para situarse delante del camión?",
+      "imagen": "examen-72_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque en este caso no se considera adelantamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque no está permitido adelantar por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque el turismo tiene prioridad."
+        }
+      ],
+      "ayuda": "Los carriles de aceleración (o carriles auxiliares de entrada) están destinados a la incorporación a los carriles principales de vehículos procedentes de otra vía. No tiene consideración de adelantamiento, el hecho de que los vehículos que circulen por carriles de aceleración o deceleración o carriles o partes de la vía destinados exclusivamente al tráfico de determinados vehículos o a ciertas maniobras, avancen más rápidamente que los que lo hagan por los carriles normales de circulación o viceversa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Una luz roja intermitente o dos luces rojas alternativamente intermitentes de un semáforo...",
+      "imagen": "examen-72_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "prohíben temporalmente el paso."
+        },
+        {
+          "letra": "B",
+          "texto": "permiten el paso con precaución."
+        },
+        {
+          "letra": "C",
+          "texto": "obligan a moderar la velocidad antes de pasar."
+        }
+      ],
+      "ayuda": "Una luz roja intermitente, o dos luces rojas alternativamente intermitentes, prohíben temporalmente el paso a los vehículos antes de un paso a nivel, una entrada a un puente móvil o en las proximidades de una salida de vehículos de extinción de incendios o con motivo de la aproximación de una aeronave a escasa altura.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Una fila de escolares está cruzando la calzada. ¿Debe cederles el paso?",
+      "imagen": "examen-72_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, cuando no llevan paleta de STOP."
+        },
+        {
+          "letra": "C",
+          "texto": "Solamente en los pasos para peatones."
+        }
+      ],
+      "ayuda": "Las tropas en formación, las filas de escolares y las comitivas organizadas tienen preferencia de paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Cómo hay que colocarse el cinturón de seguridad?",
+      "imagen": "examen-72_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ajustado al cuerpo, ni muy apretado ni muy flojo, y bien abrochado."
+        },
+        {
+          "letra": "B",
+          "texto": "Más bien flojo, para poder llegar fácilmente a todo el habitáculo del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Muy ajustado, para estar bien sujeto."
+        }
+      ],
+      "ayuda": "Para que el cinturón de seguridad cumpla con su función es necesario llevarlo abrochado y ajustado al cuerpo (ni muy apretado ni muy flojo).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-72_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que la vía pasa de uno o dos carriles de circulación por obras."
+        },
+        {
+          "letra": "B",
+          "texto": "Que dos carriles se desvían hacia la calzada contraria por obras."
+        },
+        {
+          "letra": "C",
+          "texto": "Que un carril se desvía hacia la calzada contraria por obras."
+        }
+      ],
+      "ayuda": "La señal de la imagen indica que dos carriles se desvían hacia la calzada contraria por obras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Se puede adelantar a los ciclistas?",
+      "imagen": "examen-72_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, ya que lo prohíbe la línea continua."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, únicamente si lo hace sin invadir el sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si se puede realizar sin peligro, aunque tenga que invadir el sentido contrario."
+        }
+      ],
+      "ayuda": "Cuando por la velocidad a la que circulan puedan ser adelantados sin riesgo para ellos ni para la circulación en general, los ciclistas podrán ser adelantados, aunque para ello haya que ocupar la parte de la calzada reservada al sentido contrario, después de haberse cerciorado de que se puede realizar la maniobra sin peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "La vigencia del permiso de conducción, ¿está condicionada a que su titular no haya perdido su asignación total de puntos?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, los puntos sólo afectan a las sanciones impuestas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, su vigencia sólo está limitada en el tiempo."
+        }
+      ],
+      "ayuda": "La vigencia del permiso de conducción está condicionada a que su titular no haya perdido su asignación total de puntos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Una carrocería de gran resistencia, ¿puede sustituir a otros sistemas de seguridad pasiva?",
+      "imagen": "examen-72_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en los vehículos todo-terreno."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, por ejemplo al airbag."
+        }
+      ],
+      "ayuda": "Los sistemas de seguridad pasiva son siempre necesarios y complementarios unos de otros, por lo que no se puede prescindir de ninguno de ellos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Cuándo está permitido circular por el arcén?",
+      "imagen": "examen-72_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando hay mucha circulación y quiero girar a la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando por emergencia circulo muy despacio e interrumpo el paso a otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "Nunca."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos cuya M.M.A. no exceda de 3.500 kilogramos deberán circular por el arcén de su derecha, cuando por razones de emergencia circulen a una velocidad anormalmente reducida, perturbando con ello gravemente la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Conservar el vehículo en buen estado, ¿requiere revisiones frecuentes en algunos de los sistemas del vehículo?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, además de seguir los planes de mantenimiento establecidos por el fabricante."
+        },
+        {
+          "letra": "B",
+          "texto": "No, salvo que se haya sufrido un accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "No, no es necesario."
+        }
+      ],
+      "ayuda": "Para conservar el vehículo en buen estado es necesario, además de respetar los planes de mantenimiento desarrollados por el fabricante, realizar revisiones frecuentes en algunos  sistemas (nivel de aceite, nivel de líquido refrigerante, presión de los neumáticos, etc.).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Alguna de estas señales indica que finaliza un carril destinado a la circulación?",
+      "imagen": "examen-72_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, la señal B."
+        },
+        {
+          "letra": "B",
+          "texto": "No, ninguna de las dos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, la señal A."
+        }
+      ],
+      "ayuda": "La señal A (final de carril destinado a la circulación), indica que un carril va a dejar de ser utilizable, indicando el cambio de carril preciso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

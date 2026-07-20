@@ -1,0 +1,292 @@
+[
+  {
+    "n": 1,
+    "tipo": "imagen",
+    "titulo": "Bienvenido al Tema 8",
+    "texto": null
+  },
+  {
+    "n": 2,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 3,
+    "tipo": "imagen",
+    "titulo": "Concepto de velocidad",
+    "texto": "Velocidad es la relación que existe entre el espacio recorrido y el tiempo empleado para recorrerlo. \n\nSe expresa mediante la fórmula v=d/t y se mide en metros por segundo (m/s) o en kilómetros por hora (km/h)."
+  },
+  {
+    "n": 4,
+    "tipo": "imagen",
+    "titulo": "Velocímetro y control de la velocidad",
+    "texto": "Para saber a qué velocidad se circula, se debe mirar el velocímetro del vehículo. \n\nEs importante mirar con frecuencia el velocímetro con objeto de adaptar la velocidad a las circunstancias.\n\nLa velocidad elevada puede causar el conocido como efecto túnel, el cual provoca que el conductor solo sea capaz de percibir con nitidez el centro de la vía. A mayor velocidad, mayor será el efecto túnel."
+  },
+  {
+    "n": 5,
+    "tipo": "imagen",
+    "titulo": "Conceptos básicos sobre velocidad",
+    "texto": "Velocidad limitada: aquella impuesta genéricamente o de manera específica para determinados tramos de vía.\n\nVelocidad genérica: velocidad correspondiente a cada clase de vía, la cual comprende unos valores máximos y mínimos.Esta velocidad variará en función del tipo de vehículo y del tipo de vía por la que circule. \n\nVelocidad específica o concreta: aquella que se fija a través de las correspondientes señales, para determinados tramos de vía.\n\nVelocidad de diseño: se define como la máxima velocidad segura que puede mantenerse sobre una carretera en condiciones favorables.\n\nVelocidad excesiva: velocidad que sobrepasa los límites específicos establecidos por señales o los límites máximos fijados para los distintos tipos de vías.\n\nVelocidad anormalmente reducida: aquella inferior a la mínima permitida para la vía.\n\nVelocidad inadecuada: toda velocidad que no se adapta a las circunstancias objetivas de la circulación, de la vía y del conductor, bien por exceso o por defecto.\n\nVelocidad adecuada: la que debe mantener todo conductor de vehículos según las circunstancias objetivas de la circulación (vía, señales, medio ambiente) y, en general, adaptada a cuantas circunstancias concurran en cada momento a fin de poder detener el vehículo sin peligro, si fuera necesario."
+  },
+  {
+    "n": 6,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 7,
+    "tipo": "imagen",
+    "titulo": "Moderación de la velocidad",
+    "texto": "Cuando haya peatones en la parte de la vía que se esté utilizando o pueda preverse racionalmente su irrupción en ella, principalmente si se trata de niños, ancianos, invidentes u otras personas manifiestamente impedidas."
+  },
+  {
+    "n": 8,
+    "tipo": "imagen",
+    "titulo": "Moderación de la velocidad",
+    "texto": "Al aproximarse a ciclos circulando, así como en las intersecciones y en las proximidades de vías de uso exclusivo de ciclos y de los pasos de peatones no regulados por semáforo o agentes de la circulación, así como al acercarse a mercados, centros docentes o a lugares en que sea previsible la presencia de niños."
+  },
+  {
+    "n": 9,
+    "tipo": "imagen",
+    "titulo": "Moderación de la velocidad",
+    "texto": "Cuando haya animales en la parte de la vía que se esté utilizando o pueda preverse racionalmente su irrupción en ella."
+  },
+  {
+    "n": 10,
+    "tipo": "imagen",
+    "titulo": "Moderación de la velocidad",
+    "texto": "En los tramos con edificios de inmediato acceso a la parte de la vía que se esté utilizando."
+  },
+  {
+    "n": 11,
+    "tipo": "imagen",
+    "titulo": "Moderación de la velocidad",
+    "texto": "Al aproximarse a un autobús en situación de parada, principalmente si se trata de un autobús de transporte escolar."
+  },
+  {
+    "n": 12,
+    "tipo": "imagen",
+    "titulo": "Moderación de la velocidad",
+    "texto": "Fuera de poblado al acercarse a vehículos inmovilizados en la calzada, a vehículos de auxilio prestando servicio y a ciclos que circulan por ella o por su arcén."
+  },
+  {
+    "n": 13,
+    "tipo": "imagen",
+    "titulo": "Moderación de la velocidad",
+    "texto": "Al circular por pavimento deslizante o cuando pueda salpicarse o proyectarse agua, gravilla u otras materias a los demás usuarios de la vía."
+  },
+  {
+    "n": 14,
+    "tipo": "imagen",
+    "titulo": "Moderación de la velocidad",
+    "texto": "Al aproximarse a pasos a nivel, a glorietas e intersecciones en que no se goce de prioridad, a lugares de reducida visibilidad o a estrechamientos.\n\nSi las intersecciones están debidamente señalizadas y la visibilidad de la vía es prácticamente nula, la velocidad de los vehículos no deberá exceder de 50 kilómetros por hora."
+  },
+  {
+    "n": 15,
+    "tipo": "imagen",
+    "titulo": "Moderación de la velocidad",
+    "texto": "En el cruce con otro vehículo, cuando las circunstancias de la vía, de los vehículos o las meteorológicas o ambientales no permitan realizarlo con seguridad."
+  },
+  {
+    "n": 16,
+    "tipo": "imagen",
+    "titulo": "Moderación de la velocidad",
+    "texto": "En caso de deslumbramiento."
+  },
+  {
+    "n": 17,
+    "tipo": "imagen",
+    "titulo": "Moderación de la velocidad",
+    "texto": "En los casos de niebla densa, lluvia intensa, nevada o nubes de polvo o humo."
+  },
+  {
+    "n": 18,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 19,
+    "tipo": "imagen",
+    "titulo": "Velocidades máximas en vías fuera de poblado",
+    "texto": "Las velocidades máximas que no deberán ser rebasadas son las siguientes."
+  },
+  {
+    "n": 20,
+    "tipo": "imagen",
+    "titulo": "Velocidades máximas en autopistas y autovías",
+    "texto": "En autopistas y autovías la velocidad máxima permitida para los turismos, motocicletas, vehículos de tres ruedas asimilados a motocicletas, autocaravanas de hasta 3.500 kilogramos de masa máxima autorizada y pick-up, es de 120 kilómetros por hora.\n\nPara los autobuses, vehículos derivados de turismo y vehículos mixtos adaptables es de 100 kilómetros por hora.\n\nPara los camiones, tractocamiones, furgonetas, autocaravanas de más de 3.500 kilogramos de masa máxima autorizada, vehículos articulados, automóviles con remolque y resto de vehículos, es de 90 kilómetros por hora."
+  },
+  {
+    "n": 21,
+    "tipo": "imagen",
+    "titulo": "Velocidades máximas en carreteras convencionales",
+    "texto": "En carreteras convencionales, la velocidad máxima permitida para los turismos, motocicletas, vehículos de tres ruedas asimilados a motocicletas, autocaravanas de hasta 3.500 kilogramos de masa máxima autorizada y pick-up, es de 90 kilómetros por hora.\n\nPara los autobuses, vehículos derivados de turismo y vehículos mixtos adaptables, la velocidad máxima también es de 90 kilómetros por hora.\n\nPara los camiones, tractocamiones, furgonetas, autocaravanas de más de 3.500 kilogramos de masa máxima autorizada, vehículos articulados, automóviles con remolque y resto de vehículos, es de 80 kilómetros por hora."
+  },
+  {
+    "n": 22,
+    "tipo": "imagen",
+    "titulo": "Carreteras convencionales con separación física entre sentidos",
+    "texto": "En carreteras convencionales con separación física entre los sentidos de circulación, el titular de la vía podrá fijar un límite máximo de 100 kilómetros por hora para turismos, motocicletas, vehículos de tres ruedas asimilados a motocicletas y autocaravanas de hasta 3.500 kilogramos de masa máxima autorizada."
+  },
+  {
+    "n": 23,
+    "tipo": "imagen",
+    "titulo": "Velocidades máximas en el transporte escolar y de mercancías peligrosas",
+    "texto": "Para los vehículos que realicen transporte escolar o de menores, o que transporten mercancías peligrosas, se reducirá en 10 kilómetros por hora la velocidad máxima fijada en las vías citadas anteriormente, en función del tipo de vehículo y de la vía por la que circulen."
+  },
+  {
+    "n": 24,
+    "tipo": "imagen",
+    "titulo": "Velocidad máxima autobuses. Supuestos especiales",
+    "texto": "En el supuesto de que en un autobús viajen pasajeros de pie porque así está autorizado, o en caso de que el autobús no esté dotado de cinturones de seguridad, la velocidad máxima en vías convencionales será de 80 kilómetros por hora."
+  },
+  {
+    "n": 25,
+    "tipo": "imagen",
+    "titulo": "Velocidades máximas en vías sin pavimentar",
+    "texto": "La velocidad máxima establecida, con carácter general, para las vías sin pavimentar, estén dentro o fuera de poblado, es de 30 kilómetros por hora."
+  },
+  {
+    "n": 26,
+    "tipo": "imagen",
+    "titulo": "Velocidades máximas en travesías y vías urbanas",
+    "texto": null
+  },
+  {
+    "n": 27,
+    "tipo": "imagen",
+    "titulo": "Velocidades máximas en travesías",
+    "texto": "El límite genérico de velocidad en travesías es de 50 km/h para todo tipo de vehículos. \n\nEste límite podrá ser rebajado por acuerdo de la Autoridad Municipal con el titular de la vía, previa señalización especifica."
+  },
+  {
+    "n": 28,
+    "tipo": "imagen",
+    "titulo": "Velocidades máximas en vías urbanas",
+    "texto": "El límite genérico de velocidad en vías urbanas será de:\n\n- 50 km/h en vías de dos o más carriles por sentido de circulación.\n\n- 30 km/h en vías de un único carril por sentido de circulación.\n\n- 20 km/h en vías que dispongan de plataforma única de calzada y acera.\n\nA estos efectos, los carriles reservados para la circulación de determinados usuarios o uso exclusivo de transporte público no serán contabilizados.\n\nEn vías urbanas de dos o más carriles por sentido y en travesías, los vehículos que transporten mercancías peligrosas circularán como máximo a 40 km/h.\n\nLas velocidades genéricas establecidas podrán ser rebajadas previa señalización específica, por la Autoridad Municipal."
+  },
+  {
+    "n": 29,
+    "tipo": "imagen",
+    "titulo": "Velocidades mínimas en poblado y fuera de poblado",
+    "texto": "Del mismo modo que no se debe circular por encima de los límites máximos de velocidad, tampoco se debe circular por debajo de los límites mínimos (velocidad anormalmente reducida) sin causa justificada."
+  },
+  {
+    "n": 30,
+    "tipo": "imagen",
+    "titulo": "Velocidades mínimas autopistas y autovías",
+    "texto": "No se deberá entorpecer la marcha normal de otro vehículo circulando sin causa justificada a velocidad anormalmente reducida. \n\nA estos efectos, se prohíbe la circulación en autopistas y autovías de vehículos a motor a una velocidad inferior a 60 kilómetros por hora.\n\nTodo conductor que, por razones de emergencia, se vea obligado a circular con su vehículo por una autopista o autovía a velocidad anormalmente reducida deberá abandonarla por la primera salida."
+  },
+  {
+    "n": 31,
+    "tipo": "imagen",
+    "titulo": "Velocidades mínimas en carreteras convencionales y vías de poblado",
+    "texto": "En otras vías, distintas a autopistas o autovías, no se podrá circular a una velocidad inferior a la mitad de la máxima genérica establecida para cada categoría de vehículos según la vía de que se trate. Esta prohibición se debe respetar aunque no circulen otros vehículos."
+  },
+  {
+    "n": 32,
+    "tipo": "imagen",
+    "titulo": "Circulación a velocidad inferior a la mínima",
+    "texto": "Se podrá circular por debajo de los límites mínimos de velocidad en los casos de ciclos, vehículos de tracción animal, transportes y vehículos especiales, o cuando las circunstancias de tráfico impidan el mantenimiento de una velocidad superior a la mínima sin riesgo para la circulación, así como en los supuestos de protección o acompañamiento a otros vehículos.\n\nCuando un vehículo no pueda alcanzar la velocidad mínima exigida y exista peligro de alcance, se deberán utilizar durante la circulación las luces indicadoras de dirección con señal de emergencia."
+  },
+  {
+    "n": 33,
+    "tipo": "imagen",
+    "titulo": "Velocidad máxima para los vehículos especiales",
+    "texto": "Como norma general, la velocidad máxima que no deberán rebasar los vehículos especiales es de 40 km/h.\n\nCuando puedan desarrollar una velocidad superior a 60 km/h en llano, con arreglo a sus características, su velocidad máxima será de 70 km/h.\n\nLos vehículos especiales que carezcan de luz de frenado, lleven remolque o sean motocultores circularán, como máximo, a 25 km/h."
+  },
+  {
+    "n": 34,
+    "tipo": "imagen",
+    "titulo": "Velocidades máximas. Otros vehículos",
+    "texto": null
+  },
+  {
+    "n": 35,
+    "tipo": "imagen",
+    "titulo": "Velocidades prevalentes",
+    "texto": "Sobre las velocidades máximas genéricas prevalecerán las que se fijen:\n\n- A través de las correspondientes señales.\n\n- A determinados conductores en razón a sus circunstancias personales.\n\n- A determinados vehículos o conjuntos de vehículos por sus especiales características o por la naturaleza de su carga."
+  },
+  {
+    "n": 36,
+    "tipo": "imagen",
+    "titulo": "Resumen de velocidades máximas y mínimas fuera de poblado",
+    "texto": null
+  },
+  {
+    "n": 37,
+    "tipo": "imagen",
+    "titulo": "Resumen de velocidades máximas en vías de poblado y travesías",
+    "texto": null
+  },
+  {
+    "n": 38,
+    "tipo": "imagen",
+    "titulo": "Enhorabuena, has superado el 80% del tema",
+    "texto": "Ok"
+  },
+  {
+    "n": 39,
+    "tipo": "video",
+    "titulo": "Criterios de velocidad. Su cumplimiento",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/IW3UkEM7C7M?si=6g3Ewn2Q39Dy37mA"
+  },
+  {
+    "n": 40,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 41,
+    "tipo": "imagen",
+    "titulo": "Distancia de seguridad entre vehículos",
+    "texto": "Todo conductor de un vehículo que circule detrás de otro, deberá dejar entre ambos un espacio libre que le permita detenerse, en caso de frenado brusco, sin colisionar con él, teniendo en cuenta especialmente la velocidad y las condiciones de adherencia y frenado."
+  },
+  {
+    "n": 42,
+    "tipo": "imagen",
+    "titulo": "Distancia de seguridad entre vehículos",
+    "texto": "La separación que debe guardar todo conductor, que circule detrás de otro sin señalizar su propósito de adelantamiento, deberá ser tal que permita al que a su vez le siga adelantarle con seguridad, excepto si se trata de ciclistas que circulen en grupo."
+  },
+  {
+    "n": 43,
+    "tipo": "imagen",
+    "titulo": "Distancia de seguridad entre vehículos",
+    "texto": "Los camiones con masa máxima autorizada superior a 3.500 kg y los vehículos y conjuntos de vehículos de más de 10 metros de longitud total deberán guardar, a estos efectos, una separación mínima de 50 metros."
+  },
+  {
+    "n": 44,
+    "tipo": "imagen",
+    "titulo": "Distancia de seguridad entre vehículos. Excepciones",
+    "texto": "En poblado, donde esté prohibido el adelantamiento, en calzadas con más de un carril para el mismo sentido de circulación, o cuando la circulación esté tan saturada que no permita el adelantamiento, bastará con dejar una distancia de seguridad que permita detenerse sin colisionar con el vehículo que va delante, en caso de que frene bruscamente."
+  },
+  {
+    "n": 45,
+    "tipo": "imagen",
+    "titulo": "Distancia de seguridad en túneles y pasos inferiores",
+    "texto": "En los túneles o pasos inferiores, cuando no se pretenda adelantar, deberá mantenerse en todo momento una distancia de seguridad con el vehículo precedente de, al menos, 100 metros o un intervalo mínimo de cuatro segundos.\n\nEn el caso de vehículos cuya masa máxima autorizada sea superior a 3.500 kilogramos, la distancia de seguridad que deberá guardar con el vehículo precedente será de, al menos, 150 metros o un intervalo mínimo de seguridad de seis segundos."
+  },
+  {
+    "n": 46,
+    "tipo": "imagen",
+    "titulo": "Distancia de seguridad en grupos de bicicletas",
+    "texto": "Se permite a los conductores de bicicletas circular en grupo sin mantener la separación reglamentaria, extremando en esta ocasión la atención, a fin de evitar alcances entre ellos."
+  },
+  {
+    "n": 47,
+    "tipo": "imagen",
+    "titulo": "Señalización específica de distancia de seguridad mínima",
+    "texto": "En los tramos de vía en los que, por distintos motivos, existe riesgo de colisión por alcance se informará a los conductores de dicho peligro mediante una señalización vertical y marcas viales específicas. \n\nComo se ha visto en temas anteriores, estas señales tienen como objetivo informar al conductor sobre la separación mínima recomendada entre vehículos para evitar este tipo de accidentes."
+  },
+  {
+    "n": 48,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  }
+]

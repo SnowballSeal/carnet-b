@@ -1,0 +1,570 @@
+[
+  {
+    "n": 1,
+    "tipo": "imagen",
+    "titulo": "Bienvenido al Tema 7",
+    "texto": null
+  },
+  {
+    "n": 2,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 3,
+    "tipo": "imagen",
+    "titulo": "Concepto de vía",
+    "texto": "Vía es el elemento fijo y permanente donde se desarrolla la circulación."
+  },
+  {
+    "n": 4,
+    "tipo": "imagen",
+    "titulo": "Partes principales de la vía",
+    "texto": "Plataforma: Zona de la carretera dedicada al uso de vehículos, formada por la calzada y los arcenes.\n\nCalzada: Parte de la carretera dedicada a la circulación de vehículos. Se compone de un cierto número de carriles.\n\nCarril: Banda longitudinal en que puede estar subdividida la calzada, delimitada o no por marcas viales longitudinales, siempre que tenga una anchura suficiente para permitir la circulación de una fila de automóviles que no sean motocicletas.\n\nArcén: Franja longitudinal afirmada contigua a la calzada, no destinada al uso de vehículos automóviles, más que en circunstancias excepcionales.\n\nBerma: Franja longitudinal, afirmada o no, comprendida entre el borde exterior del arcén y la cuneta o arista interior de talud más próxima a la plataforma.\n\nAdemás, existen otras partes o zonas de la vía, como: Mediana, Glorieta, Intersección, etc."
+  },
+  {
+    "n": 5,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 6,
+    "tipo": "imagen",
+    "titulo": "Concepto de poblado",
+    "texto": "Poblado es el espacio que comprende edificios y en cuyas vías de entrada y salida están colocadas, respectivamente, las señales de entrada a poblado y de salida de poblado."
+  },
+  {
+    "n": 7,
+    "tipo": "imagen",
+    "titulo": "Vías de poblado",
+    "texto": "Dentro de las vías de poblado, se distinguen dos tipos:\n\n- Vía urbana. Es toda vía pública situada dentro de poblado, excepto las travesías. Se consideran vías urbanas las calles, avenidas, plazas, glorietas, etc.\n\n- Travesía. Es el tramo de carretera que discurre por poblado."
+  },
+  {
+    "n": 8,
+    "tipo": "imagen",
+    "titulo": "Vías interurbanas",
+    "texto": "Vía interurbana es toda vía pública situada fuera de poblado y que, según sus características, se clasifican en:\n\n- Autopistas.\n- Autovías.\n- Vías para automóviles.\n- Carreteras convencionales y carreteras multicarril."
+  },
+  {
+    "n": 9,
+    "tipo": "imagen",
+    "titulo": "Autopista",
+    "texto": "Autopista  es la carretera especialmente proyectada, construida y señalizada como tal para la exclusiva circulación de automóviles capaces de desarrollar en terreno llano la velocidad de 60 km/h, y que reúne las siguientes características:\n\n- Las propiedades colindantes no tienen acceso a ella.\n- No tiene cruces a nivel.\n- Consta de distintas calzadas para cada sentido de circulación, separadas entre sí, salvo en puntos singulares o con carácter temporal, por una franja de terreno no destinada a la circulación (mediana) o, en casos excepcionales, por otros medios."
+  },
+  {
+    "n": 10,
+    "tipo": "imagen",
+    "titulo": "Autopista. Acceso y salida",
+    "texto": "El acceso a una autopista o el abandono de la misma, únicamente, puede realizarse a través de los lugares habilitados al efecto, como son los carriles de aceleración y deceleración, o por los puestos de peaje o de control."
+  },
+  {
+    "n": 11,
+    "tipo": "imagen",
+    "titulo": "Puestos de peaje",
+    "texto": "Las autopistas pueden ser libres o de peaje.\n\nEn las autopistas de peaje, al aproximarse a los puestos de control, los conductores deben concentrar su atención, reducir su velocidad y observar la señalización con suficiente antelación, a fin de elegir el carril adecuado para pagar la cuantía exigida o recoger el ticket de entrada.\n\nEl conductor debe situarse en cualquier carril donde aparezca una flecha verde, porque los carriles señalizados con un aspa roja están cerrados y, por consiguiente, fuera de servicio."
+  },
+  {
+    "n": 12,
+    "tipo": "imagen",
+    "titulo": "Puesto de peaje dinámico o telepeaje",
+    "texto": "Para poder utilizar un puesto de peaje dinámico o telepeaje, los vehículos deberán estar provistos del medio técnico que posibilite su uso en condiciones operativas."
+  },
+  {
+    "n": 13,
+    "tipo": "imagen",
+    "titulo": "Autovía",
+    "texto": "Autovía es la carretera especialmente proyectada, construida y señalizada como tal que tiene las siguientes características:\n\n- Las propiedades colindantes tienen acceso limitado a ella.\n\n- No tienen cruces a nivel.\n\n- Constan de distintas calzadas para cada sentido de circulación, separadas entre sí, salvo en puntos singulares o con carácter temporal, por una franja de terreno no destinada a la circulación o por otros medios."
+  },
+  {
+    "n": 14,
+    "tipo": "imagen",
+    "titulo": "Prohibiciones relativas a las autopistas y autovías",
+    "texto": "Queda prohibida la circulación por autopistas y autovías de: peatones, animales, vehículos de tracción animal, ciclos, ciclomotores, vehículos para personas de movilidad reducida, vehículos de movilidad personal y vehículos especiales, salvo excepciones."
+  },
+  {
+    "n": 15,
+    "tipo": "imagen",
+    "titulo": "Prohibiciones relativas a las autopistas y autovías. Excepciones",
+    "texto": "Los vehículos especiales y vehículos en régimen de transporte especial podrán circular por autopistas o autovías en los siguientes casos:\n\n- Cuando excedan de las masas o dimensiones establecidas en el Reglamento General de Vehículos y así se indique en la autorización complementaria de la que deben ir provistos.\n\n- Cuando NO excedan de dichas masas o dimensiones y, con arreglo a sus características, puedan desarrollar una velocidad superior a 60 km/h en llano.\n\nExcepcionalmente, los conductores de bicicletas mayores de 14 años de edad podrán circular por los arcenes de las autovías siempre y cuando no invadan la calzada salvo que, por razones justificadas de seguridad vial, se prohíba mediante la señalización correspondiente."
+  },
+  {
+    "n": 16,
+    "tipo": "imagen",
+    "titulo": "Vía para automóviles",
+    "texto": "Vía para automóviles es toda vía reservada exclusivamente a la circulación de automóviles, con una sola calzada y con limitación total de accesos a las propiedades colindantes, y señalizada como tal."
+  },
+  {
+    "n": 17,
+    "tipo": "imagen",
+    "titulo": "Carretera convencional",
+    "texto": "Carretera convencional es toda carretera que no reúne las características propias de las autopistas, autovías o vías para automóviles.\n\nLas carreteras convencionales pueden disponer de uno o más carriles para cada sentido de circulación y arcén, el cual puede estar pavimentado o no, y cuya anchura puede variar, aunque también existen carreteras sin arcén."
+  },
+  {
+    "n": 18,
+    "tipo": "imagen",
+    "titulo": "Carretera multicarril",
+    "texto": "Son carreteras multicarril las que, sin ser autopistas o autovías, tienen al menos dos carriles destinados a la circulación para cada sentido, con separación o delimitación de los mismos, pudiendo tener accesos o cruces a nivel."
+  },
+  {
+    "n": 19,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 20,
+    "tipo": "imagen",
+    "titulo": "Comportamiento en la circulación",
+    "texto": "Los usuarios de la vía están obligados a comportarse de forma que no entorpezcan indebidamente la circulación ni causen peligro, perjuicios o molestias innecesarias a las personas o daños a los bienes.\n\nLos conductores deberán conducir con la diligencia y precaución necesarias para evitar todo daño, propio o ajeno, cuidando de no poner en peligro tanto al mismo conductor como a los demás ocupantes del vehículo y al resto de los usuarios de la vía."
+  },
+  {
+    "n": 21,
+    "tipo": "imagen",
+    "titulo": "Conducción negligente o temeraria",
+    "texto": "Queda prohibido conducir de modo negligente o temerario.\n\nConducir de forma temeraria constituye una infracción muy grave que conlleva una sanción económica y pérdida de puntos."
+  },
+  {
+    "n": 22,
+    "tipo": "imagen",
+    "titulo": "Comportamientos prohibidos",
+    "texto": "Debido a que afecta a la seguridad de la circulación, queda prohibido:\n\n- Arrojar, depositar o abandonar sobre la vía objetos o materias que puedan entorpecer la circulación, la parada o el estacionamiento.\n\n- Arrojar a la vía o en sus inmediaciones cualquier objeto que pueda dar lugar a la producción de incendios o, en general, poner en peligro la seguridad vial."
+  },
+  {
+    "n": 23,
+    "tipo": "imagen",
+    "titulo": "Comportamientos prohibidos",
+    "texto": "Queda prohibido entablar competiciones de velocidad en las vías de uso público salvo que, con carácter excepcional, se hubieran acotado para ello por la autoridad competente."
+  },
+  {
+    "n": 24,
+    "tipo": "imagen",
+    "titulo": "Comportamientos prohibidos",
+    "texto": "Se considera incompatible con la obligatoria atención permanente a la conducción el uso por el conductor con el vehículo en movimiento de dispositivos tales como pantallas con acceso a internet, monitores de televisión y reproductores de vídeo o DVD.\n\nSe exceptúan, a estos efectos, el uso de monitores que estén a la vista del conductor y cuya utilización sea necesaria para la visión de acceso o bajada de peatones o para la visión en vehículos con cámara de maniobras traseras, así como el dispositivo GPS."
+  },
+  {
+    "n": 25,
+    "tipo": "imagen",
+    "titulo": "Comportamientos prohibidos",
+    "texto": "Como norma general, queda prohibido conducir utilizando cualquier tipo de casco de audio o auricular conectado a aparatos receptores o reproductores de sonido u otros dispositivos que disminuyan la atención permanente a la conducción."
+  },
+  {
+    "n": 26,
+    "tipo": "imagen",
+    "titulo": "Comportamientos prohibidos",
+    "texto": "Se prohíbe la utilización durante la conducción de dispositivos de telefonía móvil, navegadores o cualquier otro medio o sistema de comunicación, excepto cuando el desarrollo de la comunicación tenga lugar sin emplear las manos ni usar cascos, auriculares o instrumentos similares.\n\nNo se considerará dentro de la prohibición la utilización de dispositivos inalámbricos certificados u homologados para la utilización en el casco de protección de los conductores de motocicletas y ciclomotores, con fines de comunicación o navegación, siempre que no afecten a la seguridad en la conducción."
+  },
+  {
+    "n": 27,
+    "tipo": "imagen",
+    "titulo": "Comportamientos prohibidos",
+    "texto": "Se prohíbe instalar o llevar en los vehículos inhibidores de radares o cinemómetros o cualesquiera otros instrumentos encaminados a eludir o a interferir en el correcto funcionamiento de los sistemas de vigilancia del tráfico, así como emitir o hacer señales con dicha finalidad. Asimismo se prohíbe llevar en el vehículo mecanismos de detección de radares o cinemómetros.\n\nQuedan excluidos de esta prohibición los mecanismos de aviso que informan de la posición de los sistemas de vigilancia del tráfico."
+  },
+  {
+    "n": 28,
+    "tipo": "imagen",
+    "titulo": "Otras obligaciones del conductor",
+    "texto": "El conductor de un vehículo está obligado a mantener su propia libertad de movimientos, el campo necesario de visión y la atención permanente a la conducción, que garanticen su propia seguridad, la del resto de ocupantes del vehículo y la de los demás usuarios de la vía.\n\nA estos efectos, deberá cuidar especialmente de mantener la posición adecuada y que la mantengan el resto de los pasajeros, y la adecuada colocación de los objetos o animales transportados para que no haya interferencias entre el conductor y cualquiera de ellos."
+  },
+  {
+    "n": 29,
+    "tipo": "imagen",
+    "titulo": "Otras obligaciones del conductor",
+    "texto": "Quien haya creado sobre la vía algún obstáculo o peligro, debe hacerlo desaparecer lo antes posible, adoptando entretanto las medidas necesarias para que pueda ser advertido por los demás usuarios y para que no se dificulte la circulación."
+  },
+  {
+    "n": 30,
+    "tipo": "imagen",
+    "titulo": "Bandas transversales y otros elementos en la vía",
+    "texto": "No se considerarán obstáculos en la calzada los resaltos en los pasos para peatones y bandas transversales, siempre que cumplan la regulación establecida al efecto y se garantice la seguridad vial de los usuarios y, en particular, de los ciclistas."
+  },
+  {
+    "n": 31,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 32,
+    "tipo": "imagen",
+    "titulo": "Sentido de la circulación",
+    "texto": "Como norma general, y muy especialmente en las curvas y cambios de rasante de reducida visibilidad, los vehículos circularán en todas las vías por la derecha y lo más cerca posible del borde de la calzada, manteniendo la separación lateral suficiente para realizar el cruce con seguridad.\n\nAun cuando no exista señalización expresa que los delimite, en los cambios de rasante y curvas de reducida visibilidad, todo conductor debe dejar completamente libre la mitad de la calzada que corresponda a los que puedan circular en sentido contrario."
+  },
+  {
+    "n": 33,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 34,
+    "tipo": "imagen",
+    "titulo": "Utilización de carriles en calzadas con doble sentido de circulación",
+    "texto": "Como norma general, el conductor de un automóvil o de un vehículo especial con masa máxima autorizada superior a 3.500 kilogramos circulará por la calzada y no por el arcén.\n\nEn las calzadas con doble sentido de circulación y dos carriles, separados o no por marcas viales, circulará por el carril de su derecha."
+  },
+  {
+    "n": 35,
+    "tipo": "imagen",
+    "titulo": "Calzadas con doble sentido de circulación y tres carriles",
+    "texto": "En calzadas con doble sentido de circulación y tres carriles separados por marcas longitudinales discontinuas, los vehículos también deberán circular por el de la derecha y, en ningún caso, por el situado más a su izquierda.\n\nEn estas calzadas, el carril central sólo se utilizará para efectuar los adelantamientos precisos y para cambiar de dirección hacia la izquierda."
+  },
+  {
+    "n": 36,
+    "tipo": "video",
+    "titulo": "Calzadas con doble sentido de circulación y tres carriles",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/RdA5eW3Y1CM"
+  },
+  {
+    "n": 37,
+    "tipo": "imagen",
+    "titulo": "Calzadas fuera de poblado con más de un carril para el mismo sentido",
+    "texto": "En calzadas fuera de poblado con más de un carril reservado para el mismo sentido de la marcha, se circulará normalmente por el situado más a la derecha si bien se podrá utilizar el resto de los de dicho sentido cuando las circunstancias del tráfico o de la vía lo aconsejen y a condición de que no entorpezca la marcha de otro vehículo que le siga."
+  },
+  {
+    "n": 38,
+    "tipo": "imagen",
+    "titulo": "Calzadas fuera de poblado con tres o más carriles para el mismo sentido de la marcha",
+    "texto": "Cuando una calzada tenga tres o más carriles en el sentido de su marcha, los conductores de camiones o furgones con masa máxima autorizada superior a 3.500 kg, los de vehículos especiales que no estén obligados a circular por el arcén y los de conjuntos de vehículos de más de 7 metros de longitud, circularán normalmente por el carril situado más a su derecha.\n\nNo obstante, podrán utilizar, como máximo, el carril inmediato al derecho, cuando las circunstancias del tráfico o de la vía lo aconsejen y a condición de no entorpecer la marcha de otro vehículo que les siga."
+  },
+  {
+    "n": 39,
+    "tipo": "video",
+    "titulo": "Utilización de carriles en poblado. Calzadas con más de un carril para el mismo sentido",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/yUO1IkCaams?si=5-tjODYHUavUH56x"
+  },
+  {
+    "n": 40,
+    "tipo": "imagen",
+    "titulo": "Circulación en poblado en calzadas con más de un carril para el mismo sentido",
+    "texto": "Calzadas con carriles delimitados por líneas longitudinales:\nLos vehículos automóviles (turismos, camiones, autobuses, motocicletas, etc.) y los vehículos especiales, independientemente de su masa máxima autorizada, podrán circular por el carril que mejor convenga a su destino.\n\nCalzadas con carriles NO delimitados por líneas longitudinales:\nEn este tipo de calzadas, los vehículos en general deben circular por la derecha.\n\nCiclos, bicicletas, ciclomotores, vehículos para personas de movilidad reducida y vehículos de tracción animal:\nCircularán siempre por el carril situado más a la derecha, independientemente de que los carriles estén o no delimitados."
+  },
+  {
+    "n": 41,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 42,
+    "tipo": "video",
+    "titulo": "Vehículos obligados a circular por el arcén",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/5pUfhWxDTsQ?si=LV1pFoYtcufLPYuC"
+  },
+  {
+    "n": 43,
+    "tipo": "imagen",
+    "titulo": "Circulación por la parte imprescindible de la calzada",
+    "texto": "Si no existe arcén, si es insuficiente o no es transitable, los vehículos obligados a circular por el arcén deberán circular por la parte imprescindible de la calzada."
+  },
+  {
+    "n": 44,
+    "tipo": "imagen",
+    "titulo": "Circulación en poblado",
+    "texto": "Los vehículos obligados a circular por el arcén, excepto los vehículos especiales, cuando circulen en poblado, deberán hacerlo por el arcén o, en su defecto, por la parte derecha de la calzada."
+  },
+  {
+    "n": 45,
+    "tipo": "imagen",
+    "titulo": "Utilización del arcén por razones de emergencia",
+    "texto": "También deberán circular por el arcén de la derecha los vehículos cuya masa máxima autorizada no exceda de 3.500 kg cuando, por razones de emergencia, circulen a velocidad anormalmente reducida perturbando con ello la circulación.\n\nCuando circulen en tales circunstancias por autopistas y autovías, estos vehículos están obligados a abandonarlas por la primera salida."
+  },
+  {
+    "n": 46,
+    "tipo": "imagen",
+    "titulo": "Circulación en posición paralela",
+    "texto": "Se prohíbe que los vehículos obligados a circular por el arcén circulen en posición paralela, salvo las bicicletas, que podrán hacerlo en columna de a dos, orillándose todo lo posible al extremo derecho de la vía y colocándose en hilera en tramos sin visibilidad, y cuando formen aglomeraciones de tráfico."
+  },
+  {
+    "n": 47,
+    "tipo": "imagen",
+    "titulo": "Descensos prolongados con curvas",
+    "texto": "En los descensos prolongados con curvas, cuando razones de seguridad lo permitan, los conductores de bicicletas podrán abandonar el arcén y circular por la parte derecha de la calzada que necesiten."
+  },
+  {
+    "n": 48,
+    "tipo": "imagen",
+    "titulo": "Circulación de ciclomotores en posición paralela",
+    "texto": "Excepcionalmente, cuando el arcén sea transitable y suficiente, los ciclomotores podrán circular en columna de a dos por este, sin invadir la calzada en ningún caso."
+  },
+  {
+    "n": 49,
+    "tipo": "imagen",
+    "titulo": "Adelantamientos",
+    "texto": "Los vehículos obligados a circular por el arcén, excepto las bicicletas, no podrán adelantar a otro si la duración de la marcha de los vehículos colocados paralelamente excede los 15 segundos o el recorrido efectuado en dicha forma supera los 200 metros."
+  },
+  {
+    "n": 50,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 51,
+    "tipo": "imagen",
+    "titulo": "Circulación  por vías divididas en dos calzadas",
+    "texto": "En vías divididas en dos calzadas en el sentido de su longitud, por medianas, separadores o dispositivos análogos, los vehículos deben utilizar la calzada de la derecha en relación con el sentido de su marcha."
+  },
+  {
+    "n": 52,
+    "tipo": "imagen",
+    "titulo": "Circulación  por vías divididas en tres calzadas",
+    "texto": "En vías divididas en tres calzadas, se circulará por las calzadas laterales en un solo sentido, mientras que la calzada central podrá estar destinada a la circulación en los dos sentidos o en uno solo."
+  },
+  {
+    "n": 53,
+    "tipo": "video",
+    "titulo": "Ejemplo de circulación  por vías divididas en tres calzadas",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/uNTrLfnVzW4"
+  },
+  {
+    "n": 54,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 55,
+    "tipo": "imagen",
+    "titulo": "Carril BUS y carril reservado para tipos específicos de vehículos",
+    "texto": "Este carril, reservado para autobuses, puede estar también destinado a la circulación de determinados vehículos, como taxis, motocicletas, etc. El resto de vehículos tiene prohibida la circulación por este carril.\n\nEn los tramos en que la marca blanca longitudinal esté constituida, en el lado exterior de este carril, por una línea discontinua, se permite su utilización general exclusivamente para realizar alguna maniobra que no sea la de parar, estacionar, cambiar el sentido de la marcha o adelantar, dejando siempre preferencia a los autobuses y, en su caso, a los taxis."
+  },
+  {
+    "n": 56,
+    "tipo": "imagen",
+    "titulo": "Carriles reservados para el tráfico en función de la velocidad señalizada",
+    "texto": "Este carril o carriles, a los que se refiere la señal de velocidad mínima, sólo puede ser utilizado por vehículos que circulen a velocidad igual o superior a la indicada aunque, si las circunstancias lo permiten, deben circular por el carril de la derecha."
+  },
+  {
+    "n": 57,
+    "tipo": "video",
+    "titulo": "Carriles reservados para el tráfico en función de la velocidad señalizada",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/CHI1bx6Vbi8"
+  },
+  {
+    "n": 58,
+    "tipo": "imagen",
+    "titulo": "Carril de aceleración",
+    "texto": "El conductor de un vehículo que pretenda utilizar un carril de aceleración para incorporarse a la calzada deberá cerciorarse, al principio de dicho carril, de que puede hacerlo sin peligro para los demás usuarios que transiten por dicha calzada, teniendo en cuenta la posición, trayectoria y velocidad de éstos, e incluso deteniéndose, en caso necesario. \n\nA continuación, acelerará hasta alcanzar la velocidad adecuada al final del carril de aceleración para incorporarse a la circulación de la calzada."
+  },
+  {
+    "n": 59,
+    "tipo": "video",
+    "titulo": "Carril de aceleración",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/ZvVqKnxOux8?si=OB721CvLLC5018Fm"
+  },
+  {
+    "n": 60,
+    "tipo": "imagen",
+    "titulo": "Carril de deceleración",
+    "texto": "Para abandonar una autopista, autovía o cualquier otra vía, los conductores deberán circular con suficiente antelación por el carril más próximo a la salida y penetrar lo antes posible en el carril de deceleración.\n\nEl carril de deceleración permite realizar una disminución progresiva de la velocidad para adaptarla a la nueva vía, sin entorpecer la marcha de los carriles principales de la vía que se abandona."
+  },
+  {
+    "n": 61,
+    "tipo": "imagen",
+    "titulo": "Carril de trenzado",
+    "texto": "Carril constituido por la unión de un carril de aceleración y otro de deceleración consecutivo.\n\nEste carril permite la entrada o salida de una determinada vía de circulación, generalmente autopistas o autovías."
+  },
+  {
+    "n": 62,
+    "tipo": "imagen",
+    "titulo": "Cómputo de carriles",
+    "texto": "Para el cómputo de carriles, a efectos de su utilización, no se tendrán en cuenta los reservados a determinados vehículos o a ciertas maniobras."
+  },
+  {
+    "n": 63,
+    "tipo": "imagen",
+    "titulo": "Carril reversible",
+    "texto": "En calzadas con doble sentido de circulación, cuando las marcas dobles discontinuas delimiten un carril por ambos lados, indica que éste es reversible, es decir, que en él la circulación puede estar regulada en uno o en otro sentido mediante semáforos de carril u otros medios.\n\nPor estos carriles podrán circular todos los vehículos que estén autorizados a circular por la calzada, los cuales deberán llevar encendida, al menos, la luz de corto alcance o cruce, tanto de día como de noche, y no deberán invadir el carril situado a la izquierda del reversible ni para adelantar."
+  },
+  {
+    "n": 64,
+    "tipo": "imagen",
+    "titulo": "Carril reversible",
+    "texto": "En los carriles reversibles, la velocidad máxima permitida será la establecida con carácter general, en función del tipo de vía de que se trate, o bien la indicada específicamente por las correspondientes señales.\n\nEn cualquier caso, al circular por un carril reversible, se deben respetar el resto de las señales que se encuentren en la vía."
+  },
+  {
+    "n": 65,
+    "tipo": "video",
+    "titulo": "Carriles de utilización en sentido contrario al habitual",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/i4GegzVMRsc"
+  },
+  {
+    "n": 66,
+    "tipo": "imagen",
+    "titulo": "Carril de utilización en sentido contrario al habitual por motivos de fluidez",
+    "texto": "Por un carril habilitado en sentido contrario al habitual por motivos de fluidez, solamente pueden circular los turismos sin remolque y las motocicletas, con o sin sidecar; el resto de vehículos lo tienen prohibido.\n\nLos vehículos que circulen por uno de estos carriles deben cumplir las siguientes obligaciones:\n\n- Deberán llevar al menos la luz de corto alcance o de cruce encendida, tanto de día como de noche.\n\n- Circularán a una velocidad máxima de 80 km/h y a una mínima de 60, o inferior si así estuviera establecido o específicamente señalizado.\n\n- No podrán desplazarse lateralmente invadiendo el carril o carriles destinados al sentido normal de circulación, ni siquiera para adelantar."
+  },
+  {
+    "n": 67,
+    "tipo": "imagen",
+    "titulo": "Circulación por carriles contiguos",
+    "texto": "Los conductores de los vehículos que circulen por carriles destinados al sentido normal de circulación, contiguos al habilitado para circulación en sentido contrario al habitual, tampoco podrán desplazarse lateralmente invadiendo los habilitados para ser utilizados en sentido contrario al habitual y llevarán encendida la luz de corto alcance o cruce, al menos, tanto de día como de noche.\n\nAdemás, si disponen de un solo carril en su sentido de circulación, lo harán a una velocidad máxima de 80 kilómetros por hora y a una mínima de 60, o inferiores si así estuviera establecido o específicamente señalizado.\n\nSi disponen de más de un carril en su sentido de circulación, lo harán a las velocidades que estén establecidas de forma genérica o específica."
+  },
+  {
+    "n": 68,
+    "tipo": "imagen",
+    "titulo": "Carriles habilitados en sentido contrario al habitual, por trabajos en la calzada",
+    "texto": "Por un carril habilitado en sentido contrario al habitual debido a la realización de trabajos en la calzada, podrán circular todos los vehículos que estén autorizados a circular por la vía en obras, salvo prohibición expresa, en las mismas condiciones establecidas para los carriles habilitados por motivos de fluidez."
+  },
+  {
+    "n": 69,
+    "tipo": "video",
+    "titulo": "Carriles adicionales circunstanciales de circulación",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/d4fmnkizycg"
+  },
+  {
+    "n": 70,
+    "tipo": "imagen",
+    "titulo": "Circulación por carriles adicionales circunstanciales",
+    "texto": "Los vehículos que circulen por los arcenes y por el carril adicional, deberán:\n\nLlevar encendido, al menos, el alumbrado de corto alcance o cruce tanto de día como de noche.\n\nCircular a una velocidad máxima de 80 km/h y a una mínima de 60, o inferior si así estuviera establecido o específicamente señalizado."
+  },
+  {
+    "n": 71,
+    "tipo": "imagen",
+    "titulo": "Carril para vehículos con alta ocupación",
+    "texto": "Carril de alta ocupación es aquel especialmente reservado o habilitado para la circulación de los vehículos con alta ocupación.\n\nLa habilitación o reserva de uno o varios carriles para la circulación de VAO podrá ser permanente o temporal, con horario fijo o en función del estado de la circulación."
+  },
+  {
+    "n": 72,
+    "tipo": "imagen",
+    "titulo": "Carriles para vehículos con alta ocupación (VAO)",
+    "texto": "Vehículos con alta ocupación son aquellos destinados exclusivamente al transporte de personas, cuya masa máxima autorizada no exceda de 3.500 kilogramos, que estén ocupados por el número de personas que se fije para cada tramo de la red viaria.\n\nLa utilización del carril VAO queda limitada a motocicletas, turismos y vehículos mixtos adaptables, y está prohibida, por tanto, al resto de los vehículos y conjuntos de vehículos, incluidos los turismos con remolque, así como a peatones, ciclos, ciclomotores, vehículos de tracción animal y animales.\n\nTambién podrán ser utilizados por los vehículos mencionados, aun cuando sólo lo ocupe su conductor, si el vehículo ostenta la señal de minusválidos (V-15)."
+  },
+  {
+    "n": 73,
+    "tipo": "imagen",
+    "titulo": "Carriles para vehículos con alta ocupación (VAO)",
+    "texto": "Los autobuses con masa máxima autorizada superior a 3.500 kilogramos y autobuses articulados, con independencia de su número de ocupantes,  tienen permitido circular por los carriles VAO en las mismas condiciones de circulación establecidas para vehículos de alta ocupación, si así se indica reglamentariamente.\n\nLos vehículos de policía, extinción de incendios, protección civil y salvamento y asistencia sanitaria en servicio de urgencia, así como los equipos de mantenimiento de las instalaciones y de la infraestructura de la vía, podrán utilizar los carriles reservados."
+  },
+  {
+    "n": 74,
+    "tipo": "imagen",
+    "titulo": "Carriles para vehículos con alta ocupación (VAO)",
+    "texto": "En circunstancias no habituales y por razones de seguridad vial o fluidez de la circulación, se podrá permitir, recomendar u ordenar a otros vehículos la utilización del carril VAO (por ejemplo, para aquellos que porten un determinado distintivo ambiental).\n\nEnhorabuena, has superado el 80% del tema\n\nOk"
+  },
+  {
+    "n": 75,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 76,
+    "tipo": "imagen",
+    "titulo": "Refugios, isletas y dispositivos de vía o análogos",
+    "texto": "Como norma general, cuando en la vía existan refugios, isletas o dispositivos de guía, se circulará por la parte de la calzada que quede a la derecha de los mismos."
+  },
+  {
+    "n": 77,
+    "tipo": "imagen",
+    "titulo": "Refugios, isletas y dispositivos de vía o análogos",
+    "texto": "Cuando estos elementos estén situados en una vía de sentido único o dentro de la parte correspondiente a un solo sentido de circulación, se podrá circular por cualquiera de los dos lados."
+  },
+  {
+    "n": 78,
+    "tipo": "imagen",
+    "titulo": "Plazas, glorietas y otros encuentros de vías",
+    "texto": "En las plazas, glorietas y encuentros de vías, los vehículos circularán dejando a la izquierda el centro de la misma."
+  },
+  {
+    "n": 79,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 80,
+    "tipo": "imagen",
+    "titulo": "Circulación de peatones",
+    "texto": "Los peatones están obligados a transitar por la zona peatonal, salvo cuando ésta no exista o no sea practicable; en tal caso, podrán hacerlo por el arcén o, en su defecto, por la calzada."
+  },
+  {
+    "n": 81,
+    "tipo": "imagen",
+    "titulo": "Circulación de peatones",
+    "texto": "Cuando utilicen monopatines, patines o aparatos similares no podrán circular por la calzada, salvo que se trate de zonas, vías o partes de estas que les estén especialmente destinadas.\n\nSolo podrán circular a paso de persona por las aceras o por las calles debidamente señalizadas, sin que en ningún caso se permita que sean arrastrados por otros vehículos."
+  },
+  {
+    "n": 82,
+    "tipo": "imagen",
+    "titulo": "Circulación de peatones en calzada o arcén",
+    "texto": "En las vías fuera de poblado y travesías que no dispongan de espacio especialmente reservado para peatones, como norma general, la circulación de los mismos se hará por la izquierda. \n\nNo obstante, la circulación de peatones se llevará a cabo por la derecha cuando concurran circunstancias que así lo justifiquen por razones de seguridad.\n\nEn vías urbanas, los peatones podrán circular por la derecha o por la izquierda."
+  },
+  {
+    "n": 83,
+    "tipo": "imagen",
+    "titulo": "Circulación de peatones. Excepciones",
+    "texto": "Deberán circular siempre por su derecha:\n\n- los que empujen o arrastren un ciclo o ciclomotor de dos ruedas.\n\n- los que empujen o arrastren carros de mano o aparatos similares.\n\n- todo grupo de peatones dirigido por una persona o que forme cortejo.\n\n- las personas de movilidad reducida que se desplacen en silla de ruedas.\n\nTodos ellos habrán de obedecer las señales dirigidas a los conductores de vehículos: las de los agentes y semáforos, siempre; y las demás, en cuanto les sean aplicables."
+  },
+  {
+    "n": 84,
+    "tipo": "imagen",
+    "titulo": "Paso de peatones y cruce de la calzada",
+    "texto": "Cuando existan pasos para peatones, los que se dispongan a atravesar la calzada deberán hacerlo precisamente por ellos, sin que puedan efectuarlo por las proximidades."
+  },
+  {
+    "n": 85,
+    "tipo": "imagen",
+    "titulo": "Paso de peatones y cruce de la calzada",
+    "texto": "Además, los peatones deben tener en cuenta que:\n\n- Si el paso dispone de semáforos para peatones, deberán obedecer sus indicaciones.\n\n- Si no existiera semáforo para peatones pero la circulación de vehículos estuviera regulada por agente o semáforo, no penetrarán en la calzada mientras la señal del agente o del semáforo permita la circulación de vehículos por ella.\n\n- En los restantes pasos para peatones señalizados mediante la correspondiente marca vial, aunque tienen preferencia, sólo deben penetrar en la calzada cuando la distancia y la velocidad de los vehículos que se aproximen permitan hacerlo con seguridad."
+  },
+  {
+    "n": 86,
+    "tipo": "imagen",
+    "titulo": "Circulación de peatones por plazas y glorietas",
+    "texto": "Los peatones no podrán atravesar las plazas y glorietas por su calzada, por lo que deberán rodearlas."
+  },
+  {
+    "n": 87,
+    "tipo": "imagen",
+    "titulo": "Circulación nocturna de peatones",
+    "texto": "Fuera de poblado, entre el ocaso y la salida del sol o en condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, todo peatón, cuando circule por la calzada o el arcén, deberá ir provisto de un elemento luminoso o retrorreflectante homologado que sea visible a una distancia mínima de 150 metros.\n\nLos grupos de peatones dirigidos por una persona o que formen cortejo llevarán, además, en el lado más próximo al centro de la calzada, las luces necesarias para precisar su situación y dimensiones, las cuales serán de color blanco o amarillo hacia adelante y rojo hacia atrás."
+  },
+  {
+    "n": 88,
+    "tipo": "imagen",
+    "titulo": "Circulación de animales",
+    "texto": "Solo se permite el tránsito de animales de tiro, carga o silla, cabezas de ganado aisladas, en manada o rebaño, cuando no exista itinerario practicable por vía pecuaria y siempre que vayan custodiados por alguna persona."
+  },
+  {
+    "n": 89,
+    "tipo": "imagen",
+    "titulo": "Circulación de animales",
+    "texto": "Los animales deben ir conducidos, al menos, por una persona mayor de 18 años, capaz de dominarlos en todo momento, la cual observará, además de las normas establecidas para los conductores de vehículos que puedan afectarle, las siguientes prescripciones:\n\n- No invadirán la zona peatonal.\n\n- Los animales de tiro, carga o silla o el ganado suelto circularán por el arcén del lado derecho, y si tuvieran que utilizar la calzada, lo harán aproximándose cuanto sea posible al borde derecho de ésta; por excepción, se permite conducir uno solo de tales animales por el borde izquierdo, si razones de mayor seguridad así lo aconsejan.\n\n- Los animales conducidos en manada o rebaño irán al paso, lo más cerca posible del borde derecho de la vía y de forma que nunca ocupen más de la mitad derecha de la calzada, divididos en grupos de longitud moderada, cada uno de los cuales con un conductor al menos y suficientemente separados para entorpecer lo menos posible la circulación.\n\n- Sólo atravesarán las vías por pasos autorizados y señalizados al efecto o por otros lugares que reúnan las necesarias condiciones de seguridad.\n\n- Si circulan de noche por vía insuficientemente iluminada o bajo condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, su conductor o conductores llevarán en el lado más próximo al centro de la calzada luces en número necesario para precisar su situación y dimensiones, que serán de color blanco o amarillo hacia delante, y rojo hacia atrás."
+  },
+  {
+    "n": 90,
+    "tipo": "imagen",
+    "titulo": "Circulación de animales",
+    "texto": "Se prohíbe dejar animales sin custodia en cualquier clase de vía o en sus inmediaciones, siempre que exista la posibilidad de que éstos puedan invadir la vía."
+  },
+  {
+    "n": 91,
+    "tipo": "imagen",
+    "titulo": "Vehículos de movilidad personal",
+    "texto": "Los usuarios que utilicen vehículos de movilidad personal (VMP), no podrán circular por las aceras, zonas peatonales, túneles de poblado, travesías, vías interurbanas, y autopistas y autovías que discurren dentro de poblado.\n\nEstos vehículos deben estar equipados con dos frenos independientes, aunque se permite su accionamiento mediante un único mando."
+  },
+  {
+    "n": 92,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  }
+]

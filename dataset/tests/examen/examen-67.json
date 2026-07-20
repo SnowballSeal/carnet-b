@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 67,
+  "nombre": "Test de examen 67",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "\tEn caso de accidente, ¿qué sistema del automóvil recopila y registra la información para poder conocer lo que ha ocurrido antes, durante y después del siniestro?\n",
+      "imagen": "examen-67_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El ABS."
+        },
+        {
+          "letra": "B",
+          "texto": "El EDR."
+        },
+        {
+          "letra": "C",
+          "texto": "El ESP. "
+        }
+      ],
+      "ayuda": "El dispositivo de \"caja negra\" EDR (Event Data Recorder o Registrador de Datos de Eventos), al ocurrir un accidente, graba todos los datos durante los 30 segundos previos al siniestro y los cinco posteriores.  ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Hay niebla y no es densa. Si su vehículo tiene luces de antiniebla, ¿qué luces debe encender?",
+      "imagen": "examen-67_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La luz de antiniebla trasera."
+        },
+        {
+          "letra": "B",
+          "texto": "La luz de antiniebla delantera y la trasera."
+        },
+        {
+          "letra": "C",
+          "texto": "La luz de antiniebla delantera."
+        }
+      ],
+      "ayuda": "Cuando existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, como en caso de niebla, lluvia intensa, nevada, nubes de humo o de polvo o cualquier otra circunstancia similar, se deberá utilizar la luz antiniebla delantera o la luz de corto o largo alcance.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Circula con su turismo por el arcén para facilitar el adelantamiento. ¿Es correcto?",
+      "imagen": "examen-67_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en vías estrechas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque el arcén es ancho."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El conductor que advierta que otro que le sigue tiene el propósito de adelantar a su vehículo estará obligado a ceñirse al borde derecho de la calzada, salvo excepciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Una incorrecta presión de inflado...",
+      "imagen": "examen-67_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "hace que el neumático se desgaste de forma regular."
+        },
+        {
+          "letra": "B",
+          "texto": "puede aumentar el consumo de carburante.\n"
+        },
+        {
+          "letra": "C",
+          "texto": "reduce el riesgo de reventón del neumático."
+        }
+      ],
+      "ayuda": "Uno de las consecuencias de circular con una presión de inflado incorrecta en los neumáticos, es que puede aumentar el consumo de carburante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "La reanimación de un accidentado, ¿cuánto tiempo debe durar?",
+      "imagen": "examen-67_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Si después de dos minutos no se ha recuperado es mejor dejarlo."
+        },
+        {
+          "letra": "B",
+          "texto": "Cinco minutos como máximo."
+        },
+        {
+          "letra": "C",
+          "texto": "Hasta que se recupere o llegue la ayuda médica."
+        }
+      ],
+      "ayuda": "La reanimación cardio-pulmonar a un herido no se debe interrumpir hasta que llegue la ayuda cualificada, la víctima comience a respirar normalmente o el auxiliador se agote.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Cuando señaliza un cambio de carril, ¿tiene preferencia sobre los vehículos que ya circulan por ese carril?",
+      "imagen": "examen-67_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Toda maniobra que implique cambio de carril deberá realizarse respetando la prioridad del vehículo que circule por el carril que se pretende ocupar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Si por avería, queda inmovilizado dentro de un túnel, deberá...",
+      "imagen": "examen-67_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "apagar todas las luces y en ningún caso abandonar el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "apagar el motor, conectar las luces de emergencia y mantener la luz de posición."
+        },
+        {
+          "letra": "C",
+          "texto": "apagar todas las luces y poner punto muerto."
+        }
+      ],
+      "ayuda": "Si por motivos de emergencia, un vehículo queda inmovilizado dentro de un túnel o paso inferior, su conductor deberá: apagar el motor, conectar la señal de emergencia y mantener encendidas las luces de posición.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Para hacer la respiración boca-boca a un herido, ¿qué debe hacer primero?",
+      "imagen": "examen-67_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Limpiar y abrir las vías respiratorias."
+        },
+        {
+          "letra": "B",
+          "texto": "Colocar al herido en posición de defensa."
+        },
+        {
+          "letra": "C",
+          "texto": "Taparle la nariz."
+        }
+      ],
+      "ayuda": "Antes de practicarle la respiración boca a boca a un herido, se le deben abrir las vías respiratorias y comprobar que no haya ningún objeto extraño en la boca.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "Un ciclista ha consumido estupefacientes, ¿puede circular?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si ha consumido poca cantidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque la bicicleta no es un vehículo de motor."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos o bicicletas que hayan consumido sustancias estupefacientes (psicotrópicos, estimulantes, sustancias que alteren su estado físico o mental, etc.) no podrán circular por las vías públicas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "En los vehículos no destinados exclusivamente al transporte de mercancías, ¿puede sobresalir una carga indivisible por la parte posterior?",
+      "imagen": "examen-67_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, hasta un 10 por ciento de la longitud del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, hasta un 15 por ciento de la longitud del vehículo."
+        }
+      ],
+      "ayuda": "Como norma general, la carga no puede sobresalir de la proyección en planta del vehículo. Excepcionalmente en los vehículos no destinados exclusivamente al transporte de mercancías, la carga, cuando sea divisible, podrá sobresalir por la parte trasera hasta un 10 % de la longitud del vehículo y, en caso de que sea indivisible hasta un 15 % de dicha longitud.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "El conductor de una motocicleta, antes de cambiar de carril, ¿qué debe tener en cuenta?",
+      "imagen": "examen-67_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que señalizar la maniobra siempre da prioridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Que a ciertas velocidades puede ser difícil que sea percibido por los demás usuarios."
+        },
+        {
+          "letra": "C",
+          "texto": "Que las motocicletas son siempre más fáciles de ver si llevan al alumbrado encendido."
+        }
+      ],
+      "ayuda": "El conductor de una motocicleta, antes de realizar un cambio de carril, debe tener en cuenta que a ciertas velocidades es difícil que sea percibido por los demás usuarios, por lo que deberá realizar el desplazamiento extremando la precaución.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En una vía de doble sentido un vehículo va a girar a la izquierda, ¿debe facilitar el adelantamiento por la derecha a los demás vehículos?",
+      "imagen": "examen-67_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, arrimándose a la izquierda de su carril todo lo posible, pero sin obstaculizar a los vehículos que circulen en sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, arrimándose todo lo posible al borde izquierdo de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "No, ya que deben adelantar por la izquierda."
+        }
+      ],
+      "ayuda": "Para efectuar la maniobra de cambio de dirección a la izquierda, en una vía de doble sentido de circulación, el conductor facilitará que le adelanten por la derecha ciñéndose a la línea longitudinal de separación entre sentidos o, si no existiera, al eje de la calzada, sin invadir la zona destinada al sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Está permitido realizar una parada delante de un vado señalizado?",
+      "imagen": "examen-67_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, únicamente para subir o bajar personas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Delante de los vados correctamente señalizados queda prohibido estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Todos los turismos están obligados a llevar dos espejos como mínimo. ¿Qué espejo es siempre obligatorio?",
+      "imagen": "examen-67_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "El izquierdo."
+        },
+        {
+          "letra": "C",
+          "texto": "El central."
+        }
+      ],
+      "ayuda": "El espejo retrovisor exterior del lado izquierdo es siempre obligatorio.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Si tiene que empujar a pie un ciclomotor de dos ruedas por una vía interurbana sin arcén, ¿por dónde circulará?",
+      "imagen": "examen-67_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el lado izquierdo, como los peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el lado derecho de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "En este caso no se puede circular."
+        }
+      ],
+      "ayuda": "Fuera de poblado, quienes empujen o arrastren un ciclo o ciclomotor de dos ruedas deberán circular siempre por el lado derecho de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿A qué velocidad como mínimo debe circular con un turismo en esta autovía?",
+      "imagen": "examen-67_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A una velocidad inferior a un tercio con respecto de la genérica de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "A 80 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A 60 km/h."
+        }
+      ],
+      "ayuda": "En autopista o autovía, los vehículos de motor no podrán circular a una velocidad inferior a 60 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "En una vía cortada no se puede cambiar el sentido. ¿Está permitido salir en marcha atrás?",
+      "imagen": "examen-67_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero sin recorrer más de 20 metros y efectuándola lo más rápido posible."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero el recorrido mínimo indispensable."
+        }
+      ],
+      "ayuda": "Uno de los casos en los que se permite circular marcha atrás es cuando no sea posible circular hacia adelante, ni cambiar de dirección o sentido de la marcha, y siempre que se recorra la distancia mínima indispensable.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "La carga de su turismo sobresale por detrás. ¿Qué debe hacer?",
+      "imagen": "examen-67_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Señalizarla con paneles de franjas rojas y blancas."
+        },
+        {
+          "letra": "B",
+          "texto": "No es obligatorio señalizarla."
+        },
+        {
+          "letra": "C",
+          "texto": "Señalizarla con tela de color."
+        }
+      ],
+      "ayuda": "Cuando la carga sobresalga por la parte trasera de un vehículo deberá colocarse, en el extremo posterior de la carga, la señal V-20, consistente en un panel cuadrado con franjas alternas rojas y blancas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Si va a efectuar un giro en esta intersección, ¿cómo debe avisar a los demás conductores?",
+      "imagen": "examen-67_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Con el brazo o con el claxon."
+        },
+        {
+          "letra": "B",
+          "texto": "Con las luces de los intermitentes o con el brazo."
+        },
+        {
+          "letra": "C",
+          "texto": "Con las luces o con el claxon."
+        }
+      ],
+      "ayuda": "Los conductores están obligados a advertir a los demás usuarios de las maniobras que van a realizar. Como norma general, dichas advertencias deberán realizarse mediante la señalización luminosa del vehículo o, en su defecto, con el brazo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "En una vía urbana las motocicletas al adelantar, ¿qué separación lateral están obligadas a dejar?",
+      "imagen": "examen-67_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "1,50 metros, como mínimo."
+        },
+        {
+          "letra": "B",
+          "texto": "Una separación proporcional a la velocidad y a la anchura de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "2,50 metros, como mínimo."
+        }
+      ],
+      "ayuda": "En poblado, el conductor del vehículo que realiza un adelantamiento debe dejar un margen lateral de seguridad proporcional a la velocidad y, a la anchura y características de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "En una carretera, ¿qué vehículos deben guardar una separación mínima de 50 metros?",
+      "imagen": "examen-67_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los turismos."
+        },
+        {
+          "letra": "B",
+          "texto": "Los conjuntos de vehículos de más de 10 metros de longitud."
+        },
+        {
+          "letra": "C",
+          "texto": "Todos los camiones."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos de más de 3.500 kg y de vehículos o conjuntos de vehículos de más de 10 metros de longitud, que circulen detrás de otro vehículo sin intención de adelantar, deberán guardar una distancia mínima de 50 metros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Circula de noche con el alumbrado interior encendido. ¿Es peligroso?",
+      "imagen": "examen-67_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque veo peor."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque evita deslumbramientos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque descansa la vista."
+        }
+      ],
+      "ayuda": "Circular de noche, con el alumbrado interior del vehículo encendido resulta peligroso porque el conductor tiene una peor visión de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Cuando un carril está delimitado a ambos lados por doble línea discontinua, ¿qué deben hacer los conductores?",
+      "imagen": "examen-67_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Seguir las indicaciones marcadas por semáforos de carril, porque la circulación puede estar regulada en uno o en otro sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "Utilizarlo sólo para adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "No circular por él porque la circulación está prohibida."
+        }
+      ],
+      "ayuda": "En una calzada de doble sentido de circulación, cuando un carril esté delimitado por marcas dobles discontinuas a ambos lados, el conductor debe respetar las indicaciones de los semáforos de carril u otros medios, ya que se trata de un carril reversible y la circulación puede estar regulada en uno o en otro sentido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "Por encima de esta línea de borde de calzada, ¿puede circular?",
+      "imagen": "examen-67_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque no vienen vehículos en sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque no debo circular sobre la línea ni por el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque es una línea continua de borde de la calzada."
+        }
+      ],
+      "ayuda": "Como norma general, los vehículos deben circular por la calzada y no por el arcén, quedando prohibido hacerlo sobre las líneas, tanto longitudinales como de borde de calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Para advertir que va a realizar una maniobra, mantendrá la señalización luminosa hasta...",
+      "imagen": "examen-67_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que los demás usuarios hayan visto la señalización."
+        },
+        {
+          "letra": "B",
+          "texto": "el momento que empiece la maniobra.\n"
+        },
+        {
+          "letra": "C",
+          "texto": "que termine la maniobra."
+        }
+      ],
+      "ayuda": "Cuando se advierta una maniobra mediante señales luminosas, éstas se efectuarán con antelación suficiente a la iniciación de la maniobra, y se mantendrán en funcionamiento hasta que termine aquélla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Circula por una autovía y sufre una avería que le obliga a llevar una velocidad anormalmente reducida, ¿qué debe hacer?",
+      "imagen": "examen-67_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Continuar la marcha hasta llegar al destino encendiendo el alumbrado de cruce."
+        },
+        {
+          "letra": "B",
+          "texto": "Circular hasta la primera salida por la que debe abandonar la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "No detenerse en ningún caso."
+        }
+      ],
+      "ayuda": "En una autopista o autovía, todo conductor que, por razones de emergencia, se vea obligado a circular a velocidad anormalmente reducida deberá abandonarla por la primera salida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Dentro de un túnel con más de un carril para cada sentido de circulación, ¿se permite adelantar?",
+      "imagen": "examen-67_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando no haya señales que lo prohíban."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero sólo dentro de poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido."
+        }
+      ],
+      "ayuda": "En los túneles o pasos inferiores con circulación en ambos sentidos, está prohibido el adelantamiento, salvo que exista más de un carril para su sentido de circulación, (en los que se podrá adelantar sin invadir el sentido contrario) y siempre que no haya señales que lo prohíban.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Si conduce una motocicleta, ¿es obligatorio llevar puesto un chaleco reflectante?",
+      "imagen": "examen-67_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para utilizarlo en caso de avería en una vía interurbana."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque en caso de lluvia es obligatorio llevarlo puesto."
+        },
+        {
+          "letra": "C",
+          "texto": "No, no es obligatorio pero es recomendable."
+        }
+      ],
+      "ayuda": "Aunque los conductores de motocicletas no están obligados, resulta recomendable que lleven un chaleco reflectante en el vehículo.\n\n----",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "El seguro obligatorio, ¿cubre los daños del conductor responsable del accidente?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cubre los daños de todos los ocupantes."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, sólo cubre los daños personales."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El seguro de responsabilidad civil de suscripción obligatoria, no cubre los daños personales ni los daños materiales del conductor responsable del accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "En este tramo de vía, ¿cuándo puede adelantar a una motocicleta?",
+      "imagen": "examen-67_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando deje 1,5 metros o más de distancia de seguridad lateral y no pise la línea de separación."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando deje 1 metro o más de distancia de seguridad y avise con el claxon."
+        },
+        {
+          "letra": "C",
+          "texto": "Nunca, porque está prohibido adelantar."
+        }
+      ],
+      "ayuda": "Cuando se adelante fuera de poblado a peatones, animales o a vehículos de dos ruedas o de tracción animal, se deberá realizar la maniobra ocupando parte o la totalidad del carril contiguo de la calzada, siempre y cuando existan las condiciones precisas para realizar el adelantamiento en las condiciones precisas para realizar el adelantamiento en las condiciones previstas en este Reglamento; en todo caso, la separación lateral no será inferior a 1,50 metros. Queda expresamente prohibido adelantar poniendo en peligro o entorpeciendo a ciclistas que circulen en sentido contrario.\n\nCuando el adelantamiento se efectúe a cualquier otro vehículo distinto de los aludidos en el párrafo anterior, o tenga lugar en poblado, el conductor del vehículo que ha de adelantar dejará un margen lateral de seguridad proporcional a la velocidadyalaanchura y características de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

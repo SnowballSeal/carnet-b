@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 69,
+  "nombre": "Test de examen 69",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En esta calle de un sentido no hay señales que prohíban estacionar. ¿En qué lado se puede estacionar?",
+      "imagen": "examen-69_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En el lado izquierdo y en el derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "En el lado izquierdo solamente."
+        },
+        {
+          "letra": "C",
+          "texto": "En el lado derecho solamente."
+        }
+      ],
+      "ayuda": "Como norma general, en vías urbanas se estacionará lo más cerca posible del borde derecho de la calzada, salvo en las vías de sentido único, en las que se podrá situar el vehículo tanto en el lado derecho como en el izquierdo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Qué vehículo tiene preferencia en el cruce?",
+      "imagen": "examen-69_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El verde."
+        },
+        {
+          "letra": "B",
+          "texto": "El que llegue primero."
+        },
+        {
+          "letra": "C",
+          "texto": "El blanco."
+        }
+      ],
+      "ayuda": "El vehículo verde debe obedecer la señal vertical, la cual obliga a ceder el paso en la próxima intersección a los vehículos que circulen por la vía a la que se aproxima o al carril al que pretende incorporarse.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "En un tramo de vía con la señal \"túnel\", ¿está permitido hacer un cambio de sentido?",
+      "imagen": "examen-69_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "En los túneles y tramos de vía afectados por la señal \"túnel\", está prohibido parar, estacionar, marchar hacia atrás, cambiar el sentido de la marcha y adelantar (esto último, salvo excepciones).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Está permitido que los vehículos prioritarios en servicio de urgencia utilicen únicamente la señal luminosa?",
+      "imagen": "examen-69_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando circulen por vías urbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando no supongan un peligro para los demás usuarios."
+        },
+        {
+          "letra": "C",
+          "texto": "No, tienen que utilizar simultáneamente la señal luminosa y la acústica."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos prioritarios deberán utilizar la señal luminosa aisladamente, cuando la omisión de las señales acústicas especiales no implique peligro alguno para los demás usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Cuándo se producen accidentes de tráfico con más frecuencia?",
+      "imagen": "examen-69_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los lunes."
+        },
+        {
+          "letra": "B",
+          "texto": "En invierno."
+        },
+        {
+          "letra": "C",
+          "texto": "En los períodos de vacaciones y los fines de semana."
+        }
+      ],
+      "ayuda": "En cuanto el período temporal, los accidentes de tráfico se producen con mayor frecuencia durante los períodos de vacaciones (semana santa, verano y diciembre) y en los fines de semana y días festivos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Es recomendable que los guantes que se utilicen para conducir una motocicleta...",
+      "imagen": "examen-69_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sean muy gruesos."
+        },
+        {
+          "letra": "B",
+          "texto": "permitan un agarre firme."
+        },
+        {
+          "letra": "C",
+          "texto": "sean reflectantes."
+        }
+      ],
+      "ayuda": "Una de las características que es aconsejable que cumplan los guantes utilizados por los motociclistas es que tengan la menor masa posible, de modo que permitan un agarre firme y el tacto necesario para utilizar los mandos de la motocicleta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "En general, ¿a quiénes afecta más el alcohol?",
+      "imagen": "examen-69_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A las mujeres."
+        },
+        {
+          "letra": "B",
+          "texto": "A los hombres."
+        },
+        {
+          "letra": "C",
+          "texto": "Los efectos del alcohol no dependen del sexo de la persona."
+        }
+      ],
+      "ayuda": "Dadas dos personas de distinto sexo, que pesen lo mismo y que hayan consumido la misma cantidad de alcohol, es probable que, debido a ciertas diferencias fisiológicas, la mujer alcance valores de alcoholemia más altos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "En las operaciones de carga y descarga está...",
+      "imagen": "examen-69_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "permitido depositar las mercancías en la acera, pero no en la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "permitido depositar las mercancías en la calzada y en la acera."
+        },
+        {
+          "letra": "C",
+          "texto": "prohibido depositar la mercancía en la vía pública."
+        }
+      ],
+      "ayuda": "Al realizar tareas de carga y descarga queda prohibido depositar la mercancía en la calzada, arcén y zonas peatonales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Una cuadrícula de marcas amarillas pintada en el suelo indica...",
+      "imagen": "examen-69_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que no se debe entrar en la intersección si se puede quedar detenido en ella, obstaculizando la circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "que no se puede franquear la intersección."
+        },
+        {
+          "letra": "C",
+          "texto": "que el estacionamiento está prohibido."
+        }
+      ],
+      "ayuda": "Una cuadrícula amarilla pintada en una intersección recuerda la prohibición de penetrar en la misma si previsiblemente puede quedar detenido en ella.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "Un turismo que arrastra un remolque ligero, ¿a qué velocidad máxima puede circular por autopista o autovía?",
+      "imagen": "examen-69_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 80 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "A 90 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A 100 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima establecida con carácter general, en autopistas y autovías situadas fuera de poblado, para automóviles que circulen arrastrando un remolque ligero, es de 90 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Con niebla no espesa, ¿qué luces de antiniebla está permitido encender en su turismo?",
+      "imagen": "examen-69_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La delantera, únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Ninguna."
+        },
+        {
+          "letra": "C",
+          "texto": "La trasera, únicamente."
+        }
+      ],
+      "ayuda": "En caso de niebla no densa, está prohibido encender las luces de antiniebla traseras. No obstante, opcionalmente, se permite encender las de antiniebla delanteras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Es recomendable conducir de noche para evitar el cansancio?",
+      "imagen": "examen-69_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque hay menos tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para evitar los atascos si el viaje es largo."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque el sueño aparece con mayor facilidad."
+        }
+      ],
+      "ayuda": "Existen períodos a lo largo del día en los que el sueño aparece con mayor facilidad. Entre las tres y cinco de la madrugada y entre las dos y las cuatro de la tarde, la aparición de la somnolencia se hace más probable, incluso cuando se ha dormido correctamente la noche anterior. Además, el sueño suele aparecer en las horas en las que estamos acostumbrados a dormir.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Entra en este túnel sin iluminar. ¿Qué alumbrado debe encender?",
+      "imagen": "examen-69_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las luces largas cuando no deslumbre."
+        },
+        {
+          "letra": "B",
+          "texto": "Las luces cortas siempre, las largas están prohibidas."
+        },
+        {
+          "letra": "C",
+          "texto": "Las luces de posición solamente, porque es de día."
+        }
+      ],
+      "ayuda": "En los túneles insuficientemente iluminados situados fuera de poblado, se deberá utilizar el alumbrado de largo alcance, cuando no exista posibilidad de deslumbrar a otros usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "En autopistas y autovías, ¿qué vehículos pueden superar la velocidad máxima permitida para adelantar?",
+      "imagen": "examen-69_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solamente las motocicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "Los turismos y las motocicletas, únicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "No puede superarla ningún vehículo."
+        }
+      ],
+      "ayuda": "En autopistas y autovías ningún vehículo puede superar la velocidad máxima permitida, ni siquiera para adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Para adelantar en una autovía con un turismo, ¿se puede superar la velocidad máxima permitida?",
+      "imagen": "examen-69_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en todas las vías."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, sin sobrepasar los 140 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque está prohibido."
+        }
+      ],
+      "ayuda": "Las velocidades máximas fijadas con carácter general para turismos y motocicletas en autopistas y autovías es de 120 km/h, no estando permitido rebasar dicho límite. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Realizar por las vías públicas carreras y competiciones no autorizadas, ¿puede acarrear la pérdida de puntos del permiso de conducción?",
+      "imagen": "examen-69_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, además están prohibidas."
+        },
+        {
+          "letra": "B",
+          "texto": "No, solamente tendrán una sanción económica."
+        },
+        {
+          "letra": "C",
+          "texto": "No, puesto que se trata de competiciones deportivas."
+        }
+      ],
+      "ayuda": "Conducir de forma temeraria, circular en sentido contrario al establecido o participar en carreras o competiciones no autorizadas, está prohibido y constituye una infracción que lleva aparejada la pérdida de 6 puntos del permiso de conducir.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Un vehículo de bomberos circula con la señalización luminosa especial de vehículos prioritarios encendidas, ¿debe facilitarle el paso?",
+      "imagen": "examen-69_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo cuando utilice también las señales acústicas."
+        }
+      ],
+      "ayuda": "Los vehículos prioritarios tendrán la condición de tales, aún cuando circulen advirtiendo el servicio urgente que realizan solamente con la señal especial luminosa.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Es de noche y necesita inmovilizar su vehículo en el arcén de una carretera por avería. ¿Qué luces debe encender?\n",
+      "imagen": "examen-69_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las luces de emergencia y las luces cortas."
+        },
+        {
+          "letra": "B",
+          "texto": "Las luces de posición y las de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo las luces de posición."
+        }
+      ],
+      "ayuda": "Si de noche y debido a una avería, un conductor se ve obligado a inmovilizar su vehículo en el arcén de una carretera, deberá dejar encendido el alumbrado de posición y el de emergencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Está prohibido efectuar un cambio de sentido...",
+      "imagen": "examen-69_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "donde haya que atravesar una marca longitudinal discontinua."
+        },
+        {
+          "letra": "B",
+          "texto": "en los tramos de vía no afectados por la señal \"túnel\"."
+        },
+        {
+          "letra": "C",
+          "texto": "en los tramos de vía en los que está prohibido adelantar."
+        }
+      ],
+      "ayuda": "La maniobra de cambio de sentido está prohibida en los pasos a nivel, túneles, pasos inferiores y tramos de vía afectados por la señal túnel, en autopistas y autovías (salvo excepciones) y, en general, en todos los tramos de la vía en los que esté prohibido el adelantamiento (salvo que el cambio de sentido esté expresamente autorizado).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "En una calle cortada, donde no es posible circular hacia delante, pero sí cambiar el sentido, ¿está permitido circular marcha atrás?",
+      "imagen": "examen-69_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero sin invadir un cruce de vías."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si no recorren más de 15 metros."
+        }
+      ],
+      "ayuda": "Como norma general, está prohibido circular marcha atrás. De forma excepcional, se permite hacerlo cuando no sea posible circular hacia adelante, cambiar de dirección o de sentido de la marcha, o como maniobra complementaria de otra que la exija.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "La señalización tiene por misión...",
+      "imagen": "examen-69_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "advertir, informar, ordenar o reglamentar el comportamiento de los usuarios de la vía."
+        },
+        {
+          "letra": "B",
+          "texto": "confirmar las excepciones de las normas."
+        },
+        {
+          "letra": "C",
+          "texto": "complementar a las normas."
+        }
+      ],
+      "ayuda": "La señalización de la vía tiene como finalidad advertir a los usuarios de potenciales peligros, proporcionarles información, así como ordenar y reglamentar su comportamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "En la entrada a un túnel, observa estos semáforos, ¿qué debe hacer?",
+      "imagen": "examen-69_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cambiar el sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "Circular a velocidad moderada."
+        },
+        {
+          "letra": "C",
+          "texto": "Detenerme y esperar hasta que los semáforos permitan el paso."
+        }
+      ],
+      "ayuda": "Un semáforo con una luz roja fija prohíbe el paso independientemente del lugar en el que se encuentre situado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "En un vehículo de tres ruedas que tiene cinturones de seguridad, ¿es obligatorio ponerse el casco?",
+      "imagen": "examen-69_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero únicamente en carretera."
+        },
+        {
+          "letra": "B",
+          "texto": "No, hay que ponerse el cinturón."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando sea descapotable."
+        }
+      ],
+      "ayuda": "Los conductores de motocicletas, ciclomotores, vehículos de tres ruedas y cuadriciclos dotados de estructura de protección y que lleven instalados cinturones de seguridad, no están obligados a llevar puesto el casco de protección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "El uso de los intermitentes, ¿contribuye a reducir los accidentes?",
+      "imagen": "examen-69_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, al no formar parte de los sistemas de seguridad activa."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque no es obligatorio su uso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque avisa a los demás de la maniobra."
+        }
+      ],
+      "ayuda": "La finalidad de las luces indicadoras de dirección (intermitentes), es advertir a los demás usuarios de las maniobras que se van a realizar. De ese modo, facilitan la previsión y la anticipación, las cuales constituyen principios básicos en la prevención de accidentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "La señal prohíbe circular a más de 80 km/h. ¿Cuándo termina la prohibición?",
+      "imagen": "examen-69_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Inmediatamente antes de la intersección."
+        },
+        {
+          "letra": "B",
+          "texto": "Después de la intersección."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando encuentre una señal de \"fin de prohibido adelantar\"."
+        }
+      ],
+      "ayuda": "Si una señal de velocidad máxima permitida se encuentra colocada en el mismo poste (o en el mismo panel) que una señal de advertencia de peligro, la prohibición de circular a mayor velocidad que la indicada, finaliza cuando termine el peligro señalado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "El tractor de menos de 3.500 kg de M.M.A, ¿circula correctamente por el arcén?",
+      "imagen": "examen-69_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque debe circular por el carril derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solamente en caso de avería."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos de tracción animal, vehículos especiales con M.M.A no superior a 3.500 kg, ciclos, ciclomotores, vehículos para personas de movilidad reducida o vehículos en seguimiento de ciclistas, circularán por el arcén de su derecha, si fuera transitable y suficiente y, si no lo fuera, utilizarán la parte imprescindible de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "En las autovías, se permite circular...",
+      "imagen": "examen-69_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a vehículos de tracción animal."
+        },
+        {
+          "letra": "B",
+          "texto": "por los arcenes, a conductores de bicicletas mayores de 14 años, salvo que se prohíba por señal."
+        },
+        {
+          "letra": "C",
+          "texto": "a peatones."
+        }
+      ],
+      "ayuda": "Como norma general, se prohíbe circular por autopistas y autovías con vehículos de tracción animal, bicicletas, ciclomotores y vehículos para personas de movilidad reducida. No obstante, los conductores de bicicletas mayores de 14 años podrán circular por los arcenes de las autovías (salvo que por razones justificadas de seguridad vial se prohíba mediante la señalización correspondiente).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Un semáforo de carril con una luz roja en forma de aspa, ¿qué indica?",
+      "imagen": "examen-69_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que la calzada está cerrada al tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "Que, temporalmente, no se puede circular por la vía así señalizada."
+        },
+        {
+          "letra": "C",
+          "texto": "Que está prohibido ocupar el carril sobre el que se encuentra situado."
+        }
+      ],
+      "ayuda": "Una luz roja en forma de aspa determina la prohibición de ocupar el carril sobre el que se encuentra. Los conductores de los vehículos que circulen por dicho carril deberán abandonarlo en el tiempo más breve posible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Qué indican las luces blancas traseras del vehículo?",
+      "imagen": "examen-69_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que está efectuando la maniobra de marcha atrás."
+        },
+        {
+          "letra": "B",
+          "texto": "Que está averiado."
+        },
+        {
+          "letra": "C",
+          "texto": "Que está parado en doble fila."
+        }
+      ],
+      "ayuda": "Una o dos luces blancas encendidas en la parte trasera de un vehículo, indican que éste va a circular marcha atrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Las señales y placas de la parte trasera del camión, ¿qué indican?",
+      "imagen": "examen-69_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que transporta productos alimenticios."
+        },
+        {
+          "letra": "B",
+          "texto": "Que transporta mercancías peligrosas y que mide más de 12 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "Que su peso y dimensiones son mayores que los normales."
+        }
+      ],
+      "ayuda": "El panel de color naranja que se observa en la parte trasera del camión indica que éste transporta mercancías peligrosas. Las señales rectangulares de color amarillo y borde rojo, por su parte, constituyen la señal de \"vehículo largo\" la cual indica que se trata de un vehículo de más de 12 metros de longitud.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

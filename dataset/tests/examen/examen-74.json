@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 74,
+  "nombre": "Test de examen 74",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Cuándo están obligados a utilizar la señal luminosa V-2 los vehículos especiales?",
+      "imagen": "examen-74_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando circulen tanto de día como de noche por vías de uso público."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente cuando circulen de noche por vías de uso público."
+        },
+        {
+          "letra": "C",
+          "texto": "Únicamente cuando circulen de día por vías de uso público."
+        }
+      ],
+      "ayuda": "Los vehículos especiales obligados a utilizar la señal luminosa V-2 deberán llevarla encendida cuando circulen por vías de uso público, tanto de día como de noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Qué elemento del vehículo es importante revisar con más frecuencia?",
+      "imagen": "examen-74_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los neumáticos."
+        },
+        {
+          "letra": "B",
+          "texto": "El líquido de frenos."
+        },
+        {
+          "letra": "C",
+          "texto": "Las luces."
+        }
+      ],
+      "ayuda": "De los elementos mencionados, los neumáticos son los que necesitan ser revisados con mayor frecuencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "En un accidente, si lleva el cinturón con holgura...",
+      "imagen": "examen-74_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "evitará lesiones por quemaduras del cinturón."
+        },
+        {
+          "letra": "B",
+          "texto": "mantiene su eficacia gracias al efecto submarino."
+        },
+        {
+          "letra": "C",
+          "texto": "el cuerpo recorre mayor distancia y puede impactar contra el volante."
+        }
+      ],
+      "ayuda": "Para que el cinturón de seguridad cumpla su función con eficacia debe colocarse bien ceñido al cuerpo. Si se lleva un cinturón con holgura, en caso de accidente, el cuerpo puede recorrer una distancia mayor pudiendo impactar contra las estructuras internas del vehículo como, por ejemplo, el volante.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En materia de tráfico, ¿están los jóvenes muy influenciados por la publicidad?",
+      "imagen": "examen-74_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, todos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, principalmente por aquellos anuncios que incitan claramente al riesgo."
+        },
+        {
+          "letra": "C",
+          "texto": "No, la publicidad no les afecta."
+        }
+      ],
+      "ayuda": "Una de las características de los jóvenes es que presentan una mayor sensibilidad a la publicidad, especialmente a aquella que incita a asumir riesgos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Se pueden sufrir más distracciones por los efectos del alcohol?",
+      "imagen": "examen-74_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, especialmente en situaciones complejas."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "No, si la tasa de alcoholemia es inferior a la máxima permitida."
+        }
+      ],
+      "ayuda": "Uno de los efectos que produce el alcohol sobre las capacidades psicomotrices del conductor es el incremento del número de distracciones, especialmente en situaciones complejas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "En un casco, ¿qué pantalla es la más recomendable?",
+      "imagen": "examen-74_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una pantalla antivaho."
+        },
+        {
+          "letra": "B",
+          "texto": "Una pantalla polarizada."
+        },
+        {
+          "letra": "C",
+          "texto": "Una pantalla oscura."
+        }
+      ],
+      "ayuda": "En los cascos, las pantallas antivaho son las más recomendables porque permanecen despejadas permitiendo una visión óptima de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Por la noche, la agudeza visual...",
+      "imagen": "examen-74_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se reduce."
+        },
+        {
+          "letra": "B",
+          "texto": "aumenta."
+        },
+        {
+          "letra": "C",
+          "texto": "no varía."
+        }
+      ],
+      "ayuda": "Durante la noche y debido a las condiciones del entorno, la agudeza visual del conductor se ve disminuida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "La depresión, ¿influye en la somnolencia y la fatiga?",
+      "imagen": "examen-74_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, no tiene ninguna influencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siendo aconsejable no conducir de noche."
+        },
+        {
+          "letra": "C",
+          "texto": "En la somnolencia sí pero en la fatiga no."
+        }
+      ],
+      "ayuda": "Uno de los efectos que produce la depresión en el conductor es el aumento de la predisposición a la fatiga y la somnolencia, por lo que si se padece dicha enfermedad, resulta aconsejable no conducir de noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Está prohibido arrojar cualquier objeto que pueda dar lugar a la producción de incendios o poner en peligro la seguridad vial?",
+      "imagen": "examen-74_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, tanto en la vía como en sus inmediaciones."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en la vía, pero no en sus inmediaciones."
+        }
+      ],
+      "ayuda": "Está prohibido arrojar a la vía o en sus inmediaciones cualquier objeto que pueda dar lugar a la producción de incendios o, en general, poner en peligro la seguridad vial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Cuando las cintas no quedan bien estiradas, el cinturón de seguridad...",
+      "imagen": "examen-74_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "pierde eficacia y puede provocar lesiones durante el accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "protege más en caso de accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "no reduce su eficacia en caso de accidente."
+        }
+      ],
+      "ayuda": "Para que el cinturón de seguridad cumpla su función, debe llevarse correctamente abrochado y ceñido al cuerpo. Si las bandas del cinturón no están bien colocadas, o no quedan bien estiradas, en caso de accidente, la eficacia del cinturón se reduce y el ocupante puede sufrir lesiones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Entre dos vehículos que se cruzan en una curva cerrada...",
+      "imagen": "examen-74_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es indiferente cuál de los dos vehículos sea el primero en sustituir el alumbrado de carretera por el de cruce."
+        },
+        {
+          "letra": "B",
+          "texto": "el que toma la curva a su izquierda, será el primero en sustituir el alumbrado de carretera por el de cruce."
+        },
+        {
+          "letra": "C",
+          "texto": "el que toma la curva a su derecha, será el primero en sustituir el alumbrado de carretera por el de cruce."
+        }
+      ],
+      "ayuda": "Cuando dos vehículos se cruzan en una curva cerrada, el vehículo que toma la curva a la derecha debe ser el primero en sustituir las luces de carretera por las de cruce porque, debido a su posición en la calzada, el haz luminoso de las luces de carretera incide directamente sobre el vehículo que circula en sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En una carretera convencional, ¿se puede parar o estacionar fuera de la parte transitable del arcén?",
+      "imagen": "examen-74_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, se puede parar y estacionar si no se genera peligro por falta de visibilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Parar sí, estacionar no."
+        },
+        {
+          "letra": "C",
+          "texto": "Estacionar sí, parar no."
+        }
+      ],
+      "ayuda": "La parada y el estacionamiento de un vehículo en carreteras convencionales, deberá efectuarse en el lado derecho de la vía, fuera de la calzada y de la parte transitable del arcén, siempre que no se genere peligro por falta de visibilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Uno de los efectos de la fatiga en el conductor es...",
+      "imagen": "examen-74_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la disminución de las distracciones."
+        },
+        {
+          "letra": "B",
+          "texto": "el aumento de la sensibilidad auditiva."
+        },
+        {
+          "letra": "C",
+          "texto": "la disminución del número de correcciones en la trayectoria."
+        }
+      ],
+      "ayuda": "Entre otros efectos, la fatiga produce una disminución del número de correcciones de la trayectoria, por lo que el vehículo se desvía de su recorrido ya que el conductor corrige menos veces y más tarde.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Cuando aumente la velocidad, debe...",
+      "imagen": "examen-74_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mirar a lo lejos una distancia mayor."
+        },
+        {
+          "letra": "B",
+          "texto": "mirar hacia atrás con menor frecuencia."
+        },
+        {
+          "letra": "C",
+          "texto": "aumentar la visión por los laterales."
+        }
+      ],
+      "ayuda": "Uno de los elementos en los que se basa la conducción preventiva es la gestión adecuada de la visión, según la cual al aumentar la velocidad se debe mirar a lo lejos una mayor distancia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "En caso de atropello a peatones, ¿en qué tipo de vías se producen los accidentes más graves?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "En carreteras convencionales."
+        },
+        {
+          "letra": "C",
+          "texto": "En autovías."
+        }
+      ],
+      "ayuda": "Si bien el mayor número de atropellos a peatones se produce en vías urbanas, es en carreteras convencionales donde se producen los atropellos de mayor gravedad (debido a que la velocidad de circulación es mayor).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Un peatón que empuja un carrito, ¿por dónde puede circular?",
+      "imagen": "examen-74_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo por la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la zona peatonal, o por el arcén o la calzada si pudiera obstaculizar el paso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo por la zona peatonal."
+        }
+      ],
+      "ayuda": "Como norma general, los peatones están obligados a transitar por la zona peatonal, a menos que no exista o no sea practicable, en cuyo caso podrán circular por el arcén o por la calzada. Sin embargo, aun cuando haya zona peatonal, podrá circular por el arcén o por la calzada el peatón que empuje o arrastre un vehículo pequeño que no sea de motor, cuando su circulación por la zona peatonal o por el arcén pueda ser un obstáculo para los demás peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Un vehículo consume mucho carburante. ¿Qué se debe revisar?",
+      "imagen": "examen-74_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El circuito de escape."
+        },
+        {
+          "letra": "B",
+          "texto": "El circuito de refrigeración y el de lubricación."
+        },
+        {
+          "letra": "C",
+          "texto": "El circuito de encendido y el de alimentación."
+        }
+      ],
+      "ayuda": "Una de las posibles causas por las que un vehículo puede consumir demasiado carburante es el mal funcionamiento del sistema de encendido o del sistema de alimentación, por lo que resulta conveniente realizar una revisión de dichos sistemas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Con un herido con parada respiratoria, ¿qué debe hacer?",
+      "imagen": "examen-74_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hacerle la respiración artificial."
+        },
+        {
+          "letra": "B",
+          "texto": "Colocarle en posición de defensa."
+        },
+        {
+          "letra": "C",
+          "texto": "Darle masaje."
+        }
+      ],
+      "ayuda": "Cuando un herido se encuentra en parada respiratoria se le debe practicar la respiración artificial (boca-boca).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Un vehículo especial de reparación o conservación de vías, al entrar en una autopista, debe utilizar la luz de señalización V-2...",
+      "imagen": "examen-74_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "desde la entrada de la autopista."
+        },
+        {
+          "letra": "B",
+          "texto": "solo de noche."
+        },
+        {
+          "letra": "C",
+          "texto": "solo cuando llegue al lugar de trabajo."
+        }
+      ],
+      "ayuda": "Todo vehículo especial destinado a la reparación o conservación de las vías, debe llevar encendida la señal luminosa V-2 desde el momento en que se incorpora a una autopista o autovía, a fin de advertir e indicar al resto de usuarios la situación de riesgo que él mismo genera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "El conductor de un vehículo pesado no puede ceñirse por completo al borde derecho pero el adelantamiento puede realizarse. ¿Cómo está obligado a indicarlo?",
+      "imagen": "examen-74_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Acelerando para no dificultar el tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "Con el intermitente izquierdo."
+        },
+        {
+          "letra": "C",
+          "texto": "Con el brazo horizontal con el dorso de la mano hacia atrás, moviéndolo de atrás hacia delante."
+        }
+      ],
+      "ayuda": "Cuando no le sea posible ceñirse por completo al borde derecho de la calzada y, sin embargo, el adelantamiento pueda efectuarse con seguridad, el conductor de un vehículo pesado, de grandes dimensiones u obligado a respetar un límite específico de velocidad deberá indicar que puede ser adelantado, extendiendo el brazo horizontalmente y moviéndolo repetidas veces de atrás hacia delante, con el dorso de la mano hacia atrás, o bien poniendo en funcionamiento el intermite derecho cuando no crea conveniente hacer la señal con el brazo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Los agentes podrán inmovilizar un vehículo...",
+      "imagen": "examen-74_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aunque el resultado de la prueba de alcoholemia sea negativo."
+        },
+        {
+          "letra": "B",
+          "texto": "sólo cuando el resultado de la prueba de alcoholemia sea positivo."
+        },
+        {
+          "letra": "C",
+          "texto": "cuando el conductor se niegue a efectuar la prueba de alcoholemia."
+        }
+      ],
+      "ayuda": "Entre otros casos, los agentes del orden podrán inmovilizar un vehículo cuando su conductor se niegue a realizar la prueba de control de alcoholemia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "En esta carretera la línea discontinua de la derecha, ¿qué indica?",
+      "imagen": "examen-74_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Permite circular por el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "Señala el borde de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Permite estacionar en el arcén."
+        }
+      ],
+      "ayuda": "La línea discontinua de la imagen se denomina línea de borde o de estacionamiento y tiene como función delimitar, para hacerlos más visibles, los bordes de la calzada o los lugares de estacionamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Para reducir los accidentes de tráfico, ¿deben colaborar todos los agentes sociales?",
+      "imagen": "examen-74_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, es un problema que debe resolver la Administración."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque sólo depende de los conductores."
+        }
+      ],
+      "ayuda": "Debido a que los accidentes de tráfico constituyen un problema que responde a múltiples factores, en su solución deben colaborar todos los agentes sociales (Administración, técnicos, conductores, usuarios, etc.).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "Este vehículo, ¿está correctamente parado?",
+      "imagen": "examen-74_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque impide la visibilidad de la señalización."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque permite el paso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si está parado, pero no si está estacionado."
+        }
+      ],
+      "ayuda": "Está prohibido parar y estacionar en los lugares donde se impida la visibilidad de la señalización a los usuarios a quienes les afecte u obligue a hacer maniobras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "El apoya-cabezas, ¿para qué sirve, fundamentalmente?",
+      "imagen": "examen-74_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para que el asiento sea más cómodo."
+        },
+        {
+          "letra": "B",
+          "texto": "Para apoyar la cabeza y descansar."
+        },
+        {
+          "letra": "C",
+          "texto": "Para proteger el cuello en un accidente."
+        }
+      ],
+      "ayuda": "El reposacabezas es un dispositivo que reduce significativamente las posibilidades de sufrir una lesión cervical, y que evita graves lesiones en caso de accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Se prohíbe circular por autopistas a los...",
+      "imagen": "examen-74_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "vehículos que no sean capaces de alcanzar en llano 60 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "vehículos que transporten mercancías peligrosas."
+        },
+        {
+          "letra": "C",
+          "texto": "vehículos con remolque."
+        }
+      ],
+      "ayuda": "Está prohibida la circulación por autopista y autovía de aquellos vehículos que no sean capaces de alcanzar la velocidad de 60 km/h. en llano.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Ante la señal del agente, ¿deben detenerse los peatones?",
+      "imagen": "examen-74_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando se acerquen a él desde cualquier dirección."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo si se acercan a él de frente."
+        },
+        {
+          "letra": "C",
+          "texto": "No, solamente deben detener su marcha los conductores de vehículos."
+        }
+      ],
+      "ayuda": "El agente de la imagen con un brazo levantado verticalmente obliga a detenerse a todos los usuarios de la vía que se acerquen él, salvo a los conductores que no puedan hacerlo en condiciones de seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Un vehículo derivado de turismo y un camión entran a la vez en un tramo muy estrecho de la calzada sin señalizar, ¿qué vehículo está obligado a retroceder?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El camión."
+        },
+        {
+          "letra": "B",
+          "texto": "El vehículo derivado de turismo."
+        },
+        {
+          "letra": "C",
+          "texto": "El vehículo que tenga mayor masa máxima autorizada."
+        }
+      ],
+      "ayuda": "Como norma general, en los estrechamientos sin señalizar, la prioridad de paso es para el vehículo que haya entrado primero. Cuando no sea posible determinarlo y se trate de vehículos de distinta clase, se debe recurrir al orden de preferencia entre vehículos según el cual los camiones, tractocamiones y furgones deben pasar antes que los turismos y vehículos derivados de turismos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Las técnicas de conducción eficiente...",
+      "imagen": "examen-74_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "son más eficaces que las técnicas de conducción preventiva."
+        },
+        {
+          "letra": "B",
+          "texto": "son complementarias a las técnicas de conducción preventiva."
+        },
+        {
+          "letra": "C",
+          "texto": "son lo mismo que las técnicas de conducción preventiva."
+        }
+      ],
+      "ayuda": "Las técnicas de conducción eficiente, cuya finalidad es la optimización del uso del vehículo, resultan complementarias a las técnicas de conducción preventiva, cuya finalidad es evitar las situaciones peligrosas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Por dónde debe circular un rebaño?",
+      "imagen": "examen-74_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Lo más cerca posible del borde derecho de la vía en el sentido de su marcha."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el arcén de la izquierda en el sentido de su marcha."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el arcén derecho o el izquierdo, indistintamente."
+        }
+      ],
+      "ayuda": "Cuando no sea posible hacerlo por una vía pecuaria, los animales en manada o rebaño podrán circular por el arcén del lado derecho de la vía, y si tuvieran que utilizar la calzada, lo harán aproximándose cuanto sea posible al borde derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

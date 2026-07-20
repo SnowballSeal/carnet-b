@@ -1,0 +1,597 @@
+{
+  "categoria_id": 2,
+  "test_id": 11,
+  "nombre": "Serie fácil 11",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "En este puesto de peaje, ¿qué se debe hacer?",
+      "imagen": "serie-facil-11_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pasar sin detenerse."
+        },
+        {
+          "letra": "B",
+          "texto": "Detenerse en el puesto de control porque lo indica la señal."
+        }
+      ],
+      "ayuda": "La señal con orla roja que se observa en el peaje, indica que hay que detenerse en este puesto de control.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Esta señal, sobre autopista o autovía, indica salida inmediata hacia...",
+      "imagen": "serie-facil-11_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "una autopista o autovía."
+        },
+        {
+          "letra": "B",
+          "texto": "una carretera convencional."
+        }
+      ],
+      "ayuda": "La señal de la derecha que se observa en el gráfico, indica una salida inmediata hacia autopista o autovía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Si se le extravía el permiso de conducir, ¿qué debe hacer?",
+      "imagen": "serie-facil-11_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Realizar las pruebas de aptitud y superar los exámenes teóricos y prácticos."
+        },
+        {
+          "letra": "B",
+          "texto": "Solicitar un duplicado a la Jefatura Provincial o Local de Tráfico."
+        }
+      ],
+      "ayuda": "Si se extravía el permiso de conducir, se debe solicitar un duplicado en la Jefatura Provincial de Tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Cuando llueve, ¿hay que prestar especial atención a alguna zona de la vía en particular?",
+      "imagen": "serie-facil-11_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, a los badenes y a las zonas que se pueden producir charcos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, puesto que circular con lluvia no es peligroso."
+        }
+      ],
+      "ayuda": "En días de lluvia se debe moderar la velocidad y estar atento a los posibles badenes y zonas en las que se puedan producir charcos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Qué medidas debe adoptar si se produce un accidente?",
+      "imagen": "serie-facil-11_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Auxiliar a los heridos lo antes posible y avisar a las autoridades."
+        },
+        {
+          "letra": "B",
+          "texto": "Detener su vehículo sin crear peligro, avisar a las autoridades y auxiliar a los heridos."
+        }
+      ],
+      "ayuda": "Si presenciamos un accidente de tráfico, lo primero que se debe hacer es detener el vehículo en un lugar seguro y señalizar la zona afectada, después avisar a las autoridades o sus agentes, y por último, auxiliar a los heridos si tenemos conocimientos de primeros auxilios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Si existe gravilla suelta en la calzada, ¿qué se debe hacer para evitar la rotura del parabrisas?",
+      "imagen": "serie-facil-11_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Aumentar la velocidad para disminuir los efectos del impacto."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentar la separación con los vehículos que circulan delante."
+        }
+      ],
+      "ayuda": "Si existe gravilla suelta en la calzada, se debe aumentar la distancia de seguridad para evitar alcances y rotura del parabrisas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "La cantidad y calidad del sueño, el consumo de medicamentos o la monotonía al volante, ¿afectan por igual a todos los conductores?",
+      "imagen": "serie-facil-11_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La cantidad y la calidad del sueño, el consumo de medicamentos o la monotonía al volante, no afecta por igual a todos los conductores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Podrá utilizar un carril VAO un turismo con remolque que transporta a cuatro personas?",
+      "imagen": "serie-facil-11_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Los turismos con remolque no están autorizados a circular por un carril VAO.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "La velocidad inadecuada, el alcohol y las enfermedades, ¿se consideran factores de riesgo?",
+      "imagen": "serie-facil-11_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La velocidad inadecuada, el alcohol y las enfermedades, se consideran factores de riesgo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "Los asientos de un vehículo mixto tienen cinturones de seguridad. ¿Está obligado el conductor a utilizarlo?",
+      "imagen": "serie-facil-11_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en todas las vías."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en vías de poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en ningún tipo de vía."
+        }
+      ],
+      "ayuda": "El cinturón de seguridad se debe utilizar en todas las vías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "La distancia de frenado es la distancia que recorre el vehículo desde que...",
+      "imagen": "serie-facil-11_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se pisa el pedal del freno hasta que el vehículo se detiene."
+        },
+        {
+          "letra": "B",
+          "texto": "se percibe el peligro hasta que se pisa el freno."
+        }
+      ],
+      "ayuda": "Se denomina distancia de frenado, a aquella que recorre el vehículo desde que se pisa el pedal del freno hasta que finalmente se detiene.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Deben los ciclomotores pasar inspecciones técnicas periódicas (ITV)?",
+      "imagen": "serie-facil-11_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Los ciclomotores, en función de su antigüedad, deben someterse a inspecciones técnicas periódicas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Entre los síntomas de la alergia se encuentran...",
+      "imagen": "serie-facil-11_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "continuos estornudos y ojos irritados."
+        },
+        {
+          "letra": "B",
+          "texto": "dolores musculares."
+        }
+      ],
+      "ayuda": "Entre los síntomas de las alergias respiratorias se encuentran los continuos estornudos y los ojos irritados.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "El chaleco reflectante. ¿Cuándo es obligatorio ponérselo?",
+      "imagen": "serie-facil-11_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando salga del vehículo en vías urbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando salga del vehículo en vías interurbanas."
+        }
+      ],
+      "ayuda": "El chaleco reflectante hay que ponérselo antes de salir del vehículo en vías interurbanas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Se puede calcular la tasa de alcoholemia en función de la cantidad y el tipo de alcohol ingerido?",
+      "imagen": "serie-facil-11_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque depende de muchos factores, además de la cantidad de alcohol."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque con el mismo número de copas siempre da la misma tasa de alcoholemia."
+        }
+      ],
+      "ayuda": "El alcohol no le afecta por igual a todos los conductores, ya que depende de muchos factores además de la cantidad de alcohol.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Qué significa el triangulo pintado en el suelo?",
+      "imagen": "serie-facil-11_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Carril preferente."
+        },
+        {
+          "letra": "B",
+          "texto": "Obligación de ceder el paso en la intersección."
+        }
+      ],
+      "ayuda": "La marca vial en forma de triángulo que se observa en el gráfico, es un ceda el paso. Por tanto hay que ceder el paso en la intersección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Qué personas incurren en la omisión de socorro a las victimas de un accidente de tráfico?",
+      "imagen": "serie-facil-11_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Las que no socorren a una víctima desatendida, pudiendo hacerlo sin riesgo propio ni de terceros."
+        },
+        {
+          "letra": "B",
+          "texto": "Las que piden auxilio cuando ellos no pueden prestarlo."
+        }
+      ],
+      "ayuda": "Las personas que en caso de accidente no socorren a las víctimas desatendidas pudiendo hacerlo sin riesgo propio ni de terceros, incurren en la omisión del deber de socorro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Dónde está prohibido circular con la luz de largo alcance encendida?",
+      "imagen": "serie-facil-11_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Donde haya peligro de deslumbrar y en vías urbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "En autopistas y autovías."
+        }
+      ],
+      "ayuda": "Está prohibido utilizar la luz de largo alcance o de carretera en vías urbanas y travesías y cuando se produzcan deslumbramientos en cualquier tipo de vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Cómo se puede evitar el atropello a peatones?",
+      "imagen": "serie-facil-11_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Invitándoles con señas para que crucen la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Moderando la velocidad, sobre todo en ciudad."
+        }
+      ],
+      "ayuda": "Para evitar el atropello a peatones en ciudad, se debe circular con precaución y a velocidad moderada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Ante una señal de Ceda el Paso, ¿a qué vehículos debe ceder el paso?",
+      "imagen": "serie-facil-11_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo a los vehículos que se aproximen por la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "A todos los vehículos que se aproximan por la derecha o por la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo a los vehículos que se aproximan por la izquierda."
+        }
+      ],
+      "ayuda": "Ante una señal de ceda el paso, se les debe ceder el paso a los vehículos que se aproximen tanto por la derecha como por la izquierda.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Este pasajero no utiliza casco de protección. De esta infracción es responsable...",
+      "imagen": "serie-facil-11_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "el propio pasajero."
+        },
+        {
+          "letra": "C",
+          "texto": "el propietario del ciclomotor."
+        }
+      ],
+      "ayuda": "Si el conductor o pasajero de un ciclomotor o motocicleta no utilizan el casco de protección, la responsabilidad es del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Es correcto el comportamiento del conductor del ciclomotor?",
+      "imagen": "serie-facil-11_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque ha invadido la marca vial de paso para peatones."
+        }
+      ],
+      "ayuda": "Para ceder el paso a los peatones, no está permitido detenerse encima de un paso para peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Este auxiliador ha colocado al accidentado en la denominada posición de defensa. ¿Con qué fin?",
+      "imagen": "serie-facil-11_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para realizarle la respiración artificial."
+        },
+        {
+          "letra": "B",
+          "texto": "Para evitar asfixia, en caso de que vomite o sangre por la nariz o la boca."
+        },
+        {
+          "letra": "C",
+          "texto": "Para que esté más cómodo, solamente."
+        }
+      ],
+      "ayuda": "La finalidad de colocar a un herido en la denominada posición de defensa es para evitar la asfixia, en caso de que vomite o sangre por la nariz o la boca.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Esta marca transversal continua, ¿está permitido franquearla sin detenerse antes?",
+      "imagen": "serie-facil-11_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, nunca."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando no sea obligatoria la detención."
+        }
+      ],
+      "ayuda": "Cuando no sea obligatoria la detención, se puede franquear la línea transversal de detención.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Al adelantar a un ciclista que lleva a un pasajero, es importante...",
+      "imagen": "serie-facil-11_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "hacer señales acústicas cerca de ellos para indicarles nuestra presencia."
+        },
+        {
+          "letra": "B",
+          "texto": "dejar una separación lateral suficiente, ya que se pueden desestabilizar con facilidad."
+        }
+      ],
+      "ayuda": "Al adelantar a un ciclista, con o sin pasajero, se debe extremar la precaución y dejar la separación reglamentaria, ya que se puede desestabilizar con facilidad y sufrir una caída.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Influye la velocidad en el consumo de combustible del motor del vehículo?",
+      "imagen": "serie-facil-11_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque aumenta considerablemente la resistencia al aire del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque no tiene influencia."
+        }
+      ],
+      "ayuda": "A mayor velocidad mayor consumo de combustible, ya que ofrece mayor resistencia al aire.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "Si circula a 60 km/h y aumenta la velocidad hasta 120 km/h. La distancia de frenado, ¿aumenta en la misma proporción?",
+      "imagen": "serie-facil-11_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La distancia de frenado aumenta en una proporción mayor a la velocidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Esta señal, ¿permite cambiar el sentido de la marcha?",
+      "imagen": "serie-facil-11_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando se haga al mismo nivel."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando se haga a distinto nivel."
+        },
+        {
+          "letra": "C",
+          "texto": "No, la señal lo prohíbe."
+        }
+      ],
+      "ayuda": "Esta señal indica un cambio de sentido de la marcha a distinto nivel.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Con el permiso de la clase A1, ¿se permite conducir una motocicleta de menos de 125 centímetros cúbicos?",
+      "imagen": "serie-facil-11_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El permiso de la clase A1, habilita conducir motocicletas con o sin sidecar de hasta 125 centímetros cúbicos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Si está resfriado y toma medicamentos, ¿qué efectos podrán producirle?",
+      "imagen": "serie-facil-11_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Somnolencia."
+        },
+        {
+          "letra": "B",
+          "texto": "Un aumento de la agudeza visual."
+        }
+      ],
+      "ayuda": "Si está resfriado y está tomando medicamentos, debe saber que le pueden producir somnolencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

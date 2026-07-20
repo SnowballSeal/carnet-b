@@ -1,0 +1,621 @@
+{
+  "categoria_id": 2,
+  "test_id": 4,
+  "nombre": "Serie fácil 4",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Puede estar obligado un peatón a realizar una prueba de alcoholemia?",
+      "imagen": "serie-facil-04_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando se halle implicado en un accidente."
+        }
+      ],
+      "ayuda": "Los peatones están obligados a someterse a realizar las pruebas de alcoholemia cuando se hallen implicados en un accidente de tráfico o hayan cometido una infracción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "La marca vial amarilla, ¿qué significa?",
+      "imagen": "serie-facil-04_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que está prohibido entrar en ella, si existe la posibilidad de quedar detenido obstruyendo la circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "Que puedo quedar detenido sobre ella."
+        }
+      ],
+      "ayuda": "La marca amarilla que se observa en el gráfico, prohíbe la entrada en la intersección si en condiciones previsibles puede quedar detenido dentro de la misma obstruyendo la circulación transversal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "En esta situación de aglomeración, ¿podrá circular por el arcén?",
+      "imagen": "serie-facil-04_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si tiene prisa."
+        },
+        {
+          "letra": "B",
+          "texto": "No, está prohibido."
+        }
+      ],
+      "ayuda": "Por el arcén está prohibido circular, salvo que el vehículo circule averiado a una velocidad inferior a la mínima permitida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "En esta curva de visibilidad reducida, ¿está permitido parar?",
+      "imagen": "serie-facil-04_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, ni en la curva, ni en sus proximidades."
+        }
+      ],
+      "ayuda": "En las curvas de reducida visibilidad y en sus proximidades queda prohibido parar y estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Debe facilitar la incorporación a la circulación de otros vehículos?",
+      "imagen": "serie-facil-04_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, sobre todo a los vehículos de transporte colectivo de viajeros cuando salgan de una parada señalizada."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Como norma general, se les debe facilitar la incorporación a todos los vehículos, y especialmente a los autobuses de transporte colectivo de viajeros que pretendan incorporarse a la circulación desde una parada señalizada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Cuál es, como norma general, la velocidad máxima permitida para un turismo por una carretera convencional?",
+      "imagen": "serie-facil-04_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "100 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "90 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "Dependerá de la anchura del arcén."
+        }
+      ],
+      "ayuda": "La velocidad máxima permitida con carácter general en carreteras convencionales, es de 90 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Si comete una infracción con un vehículo, ¿puede perder parte de los puntos asignados?",
+      "imagen": "serie-facil-04_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, con algunas infracciones además de la multa también se puede perder parte de los puntos asignados."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Algunas infracciones pueden llevar aparejada la pérdida de puntos en el permiso de conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Esta señal prohíbe el paso a...",
+      "imagen": "serie-facil-04_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "camiones y furgones, solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "los vehículos cuya masa en carga sea superior a la indicada."
+        }
+      ],
+      "ayuda": "Esta señal prohíbe la entrada a todos los vehículos cuya masa en carga sea superior a la indicada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "serie-facil-04_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La desaparición del carril derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Que la vía va a tener un único sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "La proximidad de un carril de entrada a la autopista."
+        }
+      ],
+      "ayuda": "\tFinal de carril destinado a la circulación.\n\tIndica en una calzada de tres carriles con un único sentido de circulación la desaparición del carril derecho y el cambio de carril preciso.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "La señal que lleva el vehículo, ¿qué indica?",
+      "imagen": "serie-facil-04_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que es un conductor novel."
+        },
+        {
+          "letra": "B",
+          "texto": "Que no permite circular los fines de semana."
+        },
+        {
+          "letra": "C",
+          "texto": "Que es un vehículo de autoescuela."
+        }
+      ],
+      "ayuda": "La placa verde que lleva el vehículo rojo, indica que su conductor es novel.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "En una intersección hay una señal vertical de stop y una marca vial de ceda el paso, ¿cuál debe obedecer?",
+      "imagen": "serie-facil-04_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ninguna de las dos, en éste caso se aplicará la norma general de prioridad."
+        },
+        {
+          "letra": "B",
+          "texto": "La marca vial de ceda el paso."
+        },
+        {
+          "letra": "C",
+          "texto": "La señal vertical de stop."
+        }
+      ],
+      "ayuda": "Las señales verticales prevalecen sobre las marcas viales, por tanto, si existe una señal vertical de stop y una marca vial de ceda el paso, se debe obedecer la señal de stop.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Si está siguiendo un tratamiento con medicamentos, ¿qué precauciones debe adoptar?",
+      "imagen": "serie-facil-04_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reducir la dosis antes de conducir."
+        },
+        {
+          "letra": "B",
+          "texto": "Consultar al médico o farmacéutico los efectos para la conducción."
+        },
+        {
+          "letra": "C",
+          "texto": "No tomarlos durante la conducción."
+        }
+      ],
+      "ayuda": "Si se está medicando debe consultar, al médico o al farmacéutico, los efectos que puede producir para la conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Los accidentes de tráfico, son una de las primeras causas de lesiones en nuestro país...",
+      "imagen": "serie-facil-04_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "especialmente entre la población más joven."
+        },
+        {
+          "letra": "B",
+          "texto": "solo entre la población mayor."
+        },
+        {
+          "letra": "C",
+          "texto": "entre la población infantil."
+        }
+      ],
+      "ayuda": "Los accidentes de tráfico, constituyen una de la principales causas de lesiones en nuestro país, especialmente entre la población más joven.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "En caso de avería en uno de los dispositivos de alumbrado del vehículo, ¿puede circular de noche con un alumbrado de intensidad inferior?",
+      "imagen": "serie-facil-04_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero deberá reducir la velocidad hasta la que permita detener el vehículo dentro de la zona iluminada."
+        },
+        {
+          "letra": "B",
+          "texto": "No, no podrá continuar el viaje."
+        }
+      ],
+      "ayuda": "En caso de avería de alguno de los dispositivos de alumbrado, se podrá circular durante la noche con otro alumbrado de intensidad inferior, reduciendo la velocidad de tal manera que permita detener el vehículo dentro de la zona iluminada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "Para los conductores y pasajeros de motocicletas, ¿tiene importancia el vestuario a utilizar?",
+      "imagen": "serie-facil-04_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque no aporta nada a la seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, es fundamental porque el cuerpo está directamente expuesto a las inclemencias del tiempo."
+        }
+      ],
+      "ayuda": "La indumentaria que utilizan los pasajeros y conductores de motocicletas, es muy importante para la seguridad pasiva de los mismos, además protegen de las inclemencias del tiempo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Con el permiso B, ¿se puede conducir un turismo con remolque que pesa menos de 750 kg de M.M.A?",
+      "imagen": "serie-facil-04_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Con el permiso de la clase B, se permite conducir un turismo con un remolque de hasta 750 kg de masa máxima autorizada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Si tiene que circular con su motocicleta por una zona especialmente deslizante, ¿qué precauciones debe tomar?",
+      "imagen": "serie-facil-04_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Acelerar para pasar por la zona en el menor tiempo posible."
+        },
+        {
+          "letra": "B",
+          "texto": "Disminuir la velocidad antes de llegar y mantener la motocicleta vertical."
+        }
+      ],
+      "ayuda": "Al circular con una motocicleta por una zona especialmente deslizante, se deben tomar precauciones y reducir la velocidad antes de llegar a dicha zona manteniendo la motocicleta en posición vertical.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Si se encuentra con un rebaño en esta vía, ¿debe ceder el paso a los animales?",
+      "imagen": "serie-facil-04_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, los animales en la calzada no tienen prioridad de paso nunca."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, es un paso de animales domésticos o ganado y se debe ceder el paso."
+        }
+      ],
+      "ayuda": "La señalización que se observa en la fotografía, indica un paso de animales domésticos o ganado, donde éstos tienen preferencia de paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "La distancia de frenado de un vehículo cargado es...",
+      "imagen": "serie-facil-04_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mayor que cuando circula sin carga."
+        },
+        {
+          "letra": "B",
+          "texto": "menor que cuando circula sin carga."
+        },
+        {
+          "letra": "C",
+          "texto": "igual que cuando circula sin carga."
+        }
+      ],
+      "ayuda": "La distancia de frenado con un vehículo cargado, es mayor que si circula sin carga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Son los niños especialmente vulnerables a los atropellos?",
+      "imagen": "serie-facil-04_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, debido a su baja estatura."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Los niños son especialmente vulnerables a los atropellos debido a su baja estatura, lo cual provoca que en ocasiones no sean vistos por los conductores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "El navegador debe colocarse...",
+      "imagen": "serie-facil-04_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a una altura correcta para no tener que apartar la vista de la conducción."
+        },
+        {
+          "letra": "B",
+          "texto": "a una distancia cómoda para que el conductor pueda manejarlo en marcha."
+        }
+      ],
+      "ayuda": "El navegador GPS, se debe colocar a una altura que permita al conductor ver bien la carretera sin apartar la vista de la conducción.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "Una persona en silla de ruedas, ¿puede circular por una carretera?",
+      "imagen": "serie-facil-04_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, no puede circular."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, por el arcén si es transitable y, si no lo es, por la calzada."
+        }
+      ],
+      "ayuda": "Los peatones que se desplacen en silla de ruedas, podrán circular en carreteras por el arcén si es suficiente y practicable y si no lo fuera circularán por la derecha de la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Los accidentes debidos al sueño, ¿suceden también durante el día?",
+      "imagen": "serie-facil-04_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, solo suceden por la noche."
+        }
+      ],
+      "ayuda": "Los accidentes de tráfico a consecuencia del sueño, se pueden producir tanto de día como de noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "El alcohol es siempre peligroso para la seguridad vial...",
+      "imagen": "serie-facil-04_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aunque sea consumido en pequeñas cantidades."
+        },
+        {
+          "letra": "B",
+          "texto": "salvo para quienes están habituados a su consumo."
+        }
+      ],
+      "ayuda": "El alcohol es peligroso para la seguridad vial aunque sea consumido en pequeñas cantidades.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Si el turismo quiere girar a la izquierda deberá...",
+      "imagen": "serie-facil-04_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "situarse fuera de la calzada y realizarlo desde allí."
+        },
+        {
+          "letra": "B",
+          "texto": "girar desde su carril sin invadir el sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "girar desde su carril invadiendo el sentido contrario."
+        }
+      ],
+      "ayuda": "Si el conductor del turismo quiere girar a la izquierda, debe situarse junto a la línea de separación entre sentidos sin invadir el carril contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Es obligatorio en un turismo llevar una rueda de repuesto?",
+      "imagen": "serie-facil-04_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo es obligatorio para los de M.M.A. superior a 3.500 kg."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Los turismos están obligados a llevar una rueda de repuesto en perfectas condiciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Cuando la presión de inflado de los neumáticos es inferior a la recomendada...",
+      "imagen": "serie-facil-04_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el vehículo consume más combustible."
+        },
+        {
+          "letra": "B",
+          "texto": "el vehículo consume menos combustible."
+        }
+      ],
+      "ayuda": "Cuando la presión de inflado de los neumáticos es inferior a la recomendada por el fabricante, el vehículo pierde adherencia y consume más combustible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "El vehículo que está adelantando abandona el adelantamiento (quiere volver atrás). ¿Qué debe hacer el vehículo verde?",
+      "imagen": "serie-facil-04_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Disminuir la velocidad para que pueda adelantar."
+        },
+        {
+          "letra": "B",
+          "texto": "No disminuir la velocidad para que pueda colocarse  detrás."
+        }
+      ],
+      "ayuda": "Si un vehículo después de iniciar un adelantamiento desiste de él, el vehículo que iba a ser adelantado no debe disminuir la velocidad, sino aumentarla si fuera preciso para que el vehículo pueda colocarse detrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Esta señal indica...",
+      "imagen": "serie-facil-04_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que a partir de ella la circulación en la vía es de sentido único."
+        },
+        {
+          "letra": "B",
+          "texto": "la proximidad de un peligro distinto de los advertidos por otras señales."
+        },
+        {
+          "letra": "C",
+          "texto": "que tiene que extremar la precaución por la proximidad de una zona de obras."
+        }
+      ],
+      "ayuda": "Esta señal indica peligro por la proximidad de un peligro distinto de los advertidos por otras señales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Ante un paso a nivel está obligado a...\n",
+      "imagen": "serie-facil-04_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "atravesarlo rápidamente."
+        },
+        {
+          "letra": "B",
+          "texto": "asegurarse antes de atravesarlo de que no existe ningún peligro."
+        },
+        {
+          "letra": "C",
+          "texto": "pasar aunque las barreras estén en movimiento."
+        }
+      ],
+      "ayuda": "Ante un paso a nivel el conductor debe moderar la velocidad y asegurarse de que no se aproxima el tren, sobre todo si es un paso a nivel sin barreras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

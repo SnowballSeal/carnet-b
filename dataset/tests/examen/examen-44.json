@@ -1,0 +1,689 @@
+{
+  "categoria_id": 1,
+  "test_id": 44,
+  "nombre": "Test de examen 44",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "El parabrisas forma parte de los elementos de seguridad pasiva del vehículo. En caso de accidente, ¿qué tipo de cristal es más seguro para los ocupantes?",
+      "imagen": "examen-44_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El cristal laminado."
+        },
+        {
+          "letra": "B",
+          "texto": "El cristal templado."
+        },
+        {
+          "letra": "C",
+          "texto": "El cristal tintado."
+        }
+      ],
+      "ayuda": "Los parabrisas laminados se componen de dos láminas de vidrio entre las cuales se insertan una o dos láminas plásticas. En caso de rotura, los fragmentos de vidrio permanecen adheridos a la lámina de plástico, permitiendo la visibilidad y ofreciendo mayor protección a los ocupantes del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Si para conducir de forma eficiente, en su vehículo es recomendable cambiar de marchas aproximadamente entre 1.500 y 2.500 revoluciones por minuto. ¿Con qué tipo de motor está equipado?",
+      "imagen": "examen-44_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "con motor de gasolina."
+        },
+        {
+          "letra": "B",
+          "texto": "con motor híbrido."
+        },
+        {
+          "letra": "C",
+          "texto": "con motor diésel."
+        }
+      ],
+      "ayuda": "Para conducir de forma eficiente, en motores de gasolina, de forma orientativa, se debería cambiar de marchas en una horquilla que va desde las 1.500 o 2.000, hasta las 2.000 o 2.500 revoluciones por minuto aproximadamente. \n\nEn cambio, en los motores diésel, el cambio de marchas debe hacerse a un número de revoluciones menor: aproximadamente entre las 1.300 o 1.500 rpm hasta las 2.000 rpm. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "En esta situación, ¿está permitido adelantar al ciclista?",
+      "imagen": "examen-44_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, aunque para ello haya que invadir el carril de sentido contrario."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo si al adelantar no se invade el carril de sentido contrario."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque la señalización prohíbe el adelantamiento."
+        }
+      ],
+      "ayuda": "Aun estando prohibido el adelantamiento como en la situación que se observa, se podrá adelantar a ciclistas, aunque para ello haya que ocupar la parte de la calzada reservada al sentido contrario, después de haberse cerciorado de que se puede realizar la maniobra sin peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "De noche, es obligatorio señalizar una carga que sobresale lateralmente más de 0.40 metros...",
+      "imagen": "examen-44_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "con una luz blanca y un dispositivo reflectante de color blanco por delante y con una luz roja y un dispositivo reflectante de color rojo por detrás."
+        },
+        {
+          "letra": "B",
+          "texto": "con un panel reflectante por detrás solamente."
+        },
+        {
+          "letra": "C",
+          "texto": "con una luz roja y un dispositivo reflectante rojo por detrás solamente."
+        }
+      ],
+      "ayuda": "Cuando se circule entre la puesta y la salida del sol, la carga que sobresalga lateralmente más de 0.40 metros del borde exterior de la luz delantera o trasera de posición, deberá señalizarse con una luz blanca y un dispositivo reflectante de color blanco por delante y con una luz roja y un dispositivo reflectante de color rojo por detrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Qué indica la señal?",
+      "imagen": "examen-44_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El principio de un túnel, un paso inferior o un tramo de vía equiparado a un túnel que tiene una longitud de 17 kilómetros."
+        },
+        {
+          "letra": "B",
+          "texto": "Que faltan 17 kilómetros para llegar al poblado."
+        },
+        {
+          "letra": "C",
+          "texto": "Que faltan 17 kilómetros para llegar a un lugar monumental."
+        }
+      ],
+      "ayuda": "Esta señal indica el principio de un túnel, un paso inferior o un tramo de vía equiparado a un túnel que tiene una longitud de 17 kilómetros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Están obligados los conductores a respetar las restricciones de circulación impuestas por la autoridad ante episodios de elevada contaminación?",
+      "imagen": "examen-44_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, y su incumplimiento es una infracción grave."
+        },
+        {
+          "letra": "B",
+          "texto": "No, mientras no se incumpla ninguna norma de tráfico."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque son restricciones temporales y su cumplimiento no es obligatorio."
+        }
+      ],
+      "ayuda": "No respetar las restricciones de circulación derivadas de la aplicación de los protocolos ante episodios de contaminación y de las zonas de bajas emisiones constituye una infracción grave.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué es el sistema ISOFIX?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es un sistema de seguridad activa."
+        },
+        {
+          "letra": "B",
+          "texto": "Es un sistema de seguridad pasiva."
+        },
+        {
+          "letra": "C",
+          "texto": "Es una técnica de conducción preventiva."
+        }
+      ],
+      "ayuda": "ISOFIX es un sistema de seguridad pasiva diseñado para la instalación segura de sistemas de retención infantil en el vehículo. Consiste en unos puntos de sujeción rígidos que van atornillados o soldados a la carrocería del vehículo y que dispone de unos enganches en los que se ancla la silla infantil.\n\nSu objetivo principal es facilitar una instalación sencilla y sin errores de los SRI, ofreciendo un anclaje robusto que permite reducir el riesgo de lesiones en los niños cuando viajan como ocupantes de un determinado vehículo y este sufre un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Factores individuales como la edad, la fatiga o el estado físico del conductor, ¿pueden hacer que los efectos secundarios de los medicamentos sean diferentes en cada persona?",
+      "imagen": "examen-44_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, los efectos secundarios son los mismos para todas las personas."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, los efectos secundarios pueden variar en cada persona."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo si durante el tratamiento no se siguen los consejos del médico."
+        }
+      ],
+      "ayuda": "Determinados factores como la edad, la fatiga o el estado físico del conductor hacen que los efectos secundarios de los medicamentos pueden variar en cada persona.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "En este tramo de carretera, ¿está permitido hacer un cambio de sentido?",
+      "imagen": "examen-44_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Como norma general, queda prohibido realizar la maniobra de cambo de sentido de la marcha en:\nlos pasos a nivel.\nlos túneles, pasos inferiores y tramos de vía afectados por la señal Túnel. \nlas autopistas y autovías, salvo en los lugares habilitados al efecto. \nlos tramos de la vía en que esté prohibido el adelantamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Si debido a la lluvia intensa, en una vía interurbana no se distingue un vehículo de color negro a 50 metros de distancia, ¿es posible circular con el alumbrado de largo alcance encendido?",
+      "imagen": "examen-44_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque la vía está insuficientemente iluminada."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo se puede encender la luz de cruce y la antiniebla delantera."
+        }
+      ],
+      "ayuda": "Se entiende por vía insuficientemente iluminada aquella que no permite leer una placa de matrícula a 10 metros o que no permite distinguir un vehículo pintado de oscuro a 50 metros de distancia en ningún punto de la calzada. En este tipo de vías fuera de poblado, cuando sea necesario, se deben utilizar las luces de largo alcance.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "En un vehículo en el que el motor está dotado de inyección directa, ¿se debe pisar el pedal del acelerador para arrancar?",
+      "imagen": "examen-44_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, es un gasto innecesario de combustible."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, hasta que arranque el motor y comience a funcionar al ralentí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, se debe pisar el acelerador varias veces antes de arrancar."
+        }
+      ],
+      "ayuda": "En los motores modernos, dotados de sistema de alimentación por inyección directa, no es necesario, ni conveniente, pisar el pedal del acelerador al arrancar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Si se lleva instalado un navegador GPS hay que tener en cuenta que...",
+      "imagen": "examen-44_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mientras se conduce no es conveniente apartar la vista del navegador."
+        },
+        {
+          "letra": "B",
+          "texto": "las indicaciones del navegador prevalecen sobre la señalización de la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "el criterio del conductor debe prevalecer sobre las indicaciones del navegador."
+        }
+      ],
+      "ayuda": "Aunque el navegador GPS indica las rutas más adecuadas, es el criterio del conductor el que debe prevalecer en todo momento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Qué sistema ADAS ayuda a mantener una posición segura dentro de los límites del carril por el que se circula?",
+      "imagen": "examen-44_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El asistente para evitar que el conductor tenga una distracción provocada por la somnolencia, el cansancio o la fatiga (DDR)."
+        },
+        {
+          "letra": "B",
+          "texto": "El sistema de mantenimiento de carril conocido como LKA."
+        },
+        {
+          "letra": "C",
+          "texto": "El sistema avanzado de frenada de emergencia BAS o EBA."
+        }
+      ],
+      "ayuda": "El asistente de mantenimiento de carril también se conoce por sus siglas en inglés LKA (Lane Keeping Assist) o LKS (Lane Keeping System). Su función es ayudar a mantener el vehículo dentro del mismo carril de conducción y evitar una salida involuntaria bien por una distracción o por somnolencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Conforme a los datos de accidentalidad, en los períodos de vacaciones y los fines de semana...",
+      "imagen": "examen-44_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no varía de forma importante el número de accidentes con víctimas mortales."
+        },
+        {
+          "letra": "B",
+          "texto": "aumenta el número de accidentes con víctimas mortales."
+        },
+        {
+          "letra": "C",
+          "texto": "disminuye el número de accidentes con víctimas mortales."
+        }
+      ],
+      "ayuda": "Conforme a los datos de accidentalidad, en los períodos de vacaciones y en los fines de semana aumenta el número de siniestros con víctimas mortales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Los carriles reversibles están delimitados por marcas longitudinales...",
+      "imagen": "examen-44_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "discontinuas con una separación sensiblemente más corta."
+        },
+        {
+          "letra": "B",
+          "texto": "discontinuas simples a ambos lados."
+        },
+        {
+          "letra": "C",
+          "texto": "dobles discontinuas a ambos lados."
+        }
+      ],
+      "ayuda": "Como caso especial de línea discontinua, las dobles que delimitan un carril por ambos lados significan que éste es reversible, es decir, que en él la circulación puede estar reglamentada en uno u otro sentido mediante semáforos de carril u otros medios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "En una autopista que transcurre por zona urbana, ¿a qué velocidad máxima puede circular un turismo si no existe señalización?",
+      "imagen": "examen-44_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 80 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "A 120 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A 100 km/h."
+        }
+      ],
+      "ayuda": "El límite genérico de velocidad en autopistas y autovías que transcurren dentro de poblado es de 80 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "A la vista de la señal, ¿podría un autobús adelantar a un camión que circula delante de él?",
+      "imagen": "examen-44_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No, nunca."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo cuando el camión no supere los 3.500 kg de masa máxima autorizada."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen prohíbe a los camiones cuya masa máxima autorizada exceda de 3.500 kilogramos adelantar a otros vehículos de motor que circulen por la calzada.\nEsta prohibición no afecta a otros vehículos, como los autobuses en este caso. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "La parte externa de uno de los neumáticos de su vehículo presenta una deformación en forma de bulto, ¿es recomendable sustituir el neumático lo antes posible?",
+      "imagen": "examen-44_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque aumenta la posibilidad de sufrir un reventón."
+        },
+        {
+          "letra": "B",
+          "texto": "No. Se puede seguir circulando con seguridad ya que no supone un riesgo importante."
+        },
+        {
+          "letra": "C",
+          "texto": "No; no es necesario sustituirlo ya que siempre se puede reparar en un taller especializado."
+        }
+      ],
+      "ayuda": "Si los neumáticos de su turismo pierden sus inscripciones reglamentarias, presentan deformaciones o están desgastados con una profundidad inferior a 1,60 mm en sus ranuras, se deben cambiar lo antes posible, ya que aumenta la posibilidad de sufrir un reventón.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "En vías sin pavimentar situadas fuera de poblado, ¿a qué velocidad máxima está permitido circular con un vehículo pick-up?",
+      "imagen": "examen-44_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "30 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "90 km/h."
+        }
+      ],
+      "ayuda": "En las vías sin pavimentar el límite de velocidad máximo será de 30 km/h.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Puede rebasar la velocidad máxima indicada en la señal?",
+      "imagen": "examen-44_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en 20 km/h para adelantar."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, mientras lo permitan las circunstancias."
+        }
+      ],
+      "ayuda": "La señal de velocidad máxima que se observa en la fotografía no se puede rebasar en ningún caso. Una vez pasada la intersección señalizada, con la señal de advertencia de peligro, se podrá superar dicha velocidad si las circunstancias lo permiten.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Los vehículos de movilidad personal (VMP), ¿deben disponer de un sistema de frenado que permita reducir la velocidad y detener totalmente el vehículo?",
+      "imagen": "examen-44_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, todos los vehículos de movilidad personal deben disponer de dos frenos independientes, aunque se permite el accionamiento mediante un único mando."
+        },
+        {
+          "letra": "B",
+          "texto": "No, los frenos son opcionales en los vehículos de movilidad personal."
+        }
+      ],
+      "ayuda": "Los vehículos de movilidad personal deben estar equipados con dos frenos independientes, aunque se permite el accionamiento mediante un único mando.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "examen-44_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La proximidad de una área de servicios para vehículos eléctricos."
+        },
+        {
+          "letra": "B",
+          "texto": "La situación de una estación de recarga eléctrica."
+        },
+        {
+          "letra": "C",
+          "texto": "Un punto para la carga de patinetes eléctricos."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen indica la situación de una estación de recarga eléctrica.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Qué debe hacer el conductor de un vehículo que, por motivos de emergencia, quede inmovilizado dentro de un paso inferior?",
+      "imagen": "examen-44_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Permanecer en el interior del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Inmovilizar el vehículo lo más cerca posible del borde izquierdo de la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "Solicitar auxilio a través del poste de socorro más próximo, si existiese."
+        }
+      ],
+      "ayuda": "Si por motivos de emergencia un conductor queda inmovilizado con su vehículo dentro de un túnel o paso inferior, deberá, entre otras medidas, solicitar auxilio sin demora a través del poste de socorro (poste SOS) más próximo, si existe, y seguir las instrucciones que a través de él se le hagan llegar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Si por una emergencia un conductor se ve obligado a inmovilizar su vehículo en una autopista, ¿puede hacerlo en la mediana?",
+      "imagen": "examen-44_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso se puede dejar inmovilizado el vehículo en la mediana."
+        },
+        {
+          "letra": "B",
+          "texto": "No, siempre se ha de dejar inmovilizado el vehículo en el arcén derecho."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo se puede hacer de forma excepcional, para no obstaculizar la circulación."
+        }
+      ],
+      "ayuda": "\tSi por causa de accidente o avería el vehículo o su carga obstaculizasen la calzada, los conductores adoptarán las medidas necesarias para que sea retirado en el menor tiempo posible.\n\t \n\tSi no pueden continuar su marcha, deberán detenerse en el arcén derecho de la vía o en el lugar donde cause menor obstáculo a la circulación.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Como norma general, ¿puede circular un vehículo de movilidad personal por el carril bici que se observa en la imagen? ",
+      "imagen": "examen-44_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, si no molesta a los ciclistas."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen, indica que se trata de una vía reservada y obligatoria para ciclos y establece la obligación para los conductores de ciclos de circular por la vía a cuya entrada esté situada y la prohibición a los demás usuarios de la vía de utilizarla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Conducir durante mucho tiempo a una velocidad elevada...",
+      "imagen": "examen-44_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "disminuye la aparición de la fatiga pero aumenta los comportamientos agresivos."
+        },
+        {
+          "letra": "B",
+          "texto": "acelera la aparición de la fatiga y, por tanto, disminuye la agresividad."
+        },
+        {
+          "letra": "C",
+          "texto": "acelera la aparición de la fatiga y aumenta los comportamientos agresivos."
+        }
+      ],
+      "ayuda": "Conducir durante un tiempo prolongado a una velocidad elevada acelera la aparición de la fatiga y aumenta los comportamientos agresivos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Los vehículos de movilidad personal, como los patinetes eléctricos, ¿están obligados a llevar catadióptricos? ",
+      "imagen": "examen-44_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, los catadiótricos reflectantes pueden sustituir al alumbrado."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, deben llevar catadióptricos en la parte delantera y trasera y en los laterales."
+        },
+        {
+          "letra": "C",
+          "texto": "No es obligatorio pero pueden llevarlos de forma opcional."
+        }
+      ],
+      "ayuda": "Los vehículos de movilidad personal han de equipar un sistema de iluminación en la parte delantera (blanca) y trasera (roja) e incluir la función de luz de freno diferenciada o combinada con la luz trasera. Además, deben estar equipados de catadióptricos frontales, traseros y laterales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Si un conductor presencia un accidente de tráfico en el que no está implicado, ¿debe detenerse para ayudar o intentar auxiliar a las víctimas?",
+      "imagen": "examen-44_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, si no está implicado no tiene ninguna responsabilidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, salvo en los casos que manifiestamente no sea necesaria su colaboración"
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si tiene conocimientos de primeros auxilios."
+        }
+      ],
+      "ayuda": "Salvo en los casos en que, manifiestamente, no sea necesaria su colaboración, todo usuario de la vía que advierta que se ha producido un accidente de circulación, aunque no esté implicado en él, debe detenerse para ayudar o intenar auxiliar a las víctimas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "La edad del conductor, ¿puede influir en la tasa de alcoholemia?",
+      "imagen": "examen-44_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo si se consumen bebidas destiladas como ginebra o brandi."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, los más jóvenes suelen ser más sensibles a sus efectos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, la edad no influye en la tasa de alcoholemia."
+        }
+      ],
+      "ayuda": "Las personas menores de 18 años y los mayores de 65 son más sensibles a los efectos del alcohol, por lo que deben extremar las precauciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿A qué es debido que los niños de entre 6 y 10 años de edad sean un grupo especialmente vulnerable en el tráfico?",
+      "imagen": "examen-44_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A que aunque conocen las normas de tráfico no las suelen respetar."
+        },
+        {
+          "letra": "B",
+          "texto": "A que en caso de atropello, el golpe suele producirse en la cabeza o en otras partes vitales de su cuerpo."
+        },
+        {
+          "letra": "C",
+          "texto": "A que tienen un mayor campo visual que el de los adultos y una mejor visión periférica."
+        }
+      ],
+      "ayuda": "Los niños, en especial aquellos entre 6 y 10 años son especialmente vulnerables como peatones, debido a que en caso de atropello suelen recibir el impacto en en la cabeza o en otras partes vitales de su cuerpo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

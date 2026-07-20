@@ -1,0 +1,308 @@
+[
+  {
+    "n": 1,
+    "tipo": "imagen",
+    "titulo": "Bienvenido al Tema 10",
+    "texto": "Tema 10\n\nManiobras II. Cambios de dirección, de sentido y marcha atrás."
+  },
+  {
+    "n": 2,
+    "tipo": "imagen",
+    "titulo": "Cambios de vía, calzada y carril. Normas generales",
+    "texto": "El conductor de un vehículo que pretenda girar a la derecha o a la izquierda, deberá advertirlo previamente, y con suficiente antelación, a los conductores de los vehículos que circulen detrás del suyo.\n\nAsimismo, deberá cerciorarse de que la velocidad y la distancia de los vehículos que se acerquen en sentido contrario le permitan efectuar la maniobra sin peligro, absteniéndose de realizarla de no darse estas circunstancias.\n\nTambién deberá abstenerse de realizar la maniobra cuando se trate de un cambio de dirección a la izquierda y no haya visibilidad suficiente."
+  },
+  {
+    "n": 3,
+    "tipo": "imagen",
+    "titulo": "Cambio de dirección hacia la derecha",
+    "texto": "El conductor de un vehículo que pretenda cambiar de dirección a la derecha, deberá ceñirse todo lo posible al borde derecho de la cazada."
+  },
+  {
+    "n": 4,
+    "tipo": "video",
+    "titulo": "Cambio de dirección hacia la derecha. Ejecución correcta",
+    "texto": "El conductor del vehículo azul realiza un giro correcto a la derecha porque no invade el carril reservado al sentido contrario.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/kjI5SFRsP_A?si=f3baxq8mBxtc6hvO"
+  },
+  {
+    "n": 5,
+    "tipo": "video",
+    "titulo": "Cambio de dirección hacia la derecha. Ejecución incorrecta",
+    "texto": "En cambio, si al girar a la derecha se invade el carril reservado al sentido contrario puede producirse una colisión.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/1oCu1lLNxd4?si=ZGfH1nzXg8ZmALfa"
+  },
+  {
+    "n": 6,
+    "tipo": "imagen",
+    "titulo": "Cambio de dirección hacia la izquierda en calzada de sentido único",
+    "texto": "Para cambiar de dirección a la izquierda en calzadas de sentido único, el conductor deberá ceñirse todo lo posible al borde izquierdo de la calzada."
+  },
+  {
+    "n": 7,
+    "tipo": "video",
+    "titulo": "Cambio de dirección hacia la izquierda en calzada de sentido único",
+    "texto": "Como se ve en esta animación, si el vehículo no está situado junto al borde izquierdo en calzadas de sentido único, al cambiar de dirección a la izquierda podrá sufrir un accidente.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/d-roetipwn8?si=9smMLqcxiOCdd_M-"
+  },
+  {
+    "n": 8,
+    "tipo": "imagen",
+    "titulo": "Cambio de dirección hacia la izquierda en calzadas de doble sentido",
+    "texto": "Para cambiar de dirección a la izquierda en calzadas de doble sentido de circulación, se debe situar el vehículo junto a la marca longitudinal de separación entre sentidos o, si ésta no existiera, en el eje de la calzada sin invadir la zona destinada al sentido contrario."
+  },
+  {
+    "n": 9,
+    "tipo": "video",
+    "titulo": "Cambio de dirección hacia la izquierda en calzada de doble sentido",
+    "texto": "En esta animación, el conductor del vehículo azul, que pretende girar a la izquierda en esta calzada de doble sentido de circulación, se coloca correctamente junto a la línea longitudinal que separa ambos sentidos.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/R-H4uiCabHQ?si=6ue93bXQwTL3mLY5"
+  },
+  {
+    "n": 10,
+    "tipo": "video",
+    "titulo": "Cambio de dirección hacia la izquierda en calzada de doble sentido",
+    "texto": "Desde esta otra perspectiva, se observa cómo se sitúa el conductor del vehículo rojo para cambiar de dirección a la izquierda, en esta vía de doble sentido.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/qukj2Fj289I?si=jqvzPvhdGS73p_1w"
+  },
+  {
+    "n": 11,
+    "tipo": "imagen",
+    "titulo": "Cambio de dirección a la izquierda en calzadas de doble sentido y tres carriles",
+    "texto": "En calzadas de doble sentido de circulación y tres carriles delimitados por líneas longitudinales discontinuas, para cambiar de dirección a la izquierda, se debe situar el vehículo en el carril central."
+  },
+  {
+    "n": 12,
+    "tipo": "video",
+    "titulo": "Cambio de dirección a la izquierda en calzadas de doble sentido y tres carriles",
+    "texto": "En esta calzada de doble sentido y tres carriles, el conductor del vehículo amarillo pretende cambiar de dirección a la izquierda y, para ello, se sitúa en el carril del medio.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/OAW-HxU5Rl0?si=_vO_MyM7XCyRJ8lm"
+  },
+  {
+    "n": 13,
+    "tipo": "imagen",
+    "titulo": "Cambio de dirección en vías acondicionadas",
+    "texto": "Si la vía está acondicionada o señalizada para realizar los cambios de dirección, éstos se deben realizar de acuerdo con el acondicionamiento y señalización.\n\nDe no realizarlo de esta manera, el cambio de dirección estará prohibido."
+  },
+  {
+    "n": 14,
+    "tipo": "imagen",
+    "titulo": "Cambio de dirección en vías acondicionadas",
+    "texto": "En esta imagen, las flechas amarillas indican el recorrido que pueden realizar los vehículos, mientras que la flecha roja señala la trayectoria incorrecta."
+  },
+  {
+    "n": 15,
+    "tipo": "video",
+    "titulo": "Cambio de dirección utilizando el acondicionamiento de la calzada",
+    "texto": "En esta calzada acondicionada, el conductor del vehículo azul utiliza el acondicionamiento habilitado para el cambio de dirección a la izquierda. Desde el centro de la calzada está prohibido realizar dicha maniobra.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/h7aHsJNqCUM?si=EouRpOzovYe3EC1O"
+  },
+  {
+    "n": 16,
+    "tipo": "imagen",
+    "titulo": "Cambios de dirección. Supuestos especiales",
+    "texto": "Si por las dimensiones del vehículo o por otras circunstancias que lo justifiquen, no fuera posible realizar el cambio de dirección con estricta sujeción a lo citado anteriormente, el conductor deberá adoptar las precauciones necesarias para evitar todo peligro al llevarlo a cabo.\n\nEn vías interurbanas en las que no haya un carril especialmente acondicionado para girar a la izquierda, los ciclos, bicicletas y ciclomotores de dos ruedas deberán situarse a la derecha, fuera de la calzada siempre que sea posible, e iniciarlo desde ese lugar."
+  },
+  {
+    "n": 17,
+    "tipo": "video",
+    "titulo": "Cambios de dirección. Supuestos especiales",
+    "texto": "En esta calzada de vía interurbana, el conductor del ciclomotor de dos ruedas se sitúa a la derecha, fuera de la calzada, y realiza correctamente un cambio de dirección a la izquierda.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/1Qu8hcprOik?si=UbXmHX6EJpAwOQXI"
+  },
+  {
+    "n": 18,
+    "tipo": "imagen",
+    "titulo": "Carril de espera",
+    "texto": "Cuando exista un carril especialmente acondicionado para girar a la izquierda, los conductores de ciclos, bicicletas y ciclomotores que pretendan girar hacia ese lado deben utilizar dicho carril, al igual que el resto de los vehículos."
+  },
+  {
+    "n": 19,
+    "tipo": "video",
+    "titulo": "Utilización de carril acondicionado para girar a la izquierda",
+    "texto": "En este video, se puede ver cómo el conductor del ciclomotor se sitúa en el carril acondicionado para girar a la izquierda.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/lY4puwRSmK8?si=Ockr4NZWFnyd0KeW"
+  },
+  {
+    "n": 20,
+    "tipo": "imagen",
+    "titulo": "Cambio de sentido de la marcha",
+    "texto": "La maniobra de cambio de sentido consiste en dar media vuelta, realizando un giro de 180 grados, para seguir en sentido inverso al que se circulaba permaneciendo en la misma calzada o vía."
+  },
+  {
+    "n": 21,
+    "tipo": "video",
+    "titulo": "Maniobra de cambio de sentido de la marcha",
+    "texto": "El conductor del vehículo gris realiza un cambio de sentido de la marcha.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/f7ncC9tdvCw?si=6teu5XPkkf2kRtpG"
+  },
+  {
+    "n": 22,
+    "tipo": "video",
+    "titulo": "Cambio de sentido de la marcha en acondicionamiento",
+    "texto": "Este otro conductor utiliza el acondicionamiento habilitado para cambiar el sentido de la marcha correctamente. En este caso, al existir un acondicionamiento, estaría prohibido hacerlo desde el centro de la calzada.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/_0yYTYhXMhc?si=9ZuOotTz2GSL8bHE"
+  },
+  {
+    "n": 23,
+    "tipo": "video",
+    "titulo": "Cambio de sentido de la marcha en acondicionamiento",
+    "texto": "El cambio de sentido de la marcha se puede hacer igual que en el caso anterior o, como en este caso, rodeando con el vehículo el acondicionamiento del otro lado de la calzada.\n\nAmbas maniobras son correctas, ya que lo que está prohibido es cambiar de sentido desde el centro de la calzada.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/OzfKe7FNvuQ?si=dk2eqwCxra7sCvx2"
+  },
+  {
+    "n": 24,
+    "tipo": "imagen",
+    "titulo": "Cambio de sentido de la marcha. Selección del lugar adecuado",
+    "texto": "El conductor de un vehículo que pretenda invertir el sentido de la marcha, deberá elegir un lugar adecuado para efectuar la maniobra de forma que se intercepte la vía en el menor tiempo posible. Además, debe:\n\n1 - Asegurase de que no va a poner en peligro u obstaculizar a otros usuarios.\n\n2 - Advertir la maniobra con el intermitente correspondiente.\n\n3 - Realizar la maniobra correctamente, sin utilizar la marcha atrás."
+  },
+  {
+    "n": 25,
+    "tipo": "imagen",
+    "titulo": "Distintos itinerarios para cambio de sentido",
+    "texto": "En estos gráficos, se detallan los distintos recorridos que se pueden seguir para realizar un cambio de sentido de la marcha, en diferentes tipos de intersección."
+  },
+  {
+    "n": 26,
+    "tipo": "imagen",
+    "titulo": "Cambio de sentido de la marcha. Prohibición de obstaculizar la calzada.",
+    "texto": "Cuando la permanencia en la calzada, mientras espera para cambiar de sentido, impida continuar la marcha de los vehículos que circulan detrás del suyo, el conductor de dicho vehículo deberá salir de la misma por su lado derecho, si fuera posible, hasta que las condiciones de la circulación le permitan realizarlo.\n\nEn este gráfico, el conductor del vehículo azul se ha detenido de forma incorrecta, para cambiar el sentido de circulación, ya que impide la marcha de los vehículos que circulan detrás."
+  },
+  {
+    "n": 27,
+    "tipo": "imagen",
+    "titulo": "Cambio de sentido en plazas, glorietas o similares.",
+    "texto": "En las plazas, glorietas o similares, el conductor que pretenda cambiar el sentido deberá efectuarlo dejando a la izquierda el centro de las mismas."
+  },
+  {
+    "n": 28,
+    "tipo": "imagen",
+    "titulo": "Prohibiciones de cambio de sentido de la marcha.",
+    "texto": "Se prohíbe cambiar el sentido de la marcha en las siguientes situaciones:\n\n- Donde no haya suficiente visibilidad, independientemente de la causa que la motive."
+  },
+  {
+    "n": 29,
+    "tipo": "imagen",
+    "titulo": "Prohibiciones de cambio de sentido de la marcha",
+    "texto": "- Cuando se dificulte la circulación o se ponga en peligro a otros usuarios de la vía.\n\n- En los pasos a nivel. En sus proximidades, sí está permitido el cambio de sentido de la marcha.\n\n- En los túneles, pasos inferiores y tramos de vía afectados por la señal Túnel.\n\n- En las autopistas y autovías, salvo en los lugares habilitados al efecto."
+  },
+  {
+    "n": 30,
+    "tipo": "imagen",
+    "titulo": "Prohibiciones de cambio de sentido de la marcha",
+    "texto": "- En cualquier vía pública utilizando la marcha atrás, salvo que no sea posible seguir de frente.\n\n- Desde el carril central de una calzada con tres carriles para ambos sentidos.\n\n- El calzadas de sentido único.\n\n- Donde lo prohíba una señal."
+  },
+  {
+    "n": 31,
+    "tipo": "imagen",
+    "titulo": "Prohibiciones de cambio de sentido de la marcha",
+    "texto": "También se prohíbe realizar un cambio de sentido de la marcha donde esté prohibido el adelantamiento, salvo que el cambio de sentido esté expresamente autorizado.\n\nPor lo tanto, queda prohibido el cambio de sentido en curvas y cambios de rasante de reducida visibilidad, en pasos para peatones y en sus proximidades, en intersecciones en las que no esté señalizada la preferencia de paso, etc."
+  },
+  {
+    "n": 32,
+    "tipo": "imagen",
+    "titulo": "Marcha atrás",
+    "texto": "Como norma general, está prohibido circular hacia atrás, excepto en los casos en que no sea posible circular hacia delante, ni cambiar de dirección o de sentido de la marcha.\n\nComo maniobra complementaria de la parada, el estacionamiento o la incorporación a la circulación, se podrá utilizar la marcha atrás, siempre que no se recorran más de 15 metros ni se invada un cruce de vías."
+  },
+  {
+    "n": 33,
+    "tipo": "imagen",
+    "titulo": "Marcha atrás. Precauciones y modo de realizarla",
+    "texto": "Antes de realizar maniobra de marcha atrás, el conductor debe comprobar y cerciorarse, mirando directamente hacia atrás, por los espejos retrovisores o incluso apeándose o siguiendo las instrucciones de otra persona, de que no va a constituir un peligro para los demás usuarios de la vía.\n\nLa circulación marcha atrás se debe realizar con máxima precaución y en el menor espacio y tiempo posible, después de advertir a los demás usuarios con la luz de marcha atrás y/o extendiendo el brazo horizontalmente con la palma de la mano hacia atrás."
+  },
+  {
+    "n": 34,
+    "tipo": "imagen",
+    "titulo": "Circulación en marcha atrás permitida",
+    "texto": "Cuando un conductor entre con su vehículo en una calle sin salida, en la que no se puede cambiar de dirección ni de sentido de la marcha, podrá salir de la misma circulando marcha atrás los metros que sean necesarios e, incluso, invadiendo un cruce de vías."
+  },
+  {
+    "n": 35,
+    "tipo": "imagen",
+    "titulo": "Autopistas y autovías. Prohibición de uso de la marcha atrás",
+    "texto": "En autopistas y autovías, queda terminantemente prohibido circular marcha atrás."
+  },
+  {
+    "n": 36,
+    "tipo": "imagen",
+    "titulo": "El tema 10 ha finalizado.\n\nA continuación, vamos a realizar un resumen.",
+    "texto": null
+  },
+  {
+    "n": 37,
+    "tipo": "imagen",
+    "titulo": "Precaución con vehículos que circulan en sentido contrario",
+    "texto": "Cuando la velocidad y la distancia de los vehículos en sentido contrario no permitan efectuar la maniobra con seguridad, el conductor debe abstenerse de realizar un cambio de dirección."
+  },
+  {
+    "n": 38,
+    "tipo": "imagen",
+    "titulo": "Cambio de dirección a la izquierda en calzadas de doble sentido",
+    "texto": "En calzadas de doble sentido de circulación, para cambiar de dirección a la izquierda, el conductor debe situarse junto al eje longitudinal de separación, sin invadir el sentido contrario.\n\nEnhorabuena, has superado el 80% del tema\n\nOk"
+  },
+  {
+    "n": 39,
+    "tipo": "imagen",
+    "titulo": "Cambio de dirección a la izquierda en calzadas de sentido único",
+    "texto": "En calzadas de sentido único, para girar a la izquierda, el conductor debe colocarse en el carril izquierdo. Por lo tanto, el turismo rojo que se observa en el gráfico, no está bien situado para realizar un giro a la izquierda."
+  },
+  {
+    "n": 40,
+    "tipo": "imagen",
+    "titulo": "Cambio de dirección a la derecha. Vehículos voluminosos",
+    "texto": "Cuando un vehículo voluminoso indica su intención de girar a la derecha, el conductor que circula detrás debe tener en cuenta que dicho vehículo puede desplazarse previamente hacia la izquierda."
+  },
+  {
+    "n": 41,
+    "tipo": "imagen",
+    "titulo": "Prohibición de cambio de sentido de la marcha cuando se obstaculice",
+    "texto": "Si para realizar un cambio de sentido, se obstaculiza el paso de los vehículos que circulan detrás, el conductor deberá salirse de la calzada por el lado derecho y esperar a que las condiciones de la circulación permitan efectuarlo."
+  },
+  {
+    "n": 42,
+    "tipo": "imagen",
+    "titulo": "Prohibición de cambio de sentido de la marcha. Pasos a nivel",
+    "texto": "Entre otros casos, queda prohibido cambiar el sentido de la marcha en los pasos a nivel. En sus proximidades, sí que se permite realizar un cambio de sentido."
+  },
+  {
+    "n": 43,
+    "tipo": "imagen",
+    "titulo": "Prohibición de cambio de sentido de la marcha. Túneles y pasos a nivel",
+    "texto": "También está prohibido cambiar el sentido de la marcha en los túneles, pasos inferiores y tramos de vía afectados por la señal Túnel."
+  },
+  {
+    "n": 44,
+    "tipo": "imagen",
+    "titulo": "Prohibición de uso de la marcha atrás en los cambios de sentido",
+    "texto": "Queda prohibido utilizar la marcha atrás para cambiar el sentido de la marcha, salvo que no sea posible seguir de frente."
+  },
+  {
+    "n": 45,
+    "tipo": "imagen",
+    "titulo": "Marcha atrás",
+    "texto": "Como norma general, está prohibido circular marcha atrás.\n\nExcepcionalmente, se podrá recurrir a la marcha atrás como maniobra complementaria de la parada, el estacionamiento o la incorporación a la circulación."
+  },
+  {
+    "n": 46,
+    "tipo": "imagen",
+    "titulo": "Marcha atrás. Supuestos autorizados",
+    "texto": "Para realizar una parada o un estacionamiento, se permite circular marcha atrás hasta 15 metros como máximo, siempre que no se invada un cruce de vías.\n\nEn todo caso, la maniobra de marcha atrás se debe realizar lentamente y con máxima precaución."
+  },
+  {
+    "n": 47,
+    "tipo": "imagen",
+    "titulo": "Muchas gracias por tu atención.\n\nA continuación puedes hacer el test de repaso de este tema.",
+    "texto": null
+  }
+]

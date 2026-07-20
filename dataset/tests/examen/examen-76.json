@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 76,
+  "nombre": "Test de examen 76",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Los conductores y pasajeros de vehículos que realicen servicios de urgencia, ¿están obligados a utilizar el cinturón de seguridad cuando circulen en poblado?",
+      "imagen": "examen-76_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Los conductores sí están obligados; los pasajeros, no."
+        },
+        {
+          "letra": "C",
+          "texto": "Los conductores no están obligados; los pasajeros, sí."
+        }
+      ],
+      "ayuda": "Como excepción a la norma general, los conductores y pasajeros de los vehículos en servicios de urgencia, no están obligados a hacer uso del cinturón de seguridad cuando circulen en poblado. Esta exención no será aplicable en ningún caso cuando lo hagan por autopistas, autovías o carreteras convencionales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Pueden algunas motocicletas llevar sistemas de estabilidad de frenado o airbag?",
+      "imagen": "examen-76_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, para evitar accidentes o reducir la gravedad de las lesiones."
+        },
+        {
+          "letra": "B",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "C",
+          "texto": "No, estos sistemas solo están disponibles para los turismos."
+        }
+      ],
+      "ayuda": "Las motocicletas actuales están equipadas con los más diversos y avanzados sistemas de seguridad tanto activa como pasiva. Es muy frecuente encontrar modelos que equipan dispositivos como ABS, ESP, BASS, airbag, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "En bajada, ¿cuándo frena mejor el vehículo?",
+      "imagen": "examen-76_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Frena igual con carga que sin carga."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando no lleva carga frena mejor."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando lleva carga frena mejor."
+        }
+      ],
+      "ayuda": "Cuanto mayor sea la masa en carga de un vehículo, mayor será la energía acumulada cuando este se encuentre en movimiento, por lo que también será mayor en este caso, el esfuerzo a realizar para frenarlo. En general, y especialmente en las bajadas, el frenado es más eficaz cuando no se lleva carga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Los transportes especiales o en régimen de transporte especial, en caso de avería de la señal luminosa V-2...",
+      "imagen": "examen-76_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "tienen prohibida la circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "deben encender la luz de cruce junto con la señal de emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "pueden circular únicamente con la luz de cruce encendida."
+        }
+      ],
+      "ayuda": "En caso de avería de la señal V-2, se deberá utilizar la luz de cruce junto con las luces indicadoras de dirección con señal de emergencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Está prohibido conducir un vehículo prioritario en servicio de urgencia con una tasa de alcohol en aire espirado a partir de...",
+      "imagen": "examen-76_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0,25 miligramos por litro."
+        },
+        {
+          "letra": "B",
+          "texto": "0,15 miligramos por litro."
+        },
+        {
+          "letra": "C",
+          "texto": "0,30 miligramos por litro."
+        }
+      ],
+      "ayuda": "Los conductores de vehículos prioritarios cuando circulen en servicio de urgencia, no podrán conducir con una tasa de alcoholemia superior a 0,15 miligramos por litro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "La carga que sobresalga de la proyección en planta del vehículo, ¿debe ir protegida?",
+      "imagen": "examen-76_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, no es necesario si va debidamente señalizada."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente cuando se circule entre la puesta y la salida del sol."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en la parte saliente para reducir los efectos de un roce o choque posibles."
+        }
+      ],
+      "ayuda": "Cuando la carga sobresalga de la proyección en planta del vehículo, se deberán adoptar todas las precauciones convenientes para evitar daños o peligros a los demás usuarios de la vía. Dicha carga deberá ir resguardada en la extremidad saliente para aminorar los efectos de un posible roce o choque.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Cuál es el crédito máximo de puntos que puede acumular un conductor?",
+      "imagen": "examen-76_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "12 puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "8 puntos."
+        },
+        {
+          "letra": "C",
+          "texto": "15 puntos."
+        }
+      ],
+      "ayuda": "Los titulares de los permisos y licencias de conducción que tengan un crédito de 12 puntos, podrán pasar a tener un total máximo de 15 puntos en los siguientes casos:\n- Se bonificará con 2 puntos a aquellos conductores que, durante los tres primeros años, no hayan sido sancionados con la pérdida de puntos.\n- Se bonificarán con 1 punto adicional si durante los tres años siguientes no son sancionados con la pérdida de puntos.\nEl máximo de puntos a acumular, será, por lo tanto: 12 + 2 + 1 = 15 puntos máximos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿En qué situación suelen tener menos accidentes las personas mayores como peatones?",
+      "imagen": "examen-76_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando van solas."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando van acompañando a niños."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando van acompañadas de de otra persona mayor."
+        }
+      ],
+      "ayuda": "Resulta interesante saber que las personas mayores suelen tener más accidentes cuando viajan solos que en compañía de un niño que llevan a su cargo. Parece ser que responsabilizados, extreman las precauciones y son más cuidadosos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "En un viaje es aconsejable planificar...",
+      "imagen": "examen-76_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los descansos que se van a realizar."
+        },
+        {
+          "letra": "B",
+          "texto": "el itinerario más corto posible."
+        },
+        {
+          "letra": "C",
+          "texto": "la hora de salida y la de llegada."
+        }
+      ],
+      "ayuda": "Antes de realizar un viaje largo, es importante realizar una planificación del itinerario a realizar y de los descansos a efectuar durante el mismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Qué prohíbe esta señal?",
+      "imagen": "examen-76_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Parar a ambos lados de la señal en el lado de la calzada donde esté situada."
+        },
+        {
+          "letra": "B",
+          "texto": "Parar y estacionar a ambos lados de la calzada donde esté situada."
+        },
+        {
+          "letra": "C",
+          "texto": "Estacionar a ambos lados de la señal en el lado de la calzada donde esté situada."
+        }
+      ],
+      "ayuda": "La señalización que se observa prohíbe estacionar a ambos lados de la señal en el lado de la calzada donde está situada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "¿Qué experimenta el conductor con el efecto túnel?",
+      "imagen": "examen-76_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una pérdida de la sensación de velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo percibe el centro de la calzada y dejar de ver los laterales."
+        },
+        {
+          "letra": "C",
+          "texto": "Una disminución de la fatiga."
+        }
+      ],
+      "ayuda": "El efecto túnel consiste en un estrechamiento del campo de visión, normalmente motivado por una velocidad elevada, disminuyendo la percepción de los estímulos laterales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Para adelantar en estas circunstancias...",
+      "imagen": "examen-76_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es obligatorio esperar a un tramo seco de la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "no deben tomarse precauciones especiales."
+        },
+        {
+          "letra": "C",
+          "texto": "debe tenerse especial cuidado, pues las salpicaduras pueden impedir la visibilidad."
+        }
+      ],
+      "ayuda": "En días de lluvia al aproximarnos a otros vehículos para adelantarlos, se debe tener especial cuidado, ya que las salpicaduras pueden impedir la visibilidad. Para evitarlo, se debe utilizar el limpiaparabrisas a la velocidad más rápida y accionar el lavaparabrisas para eliminar la suciedad y el barro que pudiera depositarse sobre el cristal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "En una autopista conduciendo un camión de 3.000 kg de M.M.A., ¿qué distancia es obligatorio dejar con el vehículo que va delante?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "50 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "100 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "La distancia de seguridad."
+        }
+      ],
+      "ayuda": "Al conducir por una autopista, como por cualquier otra vía, los conductores de todos los vehículos están obligados a mantener en todo momento, la distancia de seguridad reglamentaria.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Qué vehículos deben tener un seguro obligatorio de responsabilidad civil?",
+      "imagen": "examen-76_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cualquier vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Los vehículos de motor, ciclomotores y remolques o semirremolques no ligeros."
+        },
+        {
+          "letra": "C",
+          "texto": "Los automóviles solamente."
+        }
+      ],
+      "ayuda": "La obligación de suscribir un seguro de responsabilidad civil, es para todos los vehículos de motor, ciclomotores y remolques o semirremolques no ligeros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "El agente ordena la detención con...",
+      "imagen": "examen-76_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "sonidos de silbato cortos y frecuentes."
+        },
+        {
+          "letra": "B",
+          "texto": "un fuerte sonido de silbato."
+        },
+        {
+          "letra": "C",
+          "texto": "sonidos de silbato largos y espaciados."
+        }
+      ],
+      "ayuda": "Los agentes de circulación podrán realizar señales acústicas mediante un silbato. Una serie de toques de silbato cortos y frecuentes, ordenan la detención de los vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Es conveniente que el conductor de una motocicleta lleve botas?",
+      "imagen": "examen-76_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente en invierno."
+        },
+        {
+          "letra": "B",
+          "texto": "Solamente en verano."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre."
+        }
+      ],
+      "ayuda": "La utilización de una adecuada indumentaria resulta fundamental para la seguridad de los usuarios de motocicletas. En relación al calzado, lo más aconsejable en este sentido es la utilización de botas independientemente de la época del año.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Todo conductor está obligado a...",
+      "imagen": "examen-76_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "facilitar, en la medida de lo posible, la incorporación de otros vehículos a la vía por la que circula."
+        },
+        {
+          "letra": "B",
+          "texto": "cambiar de carril para permitir la incorporación de otros vehículos a la vía por la que circula."
+        },
+        {
+          "letra": "C",
+          "texto": "ceder el paso a los vehículos que se incorporan a la vía por la que circula."
+        }
+      ],
+      "ayuda": "Entre otras obligaciones, todo conductor está obligado a facilitar, en la medida de lo posible, la incorporación de otros vehículos a la vía por la que circula.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Se considera peatón a la persona...",
+      "imagen": "examen-76_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "que circula con una bicicleta."
+        },
+        {
+          "letra": "B",
+          "texto": "a cuyo cargo está un animal o animales."
+        },
+        {
+          "letra": "C",
+          "texto": "que, sin ser conductor, transita a pie por las vías públicas."
+        }
+      ],
+      "ayuda": "De acuerdo a la definición reglamentaria, se considera peatón a la persona que, sin ser conductor, transita a pie por las vías públicas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Un turismo circula por una vía preferente y por la derecha se le aproxima un tranvía, ¿quién tiene preferencia de paso?",
+      "imagen": "examen-76_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El tranvía, porque se aproxima por la derecha del turismo."
+        },
+        {
+          "letra": "B",
+          "texto": "El turismo, porque circula por una vía preferente."
+        },
+        {
+          "letra": "C",
+          "texto": "El tranvía, porque circula sobre raíles."
+        }
+      ],
+      "ayuda": "Los vehículos que circulen por una vía preferente tendrán prioridad de paso sobre otros vehículos. Los tranvías tendrán prioridad de paso sobre otros vehículos como norma general, solo cuando no exista señalización que regule la preferencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Puede adelantar al vehículo blanco por la derecha?",
+      "imagen": "examen-76_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque circula incorrectamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque es una autovía."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque está prohibido."
+        }
+      ],
+      "ayuda": "El adelantamiento en vías fuera de poblado únicamente debe realizarse por la izquierda. Los adelantamientos por la derecha, además de ser peligrosos están prohibidos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Dentro de poblado, ¿se pueden utilizar los alumbrados de corto o largo alcance alternativamente a intervalos muy cortos?",
+      "imagen": "examen-76_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Dentro de poblado en ningún caso, fuera sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, para evitar un posible accidente."
+        }
+      ],
+      "ayuda": "Como norma general la utilización del alumbrado de largo alcance dentro de poblado está prohibida. Excepcionalmente, se podrán utilizar los alumbrados de corto o largo alcance alternativamente y a intervalos muy cortos, cuando sea para evitar un posible accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "La parte de la vía destinada a la circulación de turismos es...",
+      "imagen": "examen-76_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "la mediana."
+        }
+      ],
+      "ayuda": "La calzada, es la zona de la vía destinada a la circulación de vehículos en general.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Debe señalizar toda maniobra que suponga realizar...",
+      "imagen": "examen-76_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "desplazamientos laterales o inmovilizar el vehículo, únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "desplazamientos laterales, únicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "un desplazamiento lateral o marcha atrás, inmovilizar el vehículo o frenar la marcha."
+        }
+      ],
+      "ayuda": "Los conductores están obligados a señalizar, como norma general, toda maniobra que suponga realizar un desplazamiento lateral o marcha atrás, inmovilizar el vehículo o frenar la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Al salir de un garaje, ¿qué debe hacer?",
+      "imagen": "examen-76_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Moderar la velocidad por si hay peatones cruzando porque tienen prioridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Detenerse siempre a la salida."
+        },
+        {
+          "letra": "C",
+          "texto": "Aumentar la velocidad para salir lo antes posible."
+        }
+      ],
+      "ayuda": "Al salir de un garaje se debe extremar la precaución y moderar la velocidad, por si hay peatones cruzando, en cuyo caso estos tienen prioridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 25,
+      "enunciado": "Se acerca a un paso a nivel sin barreras con señal de STOP y ve que no viene ningún tren. ¿Qué debe hacer?",
+      "imagen": "examen-76_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Detenerme siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "Pasar rápidamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Reducir la velocidad y pasar con cuidado."
+        }
+      ],
+      "ayuda": "Cuando se pretenda atravesar un paso a nivel regulado por una señal de STOP, es obligatorio detenerse en todo caso para comprobar que el franqueo del paso a nivel puede realizarse con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "En una autopista, ¿está permitido circular a una velocidad anormalmente reducida con niebla espesa?",
+      "imagen": "examen-76_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque es una autopista y es una vía de gran seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, si la circulación es escasa, pero no, si es densa."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "La velocidad de circulación debe adaptarse a las condiciones ambientales existentes, por lo que, en caso de existir niebla o cualquier otro fenómeno que reduzca la seguridad, se deberá circular a la velocidad que resulte adecuada a dichas circunstancias, aún cuando se tenga que circular a velocidad anormalmente reducida (por debajo de los límites de velocidad mínima).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Dónde puede encontrar estos paneles?",
+      "imagen": "examen-76_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Antes de una señal vertical."
+        },
+        {
+          "letra": "B",
+          "texto": "Encima de una señal vertical."
+        },
+        {
+          "letra": "C",
+          "texto": "Bajo una señal vertical."
+        }
+      ],
+      "ayuda": "Panel complementario de una señal vertical.\nEstos paneles indican, bajo otra señal vertical, que ésta se refiere a las circunstancias que se señalan en el panel como nieve, lluvia o niebla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Las técnicas de conducción preventiva se basan en los principios de...",
+      "imagen": "examen-76_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "visión, anticipación y gestión del tiempo."
+        },
+        {
+          "letra": "B",
+          "texto": "visión y gestión del espacio, únicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "visión, anticipación y gestión del espacio."
+        }
+      ],
+      "ayuda": "Las técnicas de conducción preventiva se basan en los principios de visión, anticipación y gestión del espacio, y en la adecuada gestión de estos tres elementos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Las hojas caídas en la calzada, ¿pueden influir en la conducción?",
+      "imagen": "examen-76_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque el neumático se agarra mejor al pavimento."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque disminuye la adherencia al pavimento y las marcas viales pueden quedar ocultas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, esta circunstancia no influye en la conducción."
+        }
+      ],
+      "ayuda": "Las hojas caídas sobre la calzada y otras zonas de circulación de vehículos, pueden resultar especialmente peligrosas, ya que disminuyen notoriamente las condiciones de adherencia y, además, se puede perder la visibilidad de las marcas viales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "Las lesiones más graves en los ciclistas, cuando son víctimas de un atropello, se localizan en...",
+      "imagen": "examen-76_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "las extremidades."
+        },
+        {
+          "letra": "B",
+          "texto": "la cabeza."
+        },
+        {
+          "letra": "C",
+          "texto": "todo el cuerpo."
+        }
+      ],
+      "ayuda": "Las lesiones de mayor gravedad que suelen experimentar los ciclistas tras un atropello, son aquellas producidas en la cabeza.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 59,
+  "nombre": "Test de examen 59",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Puede un vehículo de movilidad personal circular por una travesía?",
+      "imagen": "examen-59_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque está dentro de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que circule por el arcén."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido."
+        }
+      ],
+      "ayuda": "Los vehículos de movilidad personal (VMP) tienen prohibido circular por travesías, vías interurbanas y autopistas y autovías que transcurren dentro de poblado, así como en túneles urbanos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Retrovisor es el dispositivo que tiene por finalidad...",
+      "imagen": "examen-59_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "permitir una visibilidad clara hacia atrás y hacia los lados del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "permitir una visibilidad clara solo hacia atrás del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "dotar al vehículo de menor resistencia al viento."
+        }
+      ],
+      "ayuda": "Los espejos retrovisores son elementos fundamentales de la seguridad activa del vehículo. La finalidad de éstos, es permitir una correcta visibilidad hacia atrás y hacia los laterales del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "¿Qué debe tener en cuenta si conduce una motocicleta llevando un pasajero?",
+      "imagen": "examen-59_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que la distancia de detención será menor porque la motocicleta pesa más."
+        },
+        {
+          "letra": "B",
+          "texto": "Que debido al aumento de peso la distancia de frenado será mayor."
+        },
+        {
+          "letra": "C",
+          "texto": "Que es más fácil que se bloqueen las ruedas al frenar."
+        }
+      ],
+      "ayuda": "Cuando se transporta un pasajero en una motocicleta, la distancia de frenado será mayor que cuando circula solo el conductor. Esto se debe a que el vehículo tiene un peso mayor, lo que conlleva un aumento de la energía cinética acumulada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Los remolques y semirremolques, ¿deben tener tarjeta de inspección técnica?",
+      "imagen": "examen-59_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, es suficiente con la del vehículo que lo arrastra."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero únicamente los no ligeros."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, todos."
+        }
+      ],
+      "ayuda": "La tarjeta de inspección técnica es un documento obligatorio para todos los remolques, independientemente de sus características y su masa máxima autorizada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Los costes de policía y bomberos, de gestión de seguros y servicios, ¿cómo se llaman?",
+      "imagen": "examen-59_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Costes humanos."
+        },
+        {
+          "letra": "B",
+          "texto": "Costes sanitarios."
+        },
+        {
+          "letra": "C",
+          "texto": "Costes administrativos."
+        }
+      ],
+      "ayuda": "La accidentalidad vial supone un coste importantísimo para la sociedad. Entre estos costes, se encuentran los llamados costes administrativos, que son aquellos relacionados con la gestión administrativa posterior al accidente y la intervención de personal no sanitario en el lugar del mismo (policía, bomberos, peritos, etc.)",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Los accidentes por distracción son más frecuentes...",
+      "imagen": "examen-59_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en los jóvenes entre 18 y 25 años y en los mayores de 70."
+        },
+        {
+          "letra": "B",
+          "texto": "en los mayores de 50 años."
+        },
+        {
+          "letra": "C",
+          "texto": "en los conductores entre 30 y 45 años."
+        }
+      ],
+      "ayuda": "Los accidentes motivados por las distracciones suelen producirse con mayor frecuencia entre usuarios jóvenes (entre 18 y 25 años) y mayores (edad superior a 70 años).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "En una carretera convencional, ¿a qué velocidad máxima puede adelantar un camión?",
+      "imagen": "examen-59_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 100 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "A 120 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A 80 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima en carreteras interurbanas para camiones o furgones, es de 80 kilómetros por hora. Este límite de velocidad no puede ser rebasado por estos vehículos en ningún caso, ni siquiera para adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "¿Tiene permitido una motocicleta estacionar en una zona delimitada por marcas viales azules?",
+      "imagen": "examen-59_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solo si la motocicletas es de dos ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "No, el estacionamiento solo está permitido a turismos."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Marcas azules. \nLas marcas que delimitan los lugares en que el estacionamiento está permitido, que sean de color azul en lugar del normal color blanco, indican que, en ciertos periodos del día, la duración del estacionamiento autorizado está limitada, por lo que no regula el tipo de vehículo que puede estacionar en dicha zona.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Un vehículo circula a velocidad anormalmente reducida cuando...",
+      "imagen": "examen-59_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circula a velocidad inferior a la del resto de los conductores."
+        },
+        {
+          "letra": "B",
+          "texto": "no se adapta a las circunstancias de la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "circula a velocidad inferior a la mínima permitida en esa vía."
+        }
+      ],
+      "ayuda": "Se considera que un vehículo circula a velocidad anormalmente reducida cuando circula a velocidad inferior a la mínima fijada para el tipo de vía (por ejemplo si circula a menos de 60 km/h por una autovía o autopista).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Si es necesario avisar a un ciclista con señales acústicas, ¿cómo debe realizarse?",
+      "imagen": "examen-59_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cerca del ciclista."
+        },
+        {
+          "letra": "B",
+          "texto": "A cierta distancia del ciclista para evitar que se asuste."
+        },
+        {
+          "letra": "C",
+          "texto": "Es indiferente."
+        }
+      ],
+      "ayuda": "En caso de ser necesario utilizar las advertencias acústicas en las proximidades de un ciclista, se debe tener la precaución de no hacerlo demasiado cerca para evitar que el conductor se sobresalte y pueda perder el control del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Estacionar en una zona señalizada para uso exclusivo de minusválidos, ¿está permitido?",
+      "imagen": "examen-59_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando no esté siendo utilizada."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en todo caso."
+        }
+      ],
+      "ayuda": "En las zonas señalizadas para uso exclusivo de minusválidos, está siempre prohibido parar y estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Esta señal prohíbe la entrada a...",
+      "imagen": "examen-59_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "todos los vehículos de dos ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "ciclos y ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "ciclos."
+        }
+      ],
+      "ayuda": "Señal de entrada prohibida a ciclos.\nProhibición de acceso a ciclos, independientemente del número de ruedas.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "Se debe mantener una separación lateral adecuada...",
+      "imagen": "examen-59_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "solo al cruzarse con otros usuarios."
+        },
+        {
+          "letra": "B",
+          "texto": "solo al adelantar a los vehículos que circulen delante."
+        },
+        {
+          "letra": "C",
+          "texto": "siempre, tanto al adelantar como al cruzarse con otros usuarios."
+        }
+      ],
+      "ayuda": "Durante la conducción se debe mantener en todo momento, tanto al realizar un cruce con otro vehículo, como al efectuar un adelantamiento, una distancia lateral de seguridad que sea adecuada a la circunstancias, al vehículo adelantado y a las condiciones de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Hay niebla y lleva la luz antiniebla delantera encendida. ¿Está permitido encender la luz larga?",
+      "imagen": "examen-59_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, está permitido, pero no es aconsejable."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, es obligatorio."
+        }
+      ],
+      "ayuda": "La utilización del alumbrado de largo alcance en caso de niebla está permitida, pero resulta desaconsejable ya que no solo no contribuye a mejorar la visibilidad, sino que también puede producir auto deslumbramiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "La marca vial amarilla continua, ¿qué indica?",
+      "imagen": "examen-59_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prohíbe estacionar solamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Prohíbe hacer parada solamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Prohíbe hacer parada y estacionar."
+        }
+      ],
+      "ayuda": "En los tramos en que la marca blanca longitudinal esté constituida, en el lado exterior de este carril, por una línea discontinua, se permite su utilización general exclusivamente para realizar alguna maniobra que no sea la de parar, estacionar, cambiar el sentido de la marcha o adelantar, dejando siempre preferencia a los autobuses y, en su caso, a los taxis.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Desde un vehículo policial un agente hace señales al vehículo que circula delante para que se detenga; ¿qué debe hacer su conductor?",
+      "imagen": "examen-59_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Inmovilizar el vehículo inmediatamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Detenerse y permanecer en el interior del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Señalizar la inmovilización con las luces de emergencia y detener el vehículo inmediatamente."
+        }
+      ],
+      "ayuda": "Luz roja destellante hacia delante\nEl agente desde un vehículo indica al conductor del que le precede que debe detener el vehículo en el lado derecho, delante del vehículo policial, en un lugar donde no genere mayores riesgos o molestias para el resto de los usuarios. Los conductores afectados deberán permanecer en el interior del vehículo y seguir las instrucciones que impartan los agentes.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Qué puede favorecer la aparición de la fatiga?",
+      "imagen": "examen-59_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La existencia de defectos en la dirección o suspensión del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Una vía en perfecto estado."
+        },
+        {
+          "letra": "C",
+          "texto": "Un buen diseño de los elementos interiores del vehículo."
+        }
+      ],
+      "ayuda": "Hay múltiples factores que influyen en la aparición de la fatiga. Uno de estos factores puede ser la existencia de defectos en la dirección o suspensión del vehículo, o en cualquier otro órgano que afecte a la comodidad o a las condiciones de conducción del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Cuándo tienen prioridad de paso los animales sobre los vehículos?",
+      "imagen": "examen-59_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Si se trata de un rebaño que circula como una unidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando se encuentren en una cañada debidamente señalizada."
+        },
+        {
+          "letra": "C",
+          "texto": "Si encuentra la señal de peligro por la proximidad de animales domésticos o ganado."
+        }
+      ],
+      "ayuda": "Los animales domésticos tendrán prioridad de paso sobre los vehículos, entre otros casos, cuando circulen por una cañada debidamente señalizada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Mirar un cartel publicitario en el entorno de la vía, ¿puede distraer al conductor de un vehículo?",
+      "imagen": "examen-59_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en vías iluminadas."
+        }
+      ],
+      "ayuda": "Las vallas o carteles publicitarios colocados en el entorno de una vía, pueden resultar peligrosos para la seguridad vial, ya que pueden causar distracciones en los conductores y demás usuarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Esta señal...",
+      "imagen": "examen-59_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no prohíbe la entrada a vehículos que no sean de motor."
+        },
+        {
+          "letra": "B",
+          "texto": "prohíbe la entrada a todos los vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "permite la entrada a vehículos de motor."
+        }
+      ],
+      "ayuda": "Señal de entrada prohibida a vehículos de motor.\nIndica la prohibición de acceso a vehículos de motor.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Cuál es la velocidad máxima para una motocicleta con sidecar en una autopista?",
+      "imagen": "examen-59_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "70 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "100 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "120 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima establecida con carácter general en autopistas o autovías, para motocicletas (independientemente de que lleven sidecar o no), es de 120 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Si conduce un turismo y a la vista de la señal, ¿qué carril debe utilizar para cambiar de dirección a la derecha?",
+      "imagen": "examen-59_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cualquiera de los dos de la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "El de la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "El central."
+        }
+      ],
+      "ayuda": "El carril más próximo a la derecha, indica mediante la señal circular, que está reservado para ciclos, prohibiendo a los demás usuarios de la vía utilizarlo. Por lo tanto, los conductores de otros vehículos que no sean ciclos, para girar a la derecha deberán utilizar el carril situado en el centro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "En una curva, hay riesgo de salirse de la calzada, cuando...",
+      "imagen": "examen-59_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se toma a velocidad reducida."
+        },
+        {
+          "letra": "B",
+          "texto": "el radio de la curva es grande."
+        },
+        {
+          "letra": "C",
+          "texto": "el radio de la curva es pequeño."
+        }
+      ],
+      "ayuda": "Las curvas son especialmente peligrosas para la conducción, cuando presentan un radio muy pequeño (curvas muy cerradas) porque si no se toman a una velocidad adecuada, el vehículo puede tener dificultades para seguir el trazado y salirse de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "La señal dice: de 8 a 14 horas excepto carga y descarga. ¿Puede estacionar a las 13 horas en el lado que señala la flecha?",
+      "imagen": "examen-59_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La señal prohíbe expresamente el estacionamiento dentro del horario establecido a vehículos que no efectúen labores de carga o descarga, por lo que no se podrá estacionar en la zona indicada antes de las 14:00 horas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "El semáforo está al otro lado del cruce. ¿Dónde deben detenerse los vehículos?",
+      "imagen": "examen-59_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al lado del semáforo."
+        },
+        {
+          "letra": "B",
+          "texto": "Antes de las líneas blancas del paso para peatones."
+        },
+        {
+          "letra": "C",
+          "texto": "Dentro del cruce, antes del semáforo."
+        }
+      ],
+      "ayuda": "Cuando el semáforo situado al otro lado de la intersección se encuentre en rojo, los vehículos deberán detenerse antes del paso para peatones sin invadirlo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Esta señal prohíbe el paso a...",
+      "imagen": "examen-59_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los vehículos cuya masa por eje sea superior a la indicada."
+        },
+        {
+          "letra": "B",
+          "texto": "los vehículos cuya masa en carga sea superior a la indicada."
+        },
+        {
+          "letra": "C",
+          "texto": "cualquier vehículo cuya masa máxima autorizada sea superior a la indicada."
+        }
+      ],
+      "ayuda": "Señal de limitación de masa.\nProhibición de paso de los vehículos cuya masa en carga supere a la indicada en toneladas.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿A qué motocicletas prohíbe la entrada esta señal?",
+      "imagen": "examen-59_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A todas."
+        },
+        {
+          "letra": "B",
+          "texto": "A las de dos ruedas sin sidecar solamente."
+        },
+        {
+          "letra": "C",
+          "texto": "A las de más de 125 centímetros cúbicos."
+        }
+      ],
+      "ayuda": "\tSeñal de entrada prohibida a motocicletas.\n\tLa señal que se observa indica prohibición de acceso a motocicletas y a vehículos de tres ruedas asimilados a motocicletas.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Una motocicleta dentro de poblado, cuando la vía tiene más de un carril en el mismo sentido, podrá circular por...",
+      "imagen": "examen-59_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el carril de la derecha únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "el carril de la derecha para circular y el de la izquierda sólo para cambiar de dirección."
+        },
+        {
+          "letra": "C",
+          "texto": "el carril que mejor convenga a su destino."
+        }
+      ],
+      "ayuda": "Las motocicletas, al igual que los turismos, cuando circulen por una vía de poblado que disponga de más de un carril para el mismo sentido, y éstos se encuentren delimitados, podrán circular por el carril que mejor convenga a su destino.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Cuando los amortiguadores del vehículo están en mal estado, puede ocurrir que, al frenar...",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el vehículo se incline hacia delante."
+        },
+        {
+          "letra": "B",
+          "texto": "la parte trasera del vehículo baje excesivamente."
+        },
+        {
+          "letra": "C",
+          "texto": "se levante excesivamente la parte delantera del vehículo."
+        }
+      ],
+      "ayuda": "\tLos amortiguadores defectuosos constituyen un factor de riesgo que puede ser causa de accidente.\n\t \n\tAlgunos de los síntomas característicos de que los amortiguadores se encuentran en mal estado son:\n\t \n\t- Balanceo e inclinación excesiva del vehículo durante la circulación y en las curvas.\n\t- Aumento de la distancia de frenado.\n\t- Desgaste irregular de los neumáticos.\n\t- Inclinación excesiva del vehículo durante las frenadas (baja demasiado la parte delantera y se levanta la parte de atrás de forma excesiva.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Están obligados todos los automóviles a llevar una rueda de repuesto y las herramientas indispensables para su cambio?",
+      "imagen": "examen-59_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo cuando su M.M.A. es superior a 3.500 kg."
+        }
+      ],
+      "ayuda": "La obligación de llevar entre la dotación del vehículo, una rueda completa de repuesto o una rueda de uso temporal, afecta solamente a determinados automóviles (turismos, vehículos mixtos y automóviles destinados al transporte de mercancías, estos dos últimos de masa máxima autorizada no superior a 3.500 kg)",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

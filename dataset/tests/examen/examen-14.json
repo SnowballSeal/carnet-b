@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 14,
+  "nombre": "Test de examen 14",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Una furgoneta, con una antigüedad de más de 10 años, ¿con qué frecuencia pasará la inspección técnica periódica (ITV)?",
+      "imagen": "examen-14_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al cabo de cuatro años."
+        },
+        {
+          "letra": "B",
+          "texto": "Semestralmente."
+        },
+        {
+          "letra": "C",
+          "texto": "Cada dos años."
+        }
+      ],
+      "ayuda": "Los vehículos y conjuntos de vehículos dedicados al transporte de mercancías o cosas, que tengan una antigüedad superior a los diez años e independientemente de su masa máxima autorizada, tendrán que someterse a inspecciones técnicas periódicas de forma semestral.\n\n\n\n#14",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "En las vías interurbanas con tres carriles para el mismo sentido, a un turismo con remolque, ¿le está permitido circular por el carril izquierdo?",
+      "imagen": "examen-14_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando la longitud del conjunto no supere los 7 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solo para adelantar a otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "No, en ningún caso."
+        }
+      ],
+      "ayuda": "Cuando la calzada tenga tres o más carriles en el sentido de su marcha, los conductores de conjuntos de vehículos de más de siete metros de longitud, deben circular normalmente por el situado más a su derecha, pudiendo utilizar el inmediato cuando las circunstancias del tráfico o de la vía lo aconsejen, a condición de que no entorpezca la marcha de otro vehículo que le siga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "En condiciones meteorológicas que disminuyen sensiblemente la visibilidad...",
+      "imagen": "examen-14_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "solo es obligatorio encender la luz antiniebla trasera."
+        },
+        {
+          "letra": "B",
+          "texto": "no es obligatorio encender las luces, excepto que la señalización indique otra cosa."
+        },
+        {
+          "letra": "C",
+          "texto": "es obligatorio encender el sistema de alumbrado."
+        }
+      ],
+      "ayuda": "En condiciones meteorológicas que disminuyan sensiblemente la visibilidad es obligatorio encender el sistema de alumbrado (normalmente luces de posición y cruce y/o alumbrado antiniebla dependiendo del caso concreto).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "A un peatón, ¿le está permitido circular por la derecha en una vía fuera de poblado?",
+      "imagen": "examen-14_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando lo hace por razones de seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Fuera de poblado, cuando no se disponga de espacio especialmente reservado para peatones, como norma general, la circulación de éstos se hará por la izquierda. No obstante, la circulación de peatones se hará por la derecha cuando concurran circunstancias que así lo justifiquen por razones de mayor seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Qué factores pueden provocar fatiga en un conductor?",
+      "imagen": "examen-14_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La ventilación adecuada y la falta de confort."
+        },
+        {
+          "letra": "B",
+          "texto": "El estrés, las preocupaciones o los tiempos excesivos de conducción."
+        },
+        {
+          "letra": "C",
+          "texto": "Solamente factores externos, como la vía, la circulación densa o las condiciones meteorológicas."
+        }
+      ],
+      "ayuda": "Existen diversos factores que pueden propiciar la aparición de la fatiga en los conductores. Entre los más importantes, se encuentran el estrés, las preocupaciones y los tiempos prolongados de conducción.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Una motocicleta, ¿puede circular sin tubo de escape?",
+      "imagen": "examen-14_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque se rompe el motor."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando la motocicleta es deportiva."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque está prohibido, excepto si es eléctrica."
+        }
+      ],
+      "ayuda": "Como norma general, todos los vehículos de motor deben contar con el correspondiente tubo de escape y dispositivo silenciador de explosiones. Esta obligación es aplicable a los motores de combustión interna. Obviamente, cuando el vehículo sea impulsado por un motor eléctrico, los elementos mencionados no son necesarios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Debe detenerse ante estas marcas viales?",
+      "imagen": "examen-14_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando sea necesario para que pase un ciclista, porque en este paso tiene prioridad."
+        },
+        {
+          "letra": "B",
+          "texto": "No, ya que no es un paso para peatones, ni una marca de detención."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, siempre, para ceder el paso."
+        }
+      ],
+      "ayuda": "Una marca consistente en dos líneas transversales discontinuas y paralelas sobre la calzada, como la que se observa en la imagen, indica un paso para ciclistas, donde éstos tienen preferencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "La probabilidad de sufrir un accidente de tráfico...",
+      "imagen": "examen-14_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es siempre independiente del conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "solo depende de la capacidad del conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "puede reducirse evitando los factores de riesgo."
+        }
+      ],
+      "ayuda": "La probabilidad de sufrir un accidente de tráfico, puede reducirse evitando los factores de riesgo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Si un conductor pierde su saldo total de puntos, ¿puede perder la vigencia de su permiso de conducir?",
+      "imagen": "examen-14_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, la vigencia se pierde automáticamente cuando el saldo es de cero puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "No, el permiso solo pierde su vigencia cuando caduca."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, una vez notificada la resolución de la declaración de pérdida de vigencia."
+        }
+      ],
+      "ayuda": "Tras la pérdida de la totalidad de puntos asignados, los conductores perderán la vigencia de su permiso de conducir cuando les sea notificada la resolución correspondiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "La celebración de marchas ciclistas organizadas, ¿requieren autorización previa?",
+      "imagen": "examen-14_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo las que se celebran en días festivos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que el número de participantes sea superior a 50."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Las marchas ciclistas organizadas, requieren la autorización previa por parte de la autoridad correspondiente. Se entenderá por marchas ciclistas organizadas aquellas actividades en las que participen más de 50 ciclistas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Como norma general, si un herido en accidente de tráfico ha perdido el conocimiento, ¿cómo tiene que colocarlo?",
+      "imagen": "examen-14_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tumbado de lado en posición de defensa."
+        },
+        {
+          "letra": "B",
+          "texto": "Acostado boca arriba."
+        },
+        {
+          "letra": "C",
+          "texto": "Tumbado boca abajo."
+        }
+      ],
+      "ayuda": "Como norma general, a los heridos en accidente de tráfico que estén inconscientes, hay que colocarlos en posición lateral de seguridad (posición de defensa).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "La fatiga, ¿influye en los efectos producidos por el alcohol?",
+      "imagen": "examen-14_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, los agrava."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, los aminora."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La fatiga agrava los efectos producidos por el alcohol en los conductores, por lo que el riesgo de sufrir un accidente será aún mayor en estas circunstancias.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Qué objetivo tienen los límites de velocidad de la vía?",
+      "imagen": "examen-14_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que los conductores dispongan de la máxima fluidez, aunque disminuyan la velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo que los conductores tengan la máxima seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "Garantizar a los usuarios la máxima seguridad y fluidez."
+        }
+      ],
+      "ayuda": "Los límites de velocidad fijados para los distintos tipos de vía, tienen por objeto garantizar a los usuarios la máxima seguridad y fluidez.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Según las estadísticas, la mayoría de los accidentes de tráfico tienen lugar...",
+      "imagen": "examen-14_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los meses de primavera, por las alergias."
+        },
+        {
+          "letra": "B",
+          "texto": "en los periodos de vacaciones."
+        },
+        {
+          "letra": "C",
+          "texto": "en los periodos de trabajo o alta ocupación laboral."
+        }
+      ],
+      "ayuda": "Estadísticamente, los períodos de vacaciones son aquellos con mayores niveles de accidentalidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Todas las enfermedades, ¿son igual de peligrosas para la conducción?",
+      "imagen": "examen-14_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, algunos trastornos neurológicos y algunas enfermedades mentales son más peligrosas."
+        },
+        {
+          "letra": "B",
+          "texto": "No, las enfermedades crónicas no son peligrosas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, todas las enfermedades son igual de peligrosas."
+        }
+      ],
+      "ayuda": "No todas las enfermedades resultan igual de peligrosas para la conducción. Ciertos trastornos neurológicos y enfermedades mentales pueden comprometer seriamente las capacidades para conducir con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "Siempre que un conductor entre a una vía de uso público desde un camino exclusivamente privado...",
+      "imagen": "examen-14_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "está obligado a detenerse."
+        },
+        {
+          "letra": "B",
+          "texto": "está obligado a asegurarse de que lo hace sin peligro."
+        },
+        {
+          "letra": "C",
+          "texto": "tiene preferencia de paso."
+        }
+      ],
+      "ayuda": "Siempre que un conductor entre a una vía de uso público desde un camino exclusivo privado está obligado a asegurarse de que lo hace sin peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Cuál es la distancia ideal a la que debe colocarse respecto del airbag?",
+      "imagen": "examen-14_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "10 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "La distancia que le permita conducir en una postura cómoda."
+        },
+        {
+          "letra": "C",
+          "texto": "25 cm."
+        }
+      ],
+      "ayuda": "Para que la protección del airbag frontal sea efectiva y segura, es necesario colocarse a una distancia de entre diez y veinticinco centímetros, siendo esta última la distancia ideal para evitar el impacto directo de la bolsa contra la cara.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Qué indica la señal?",
+      "imagen": "examen-14_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obliga a seguir de frente."
+        },
+        {
+          "letra": "B",
+          "texto": "Obliga a cambiar de sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "Obliga a detener el vehículo."
+        }
+      ],
+      "ayuda": "En las señales de obligación como la que porta el personal de obras en la imagen, la flecha señala la dirección y sentido que los vehículos tienen la obligación de seguir.En este caso, obliga a los conductores a continuar de frente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Al acercarse a un centro docente, ¿qué precauciones se deben tomar?",
+      "imagen": "examen-14_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Moderar la velocidad y, si fuera preciso, detener el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Mantener la velocidad y estar atento al cumplimiento de la señalización vertical."
+        },
+        {
+          "letra": "C",
+          "texto": "Hacer señales acústicas para indicar nuestra presencia."
+        }
+      ],
+      "ayuda": "Al acercarse a un centro docente, o a cualquier otro lugar frecuentado por niños, se debe moderar la velocidad y, si fuera preciso, detener el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Circula con su turismo por una vía por la que cruza un carril bici, ¿tiene que ceder el paso a los ciclistas?",
+      "imagen": "examen-14_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo cuando se aproximen por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "No, los ciclistas no tienen prioridad de paso frente a los vehículos de motor."
+        }
+      ],
+      "ayuda": "Una marca consistente en dos líneas transversales discontinuas y paralelas sobre la calzada, como la que se observa en la imagen, indica un paso para ciclistas, donde éstos tienen preferencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Es obligatorio llevar un juego de cadenas para los neumáticos en el vehículo?",
+      "imagen": "examen-14_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo en invierno."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "La normativa vigente no contempla la obligación de llevar en el vehículo un juego de cadenas para los neumáticos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "¿De qué color es el testigo luminoso que indica que la motocicleta está en punto muerto?",
+      "imagen": "examen-14_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Verde."
+        },
+        {
+          "letra": "B",
+          "texto": "Amarillo."
+        },
+        {
+          "letra": "C",
+          "texto": "Rojo."
+        }
+      ],
+      "ayuda": "El color del testigo luminoso que nos indica que la motocicleta se encuentra en punto muerto es verde.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "¿Puede un conductor novel circular por un carril para vehículos con alta ocupación?",
+      "imagen": "examen-14_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, un conductor novel no puede circular por dicho carril durante el primer año."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque un conductor novel no puede exceder los 80 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si el vehículo transporta el número de personas establecidas."
+        }
+      ],
+      "ayuda": "En los carriles VAO (vehículos de alta ocupación) no existe ninguna limitación específica para los conductores noveles, por lo que, cuando el vehículo esté autorizado y transporte el número de personas establecidas podrá circular por dicho carril.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "En esta vía, si su vehículo puede superar los 70 km/h, ¿por qué carril debe circular?",
+      "imagen": "examen-14_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el carril en el que haya menos vehículos."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el carril derecho, si las circunstancias lo permiten."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el carril central, el derecho está reservado para los vehículos que no puedan superar dicha velocidad."
+        }
+      ],
+      "ayuda": "Como norma general y siempre que las circunstancias lo permitan, los vehículos deben circular por el carril de la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Qué indican las señales azules?",
+      "imagen": "examen-14_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Fin de autopista."
+        },
+        {
+          "letra": "B",
+          "texto": "Autopista de peaje."
+        },
+        {
+          "letra": "C",
+          "texto": "Los carriles para tomar otras vías o destinos."
+        }
+      ],
+      "ayuda": "Las señales de color azul que se observan en la imagen, indican los carriles para tomar otras vías o destinos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Qué deben hacer los conductores para evitar el atropello a peatones?",
+      "imagen": "examen-14_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tocar el claxon cuando se acerquen a un paso para peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "Indicarles cuando deben cruzar."
+        },
+        {
+          "letra": "C",
+          "texto": "Respetar la prioridad de paso en los pasos para peatones."
+        }
+      ],
+      "ayuda": "Para evitar el atropello a peatones, es fundamental que los conductores respeten la prioridad de paso de los mismos, especialmente en los pasos para peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "De acuerdo con esta señal, ¿por qué carril debe circular a 90 km/h?",
+      "imagen": "examen-14_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por el carril izquierdo, porque circulo a más de 70 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el carril derecho, siempre que sea posible."
+        },
+        {
+          "letra": "C",
+          "texto": "Por el carril que mejor convenga a mi destino."
+        }
+      ],
+      "ayuda": "Como norma general, y siempre que sea posible, los conductores deben circular por el carril derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Los costes por daños materiales de los accidentes afectan...",
+      "imagen": "examen-14_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "al vehículo y la carga, a la vía y al medioambiente."
+        },
+        {
+          "letra": "B",
+          "texto": "solo al vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "solo a la vía, porque estos costes son los más altos."
+        }
+      ],
+      "ayuda": "Los costes por daños materiales producto de un accidente de circulación, son aquellos daños ocasionados al vehículo, a la carga, a la vía y su entorno y al medioambiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Un semáforo con una o dos luces rojas intermitentes prohíbe el paso debido a...",
+      "imagen": "examen-14_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la salida de un vehículo de extinción de incendios."
+        },
+        {
+          "letra": "B",
+          "texto": "trabajos en la calzada."
+        },
+        {
+          "letra": "C",
+          "texto": "un accidente."
+        }
+      ],
+      "ayuda": "Una luz roja intermitente, o dos luces rojas alternativamente intermitentes, prohíben temporalmente el paso a los vehículos antes de un paso a nivel, una entrada a un puente móvil o a un pontón trasbordador, en las proximidades de una salida de vehículos de extinción de incendios o con motivo de la aproximación de una aeronave a escasa altura.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Aún es de día, pero ya se ha puesto el sol. ¿Qué luces debe encender?",
+      "imagen": "examen-14_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Está prohibido encender las luces cuando es de día."
+        },
+        {
+          "letra": "B",
+          "texto": "Basta con las de posición."
+        },
+        {
+          "letra": "C",
+          "texto": "Las de corto alcance o de cruce."
+        }
+      ],
+      "ayuda": "Las luces del vehículo deben encenderse entre la puesta y la salida del sol, independientemente de la hora del día.  \n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    }
+  ]
+}

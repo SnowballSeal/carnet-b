@@ -1,0 +1,641 @@
+{
+  "categoria_id": 2,
+  "test_id": 8,
+  "nombre": "Serie fácil 8",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Se puede sufrir distracciones por los efectos del alcohol?",
+      "imagen": "serie-facil-08_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "No, si la tasa de alcoholemia es inferior a la máxima permitida."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, especialmente en situaciones complejas."
+        }
+      ],
+      "ayuda": "El alcohol produce distracciones, especialmente en situaciones complejas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "En una carretera convencional, ¿se puede parar o estacionar fuera de la parte transitable del arcén?",
+      "imagen": "serie-facil-08_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Parar sí, estacionar no."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, se puede parar y estacionar si no se genera peligro por falta de visibilidad."
+        },
+        {
+          "letra": "C",
+          "texto": "Estacionar no, parar sí."
+        }
+      ],
+      "ayuda": "En carreteras convencionales, se permite parar y estacionar fuera de la parte transitable del arcén si no se genera peligro por falta de visibilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "En caso de atropello a peatones, ¿en qué tipo de vías se producen los accidentes más graves?",
+      "imagen": "serie-facil-08_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En carreteras convencionales."
+        },
+        {
+          "letra": "B",
+          "texto": "En poblado."
+        }
+      ],
+      "ayuda": "En vías convencionales se producen los atropellos a peatones más graves.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Los agentes podrán inmovilizar un vehículo...",
+      "imagen": "serie-facil-08_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cuando el resultado de la prueba de alcoholemia sea negativo."
+        },
+        {
+          "letra": "B",
+          "texto": "solo cuando el resultado de la prueba de alcoholemia sea positivo."
+        },
+        {
+          "letra": "C",
+          "texto": "cuando el conductor se niegue a efectuar la prueba de alcoholemia."
+        }
+      ],
+      "ayuda": "El vehículo podrá inmovilizarse en los casos de negativa a efectuar las pruebas de detección alcohólica o de drogas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Al prestar ayuda en un accidente, ¿debe ponerse el chaleco reflectante?",
+      "imagen": "serie-facil-08_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, antes de salir del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "No, ya que es una situación de emergencia."
+        }
+      ],
+      "ayuda": "En caso de emergencia, antes de salir del vehículo, en carreteras, es necesario ponerse el chaleco reflectante de alta visibilidad .",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "Uno de los efectos que el alcohol produce en el conductor es...",
+      "imagen": "serie-facil-08_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la ampliación del campo visual."
+        },
+        {
+          "letra": "B",
+          "texto": "la disminución de la distancia de frenado."
+        },
+        {
+          "letra": "C",
+          "texto": "la percepción incorrecta de las distancias y velocidades."
+        }
+      ],
+      "ayuda": "Entre otros efectos, la ingesta de alcohol produce en el conductor una percepción incorrecta de las distancias de frenado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Conducir de forma temeraria...",
+      "imagen": "serie-facil-08_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es una infracción muy grave que conlleva pérdida de puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "es recomendable en algunas situaciones de emergencia."
+        }
+      ],
+      "ayuda": "Conducir de forma temeraria es una infracción muy grave que lleva aparejada la pérdida de puntos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "En una autopista, ¿se puede hacer un cambio de sentido utilizando el paso de la mediana?",
+      "imagen": "serie-facil-08_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, pero solamente para salir de la autopista."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque está prohibido."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando no haya obstáculos que lo impidan."
+        }
+      ],
+      "ayuda": "Está prohibido utilizar las medianas de las autopistas y autovías para cambiar el sentido de la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Fumar mientras se conduce, ¿puede afectar a la conducción?",
+      "imagen": "serie-facil-08_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque distrae y se pierde capacidad de maniobra."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, además está prohibido."
+        }
+      ],
+      "ayuda": "Fumar durante la conducción no está prohibido, pero el conductor podría distraerse y, además perder capacidad de maniobra.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "serie-facil-08_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La situación de una obra histórica o artística declarada monumento."
+        },
+        {
+          "letra": "B",
+          "texto": "La obligación de encender las luces de cruce."
+        },
+        {
+          "letra": "C",
+          "texto": "El inicio de un túnel o paso inferior."
+        }
+      ],
+      "ayuda": "Esta señal indica el principio y, eventualmente, el nombre de un túnel, de un paso inferior o de un tramo de vía equiparada a túnel.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Los sistemas de seguridad pasiva...",
+      "imagen": "serie-facil-08_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "deben utilizarse correctamente, porque un mal uso puede suponer un riesgo."
+        },
+        {
+          "letra": "B",
+          "texto": "son muy caros y de difícil mantenimiento."
+        },
+        {
+          "letra": "C",
+          "texto": "evitan que se produzcan accidentes."
+        }
+      ],
+      "ayuda": "Los sistemas de seguridad pasiva se deben utilizar correctamente, porque un mal uso puede suponer un riesgo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Los vehículos tienen prioridad sobre los peatones excepto cuando...",
+      "imagen": "serie-facil-08_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se encuentren en la proximidad de un paso para peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "vayan a girar en una intersección para entrar en otra vía y haya peatones cruzándola."
+        },
+        {
+          "letra": "C",
+          "texto": "los peatones se aproximen por la derecha."
+        }
+      ],
+      "ayuda": "Cuando vayamos a girar con nuestro vehículo para entrar en otra vía, se les debe ceder el paso a los peatones que estén cruzando, aunque no exista paso para peatones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "serie-facil-08_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que se debe cambiar de carril."
+        },
+        {
+          "letra": "B",
+          "texto": "Que no se debe circular por el carril así señalizado."
+        },
+        {
+          "letra": "C",
+          "texto": "Que la entrada está prohibida a vehículos de motor, excepto motocicletas de dos ruedas y a vehículos de tres ruedas asimilados a motocicletas.."
+        }
+      ],
+      "ayuda": "Prohibición de acceso a vehículos de motor. No prohíbe el acceso a motocicletas de dos ruedas ni a vehículos de tres ruedas asimilados a motocicletas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Los ciclomotores de dos ruedas deben llevar...",
+      "imagen": "serie-facil-08_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "dos espejos retrovisores exteriores obligatorios, uno al lado izquierdo y otro al lado derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "obligatoriamente el espejo retrovisor del lado izquierdo y optativo el del lado derecho."
+        },
+        {
+          "letra": "C",
+          "texto": "obligatoriamente el espejo retrovisor del lado derecho siendo optativo el del lado izquierdo."
+        }
+      ],
+      "ayuda": "Los ciclomotores de dos ruedas están obligados a llevar un espejo retrovisor en el lado izquierdo siendo optativo el del lado derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "La luz de antiniebla trasera solo se utilizará cuando...",
+      "imagen": "serie-facil-08_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "las condiciones meteorológicas sean especialmente desfavorables."
+        },
+        {
+          "letra": "B",
+          "texto": "se circule por carretera de montaña."
+        },
+        {
+          "letra": "C",
+          "texto": "se circule con niebla o lluvia."
+        }
+      ],
+      "ayuda": "La luz de antiniebla trasera solo se podrá llevar encendida cuando las condiciones meteorológicas o ambientas sean especialmente desfavorables, como en caso de lluvia muy intensa, niebla densa, fuertes nevadas y nubes densas de humo o de polvo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿En qué tipo de vías suele producirse mayor número de accidentes con víctimas mortales?",
+      "imagen": "serie-facil-08_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En vías interurbanas."
+        },
+        {
+          "letra": "B",
+          "texto": "En vías urbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "En autopistas y autovías."
+        }
+      ],
+      "ayuda": "En vías interurbanas se producen mayor número de accidentes con víctimas mortales que en autopistas, autovías y vías de poblado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Un permiso de conducción caducado, ¿autoriza a su titular a conducir?",
+      "imagen": "serie-facil-08_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, salvo que haya transcurrido más de un año."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque aunque haya caducado tiene permiso."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Con el permiso de conducción caducado, no se debe conducir, está prohibido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Cuando un vehículo que circula detrás de su turismo está muy próximo, se recomienda...",
+      "imagen": "serie-facil-08_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aumentar la distancia de seguridad por delante siempre que sea posible."
+        },
+        {
+          "letra": "B",
+          "texto": "frenar bruscamente para alejar al coche que circula detrás."
+        }
+      ],
+      "ayuda": "Si el vehículo que circula detrás de nosotros, se aproxima demasiado, debemos aumentar la distancia de seguridad por delante siempre que sea posible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "Un turismo circula por una vía preferente y por la derecha se le aproxima un tranvía, ¿quién tiene preferencia de paso?",
+      "imagen": "serie-facil-08_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El tranvía, porque se aproxima por la derecha del turismo."
+        },
+        {
+          "letra": "B",
+          "texto": "El turismo, porque circula por una vía preferente."
+        }
+      ],
+      "ayuda": "Si circulamos por una vía preferente porque así esté señalizada, tenemos prioridad de paso sobre los vehículos que se aproximen por la derecha, aunque sea un tranvía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Se puede adelantar al vehículo por la derecha?",
+      "imagen": "serie-facil-08_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque es una autovía."
+        }
+      ],
+      "ayuda": "El adelantamiento por la derecha en autopistas y autovías está prohibido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Para incorporarse a la circulación, ¿se puede dar marcha atrás?",
+      "imagen": "serie-facil-08_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, es una de las maniobras en las que está permitido."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo en vías urbanas."
+        }
+      ],
+      "ayuda": "Para incorporarse a la circulación se permite circular en marcha atrás, siempre que no se pueda continuar de frente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Adelantar detrás de otro vehículo que está adelantando, ¿cuándo está prohibido?",
+      "imagen": "serie-facil-08_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando no tengo visibilidad suficiente."
+        },
+        {
+          "letra": "B",
+          "texto": "Siempre."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido adelantar detrás de otro vehículo que a su vez está adelantando en una carretera de doble sentido de circulación, si no se dispone de suficiente visibilidad por la parte delantera.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "En las operaciones de carga y descarga, ¿está permitido dejar el motor en marcha?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, siempre que se accione el freno de mano."
+        }
+      ],
+      "ayuda": "En las operaciones de carga y descarga, se debe parar siempre el motor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "Conducir cansado, ¿por qué es peligroso?",
+      "imagen": "serie-facil-08_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Porque se reacciona más rápido ante un imprevisto."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque disminuye la capacidad de reacción."
+        }
+      ],
+      "ayuda": "Entre otras consecuencias, conducir cansado disminuye la capacidad de reacción del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Dentro de poblado, ¿está permitido utilizar los alumbrados de corto o largo alcance a intervalos muy cortos?",
+      "imagen": "serie-facil-08_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para evitar un posible accidente."
+        }
+      ],
+      "ayuda": "Para evitar un accidente en poblado, se permite utilizar las luces de corto o largo alcance a intervalos muy cortos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Como norma general, en una autopista, ¿está permitido circular a 50 kilómetros por hora?",
+      "imagen": "serie-facil-08_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, ya que es la velocidad mínima permitida."
+        },
+        {
+          "letra": "B",
+          "texto": "No, como mínimo hay que circular a 60 kilómetros por hora."
+        }
+      ],
+      "ayuda": "Sin causa justificada, no se puede circular por las autopistas o autovías a menos de 60 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿En qué vías es obligatorio dejar la distancia de seguridad con el vehículo que circula delante para permitir que otro pueda adelantar?",
+      "imagen": "serie-facil-08_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En carreteras con un carril para cada sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "En vías interurbanas con dos o más carriles para cada sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "En autopistas y autovías."
+        }
+      ],
+      "ayuda": "En carreteras situadas fuera de poblado, con un carril para cada sentido y donde esté permitido el adelantamiento, los conductores cuando circulen sin intención de adelantar, además de guardar la distancia de seguridad, deberán dejar un espacio que permita al vehículo que les sigue, adelantarles con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "Se estima que cada 100 accidentes de tráfico, los causados por el factor humano son...",
+      "imagen": "serie-facil-08_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "entre 10 y 13."
+        },
+        {
+          "letra": "B",
+          "texto": "entre 70 y 90."
+        }
+      ],
+      "ayuda": "Entre el 70 y el 90% de los accidentes de tráfico son causados por el factor humano.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Dónde debe detenerse en este cruce?",
+      "imagen": "serie-facil-08_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Ante la línea de detención, sin rebasarla."
+        },
+        {
+          "letra": "B",
+          "texto": "Ante la señal."
+        },
+        {
+          "letra": "C",
+          "texto": "Inmediatamente antes del cruce, aun cuando rebase la línea de detención."
+        }
+      ],
+      "ayuda": "Atendiendo a la fotografía, hay que detenerse ante la línea de detención, sin rebasarla.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Si ha ingerido alcohol y va a conducir, debe saber que...",
+      "imagen": "serie-facil-08_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "conduce de forma menos arriesgada."
+        },
+        {
+          "letra": "B",
+          "texto": "acepta correr mayor riesgo."
+        }
+      ],
+      "ayuda": "Si ha ingerido alcohol y va a conducir debe saber que acepta correr mayor riesgo, es decir, tiene más posibilidades de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

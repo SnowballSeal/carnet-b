@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 63,
+  "nombre": "Test de examen 63",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Si conduce una furgoneta y pretende adelantar a un camión cuando hay fuerte viento lateral, ¿En qué momento debe tener más precaución?",
+      "imagen": "examen-63_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al principio del adelantamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Al final del adelantamiento."
+        },
+        {
+          "letra": "C",
+          "texto": "Al principio y al final del adelantamiento."
+        }
+      ],
+      "ayuda": "Para evitar peligros por la incidencia del viento al efectuar un adelantamiento a un camión u otro vehículo voluminoso, lo aconsejable es extremar la precaución tanto al empezar el adelantamiento al vehículo voluminoso como al salir de su cobertura (al finalizar el adelantamiento).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Es recomendable aumentar la distancia de seguridad...",
+      "imagen": "examen-63_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "cuando el conductor se encuentre en perfecto estado."
+        },
+        {
+          "letra": "B",
+          "texto": "al circular de día."
+        },
+        {
+          "letra": "C",
+          "texto": "cuando el vehículo de detrás se acerca demasiado."
+        }
+      ],
+      "ayuda": "Para una adecuada gestión del espacio y para circular con seguridad, cuando el vehículo de detrás se acerque demasiado y no guarde la distancia de seguridad correspondiente, es conveniente aumentar nuestra propia distancia en relación al vehículo que nos precede, ya que de esta forma, en caso de necesidad, se podrá frenar más gradualmente y evitar que el vehículo que nos sigue nos alcance.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Los efectos de los fármacos pueden variar por...",
+      "imagen": "examen-63_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la edad del conductor, únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "la edad, el hábito de consumo y el estado físico del conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "la edad y el estado físico del conductor, solamente."
+        }
+      ],
+      "ayuda": "Los efectos de los fármacos sobre la capacidad para conducir con seguridad no siempre son iguales, ya que dependen de diversos factores tales como la edad, el hábito de consumo y el estado físico del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "Cuando una señal vertical contradice a una señal de balizamiento circunstancial prevalece la señal...",
+      "imagen": "examen-63_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "de balizamiento circunstancial."
+        },
+        {
+          "letra": "B",
+          "texto": "vertical."
+        },
+        {
+          "letra": "C",
+          "texto": "más restrictiva."
+        }
+      ],
+      "ayuda": "En caso de contradicción entre dos tipos diferentes de señales, prevalecerá la que corresponda según el siguiente orden de preeminencia:\n\na. Señales y órdenes de los agentes de circulación.\nb. Señalización circunstancial que modifique el régimen normal de utilización de la vía, dispositivos delimitadores y señales de balizamiento.\nc. Semáforos.\nd. Señales verticales de circulación.\ne. Marcas viales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Con el permiso B, como norma general, ¿se puede conducir un automóvil de más de 3500 kg?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero debe tener una antigüedad superior a 3 años."
+        }
+      ],
+      "ayuda": "El permiso de la clase B autoriza, como norma general, la conducción de automóviles cuya masa máxima autorizada no supere los 3.500 kg y con un número de plazas no superior a 9.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "La señal indica...",
+      "imagen": "examen-63_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "peligro por la proximidad de una intersección con una vía, cuyos usuarios deben ceder el paso."
+        },
+        {
+          "letra": "B",
+          "texto": "peligro por una intersección con prioridad a la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "peligro por una intersección con prioridad sobre la vía de la izquierda."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen indica peligro por la proximidad de una intersección con una vía, cuyos usuarios deben ceder el paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "En una travesía de dos carriles para cada sentido, ¿puede circular por el segundo carril para girar a la izquierda?",
+      "imagen": "examen-63_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque en la travesía siempre debo circular por la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque en la travesía debo circular igual que en las vías urbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque la travesía es una vía interurbana."
+        }
+      ],
+      "ayuda": "En las travesías, como norma general, se debe circular como en el resto de las vías urbanas, en lo que respecta a la utilización de carriles y a la posición de los vehículos en la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "Los conductores que llegan a un puente móvil cerrado o con la barrera o semibarrera en movimiento, deben...",
+      "imagen": "examen-63_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "dar la vuelta y buscar otro itinerario."
+        },
+        {
+          "letra": "B",
+          "texto": "detenerse uno detrás de otro en el carril adecuado."
+        },
+        {
+          "letra": "C",
+          "texto": "acelerar y pasar cuanto antes."
+        }
+      ],
+      "ayuda": "Los conductores que llegan a un puente móvil cerrado o con la barrera o semibarrera en movimiento (bajando o subiendo), deben detenerse uno detrás de otro en el carril adecuado y esperar a que se permita el paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Los ciclistas circulan en grupo. ¿Quién pasará primero?",
+      "imagen": "examen-63_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los ciclistas, porque el primero ya está cruzando."
+        },
+        {
+          "letra": "B",
+          "texto": "El turismo, ya que los ciclistas salen por la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "Los ciclistas porque siempre tienen preferencia."
+        }
+      ],
+      "ayuda": "Los conductores de bicicletas tienen prioridad de paso respecto a los vehículos de motor:\n\na. Cuando circulen por un carril bici, paso para ciclistas o arcén debidamente señalizados.\nb. Cuando para entrar en otra vía el vehículo de motor gire a derecha o izquierda, en los supuestos permitidos, y haya un ciclista en sus proximidades.\nc. Cuando circulando en grupo, el primero haya iniciado ya el cruce o haya entrado en una glorieta.\n\nEn los demás casos serán aplicables las normas generales sobre prioridad de paso entre vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "¿Qué síntomas nos avisan de que estamos fatigados?",
+      "imagen": "examen-63_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El parpadeo constante y la pesadez de ojos."
+        },
+        {
+          "letra": "B",
+          "texto": "La sensación de euforia."
+        },
+        {
+          "letra": "C",
+          "texto": "No realizar movimientos en el asiento, ni cambios de postura."
+        }
+      ],
+      "ayuda": "El parpadeo constante y la pesadez de ojos es uno de los síntomas que indican que el conductor se encuentra fatigado. Para evitar riesgos, es conveniente buscar un lugar adecuado y descansar cuando se aprecien los primeros indicios de cansancio, somnolencia o fatiga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Este vehículo estacionado le dificulta la visibilidad, ¿puede detenerse un poco después de la línea transversal de detención?",
+      "imagen": "examen-63_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, y puede cruzar la intersección sin detenerse si no fuera necesario."
+        },
+        {
+          "letra": "B",
+          "texto": "No, debe detenerse primero antes de la línea de detención."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, en un lugar desde el que tenga visibilidad."
+        }
+      ],
+      "ayuda": "Detención obligatoria o stop. \nSiempre que exista línea de detención, es obligación de todo conductor detener su vehículo en todo caso ante dicha línea, independientemente de las condiciones de visibilidad.\n\nSi, por circunstancias excepcionales, desde el lugar donde se ha efectuado la detención no existe visibilidad suficiente, el conductor deberá detenerse de nuevo en el lugar desde donde tenga visibilidad, sin poner en peligro a ningún usuario de la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "¿Cuándo es obligatorio utilizar el alumbrado de corto alcance durante el día?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al circular por un carril reversible."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando llueve."
+        },
+        {
+          "letra": "C",
+          "texto": "Al circular por un carril para VAO."
+        }
+      ],
+      "ayuda": "En las calzadas con doble sentido de la circulación, cuando las marcas dobles discontinuas delimiten un carril por ambos lados, indican que éste es reversible, es decir, que en él la circulación puede estar regulada en uno o en otro sentido mediante semáforos de carril u otros medios. Los conductores que circulen por dicho carril deberán llevar encendida, al menos, la luz de corto alcance o de cruce en sus vehículos tanto de día como de noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Cuál es la velocidad máxima para un cuadriciclo no ligero en esta vía?",
+      "imagen": "examen-63_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "100 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "45 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "70 km/h."
+        }
+      ],
+      "ayuda": "La velocidad máxima genérica que no deben rebasar los vehículos de tres ruedas y cuadriciclos de motor (no ligeros), en cualquier tipo de vía donde esté permitida su circulación (excepto en las vías o tramos en las que esté estipulada una velocidad inferior) es de 70 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Qué sistemas de seguridad pueden perder eficacia si no se lleva abrochado el cinturón de seguridad?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los frenos y el ABS."
+        },
+        {
+          "letra": "B",
+          "texto": "La suspensión y los amortiguadores."
+        },
+        {
+          "letra": "C",
+          "texto": "Los airbags y los reposacabezas."
+        }
+      ],
+      "ayuda": "El cinturón de seguridad, además de ser por sí mismo un elemento importantísimo de protección, es también un complemento imprescindible de otros dispositivos de seguridad pasiva como los airbags y los reposacabezas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Los accidentes en los que están involucrados ciclistas ocurren más frecuentemente en...",
+      "imagen": "examen-63_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "carreteras convencionales, sobre todo en rectas e intersecciones."
+        },
+        {
+          "letra": "B",
+          "texto": "vías urbanas, sobre todo en intersecciones."
+        },
+        {
+          "letra": "C",
+          "texto": "autovías."
+        }
+      ],
+      "ayuda": "Los accidentes en los que están involucrados ciclistas ocurren más frecuentemente en carreteras convencionales, sobre todo en tramos rectos e intersecciones.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "En una zona señalizada para uso exclusivo de personas con movilidad reducida...",
+      "imagen": "examen-63_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "está permitido parar, pero no está permitido estacionar."
+        },
+        {
+          "letra": "B",
+          "texto": "no está permitido ni parar ni estacionar."
+        },
+        {
+          "letra": "C",
+          "texto": "puede parar y estacionar si no obstaculiza su utilización."
+        }
+      ],
+      "ayuda": "En una zona señalizada para uso exclusivo de personas con movilidad reducida no está permitido ni parar ni estacionar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "La distancia de reacción y la distancia de frenado, ¿son lo mismo?",
+      "imagen": "examen-63_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo en algunos casos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La distancia de reacción y la distancia de frenado, son conceptos diferentes, que se refieren, cada uno de ellos, a una fase del proceso de detención del vehículo.\n\nLa distancia de reacción es aquella que recorre el vehículo desde que el conductor percibe la presencia de un determinado obstáculo hasta que ejecuta alguna acción para evitarlo. La distancia de frenado, en cambio, es aquella que recorre el vehículo desde que el conductor pisa el freno hasta que el vehículo se detiene.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Un vehículo inmovilizado fuera de la calzada por avería, ¿debe cumplir las normas de estacionamiento?",
+      "imagen": "examen-63_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, siempre que sea factible."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque se trata de una emergencia."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo cuando la vía es de dos sentidos."
+        }
+      ],
+      "ayuda": "Si por causa de accidente o avería el vehículo o su carga obstaculizasen la calzada, los conductores, tras señalizar convenientemente el vehículo o el obstáculo creado, adoptarán las medidas necesarias para que sea retirado en el menor tiempo posible, deberán sacarlo de la calzada y situarlo cumpliendo las normas de estacionamiento siempre que sea factible.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Qué es lo primero que toda persona debe tener en cuenta ante un accidente de tráfico?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Proteger a las víctimas."
+        },
+        {
+          "letra": "B",
+          "texto": "Proteger el lugar del accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "Protegerse a sí misma."
+        }
+      ],
+      "ayuda": "La protección es el primer paso que se debe seguir ante un accidente de tráfico, de acuerdo con la regla de actuación conocida como PAS (Proteger, Alertar, Socorrer).\nAntes de acudir en ayuda de las víctimas, lo primero que debemos tener en cuenta es la protección, la cual se implementará en el siguiente orden: autoprotección, protección del lugar del accidente y protección de las víctimas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Qué factores de riesgo de los accidentes puede evitar directamente el conductor?",
+      "imagen": "examen-63_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El alcohol y el mal tiempo."
+        },
+        {
+          "letra": "B",
+          "texto": "Las distracciones, la velocidad y la fatiga."
+        },
+        {
+          "letra": "C",
+          "texto": "La fatiga únicamente."
+        }
+      ],
+      "ayuda": "El conductor puede evitar la mayoría de los factores de riesgo que intervienen en la circulación. Los más comunes de estos factores de riesgo, como las distracciones, la velocidad inadecuada o la fatiga, dependen directamente de la actitud y aptitud del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Qué es el ángulo muerto?",
+      "imagen": "examen-63_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Es la zona sin visibilidad que tiene el conductor al tomar la curva."
+        },
+        {
+          "letra": "B",
+          "texto": "Es una zona alrededor del vehículo que no se ve con los retrovisores."
+        },
+        {
+          "letra": "C",
+          "texto": "Es una parte de los coches que puede producir accidentes."
+        }
+      ],
+      "ayuda": "La zona conocida como \"ángulos muertos\", está comprendida por aquellos espacios situados alrededor del vehículo, que no se ven con los espejos retrovisores.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "El vehículo que sale de una vía no pavimentada, ¿a qué vehículos debe ceder el paso?",
+      "imagen": "examen-63_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente a los que se aproximen por la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente a los vehículos de motor que se aproximen por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "A todos los que circulen por la vía pavimentada."
+        }
+      ],
+      "ayuda": "Como norma general, los vehículos que circulen por una vía pavimentada, tendrán preferencia sobre aquellos que provengan de una vía sin pavimentar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Circulando con lluvia intensa, ¿es obligatorio utilizar la luz antiniebla trasera?",
+      "imagen": "examen-63_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, el trasero y el delantero."
+        }
+      ],
+      "ayuda": "El alumbrado posterior de antiniebla, solamente deberá llevarse encendida cuando las condiciones meteorológicas o ambientales sean especialmente desfavorables, como en caso de niebla espesa, lluvia muy intensa, fuerte nevada o nubes densas de polvo o humo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 24,
+      "enunciado": "En tramos de obras, ¿de qué color serán las marcas viales?",
+      "imagen": "examen-63_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Naranja."
+        },
+        {
+          "letra": "B",
+          "texto": "Blanco."
+        },
+        {
+          "letra": "C",
+          "texto": "Amarillo."
+        }
+      ],
+      "ayuda": "Las marcas viales que indican un tramo o zona en obras, son de color amarillo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "En un vehículo de menos de 5 metros de longitud, destinado al transporte de mercancías, ¿cuánto puede sobresalir una carga de longitud indivisible por su parte delantera?",
+      "imagen": "examen-63_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No puede sobresalir nada."
+        },
+        {
+          "letra": "B",
+          "texto": "Un tercio de la longitud del vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Un 15 por 100 de la longitud del vehículo."
+        }
+      ],
+      "ayuda": "La carga podrá sobresalir, en los vehículos destinados exclusivamente al transporte de mercancías, cuando se trate de cargas indivisibles y siempre que se cumplan las condiciones de seguridad establecidas:\n\n1. En vehículos de longitud superior a cinco metros, dos metros por la parte anterior y tres metros por la posterior.\n2. En vehículos de longitud igual o inferior a cinco metros, un tercio de la longitud del vehículo por cada extremo anterior y posterior.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "El conductor del vehículo que utiliza el carril adicional...",
+      "imagen": "examen-63_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "circulará, como máximo, a 100 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "deberá abandonar la vía en cuanto le sea posible."
+        },
+        {
+          "letra": "C",
+          "texto": "llevará encendida, al menos, la luz de cruce."
+        }
+      ],
+      "ayuda": "En las vías en las que se haya habilitado un carril adicional, los vehículos deberán circular utilizando las luces de cruce, tanto de día como de noche, e independientemente de las condiciones de visibilidad existentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "Circulando por un paso inferior suficientemente iluminado ¿es necesario encender algún alumbrado?",
+      "imagen": "examen-63_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, el alumbrado de posición, para advertir mi presencia a los demás usuarios."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque con la iluminación de la vía es suficiente."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, el alumbrado de posición y el de corto alcance."
+        }
+      ],
+      "ayuda": "Al circular por túneles o pasos inferiores suficientemente iluminados, los vehículos deberán utilizar el alumbrado de corto alcance o cruce, tanto de día como de noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Un turismo, ¿puede llevar sólo el espejo exterior izquierdo y el interior?",
+      "imagen": "examen-63_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, sólo son obligatorios el espejo interior y el exterior derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, también debe llevar el espejo exterior derecho."
+        }
+      ],
+      "ayuda": "Los turismos que estén equipados con un espejo exterior izquierdo y otro interior que ofrezcan condiciones de visibilidad adecuadas, podrán circular sin necesidad llevar otro espejo exterior en el lado derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "El conductor de un vehículo que por motivos de emergencia queda inmovilizado dentro de un túnel, ¿qué deberá hacer?",
+      "imagen": "examen-63_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Únicamente esperar a que se reanude la marcha."
+        },
+        {
+          "letra": "B",
+          "texto": "No abandonar nunca el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "Solicitar auxilio a través del poste de socorro más próximo, si existe."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo que por motivos de emergencia quede inmovilizado dentro de un túnel, deberá solicitar auxilio a través del poste de socorro más próximo, si existe.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Puede adelantar por la derecha en una autopista?",
+      "imagen": "examen-63_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, a un vehículo que circule a una velocidad reducida."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, si no se supera la velocidad máxima permitida."
+        }
+      ],
+      "ayuda": "Los adelantamientos en autopistas o autovías, deben realizarse por la izquierda en todo caso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "n": 1,
+    "tipo": "imagen",
+    "titulo": "Bienvenido al Tema 5",
+    "texto": null
+  },
+  {
+    "n": 2,
+    "tipo": "imagen",
+    "titulo": "Marcas viales",
+    "texto": "Las marcas viales, tienen por objeto regular la circulación y advertir o guiar a los usuarios de la vía.\nPueden emplearse solas o con otros medios de señalización, a fin de reforzar o precisar sus indicaciones."
+  },
+  {
+    "n": 3,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 4,
+    "tipo": "imagen",
+    "titulo": "Marcas longitudinales discontinuas",
+    "texto": "Una marca longitudinal discontinua está destinada a delimitar los carriles con el fin de guiar la circulación, y significa que ningún conductor debe circular con su vehículo o animal sobre ella, salvo cuando, debido a la anchura de los carriles, sea necesario y la seguridad de la circulación lo permita.\n\nEstas marcas podrán ser atravesadas para realizar ciertas maniobras permitidas, como giros o cambios de carril, respetando en cualquier caso la prioridad del vehículo que circula por el carril que se pretende ocupar."
+  },
+  {
+    "n": 5,
+    "tipo": "imagen",
+    "titulo": "Otras funciones de determinadas marcas longitudinales discontinuas",
+    "texto": "Determinadas marcas longitudinales discontinuas pueden también tener las siguientes funciones:\n\n- Separación de carriles o cuñas de cambio de velocidad.\n- Carriles de trenzado, carriles especializados y carriles adicionales.\n\nEstas marcas pueden separar un carril o cuña de cambio de velocidad o un carril de trenzado de los carriles básicos contiguos; separar un carril destinado a la circulación de determinados vehículos (autobuses, taxis, etc.), pudiendo utilizar los demás vehículos el carril reservado para realizar determinadas maniobras permitidas; o separar un carril adicional de uso obligatorio para vehículos lentos."
+  },
+  {
+    "n": 6,
+    "tipo": "video",
+    "titulo": "Carril adicional para vehículos lentos",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/Gz4Uz2iSO1Q?si=TGKOm7nkGjJoQhH_"
+  },
+  {
+    "n": 7,
+    "tipo": "imagen",
+    "titulo": "Preaviso de bifurcaciones o confluencias",
+    "texto": "Anuncian la proximidad de una bifurcación o confluencia de la calzada por la que se transita, con posible variación del número total de carriles antes o después de ellas."
+  },
+  {
+    "n": 8,
+    "tipo": "imagen",
+    "titulo": "Preaviso de marca continua u otra incidencia",
+    "texto": "Cuando la separación entre las marcas discontinuas es más corta que en el caso general, anuncian la proximidad de una marca longitudinal continua y la prohibición que ello implica, o la proximidad de un tramo de vía que presenta un riesgo especial."
+  },
+  {
+    "n": 9,
+    "tipo": "imagen",
+    "titulo": "Marcas longitudinales discontinuas dobles",
+    "texto": "Las líneas discontinuas dobles que delimitan un carril por ambos lados indican que éste es reversible, es decir, que en él la circulación puede estar reglamentada en uno o en otro sentido mediante semáforos de carril u otros medios."
+  },
+  {
+    "n": 10,
+    "tipo": "imagen",
+    "titulo": "Marcas longitudinales continuas",
+    "texto": "Una marca longitudinal continua sobre la calzada significa que ningún conductor con su vehículo o animal debe atravesarla, ni circular con su vehículo sobre ella.\n\nCuando la marca separe los dos sentidos de circulación, tampoco está permitido circular por la izquierda de aquella.\n\nSe excluyen de este significado las líneas continuas de borde de calzada, ya que al estar situadas en el arcén pueden ser ocasionalmente atravesadas cuando resulte necesario invadir este por razones de emergencia.\n\nUna marca longitudinal constituida por dos líneas continuas y paralelas tiene el mismo significado que la formada por una sola línea continua."
+  },
+  {
+    "n": 11,
+    "tipo": "video",
+    "titulo": "Adelantamiento antirreglamentario desobedeciendo la marca vial",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/zpBUyFUk5Gw"
+  },
+  {
+    "n": 12,
+    "tipo": "imagen",
+    "titulo": "Otras funciones de determinadas marcas longitudinales continuas",
+    "texto": "Separación de carriles o cuñas de cambio de velocidad, carriles de trenzado o carriles especializados: estas marcas pueden separar un carril o cuña de cambio de velocidad, un carril de trenzado o un carril destinado a la circulación de determinados vehículos (autobuses, taxis, etc.).\n\nSeparación de calzadas en bifurcaciones y confluencias: estas marcas separan las calzadas en bifurcaciones o confluencias."
+  },
+  {
+    "n": 13,
+    "tipo": "imagen",
+    "titulo": "Marcas longitudinales continuas adosadas a discontinuas",
+    "texto": "Cuando la marca consiste en una línea longitudinal continua adosada a otra discontinua, las personas conductoras deberán tener en cuenta únicamente la línea situada en el lado por el que circulan.\n\nCuando la marca separe sentidos de circulación opuestos, un vehículo que haya iniciado una maniobra de adelantamiento en un tramo con este tipo de marca desde el carril contiguo a la línea discontinua, podrá atravesar la línea continua y volver a su carril tras realizar el adelantamiento o desistir de él."
+  },
+  {
+    "n": 14,
+    "tipo": "imagen",
+    "titulo": "Marcas longitudinales adosadas en calzada de sentido único y de doble sentido",
+    "texto": "Calzadas de doble sentido\nEn la calzada que se observa en la parte superior de la imagen, las marcas longitudinales separan sentidos distintos de circulación, por lo que está permitido atravesar la línea continua para volver a la derecha después de adelantar.\n\nCalzadas de sentido único\nPor el contrario, en la calzada de la parte inferior, de sentido único, las marcas longitudinales permiten adelantar pero no permiten volver al carril derecho atravesando la línea continua."
+  },
+  {
+    "n": 15,
+    "tipo": "video",
+    "titulo": "Marcas longitudinales adosadas en calzada de doble sentido",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/ietxBzm-4HM"
+  },
+  {
+    "n": 16,
+    "tipo": "video",
+    "titulo": "Marcas longitudinales adosadas en calzada de sentido único",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/lM2DAZ6ns1I"
+  },
+  {
+    "n": 17,
+    "tipo": "imagen",
+    "titulo": "Líneas de borde de calzada",
+    "texto": "Estas marcas delimitan el borde de la calzada. El hecho de que sean continuas o discontinuas no conlleva ninguna diferencia con respecto al uso del arcén reglamentariamente establecido.\n\nPor consiguiente, estas líneas podrán ser atravesadas por los vehículos obligados a circular por el arcén, y por otros vehículos cuando deban invadir el arcén por razones de emergencia."
+  },
+  {
+    "n": 18,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 19,
+    "tipo": "imagen",
+    "titulo": "Marca transversal continua",
+    "texto": "Una línea continua dispuesta a lo ancho de uno o varios carriles es una línea de detención que indica que ningún vehículo o animal ni su carga debe franquearla en cumplimiento de la obligación impuesta por cualquiera de las siguientes señales o elementos:\n\n- Señal de detención obligatoria.\n- Marca vial de STOP\n- Señal de prohibición de pasar sin detenerse.\n- Paso para peatones indicado por una marca vial.\n- Semáforo.\n- Señal de detención efectuada por un agente de la circulación.\n- Existencia de un paso a nivel o un puente móvil."
+  },
+  {
+    "n": 20,
+    "tipo": "video",
+    "titulo": "en lugares sin visibilidad suficiente",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/Sw2KfsXsMLo"
+  },
+  {
+    "n": 21,
+    "tipo": "imagen",
+    "titulo": "transversal discontinua",
+    "texto": "Una línea discontinua dispuesta a lo ancho de uno o varios carriles indica que, salvo en circunstancias anormales que reduzcan la visibilidad, ningún vehículo o animal ni su carga debe franquearla cuando tenga que ceder el paso en cumplimiento de la obligación impuesta por cualquiera de las siguientes señales o elementos:\n\n- Señal vertical o marca vial de ceda el paso.\n- Flecha verde o ámbar intermitente de giro de un semáforo.\n- Cuando no haya ninguna señal de prioridad, por aplicación de las normas que rigen esta."
+  },
+  {
+    "n": 22,
+    "tipo": "video",
+    "titulo": "transversal discontinua con visibilidad suficiente",
+    "texto": null,
+    "video_titulo": null,
+    "video_url": "https://youtu.be/GKKTewOR6ow"
+  },
+  {
+    "n": 23,
+    "tipo": "imagen",
+    "titulo": "de paso para peatones",
+    "texto": "En los pasos para peatones, estos tienen prioridad, por lo que los conductores de vehículos o animales deben dejarles paso, aun cuando dicho paso no esté señalizado con la correspondiente señal vertical de situación de paso para peatones."
+  },
+  {
+    "n": 24,
+    "tipo": "imagen",
+    "titulo": "de paso para peatones y semáforos",
+    "texto": "Cuando los pasos para peatones están regulados por semáforos, la preferencia de paso dependerá de las indicaciones de dichos semáforos."
+  },
+  {
+    "n": 25,
+    "tipo": "imagen",
+    "titulo": "de paso para peatones sobreelevado",
+    "texto": "Indica un paso para peatones sobreelevado en la que los vehículos deben dejar paso a los peatones."
+  },
+  {
+    "n": 26,
+    "tipo": "imagen",
+    "titulo": "de paso para ciclistas",
+    "texto": "Una marca consistente en dos líneas transversales discontinuas, ndica un paso para ciclistas donde éstos tienen preferencia."
+  },
+  {
+    "n": 27,
+    "tipo": "imagen",
+    "titulo": "Marca de reductor de velocidad tipo «lomo de asno»",
+    "texto": "La presencia de un reductor de velocidad tipo «lomo de asno» se advertirá mediante tres triángulos dispuestos sobre la parte ascendente de este. \n\nAnte la presencia de una marca de este tipo, las personas conductoras deben reducir la velocidad de su vehículo."
+  },
+  {
+    "n": 28,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 29,
+    "tipo": "imagen",
+    "titulo": "de sentido o de selección de carriles",
+    "texto": "Indica el o los movimientos permitidos u obligados a los vehículos que circulan por el carril en el que está situada la flecha. Las flechas que incluyan la dirección de frente no impiden el cambio de carril, siempre que se mantenga la dirección de circulación y que las marcas longitudinales lo permitan.\n\nEn la vía que se observa en la imagen, el vehículo que circule por el carril central podrá seguir de frente o girar a la derecha; el que circule por el carril izquierdo solo podrá continuar de frente y el que circule por el carril derecho, únicamente, podrá cambiar de dirección hacia la derecha."
+  },
+  {
+    "n": 30,
+    "tipo": "imagen",
+    "titulo": "de fin de carril",
+    "texto": "Indica que el carril en que está situada termina próximamente, siendo por tanto necesario abandonarlo hacia la dirección indicada, respetando en todo caso la prioridad de los vehículos que circulan por el carril que se pretende ocupar."
+  },
+  {
+    "n": 31,
+    "tipo": "imagen",
+    "titulo": "de retorno",
+    "texto": "Anuncia la proximidad de una línea continua que implica la prohibición de circular por su izquierda, por lo que se debe desistir de iniciar la maniobra de adelantamiento o finalizarla lo antes posible en caso de que esta ya se haya iniciado."
+  },
+  {
+    "n": 32,
+    "tipo": "imagen",
+    "titulo": "Flecha en accesos a glorietas con selección de carriles",
+    "texto": "Anuncia las direcciones que se podrán tomar al salir de la glorieta accediendo a ella por el carril en el que está situada la flecha."
+  },
+  {
+    "n": 33,
+    "tipo": "imagen",
+    "titulo": "Flechas en miniglorietas",
+    "texto": "Indican la existencia de una glorieta de radio reducido, así como el sentido de circulación en ella."
+  },
+  {
+    "n": 34,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 35,
+    "tipo": "imagen",
+    "titulo": "Señales horizontales",
+    "texto": "Las señales horizontales tienen el mismo significado que sus señales verticales homólogas.\n\nAfectan únicamente al carril o carriles sobre los que están situadas."
+  },
+  {
+    "n": 36,
+    "tipo": "imagen",
+    "titulo": "obligatoria o STOP",
+    "texto": "Indica la obligación de detener el vehículo ante una línea de detención o, si esta no existiera, inmediatamente antes de la calzada a la que se aproxima, y, una vez detenido el vehículo, ceder el paso a los vehículos que circulen por ella.\n\nSi la marca está situada en un carril delimitado por marcas longitudinales, la obligación descrita se refiere exclusivamente a los vehículos que circulen por ese carril."
+  },
+  {
+    "n": 37,
+    "tipo": "imagen",
+    "titulo": "Ceda el paso",
+    "texto": "Indica a las personas conductoras la obligación de ceder el paso a los vehículos que circulen por la calzada a la que se aproxima, deteniéndose si es preciso ante la línea de ceda el paso.\n\nSi la marca está situada en un carril delimitado por marcas longitudinales, la obligación descrita se refiere exclusivamente a los vehículos que circulen por ese carril."
+  },
+  {
+    "n": 38,
+    "tipo": "imagen",
+    "titulo": "Señal horizontal de limitación de velocidad",
+    "texto": "Indica la velocidad, expresada en km/h, que ningún vehículo debe sobrepasar.\n\nSi la marca está situada en un carril delimitado por marcas longitudinales, la obligación descrita se refiere exclusivamente a los vehículos que circulen por ese carril.\n\nLa limitación establecida se aplica hasta la siguiente señal de «Fin de limitación», «Fin de limitación de velocidad» u otra señal de velocidad máxima de valor diferente."
+  },
+  {
+    "n": 39,
+    "tipo": "imagen",
+    "titulo": "Zonas reservadas o con prioridad para determinadas personas usuarias o vehículos",
+    "texto": "Para señalizar estas zonas se utilizan pictogramas, los cuales  indican carriles o zonas reservadas o con prioridad para determinadas personas usuarias o vehículos, como personas con movilidad reducida, peatones, ciclos, vehículos de movilidad personal, vehículos eléctricos, etc.\n\nTambién pueden incluirse pictogramas para indicar en una plaza de estacionamiento la función para la que está reservada (farmacia, centro de salud u hospital, etc.)\n\nEn este caso, el pictograma indica que se trata de una zona reservada o con prioridad para vehículos eléctricos."
+  },
+  {
+    "n": 40,
+    "tipo": "imagen",
+    "titulo": "Pictogramas para señalización de zonas reservadas o con prioridad",
+    "texto": "En esta imagen se representan, a modo de ejemplo, algunos de los pictogramas mencionados, cuya función es la siguiente:\n\nDeterminados vehículos (Autobuses)\nLa función de este pictograma es indicar que un carril o una zona de la vía está reservado temporal o permanentemente, para la circulación, estacionamiento o parada de determinados vehículos como autobuses o taxis (en este caso autobuses).\n\nCiclos\nSu función es indicar zonas reservadas o con prioridad para ciclos o reforzar el mensaje de su posible circulación en vías compartidas con otros vehículos u otras personas usuarias del espacio público.\n\nVehículos de movilidad personal\nTiene por función indicar zonas reservadas o con prioridad para vehículos de movilidad personal o reforzar el mensaje de su posible circulación en vías compartidas con otros vehículos.\n\nBicicletas de carga, Motocicletas y ciclomotores y motocicletas y ciclomotores eléctricos\nAl igual que en los casos anteriores, estos pictogramas tienen por función indicar zonas reservadas o con prioridad para determinadas personas usuarias o vehículos."
+  },
+  {
+    "n": 41,
+    "tipo": "imagen",
+    "titulo": "Pictograma de Carril VAO",
+    "texto": "Este pictograma indica un carril reservado para vehículos de alta ocupación."
+  },
+  {
+    "n": 42,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 43,
+    "tipo": "imagen",
+    "titulo": "Inscripciones de orientación",
+    "texto": "Indican la carretera, población, zona de estacionamiento, aeropuerto, peaje u otro lugar que se pueda alcanzar si se sigue por el carril en que estén situadas las inscripciones y se efectúan los cambios de dirección indicados por las flechas que, en su caso, puedan situarse en el mismo carril e inmediatas a la inscripción."
+  },
+  {
+    "n": 44,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  },
+  {
+    "n": 45,
+    "tipo": "imagen",
+    "titulo": "Líneas paralelas oblicuas (cebreados)",
+    "texto": "Una zona marcada por franjas oblicuas paralelas enmarcadas en una línea continua significa que ningún conductor debe entrar con su vehículo o animal en ella, excepto aquellos obligados a circular por el arcén."
+  },
+  {
+    "n": 46,
+    "tipo": "imagen",
+    "titulo": "Enhorabuena, has superado el 80% del tema",
+    "texto": "Ok"
+  },
+  {
+    "n": 47,
+    "tipo": "imagen",
+    "titulo": "Líneas y marcas de estacionamiento",
+    "texto": "Delimitan los lugares o zonas de estacionamiento, así como la posición en la que los vehículos deben ocuparlos.\n\nAdemás de blancas, estas marcas pueden ser de otros colores, así como utilizar en su interior determinados pictogramas, para indicar ciertas limitaciones temporales, por tipo de persona usuaria o para un fin concreto (plazas reservadas a personas con movilidad reducida, para clientes de una farmacia cercana, de un centro médico, etc.)"
+  },
+  {
+    "n": 48,
+    "tipo": "imagen",
+    "titulo": "Marca de paso a nivel",
+    "texto": "Las letras «P» y «N», una a cada lado de un aspa, indican la proximidad de un paso a nivel por una vía de ferrocarril o tranvía, en el que los vehículos que circulen por la calzada deben ceder el paso cuando se aproxime un tren o tranvía"
+  },
+  {
+    "n": 49,
+    "tipo": "imagen",
+    "titulo": "Marca de comienzo de carril reservado",
+    "texto": "Indica el comienzo de un carril reservado a determinados vehículos, tales como autobuses, taxis, ciclos, etc."
+  },
+  {
+    "n": 50,
+    "tipo": "imagen",
+    "titulo": "Marca de separación de seguridad entre vehículos",
+    "texto": "Estas marcas sobre la calzada facilitan, sirviendo como referencia, el mantenimiento de la separación mínima entre un vehículo y el que le precede en túneles, secciones especiales y tramos de mayor riesgo de accidentes por alcance."
+  },
+  {
+    "n": 51,
+    "tipo": "imagen",
+    "titulo": "Avanza-bici o avanza-motos",
+    "texto": "Indican, en la sección inmediatamente anterior a una intersección o paso de peatones regulados por semáforo, un espacio en el que cuando el semáforo esté rojo solo podrá ser ocupado por determinados vehículos como ciclos, vehículos de movilidad personal, motocicletas o ciclomotores.\n\nEl espacio reservado estará delimitado por dos marcas transversales continuas paralelas.\n\nEn el interior del espacio reservado se dispondrán las figuras representativas de los vehículos que pueden acceder."
+  },
+  {
+    "n": 52,
+    "tipo": "imagen",
+    "titulo": "Dientes de dragón",
+    "texto": "Advierten de la aproximación a una travesía o vía urbana en la cual debe reducirse la velocidad de circulación sensiblemente con respecto al tramo precedente, además de extremar la precaución, adaptando la conducción a las nuevas circunstancias del entorno de la vía (por la presencia de personas usuarias vulnerables especialmente)."
+  },
+  {
+    "n": 53,
+    "tipo": "imagen",
+    "titulo": "Damero para la reducción de la velocidad",
+    "texto": "Advierte de la necesidad de reducir la velocidad de circulación y extremar la atención en la aproximación a un tramo en el que existe un riesgo vial superior al percibido subjetivamente (aproximación a una glorieta, playa de peaje, tramo en el que la velocidad máxima permitida es sensiblemente menor por la presencia de personas usuarias vulnerables, etc.).\n\nA menudo se ejecutan con resaltes, huellas u otros medios que producen al paso de los vehículos efectos acústicos y vibratorios, reforzando así su percepción por parte de las personas conductoras."
+  },
+  {
+    "n": 54,
+    "tipo": "imagen",
+    "titulo": "Marcas viales amarillas. Líneas de prohibición de parada o estacionamiento",
+    "texto": "Marca en zigzag:\nindica el lugar de la calzada en que el estacionamiento está prohibido a los vehículos en general, por estar reservado para algún uso especial que no implique larga permanencia de ningún vehículo.\n\nGeneralmente se utilizará en zonas de parada (no estacionamiento) de autobuses o destinadas a la carga o descarga de vehículos. \n\nMarca longitudinal continua\nEsta marca podrá disponerse bien en el bordillo, bien en la calzada junto a este e indica la prohibición de la parada y del estacionamiento a lo largo de toda su longitud en el lado de la calzada donde esté situada.\n\nPodrá indicar una prohibición temporal, en cuyo caso, esta se especificará mediante señal vertical al principio del tramo.\n\nMarca longitudinal discontinua\nDispuesta en el bordillo o bien en la calzada junto a este, indica la prohibición del estacionamiento a lo largo de toda su longitud en el lado de la calzada donde esté situada.\n\nPodrá indicar una prohibición temporal, en cuyo caso, esta se especificará mediante señal vertical al principio del tramo.\n\nCuadrícula:\nrecuerda la prohibición de penetrar en una intersección, aun cuando el semáforo lo permita o gocen de prioridad, si la situación de la circulación es tal que previsiblemente puedan quedar detenidos de forma que impidan u obstruyan la circulación transversal."
+  },
+  {
+    "n": 55,
+    "tipo": "imagen",
+    "titulo": "Marcas viales azules",
+    "texto": "Marcas azules: Indican que, en ciertos periodos del día, la duración del estacionamiento autorizado está limitada."
+  },
+  {
+    "n": 56,
+    "tipo": "imagen",
+    "titulo": "Marcas viales de estacionamiento verdes o rojas",
+    "texto": "Marcas de estacionamiento verdes o rojas: Pueden indicar que, en ciertos períodos del día, el estacionamiento está reservado a residentes autorizados y al resto de usuarios, según dispongan las ordenanzas municipales."
+  },
+  {
+    "n": 57,
+    "tipo": "imagen",
+    "titulo": "Marca de acceso a un lecho de frenado",
+    "texto": "Un damero formado por cuadrados de colores blanco y rojo indica el lugar donde empieza una zona de frenado de emergencia, prohibiendo la parada, el estacionamiento o la utilización de esta superficie con otros fines."
+  },
+  {
+    "n": 58,
+    "tipo": "imagen",
+    "titulo": null,
+    "texto": null
+  }
+]

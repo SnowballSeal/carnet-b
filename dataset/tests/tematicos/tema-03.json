@@ -1,0 +1,697 @@
+{
+  "categoria_id": 3,
+  "test_id": 4,
+  "nombre": "Tema 3 — Señales verticales I. Advertencia de peligro y reglamentación",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Qué dirección, de las indicadas, puede tomar el conductor?",
+      "imagen": "tema-03_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cualquiera, excepto la dirección C."
+        },
+        {
+          "letra": "B",
+          "texto": "Cualquiera de las indicadas."
+        },
+        {
+          "letra": "C",
+          "texto": "Las direcciones A y B, solamente."
+        }
+      ],
+      "ayuda": "La señal situada en la intersección prohibe el giro a la izquierda así como el cambio de sentido de la marcha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "tema-03_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Peligro por la proximidad de un tramo cuyo pavimento puede resultar muy deslizante a causa del hielo o la nieve."
+        },
+        {
+          "letra": "B",
+          "texto": "Peligro por la posible existencia de obstáculos en la vía."
+        },
+        {
+          "letra": "C",
+          "texto": "Peligro por la proximidad de una zona de la calzada cuyo pavimento puede resultar deslizante."
+        }
+      ],
+      "ayuda": "\tPavimento deslizante\n\tPeligro por la proximidad de una zona de la calzada cuyo pavimento puede resultar deslizante.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Esta señal...",
+      "imagen": "tema-03_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "obliga al uso de cadenas u otros dispositivos antideslizantes autorizados."
+        },
+        {
+          "letra": "B",
+          "texto": "aconseja el uso de cadenas en caso de nevada."
+        },
+        {
+          "letra": "C",
+          "texto": "advierte del peligro que supone circular sin cadenas para nieve."
+        }
+      ],
+      "ayuda": "\tCadenas para nieve\n\tObligación de no proseguir la marcha sin cadenas para nieve u otros dispositivos antideslizantes autorizados que actúen al menos en una rueda a cada lado del mismo eje motor, o neumáticos especiales de nieve.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Esta señal prohíbe...",
+      "imagen": "tema-03_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la parada y el estacionamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "la parada, en el lado de la calzada en que esté situada la señal."
+        },
+        {
+          "letra": "C",
+          "texto": "el estacionamiento, en el lado de la calzada en que está situada la señal."
+        }
+      ],
+      "ayuda": "Esta señal prohíbe el estacionamiento, en el lado de la calzada en que esté situada la señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "El límite de velocidad que se observa en la señal...",
+      "imagen": "tema-03_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "afecta a toda la población."
+        },
+        {
+          "letra": "B",
+          "texto": "afecta a la vía en la que está situada, a partir de ese punto."
+        },
+        {
+          "letra": "C",
+          "texto": "finaliza al atravesar la próxima vía con prioridad."
+        }
+      ],
+      "ayuda": "\tLa señal de entrada a poblado indica el nombre de la población a la que se accede, así como el lugar a partir del cual rigen las normas de circulación en poblado.\n\t \n\tAdemás, podrá incluirse la velocidad máxima permitida en esa vía a partir de ese punto, con independencia de que en otras vías del poblado puedan existir límites diferentes.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "tema-03_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Un peligro porque se están realizando obras en la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Un peligro porque puede saltar gravilla de otros vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "Un peligro porque puede haber desprendimientos."
+        }
+      ],
+      "ayuda": "Señal de advertencia de peligro por desprendimiento.\nPeligro por la proximidad a una zona con desprendimientos frecuentes y la consiguiente posible presencia de obstáculos en la calzada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué indica la señal?",
+      "imagen": "tema-03_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obliga a seguir de frente."
+        },
+        {
+          "letra": "B",
+          "texto": "Obliga a cambiar de sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "Obliga a detener el vehículo."
+        }
+      ],
+      "ayuda": "En las señales de obligación como la que porta el personal de obras en la imagen, la flecha señala la dirección y sentido que los vehículos tienen la obligación de seguir.En este caso, obliga a los conductores a continuar de frente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Circula con un vehículo para personas de movilidad reducida, ¿le afecta esta señal?",
+      "imagen": "tema-03_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, prohíbe sólo la entrada a motocicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "No, prohíbe sólo la entrada a ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Esta señal prohíbe el acceso a ciclomotores en general. Igualmente prohíbe la entrada a vehículos para personas de movilidad reducida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 9,
+      "enunciado": "Esta señalización, le indica la distancia...",
+      "imagen": "tema-03_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "al lugar donde tiene que detenerse en la próxima intersección."
+        },
+        {
+          "letra": "B",
+          "texto": "a la que se encuentre la señal de detención obligatoria de la próxima intersección."
+        },
+        {
+          "letra": "C",
+          "texto": "al lugar donde tiene que ceder el paso en la próxima intersección."
+        }
+      ],
+      "ayuda": "La señalización que se observa, indica la distancia a la que se encuentra la señal de detención obligatoria de la próxima intersección.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "El lunes a las 9 de la mañana, a partir del lugar donde se encuentra esta señal...",
+      "imagen": "tema-03_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "se puede parar pero no estacionar."
+        },
+        {
+          "letra": "B",
+          "texto": "solo se puede estacionar para dejar un paquete."
+        },
+        {
+          "letra": "C",
+          "texto": "está prohibido parar y estacionar."
+        }
+      ],
+      "ayuda": "La señal que se observa prohíbe el estacionamiento a partir de las nueve horas, excepto para carga y descarga.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Esta señal...",
+      "imagen": "tema-03_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Prohíbe aparcar si el camión mide más de 10 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "Prohíbe el paso a vehículos y conjuntos de vehículos con longitud máxima, incluida la carga, superior a 10 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "Indica como se debe aparcar el camión."
+        }
+      ],
+      "ayuda": "Esta señal prohíbe el paso de los vehículos o conjuntos de vehículos cuya longitud máxima, incluida la carga, supere la indicada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Por qué lado de la señal, ¿es obligatorio pasar?",
+      "imagen": "tema-03_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la izquierda."
+        },
+        {
+          "letra": "B",
+          "texto": "Por la derecha."
+        },
+        {
+          "letra": "C",
+          "texto": "Por la derecha o por la izquierda."
+        }
+      ],
+      "ayuda": "La flecha de esta señal señala el lado o los lados del refugio por el que los vehículos han de pasar. En este caso, se debe pasar por la izquierda de la señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Qué indica esta señal de peligro?",
+      "imagen": "tema-03_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Paso a nivel con barreras de una vía férrea."
+        },
+        {
+          "letra": "B",
+          "texto": "Paso a nivel con barreras con más de una vía férrea."
+        },
+        {
+          "letra": "C",
+          "texto": "Paso a nivel sin barreras con más de una vía férrea."
+        }
+      ],
+      "ayuda": "Esta señal indica peligro por la presencia inmediata de un paso a nivel sin barreras con más de una vía férrea.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Esta señal advierte de la proximidad de...",
+      "imagen": "tema-03_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un cambio de rasante."
+        },
+        {
+          "letra": "B",
+          "texto": "una calzada con pavimento en mal estado."
+        },
+        {
+          "letra": "C",
+          "texto": "un paso para peatones elevado."
+        }
+      ],
+      "ayuda": "Esta señal indica peligro por la proximidad de un resalte o badén en la vía, o pavimento en mal estado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Esta señal prohíbe la entrada a...",
+      "imagen": "tema-03_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "todos los vehículos destinados al transporte de mercancías."
+        },
+        {
+          "letra": "B",
+          "texto": "todos los vehículos destinados al transporte de mercancías peligrosas."
+        },
+        {
+          "letra": "C",
+          "texto": "camiones, tractocamiones y furgones o furgonetas, independientemente de su masa."
+        }
+      ],
+      "ayuda": "\tEntrada prohibida a vehículos destinados al transporte de mercancías\n\tProhibición de acceso a vehículos destinados al transporte de mercancías, entendiéndose como tales camiones, tractocamiones y furgones o furgonetas, independientemente de su masa.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Esta señal prohíbe el paso a...",
+      "imagen": "tema-03_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los vehículos cuya masa en carga sea superior a la indicada."
+        },
+        {
+          "letra": "B",
+          "texto": "camiones y furgones, cuya masa máxima autorizada sea superior a la indicada."
+        },
+        {
+          "letra": "C",
+          "texto": "cualquier vehículo cuya masa máxima autorizada sea superior a la indicada."
+        }
+      ],
+      "ayuda": "Esta señal prohíbe el paso de los vehículos cuya masa en carga supere a la indicada en toneladas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "La señal indica peligro por la proximidad de un...",
+      "imagen": "tema-03_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "badén."
+        },
+        {
+          "letra": "B",
+          "texto": "resalto."
+        },
+        {
+          "letra": "C",
+          "texto": "tramo de vía con pavimento deslizante."
+        }
+      ],
+      "ayuda": "Señal de advertencia de peligro por badén.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "Esta señal prohíbe...",
+      "imagen": "tema-03_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "parar y estacionar."
+        },
+        {
+          "letra": "B",
+          "texto": "parar."
+        },
+        {
+          "letra": "C",
+          "texto": "estacionar."
+        }
+      ],
+      "ayuda": "Esta señal indica prohibición de estacionamiento en el lado de la calzada en que esté situada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Esta señal indica peligro por la proximidad de un tramo...",
+      "imagen": "tema-03_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "donde no es obligatorio guardar la distancia de seguridad."
+        },
+        {
+          "letra": "B",
+          "texto": "en el que frecuentemente existe congestión del tráfico."
+        },
+        {
+          "letra": "C",
+          "texto": "por donde sólo pueden circular turismos."
+        }
+      ],
+      "ayuda": "Esta señal indica peligro por la proximidad de un tramo en que la circulación se encuentra detenida o dificultada por congestión del tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "¿Está permitido estacionar el día 16 a las 8 horas de la mañana en el lado de la calzada en que está situada esta señal?",
+      "imagen": "tema-03_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque la señal sólo prohíbe la parada."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque sólo prohíbe estacionar el día 15."
+        }
+      ],
+      "ayuda": "Esta señal indica prohibición de estacionamiento en el lado de la calzada en que esté situada la señal, desde las 9 horas del día 1 hasta las 9 horas del día 16.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Si encuentra esta señal a la entrada de una vía debe saber que...",
+      "imagen": "tema-03_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "es una vía reservada para ciclos y ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "está prohibida la circulación de ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "está prohibida su utilización para todos aquellos usuarios que no sean conductores de ciclomotores."
+        }
+      ],
+      "ayuda": "Vía reservada y obligatoria para ciclomotores\nObligación para los conductores de ciclomotores de circular por la vía a cuya entrada esté situada y prohibición a los demás usuarios de la vía de utilizarla.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "A partir de esta señal está obligado a llevar encendido al menos, el alumbrado de. ..",
+      "imagen": "tema-03_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "corto alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "largo alcance."
+        },
+        {
+          "letra": "C",
+          "texto": "posición."
+        }
+      ],
+      "ayuda": "A partir de esta señal, se debe circular al menos, con el alumbrado de corto alcance o de cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 23,
+      "enunciado": "Esta señal prohíbe la entrada a los vehículos que transporten...",
+      "imagen": "tema-03_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "mercancías peligrosas."
+        },
+        {
+          "letra": "B",
+          "texto": "más de mil litros de productos capaces de contaminar el agua."
+        },
+        {
+          "letra": "C",
+          "texto": "cisternas."
+        }
+      ],
+      "ayuda": "Esta señal indica prohibición de acceso a toda clase de vehículos que transporten más de 1.000 litros de productos capaces de contaminar el agua.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Cuando encuentre estas señales, ¿qué debe hacer?",
+      "imagen": "tema-03_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Obedecer la señal más restrictiva."
+        },
+        {
+          "letra": "B",
+          "texto": "Pasar obligatoriamente por el lado que indica la flecha, porque hacia el lado izquierdo la entrada está prohibida."
+        },
+        {
+          "letra": "C",
+          "texto": "Circular por el lado que indica la flecha, pudiendo pasar por el lado izquierdo si observa que no se aproxima ningún vehículo en sentido contrario."
+        }
+      ],
+      "ayuda": "A la vista de estas señales, se debe pasar obligatoriamente por el lado que indica la flecha de la señal azul, porque hacia el lado izquierdo está prohibida la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Después de la señal vertical, ¿está permitido adelantar al vehículo blanco?",
+      "imagen": "tema-03_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, porque la línea continua me lo prohíbe."
+        },
+        {
+          "letra": "B",
+          "texto": "No, porque la señal prohíbe adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, porque la señal es de fin de prohibido adelantar."
+        }
+      ],
+      "ayuda": "Señal de fin de prohibición de adelantamiento.\nSeñala el lugar desde donde deja de ser aplicable una anterior señal de adelantamiento prohibido.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Esta señal indica prohibido...",
+      "imagen": "tema-03_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "girar a la derecha."
+        },
+        {
+          "letra": "B",
+          "texto": "girar a la izquierda."
+        },
+        {
+          "letra": "C",
+          "texto": "hacer cualquier giro."
+        }
+      ],
+      "ayuda": "Esta señal indica la prohibición de girar a la derecha.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "A la vista de la señal, ¿tienen preferencia de paso los animales domésticos cuando crucen la calzada?",
+      "imagen": "tema-03_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando vayan en grupo."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando vayan acompañados por un conductor de ganado."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Esta señal indica peligro por la proximidad de un lugar donde frecuentemente la vía puede ser atravesada por animales domésticos o ganado, sin tener éstos preferencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Cuándo puede estacionar a la vista de esta señal?",
+      "imagen": "tema-03_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Nunca, ya que esta señal prohíbe el estacionamiento permanente."
+        },
+        {
+          "letra": "B",
+          "texto": "A partir de las 9 horas del día 16 y hasta las 9 horas del día 1."
+        },
+        {
+          "letra": "C",
+          "texto": "A partir de las 9 horas del día 1 y hasta las 9 horas del día 16."
+        }
+      ],
+      "ayuda": "Esta señal indica prohibición de estacionamiento en el lado de la calzada en que esté situada la señal, desde las 9 horas del día 16 hasta las 9 horas del día 1. Por tanto, se puede estacionar a partir de las 9 horas del día 1 hasta las 9 horas del día 16.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "La señal prohíbe...",
+      "imagen": "tema-03_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la parada de vehículos, pero permite estacionar."
+        },
+        {
+          "letra": "B",
+          "texto": "la parada y el estacionamiento de vehículos."
+        },
+        {
+          "letra": "C",
+          "texto": "el estacionamiento de vehículos los días pares."
+        }
+      ],
+      "ayuda": "Esta señal indica prohibición de parar y estacionar en el lado de la calzada en que esté situada la señal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "tema-03_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pavimento deslizante por nieve."
+        },
+        {
+          "letra": "B",
+          "texto": "La proximidad de un tramo en el que la circulación puede verse dificultada por una pérdida notable de visibilidad debida a niebla, lluvia, nieve, humos, etc."
+        },
+        {
+          "letra": "C",
+          "texto": "La proximidad de un tramo de la vía con desprendimientos frecuentes y la presencia de obstáculos en la calzada."
+        }
+      ],
+      "ayuda": "Peligro por la proximidad de un tramo en el que frecuentemente la circulación se ve dificultada por una pérdida notable de visibilidad debida a niebla, lluvia, nieve, humos, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

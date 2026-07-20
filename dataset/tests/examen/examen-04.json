@@ -1,0 +1,693 @@
+{
+  "categoria_id": 1,
+  "test_id": 4,
+  "nombre": "Test de examen 4",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "¿Está permitido conducir normalmente con una rueda de uso temporal?",
+      "imagen": "examen-04_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, debe atender a las limitaciones que indica el fabricante."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, llevando el neumático con una presión superior a las demás ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero sólo por vías urbanas."
+        }
+      ],
+      "ayuda": "Cuando sea necesario utilizar una rueda de uso temporal, se deben atender todas las limitaciones para su uso que indique el fabricante, especialmente los aspectos relacionados con la velocidad máxima a desarrollar y la distancia máxima a recorrer.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "A una vía así señalizada, ¿qué vehículos no pueden acceder?",
+      "imagen": "examen-04_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Motocicletas."
+        },
+        {
+          "letra": "B",
+          "texto": "Turismos."
+        },
+        {
+          "letra": "C",
+          "texto": "Bicicletas."
+        }
+      ],
+      "ayuda": "La señal que se observa prohíbe el paso a ciclos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Durante la conducción, el uso del teléfono móvil es peligroso...",
+      "imagen": "examen-04_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "solamente si se utiliza de forma manual."
+        },
+        {
+          "letra": "B",
+          "texto": "solamente si se utiliza el dispositivo de manos libres."
+        },
+        {
+          "letra": "C",
+          "texto": "tanto si se utiliza de forma manual o con el dispositivo de manos libres."
+        }
+      ],
+      "ayuda": "La utilización del teléfono móvil durante la conducción resulta siempre peligrosa, aún cuando se utilice un dispositivo de manos libres. El uso inadecuado del teléfono móvil, debido a que es un factor de distracción muy importante, ha provocado un considerable aumento de la accidentalidad en los últimos años.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Puede circular con su vehículo si emite un ruido que supera los límites autorizados?",
+      "imagen": "examen-04_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, ya que el ruido no supone ningún peligro."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, mientras que no se trate de una avería."
+        },
+        {
+          "letra": "C",
+          "texto": "No, está prohibido."
+        }
+      ],
+      "ayuda": "La circulación de vehículos que emitan ruido por encima de los niveles máximos permitidos está terminantemente prohibida.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "Por autopistas y autovías...",
+      "imagen": "examen-04_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "queda prohibido circular con turismos con remolque."
+        },
+        {
+          "letra": "B",
+          "texto": "pueden circular ciclomotores."
+        },
+        {
+          "letra": "C",
+          "texto": "queda prohibido circular con vehículos de tracción animal."
+        }
+      ],
+      "ayuda": "Los vehículos de tracción animal no pueden circular por autopistas o autovías.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Si circulamos por una vía donde hay una línea longitudinal continua adosada a otra discontinua...",
+      "imagen": "examen-04_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "nos indica que es un carril reversible."
+        },
+        {
+          "letra": "B",
+          "texto": "no se puede atravesar en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "debemos tener en cuenta solamente la línea más cercana al carril por el que circulamos."
+        }
+      ],
+      "ayuda": "Cuando se circule por una vía donde exista una línea longitudinal continua adosada a otra discontinua, solo se debe tener en cuenta la línea más cercana al carril por el que se circula.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Circula por una vía urbana cerca de un ciclista, ¿qué debe tener en cuenta?",
+      "imagen": "examen-04_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el ciclista no debe circular por la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Que la bicicleta es un vehículo frágil y vulnerable."
+        },
+        {
+          "letra": "C",
+          "texto": "Que debe adelantar muy rápido al ciclista."
+        }
+      ],
+      "ayuda": "Cuando se circula cerca de un ciclista, se debe tener en cuenta que la bicicleta es un vehículo frágil y vulnerable, por lo que se deben tomar todas las precauciones que sean necesarias para evitar un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "El vehículo rojo...",
+      "imagen": "examen-04_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "debe cambiar la luz larga por la corta al cruzarse con el vehículo verde."
+        },
+        {
+          "letra": "B",
+          "texto": "debe apagar las luces para no deslumbrar al conductor del vehículo verde."
+        },
+        {
+          "letra": "C",
+          "texto": "debe seguir circulando con la luz larga en la curva."
+        }
+      ],
+      "ayuda": "El vehículo rojo que se observa en la imagen, debe cambiar la luz de largo alcance por la de corto alcance al cruzarse con el vehículo verde, ya que puede ocasionarle deslumbramiento al conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "La velocidad máxima, con carácter general, para un vehículo especial es de...",
+      "imagen": "examen-04_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "60 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "40 kilómetros por hora."
+        },
+        {
+          "letra": "C",
+          "texto": "45 kilómetros por hora."
+        }
+      ],
+      "ayuda": "Los vehículos especiales, como norma general, tienen fijada su velocidad máxima en 40 kilómetros por hora. Cuando lleven remolque o no dispongan de luz de freno, la velocidad máxima será de 25 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "El vehículo blanco, ¿adelanta correctamente?",
+      "imagen": "examen-04_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "El vehículo que se observa en la imagen no adelanta correctamente, ya que circula un vehículo por el carril de sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 11,
+      "enunciado": "Este conjunto de ciclistas circula junto al borde derecho de la calzada y en fila: ¿es correcto?",
+      "imagen": "examen-04_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero podrían hacerlo ocupando todo el carril derecho."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Los ciclistas que se observan en la imagen circulan correctamente, ya que lo hacen junto al borde derecho de la calzada y en fila.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Un conductor que tenga un resultado positivo en una prueba de detección de alcoholemia...",
+      "imagen": "examen-04_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "solo puede ser sancionado con una multa de hasta 600 euros."
+        },
+        {
+          "letra": "B",
+          "texto": "pierde entre 4 y 6 puntos de su permiso de conducir."
+        },
+        {
+          "letra": "C",
+          "texto": "pierde 2 puntos de su permiso de conducir."
+        }
+      ],
+      "ayuda": "Cuando en una prueba de detección de alcoholemia se compruebe que un conductor ha consumido alcohol por encima de los límites reglamentariamente establecidos, será sancionado, independientemente de la multa que corresponda, con la pérdida de 4 o 6 puntos de su permiso de conducir.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿A qué está obligado si el resultado de la inspección ITV es favorable?",
+      "imagen": "examen-04_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A llevar únicamente la tarjeta ITV sellada."
+        },
+        {
+          "letra": "B",
+          "texto": "A colocar el distintivo acreditativo en el ángulo superior derecho del parabrisas y a llevar el informe de la inspección en el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "A colocar el distintivo en cualquier sitio visible del parabrisas y a llevar la tarjeta ITV sellada."
+        }
+      ],
+      "ayuda": "Cuando la inspección técnica de un vehículo sea calificada como favorable, es obligatorio colocar el distintivo acreditativo en el ángulo superior derecho del parabrisas y llevar el informe de inspección en el vehículo, el cual deberá exhibirse ante los agentes de la autoridad encargados de la vigilancia del tráfico que lo soliciten.\n\n#14",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "Los frenos, ¿son un dispositivo de seguridad activa?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, es un sistema mecánico del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "No, son un elemento de seguridad pasiva."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "El concepto de seguridad activa abarca a todos aquellos elementos o dispositivos de los que esté equipado el vehículo con el objetivo de evitar un posible accidente. Algunos elementos del sistema de seguridad activa del automóvil son: los neumáticos, el alumbrado, los frenos, el control de estabilidad, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "La fatiga en el conductor...",
+      "imagen": "examen-04_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "provoca reacciones más rápidas."
+        },
+        {
+          "letra": "B",
+          "texto": "hace que tome decisiones más acertadas"
+        },
+        {
+          "letra": "C",
+          "texto": "produce dolores en la nuca y en la espalda."
+        }
+      ],
+      "ayuda": "La fatiga disminuye la capacidad para conducir en condiciones adecuadas de seguridad, produciendo, entre otros síntomas e inconvenientes, dolores de nuca y espalda en quienes la padecen.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "El conductor del vehículo blanco quiere incorporarse a la circulación, ¿lo señaliza correctamente?",
+      "imagen": "examen-04_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": " No, porque debe señalizarlo con el intermitente derecho."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque debe señalizarlo con el brazo."
+        }
+      ],
+      "ayuda": "Para incorporarse a la circulación deberá utilizarse, siempre que sea posible, el indicador de dirección del lado correspondiente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "Los airbags son sistemas muy seguros pero...",
+      "imagen": "examen-04_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "son muy peligrosos si el conductor lleva gafas."
+        },
+        {
+          "letra": "B",
+          "texto": "son incompatibles con los cinturones de seguridad."
+        },
+        {
+          "letra": "C",
+          "texto": "hay que tomar algunas precauciones para evitar efectos adversos."
+        }
+      ],
+      "ayuda": "Los airbags son un elemento de seguridad pasiva que aportan una importante protección a los ocupantes en caso de accidente. Para evitar posibles efectos adversos con este dispositivo se deben tomar determinadas precauciones, como evitar que existan objetos sueltos en el salpicadero, no colocar nunca a los niños pequeños en el asiento delantero ubicados en sentido contrario a la marcha, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Qué protege un casco integral?",
+      "imagen": "examen-04_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo la parte superior del cráneo."
+        },
+        {
+          "letra": "B",
+          "texto": "Únicamente la parte trasera del cráneo."
+        },
+        {
+          "letra": "C",
+          "texto": "La cara y la cabeza."
+        }
+      ],
+      "ayuda": "Los cascos integrales son especialmente recomendables, porque protegen tanto la cabeza como la cara.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "El consumo de alcohol, ¿cómo altera el comportamiento del conductor?",
+      "imagen": "examen-04_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dándole una falsa seguridad en sí mismo, por lo que asume más riesgos."
+        },
+        {
+          "letra": "B",
+          "texto": "Haciendo que infravalore sus capacidades al volante."
+        },
+        {
+          "letra": "C",
+          "texto": "Disminuyendo su tiempo de reacción."
+        }
+      ],
+      "ayuda": "Las personas que conducen bajo los efectos del alcohol, suelen ver afectadas sus capacidades perceptivas y motoras. Además, el alcohol da al conductor una falsa seguridad en sí mismo y lo induce a cometer más conductas de riesgo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 20,
+      "enunciado": "Después de adelantar al camión, ¿debe regresar inmediatamente al carril de la derecha si pretende seguir adelantando?",
+      "imagen": "examen-04_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en cualquier caso."
+        },
+        {
+          "letra": "B",
+          "texto": "No, no es obligatorio."
+        },
+        {
+          "letra": "C",
+          "texto": "No, salvo cuando detrás circule otro vehículo a mayor velocidad."
+        }
+      ],
+      "ayuda": "Cuando se pretenda realizar un nuevo adelantamiento, se podrá permanecer en el carril utilizado para adelantar siempre y cuando no circule detrás otro vehículo a mayor velocidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "Como norma general, las maniobras deben advertirse utilizando...",
+      "imagen": "examen-04_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "indistintamente el brazo o las señales luminosas."
+        },
+        {
+          "letra": "B",
+          "texto": "preferentemente el brazo."
+        },
+        {
+          "letra": "C",
+          "texto": "preferentemente la señalización luminosa del vehículo."
+        }
+      ],
+      "ayuda": "Como norma general, para señalizar las maniobras se debe utilizar preferentemente la señalización luminosa del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "En esta vía, ¿a qué velocidad máxima circulará un turismo con remolque?",
+      "imagen": "examen-04_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A 90 km/h, según indica la señal."
+        },
+        {
+          "letra": "B",
+          "texto": "A 80 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "A 70 km/h porque el carril mide más de 1,50 metros de ancho."
+        }
+      ],
+      "ayuda": "La velocidad máxima fijada con carácter general para automóviles con remolque en carreteras convencionales es de 80 kilómetros por hora. Esta velocidad no puede ser rebasada en ningún caso, ni siquiera para adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "A la vista de esta señal, ¿puede pasar conduciendo un ciclomotor?",
+      "imagen": "examen-04_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque la señal sólo prohíbe el paso a automóviles, y no a ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, porque no es un vehículo a motor."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen, prohíbe la circulación de vehículos en ambos sentidos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Estas marcas viales y señales amarillas, ¿qué indican?",
+      "imagen": "examen-04_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que es un carril abierto en sentido contrario al normal."
+        },
+        {
+          "letra": "B",
+          "texto": "Que es una zona de obras."
+        },
+        {
+          "letra": "C",
+          "texto": "Que cambia el tipo de vía."
+        }
+      ],
+      "ayuda": "Las marcas viales que se utilizan para señalizar zonas de obras, son de color amarillo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Qué debe revisar si prevé que puede llover?",
+      "imagen": "examen-04_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El estado de los neumáticos y los limpiaparabrisas."
+        },
+        {
+          "letra": "B",
+          "texto": "El líquido de frenos y la presión de los neumáticos."
+        },
+        {
+          "letra": "C",
+          "texto": "Nada, no es necesario ninguna revisión."
+        }
+      ],
+      "ayuda": "La lluvia es un factor de riesgo para la circulación. Si se prevé que puede llover, se debe revisar el estado de los neumáticos (adherencia) y de los limpiaparabrisas (visibilidad).",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 26,
+      "enunciado": "El alcohol, ¿es una de las principales causas de accidentes de tráfico?",
+      "imagen": "examen-04_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Solo en personas no acostumbradas a beber."
+        },
+        {
+          "letra": "B",
+          "texto": "No, cuando el conductor tiene experiencia y bebe habitualmente."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "El consumo de alcohol está relacionado con un porcentaje importante de los accidentes de tráfico. Conducir bajo los efectos del alcohol constituye una de las principales causas de riesgo en la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Está permitido estacionar en la parte transitable del arcén de una vía interurbana?",
+      "imagen": "examen-04_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, para cargar o descargar mercancías."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solamente cuando la línea del borde de la calzada es discontinua."
+        }
+      ],
+      "ayuda": "En las vías interurbanas, está prohibido parar o estacionar en la parte transitable del arcén.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 28,
+      "enunciado": "De noche, cuando la carga sobresalga por delante, debe señalizarla con una luz...",
+      "imagen": "examen-04_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "amarilla o blanca y un dispositivo reflectante del mismo color."
+        },
+        {
+          "letra": "B",
+          "texto": "blanca."
+        },
+        {
+          "letra": "C",
+          "texto": "amarilla o blanca cuando sobresalga más de un 10%."
+        }
+      ],
+      "ayuda": "Durante la noche o en condiciones que disminuyan la visibilidad, cuando en un vehículo esté permitido que la carga sobresalga por la parte delantera (solo se permite en los vehículos exclusivamente destinados al transporte de mercancías, como camiones y furgones), ésta deberá señalizarse con una luz de color blanco.\n\n#2",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "Si circula por una carretera con dos carriles para su sentido, ¿puede permanecer en el carril izquierdo tras efectuar un adelantamiento?",
+      "imagen": "examen-04_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, hay que volver al carril derecho, excepto si se va a realizar otro adelantamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en cualquier caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, puesto que no hay tráfico en sentido contrario."
+        }
+      ],
+      "ayuda": "Como norma general es obligatorio circular por el carril más próximo a la derecha. En calzadas con más de un carril para el mismo sentido, y tras adelantar, se podrá permanecer en el carril izquierdo solo cuando se pretenda realizar un nuevo adelantamiento.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Esta señal indica el lugar desde donde deja de ser aplicable una anterior señal de...",
+      "imagen": "examen-04_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "velocidad mínima."
+        },
+        {
+          "letra": "B",
+          "texto": "velocidad máxima."
+        },
+        {
+          "letra": "C",
+          "texto": "prohibición de adelantamiento."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen, indica el lugar donde deja de ser aplicable una anterior señal de velocidad máxima. A partir de la señal, se aplicarán los límites genéricos de velocidad establecidos para la vía.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

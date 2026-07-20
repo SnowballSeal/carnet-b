@@ -1,0 +1,601 @@
+{
+  "categoria_id": 2,
+  "test_id": 13,
+  "nombre": "Serie fácil 13",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Cuando haya obstáculos y ciclistas circulando debemos...",
+      "imagen": "serie-facil-13_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "pensar que los ciclistas pueden realizar un movimiento brusco."
+        },
+        {
+          "letra": "B",
+          "texto": "al acercarnos a los ciclistas hacer señales acústicas para indicar nuestra presencia."
+        }
+      ],
+      "ayuda": "Si durante la circulación encontramos ciclistas circulando por la vía, debemos pensar que los ciclistas pueden realizar un movimiento brusco.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 2,
+      "enunciado": "Salvo circunstancias especiales, todo usuario de la vía está obligado a obedecer las señales de circulación...",
+      "imagen": "serie-facil-13_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "aun cuando no estén colocadas en la vía por la que circulen."
+        },
+        {
+          "letra": "B",
+          "texto": "aun cuando parezcan estar en contradicción con las normas."
+        }
+      ],
+      "ayuda": "Salvo circunstancias especiales, que lo justifiquen, todo usuario de la vía está obligado a obedecer las señales de circulación aún cuando parezcan estar en contradicción con las normas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 3,
+      "enunciado": "Para ahorrar carburante, ¿qué se debe hacer?",
+      "imagen": "serie-facil-13_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Circular con las ventanillas cerradas."
+        },
+        {
+          "letra": "B",
+          "texto": "Circular siempre a más de 100 km/h."
+        }
+      ],
+      "ayuda": "Para ahorrar combustible se debe circular con las ventanillas cerradas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "¿Cuál es el accidente más frecuente que sufren los ciclistas?",
+      "imagen": "serie-facil-13_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La colisión frontal con otro vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "Las salidas de vía."
+        }
+      ],
+      "ayuda": "Los accidentes más frecuentes que suelen tener los ciclistas son las colisiones frontales con otros vehículos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Si padece una enfermedad crónica, para reducir al máximo el riesgo de accidente que puede generar, es muy importante...",
+      "imagen": "serie-facil-13_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "disminuir la dosis de los medicamentos."
+        },
+        {
+          "letra": "B",
+          "texto": "conocer bien su enfermedad y seguir los consejos de su médico."
+        },
+        {
+          "letra": "C",
+          "texto": "olvidarse de los síntomas."
+        }
+      ],
+      "ayuda": "Si se padece una enfermedad crónica, para reducir al máximo el riesgo de accidente que puede generar, es muy importante conocer bien la enfermedad y seguir los consejos del médico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Uno de los problemas que afectan a la capacidad para conducir de las personas mayores es la disminución...",
+      "imagen": "serie-facil-13_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "de la visión únicamente."
+        },
+        {
+          "letra": "B",
+          "texto": "de la visión y del oído."
+        }
+      ],
+      "ayuda": "Entre otros, uno de los problemas que afectan a la capacidad para conducir de las personas mayores, es la disminución de la visión y del oído.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 7,
+      "enunciado": "Cuando se aproxime a niños o ancianos...",
+      "imagen": "serie-facil-13_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "les avisará con señales acústicas."
+        },
+        {
+          "letra": "B",
+          "texto": "debe adoptar las precauciones necesarias para no ponerles en peligro."
+        }
+      ],
+      "ayuda": "Al aproximarnos conduciendo un vehículo a niños o ancianos, se debe adoptar las precauciones necesarias para no ponerles en peligro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 8,
+      "enunciado": "En los pasos para peatones y en sus proximidades, ¿está permitido adelantar?",
+      "imagen": "serie-facil-13_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando se realice a una velocidad tan reducida que permita detenerse a tiempo si surgiera peligro de atropello."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        }
+      ],
+      "ayuda": "Está permitido adelantar en los pasos para peatones y en sus proximidades cuando, se realice a una velocidad tan reducida que permita detenerse a tiempo si surgiera peligro de atropello.\n\n----",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "¿Está correctamente parado este vehículo?",
+      "imagen": "serie-facil-13_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, ya que no supone ningún obstáculo a la circulación."
+        },
+        {
+          "letra": "B",
+          "texto": "No, ya que no se puede parar en una isleta."
+        }
+      ],
+      "ayuda": "Entre otros casos, está prohibido parar y estacionar sobre las isletas y demás zonas excluidas al tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Si va a realizar un nuevo adelantamiento, ¿está permitido seguir circulando por el carril izquierdo?",
+      "imagen": "serie-facil-13_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando no obstaculiza a los vehículos que circulen más rápido por detrás."
+        },
+        {
+          "letra": "B",
+          "texto": "No, tiene que volver obligatoriamente a la derecha."
+        }
+      ],
+      "ayuda": "Después de adelantar a un vehículo se permite seguir circulando por el carril izquierdo si se pretende adelantar a otros vehículos, siempre que no se obstaculice a los vehículos que circulan más rápido por detrás.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "En esta intersección con señal de STOP, ¿hay que detenerse?",
+      "imagen": "serie-facil-13_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, antes de la línea transversal."
+        }
+      ],
+      "ayuda": "En esta intersección hay que detenerse siempre ante la línea transversal de detención.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "Si se consume alcohol, ¿cuándo aumenta el riesgo de accidente?",
+      "imagen": "serie-facil-13_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Antes de superar el límite legal."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando se ha superado el límite legal de alcoholemia."
+        }
+      ],
+      "ayuda": "Si se consume alcohol, el riesgo de accidente aumenta incluso antes de superar el límite legal.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "Debido a una avería circula por una autopista a 50 km/h y dificulta la circulación. ¿Qué debe hacer?",
+      "imagen": "serie-facil-13_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Inmovilizar siempre el vehículo en el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "Circular por el arcén y abandonar la vía por la primera salida."
+        }
+      ],
+      "ayuda": "Si debido a una avería circula con su vehículo por una autopista a 50 kilómetros por hora dificultando la circulación, debe circular por el arcén y abandonarla por la primera salida que encuentre.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Puede circular por este cebreado conduciendo un ciclomotor?",
+      "imagen": "serie-facil-13_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque está obligado a circular por el arcén por esa zona."
+        },
+        {
+          "letra": "B",
+          "texto": "No, ningún vehículo puede circular."
+        }
+      ],
+      "ayuda": "Los vehículos obligados a circular por el arcén, podrán circular por determinados cebreados, como por ejemplo, por el cebrado que se observa en el gráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "El permiso B, ¿autoriza a conducir un camión de 3.000 kg de M.M.A. que arrastra un remolque ligero?",
+      "imagen": "serie-facil-13_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        }
+      ],
+      "ayuda": "Con el permiso de la clase B, también se pueden conducir camiones de hasta 3.500 kg incluso si llevan acoplado un remolque ligero.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "Tomar un medicamento, ¿puede favorecer las distracciones al volante?",
+      "imagen": "serie-facil-13_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, puede provocar efectos en la capacidad de concentración."
+        }
+      ],
+      "ayuda": "Tomar medicamentos, puede provocar efectos en la capacidad de concentración del conductor.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "La luz verde en forma de flecha del semáforo significa que los vehículos pueden pasar en...",
+      "imagen": "serie-facil-13_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la dirección de la flecha, dejando pasar a los vehículos que circulen por la vía transversal."
+        },
+        {
+          "letra": "B",
+          "texto": "cualquier dirección."
+        }
+      ],
+      "ayuda": "La luz verde en forma de flecha del semáforo significa que los vehículos pueden pasar en la dirección indicada por la flecha, dejando pasar a los vehículos que circulen por el carril que se vaya a ocupar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 18,
+      "enunciado": "En una vía de un solo sentido, los usuarios de un vehículo estacionado deberán salir de él...",
+      "imagen": "serie-facil-13_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "por el lado derecho o izquierdo, según el lado de la calzada donde se efectúe la inmovilización."
+        },
+        {
+          "letra": "B",
+          "texto": "siempre por el lado del conductor."
+        }
+      ],
+      "ayuda": "En una vía de sentido único, al estacionar el vehículo, los pasajeros deberán salir por el lado derecho o izquierdo según el lado de la calzada donde haya estacionado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Cuándo se debe circular por el arcén en una autovía?",
+      "imagen": "serie-facil-13_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Cuando se vaya a salir de la misma."
+        },
+        {
+          "letra": "B",
+          "texto": "Cuando la circulación sea muy densa."
+        },
+        {
+          "letra": "C",
+          "texto": "Cuando por avería o emergencia se circule a menos de 60 km/h y se entorpezca la circulación de otros usuarios."
+        }
+      ],
+      "ayuda": "Como norma general, no se permite circular por el arcén, salvo que en caso de avería o emergencia se circule a menos de 60 kilómetros por hora y se entorpezca gravemente la circulación.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Las palancas del asiento del conductor, ¿para qué sirven?",
+      "imagen": "serie-facil-13_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Para hacer más cómodos los asientos traseros."
+        },
+        {
+          "letra": "B",
+          "texto": "Para colocarme a la distancia adecuada de los mandos."
+        },
+        {
+          "letra": "C",
+          "texto": "Para que el cinturón de seguridad me sujete mejor."
+        }
+      ],
+      "ayuda": "Las palancas del asiendo del conductor, sirven para ajustar la distancia adecuada a los mandos del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Qué prohíbe esta señal?",
+      "imagen": "serie-facil-13_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Parar a ambos lados de la señal en el lado de la calzada donde esté situada."
+        },
+        {
+          "letra": "B",
+          "texto": "Estacionar a ambos lados de la señal en el lado de la calzada donde esté situada."
+        }
+      ],
+      "ayuda": "La señal que se observa, prohíbe estacionar a ambos lados de la señal, en el lado de la calzada donde esté situada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Un turismo con remolque, ¿es obligatorio que lleve una rueda de repuesto del remolque?",
+      "imagen": "serie-facil-13_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Los remolques no están obligados a llevar rueda de repuesto.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Si el equipaje disminuye la visibilidad por el espejo interior, ¿a qué está obligado?",
+      "imagen": "serie-facil-13_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "A tener instalados el espejo retrovisor interior y el exterior izquierdo."
+        },
+        {
+          "letra": "B",
+          "texto": "A tener instalados dos espejos retrovisores exteriores, uno a cada lado del vehículo."
+        }
+      ],
+      "ayuda": "Cuando la visión a través del espejo retrovisor interior se vea disminuida (al transportar carga, arrastrar un remolque, etc.) éste será opcional y deberá colocarse un segundo retrovisor exterior en el lado derecho.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "Va a girar a la derecha, y lo señaliza con el indicador de dirección correspondiente, ¿hasta cuándo es necesario mantenerlo encendido?",
+      "imagen": "serie-facil-13_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hasta que sepa con seguridad que el que me sigue ha visto la indicación."
+        },
+        {
+          "letra": "B",
+          "texto": "Hasta que finalice la maniobra."
+        },
+        {
+          "letra": "C",
+          "texto": "El menor tiempo posible."
+        }
+      ],
+      "ayuda": "Como norma general, el intermitente se debe poner antes de realizar cualquier maniobra, y se quita cuando finalice la misma.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Para saber la antigüedad de un turismo, a efectos de pasar la ITV, debe consultar la fecha de...",
+      "imagen": "serie-facil-13_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "compra del vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "primera matriculación del vehículo."
+        }
+      ],
+      "ayuda": "Para saber la antigüedad de un turismo a efectos de pasar la inspección técnica periódica (ITV), se debe consultar la fecha de su primera matriculación que aparece en el permiso de circulación del mismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "De noche, en una autovía con mucha luz, ¿qué luz debe encender?",
+      "imagen": "serie-facil-13_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Luz corta."
+        },
+        {
+          "letra": "B",
+          "texto": "Luz larga."
+        },
+        {
+          "letra": "C",
+          "texto": "Luz de posición."
+        }
+      ],
+      "ayuda": "Entre otros casos, las luces de corto alcance o de cruce se deben utilizar en las autovías suficientemente iluminadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "La línea de borde de la calzada, ¿se permite atravesarla?",
+      "imagen": "serie-facil-13_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, está prohibido."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando sea necesario y las circunstancias lo permitan."
+        }
+      ],
+      "ayuda": "La línea de borde de la calzada que se observa en la fotografía, se permite rebasarla cuando sea necesario y las circunstancias lo permitan.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Está prohibido conducir un vehículo prioritario en servicio de urgencia con una tasa de alcohol en aire espirado superior a...",
+      "imagen": "serie-facil-13_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "0,15 miligramos litro."
+        },
+        {
+          "letra": "B",
+          "texto": "0,30 miligramos litro."
+        }
+      ],
+      "ayuda": "La tasa de alcohol máxima permitida para un conductor de un vehículo prioritario en servicio de urgencia es de 0,15 miligramos por litro.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Un vehículo de dos ruedas sin sidecar, con una cilindrada superior a 50 centímetros cúbicos, se considera...",
+      "imagen": "serie-facil-13_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "una motocicleta."
+        },
+        {
+          "letra": "B",
+          "texto": "un ciclomotor o un cuadriciclo."
+        }
+      ],
+      "ayuda": "Un vehículo de dos ruedas sin sidecar, con una cilindrada superior a 50 centímetros cúbicos, se considera motocicleta.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿Qué experimenta el conductor con el efecto túnel?",
+      "imagen": "serie-facil-13_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una pérdida de la sensación de velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo percibe el centro de la calzada y dejar de ver los laterales."
+        },
+        {
+          "letra": "C",
+          "texto": "Una disminución de la fatiga."
+        }
+      ],
+      "ayuda": "El efecto túnel consiste en un estrechamiento del campo de visión, normalmente motivado por una velocidad elevada, disminuyendo la percepción de los estímulos laterales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}

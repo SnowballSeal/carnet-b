@@ -1,0 +1,254 @@
+[
+  {
+    "n": 1,
+    "tipo": "imagen",
+    "titulo": "Bienvenido al Tema 11",
+    "texto": "Tema 11\n\nManiobras III. Inmovilizaciones."
+  },
+  {
+    "n": 2,
+    "tipo": "imagen",
+    "titulo": "Detención. Concepto",
+    "texto": "DETENCIÓN: es la inmovilización, accidental o momentánea, de un vehículo por emergencia, por necesidades de la circulación, o para cumplir algún precepto reglamentario como puede ser detenerse ante un Stop, ante un semáforo en rojo, en caso de avería, accidente, atascos en la calzada, etc.\n\nLa detención es una inmovilización involuntaria ya viene impuesta por circunstancias ajenas a la voluntad del conductor.\n\nLa detención generalmente, se realiza dentro de la corriente circulatoria."
+  },
+  {
+    "n": 3,
+    "tipo": "video",
+    "titulo": "Detención impuesta por una señal",
+    "texto": "En esta animación, la detención del vehículo viene impuesta por la obligación de cumplir con la señal de Stop.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/4w8dJdQn4_E?si=T47kX7Z5AhdMqHNZ"
+  },
+  {
+    "n": 4,
+    "tipo": "imagen",
+    "titulo": "Parada. Concepto",
+    "texto": "PARADA: es la inmovilización de un vehículo durante un tiempo inferior a dos minutos sin que el conductor pueda abandonarlo (aunque puede bajarse de él).\n\nLa parada es una inmovilización voluntaria y se realiza, generalmente, fuera de la corriente circulatoria."
+  },
+  {
+    "n": 5,
+    "tipo": "imagen",
+    "titulo": "Estacionamiento. Concepto",
+    "texto": "ESTACIONAMIENTO: Es la inmovilización de un vehículo que no se encuentra en situación de detención ni de parada.\n\nEl estacionamiento es voluntario y se realiza fuera de la corriente circulatoria."
+  },
+  {
+    "n": 6,
+    "tipo": "imagen",
+    "titulo": "Reglas básicas de seguridad. Apagado del motor",
+    "texto": "Apagado del motor: aun cuando el conductor no abandone su puesto, deberá parar el motor siempre que el vehículo se encuentre detenido en el interior de un túnel, o en un lugar cerrado, por un tiempo superior a dos minutos, conservando encendido el alumbrado de posición."
+  },
+  {
+    "n": 7,
+    "tipo": "imagen",
+    "titulo": "Reglas básicas de seguridad. Carga de combustible",
+    "texto": "Al inmovilizar un vehículo para cargar combustible, se debe parar el motor, apagar las luces, la radio y el teléfono móvil, tanto si el combustible es servido por los propietarios o empleados de la estación de servicio, como si se sirve el propio conductor."
+  },
+  {
+    "n": 8,
+    "tipo": "imagen",
+    "titulo": "Apertura de puertas",
+    "texto": "Se prohíbe llevar abiertas las puertas del vehículo, abrirlas antes de su completa inmovilización y abrirlas o apearse del mismo sin haberse cerciorado previamente de que ello no implica peligro para los demás usuarios, especialmente en lo referente a conductores de bicicletas.\n\nComo norma general, se entrará y saldrá del vehículo por el lado más próximo al borde de la vía y solo cuando el vehículo se halle parado."
+  },
+  {
+    "n": 9,
+    "tipo": "video",
+    "titulo": "Apertura de puertas. Riesgos",
+    "texto": "Abrir las puertas del vehículo sin asegurarse previamente de que no se pone en peligro a ningún usuario, puede causar un accidente como se observa en esta animación.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/QlP3hq5sA-E?si=XACkA7GqPdyATLbm"
+  },
+  {
+    "n": 10,
+    "tipo": "imagen",
+    "titulo": "Normas generales de paradas y estacionamientos. Colocación del vehículo",
+    "texto": "Colocación del vehículo: la parada y el estacionamiento se realizarán situando el vehículo paralelamente al borde de la calzada.\n\nPor excepción, se permitirá otra colocación cuando las características de la vía u otras circunstancias así lo aconsejen.\n\nTodo conductor que pare o estacione su vehículo deberá hacerlo de forma que permita la mejor utilización del restante espacio disponible, es decir, no podrá ocupar más de un espacio."
+  },
+  {
+    "n": 11,
+    "tipo": "imagen",
+    "titulo": "Modo de parar y estacionar",
+    "texto": "Cuando pare o estacione un vehículo de motor o ciclomotor y el conductor tenga que dejar su puesto, deberá observar, además, cuando le fuesen de aplicación, las siguientes reglas:\n\n- Parar el motor y desconectar el sistema de arranque y, si se alejara del vehículo, adoptar las precauciones necesarias para impedir su uso sin su autorización.\n\n- Dejar accionado el freno de estacionamiento.\n\n- En un vehículo provisto de caja de cambios no automática, dejar colocada la primera velocidad en pendientes ascendentes y la marcha atrás en descendentes, y si dispone de caja de cambios automática, colocar la palanca en la posición de estacionamiento."
+  },
+  {
+    "n": 12,
+    "tipo": "imagen",
+    "titulo": "Obligación de dejar el vehículo debidamente calzado",
+    "texto": "Cuando se trate de un vehículo de más de 3.500 kg de masa máxima autorizada, de un autobús o de un conjunto de vehículos y la parada o el estacionamiento se realice en una pendiente sensible, su conductor deberá, además, dejarlo debidamente calzado.\n\nPara ello podrá recurrir a la colocación de calzos, o bien podrá apoyar una de las ruedas directrices en el bordillo de la acera, inclinando aquéllas hacia el centro de la calzada en las pendientes ascendentes (rampas) o hacia afuera (hacia el bordillo) en las pendientes descendentes.\n\nQueda prohibido utilizar, a modo de calzos, elementos naturales como piedras u otros no destinados de modo expreso a dicha función.\n\nUna vez utilizados, los calzos deberán ser retirados de la vía al reanudar la marcha."
+  },
+  {
+    "n": 13,
+    "tipo": "video",
+    "titulo": "Obligación de dejar el vehículo debidamente calzado",
+    "texto": "En este vídeo, se puede observar cómo el conductor del camión de más de 3.500 kilogramos, al estacionar en una pendiente descendente, orienta y apoya la rueda directriz sobre el bordillo.\n\nSi la pendiente fuera ascendente, debería inclinar las ruedas directrices hacia el centro de la calzada.",
+    "video_titulo": null,
+    "video_url": "https://youtu.be/NnYhb3pS2zo?si=qjTKQdkvatXhDise"
+  },
+  {
+    "n": 14,
+    "tipo": "imagen",
+    "titulo": "Paradas, estacionamientos y otras inmovilizaciones en los distintos tipos de vías",
+    "texto": "Vías interurbanas\n\nVías interurbanas: la parada y el estacionamiento de un vehículo en vías interurbanas, deberá efectuarse siempre fuera de la calzada, en el lado derecho de la misma y dejando libre la parte transitable del arcén (en el arcén transitable de una vía interurbana no se puede parar ni estacionar)."
+  },
+  {
+    "n": 15,
+    "tipo": "imagen",
+    "titulo": "Autopistas y autovías",
+    "texto": "En las autopistas y autovías, únicamente se permite parar y estacionar en las zonas habilitadas para ello como, por ejemplo, las áreas de servicios.  \n\nNo obstante, la detención por motivos de emergencia, avería u otras causas sí está permitida, en cuyo caso los vehículos deberán detenerse en el arcén derecho de la vía o en el lugar donde se cause menor obstáculo a la circulación."
+  },
+  {
+    "n": 16,
+    "tipo": "imagen",
+    "titulo": "Vías urbanas y travesías. Norma general",
+    "texto": "Vías urbanas y travesías: como norma general, en vías urbanas o travesías, la parada o el estacionamiento en la calzada o en el arcén, se realizará situando el vehículo lo más cerca posible del borde derecho."
+  },
+  {
+    "n": 17,
+    "tipo": "imagen",
+    "titulo": "Vías de poblado de sentido único",
+    "texto": "Cuando se trate de vías de poblado de sentido único, se podrá situar el vehículo también en el lado izquierdo."
+  },
+  {
+    "n": 18,
+    "tipo": "imagen",
+    "titulo": "Lugares en que se prohíbe la parada y el estacionamiento",
+    "texto": "Queda prohibido parar y estacionar en los siguientes casos:\n\n- En las curvas y cambios de rasante de visibilidad reducida, en sus proximidades y en los túneles, pasos inferiores y tramos de vías afectados por la señal Túnel.\n\n- En los pasos a nivel, pasos para ciclistas y pasos para peatones (pero no en sus proximidades).\n\n- En los carriles o partes de la vía reservados exclusivamente para la circulación o para el servicio de determinados usuarios.\n\n- En las intersecciones y en sus proximidades, si se dificulta el giro a otros vehículos, o en vías interurbanas, si se genera peligro por falta de visibilidad."
+  },
+  {
+    "n": 19,
+    "tipo": "imagen",
+    "titulo": "Lugares en que se prohíbe la parada y el estacionamiento",
+    "texto": "- En las zonas señalizadas para uso exclusivo de minusválidos.\n\n- Sobre los raíles de tranvías o tan cerca de ellos que se pueda entorpecer su circulación.\n\n- En los lugares donde se impida la visibilidad de la señalización a los usuarios a quienes les afecte o se les obligue a hacer maniobras, sobre todo, antirreglamentarias.\n\n- En autopistas y autovías, salvo en las zonas habilitadas para ello.\n\n- En los carriles destinados al uso exclusivo del transporte público urbano o en los reservados para bicicletas.\n\n- En las zonas destinadas para el estacionamiento y parada de uso exclusivo para el transporte público urbano.\n\n- En la parte izquierda de una vía interurbana."
+  },
+  {
+    "n": 20,
+    "tipo": "imagen",
+    "titulo": "Lugares en que se prohíbe el estacionamiento",
+    "texto": "Queda prohibido estacionar en los siguientes casos:\n\n- En todos los casos en los que está prohibida la parada.\n\n- En las zonas de estacionamiento con limitación horaria sin colocar el distintivo que lo autoriza o cuando se exceda del tiempo establecido.\n\n- En las zonas señalizadas para carga y descarga.\n\n- Sobre las aceras, paseos y demás zonas destinadas al paso de peatones.\n\n- Delante de los vados señalizados correctamente."
+  },
+  {
+    "n": 21,
+    "tipo": "imagen",
+    "titulo": "Lugares en que se prohíbe el estacionamiento",
+    "texto": "En doble fila, está prohibido estacionar, aunque sí se permite realizar una parada, siempre que no se obstaculice la circulación y no exista espacio libre en las proximidades."
+  },
+  {
+    "n": 22,
+    "tipo": "imagen",
+    "titulo": "Paradas o estacionamientos prohibidos que, además, constituyen riesgo u obstáculo a la circulación",
+    "texto": "Se consideran paradas o estacionamientos en lugares peligrosos o que obstaculizan gravemente la circulación los siguientes:\n\n- Cuando la distancia entre el vehículo y el borde opuesto de la calzada, o una marca longitudinal sobre la misma que indique prohibición de atravesarla, sea inferior a tres metros o, en cualquier caso, cuando no permita el paso a otros vehículos."
+  },
+  {
+    "n": 23,
+    "tipo": "imagen",
+    "titulo": "Paradas o estacionamientos prohibidos que, además, constituyen riesgo u obstáculo a la circulación",
+    "texto": "- Cuando se impida incorporarse a la circulación a otro vehículo debidamente parado o estacionado.\n\n- Cuando se obstaculice la utilización normal del paso de salida o acceso a un inmueble de personas o animales, o de vehículos en un vado señalizado correctamente."
+  },
+  {
+    "n": 24,
+    "tipo": "imagen",
+    "titulo": "Paradas o estacionamientos prohibidos que, además, constituyen riesgo u obstáculo a la circulación",
+    "texto": "- Cuando se obstaculice la utilización normal de los pasos rebajados para disminuidos físicos.\n\n- Cuando se impida el giro autorizado por la señal correspondiente.\n\n- Cuando se efectúe en medianas, separadores, isletas u otros elementos de canalización del tráfico."
+  },
+  {
+    "n": 25,
+    "tipo": "imagen",
+    "titulo": "Estacionamientos prohibidos que, además, constituyen riesgo u obstáculo a la circulación",
+    "texto": "Se consideran estacionamientos en lugares peligrosos o que obstaculizan gravemente la circulación los siguientes:\n\n- Cuando tenga lugar en una zona reservada a carga y descarga durante las horas de utilización.\n\n- Cuando se efectúe en doble fila sin conductor.\n\n- Cuando se lleve a cabo en una parada de transporte público, señalizada y delimitada.\n\n- Cuando se efectúe en espacios expresamente reservados a servicios de urgencia y seguridad.\n\n- Cuando se realice en espacios prohibidos en vía pública calificada de atención preferente y específicamente señalizados.\n\n- Cuando se efectúe en medio de la calzada."
+  },
+  {
+    "n": 26,
+    "tipo": "imagen",
+    "titulo": "Excepciones. Vehículos de los agentes de la autoridad",
+    "texto": "Los agentes de la autoridad responsables de la vigilancia, regulación y control del tráfico podrán utilizar o situar sus vehículos en la parte de la vía que resulte necesario cuando presten auxilio a los usuarios de la misma o lo requieran las necesidades del servicio o de la circulación."
+  },
+  {
+    "n": 27,
+    "tipo": "imagen",
+    "titulo": "Inmovilización del vehículo decretada por los agentes de la autoridad",
+    "texto": "Los agentes de la autoridad encargados de la vigilancia del tráfico podrán proceder a la inmovilización de un vehículo en los siguientes casos:\n\n- Cuando el conductor se niegue a efectuar las pruebas de detección alcohólica.\n\n- Cuando el resultado de las pruebas de alcoholemia y de los análisis, en su caso, fuera positivo, a no ser que pueda hacerse cargo de la conducción otra persona debidamente habilitada.\n\n- Cuando el vehículo carezca de autorización administrativa para circular.\n\n- Si el vehículo presenta deficiencias que constituyan un riesgo especialmente grave para la seguridad.\n\n- Cuando el conductor o el pasajero no hagan uso del casco de protección, en los casos en que fuera obligatorio.\n\n- Si el vehículo carece de seguro obligatorio.\n\n- Cuando se produzca una ocupación excesiva del vehículo que suponga aumentar en un 50 por ciento el número de plazas autorizadas, excluida la del conductor."
+  },
+  {
+    "n": 28,
+    "tipo": "imagen",
+    "titulo": "Situaciones de emergencia. Señalización de un vehículo inmovilizado",
+    "texto": "Si por causa de accidente o avería el vehículo o su carga obstaculizasen la calzada, los conductores, tras señalizar convenientemente el vehículo o el obstáculo creado, adoptarán las medidas necesarias para que sea retirado en el menor tiempo posible, deberán sacarlo de la calzada y situarlo cumpliendo las normas de estacionamiento siempre que sea factible."
+  },
+  {
+    "n": 29,
+    "tipo": "imagen",
+    "titulo": "Situaciones de emergencia. Comportamiento",
+    "texto": "Los vehículos que habiendo sufrido un accidente o avería puedan continuar su marcha, lo harán de forma inmediata, asegurándose de circular con seguridad.\n\nSi precisaran de un servicio de auxilio, deberán abandonar lo antes posible los carriles de circulación y dirigirse hacia la primera salida disponible utilizando para ello el arcén derecho. Si ello no fuera posible, deberán detenerse en el arcén derecho de la vía o en el lugar donde cause menor obstáculo a la circulación."
+  },
+  {
+    "n": 30,
+    "tipo": "imagen",
+    "titulo": "Situaciones de emergencia. Ocupantes del vehículo",
+    "texto": "En el caso de accidente o avería, como norma general, si el vehículo está inmovilizado sin posibilidad de reemprender la marcha, los ocupantes deberán abandonar el vehículo, siempre que exista un lugar seguro fuera de la plataforma de circulación y, en todo caso, deberán salir del vehículo por el lado contrario al flujo de tráfico sin transitar o permanecer en los carriles y arcenes que conforman dicha plataforma. \n\nSi las condiciones de circulación no permitieran a los ocupantes abandonar el vehículo con seguridad, permanecerán en el habitáculo con el cinturón abrochado."
+  },
+  {
+    "n": 31,
+    "tipo": "imagen",
+    "titulo": "Situaciones de emergencia. Dispositivo de preseñalización de peligro",
+    "texto": "En los casos de inmovilización por emergencia, sin perjuicio de encender la luz de emergencia si el vehículo la lleva y, cuando proceda, las luces de posición y de gálibo, en tanto se deja expedita la vía, todo conductor deberá emplear el dispositivo de preseñalización de peligro reglamentario para advertir dicha circunstancia."
+  },
+  {
+    "n": 32,
+    "tipo": "imagen",
+    "titulo": "Parte de accidente",
+    "texto": "Se prohíbe a los usuarios de las vías cuyo vehículo haya sufrido un accidente cumplimentar el parte de accidente en la plataforma de circulación. Este proceso se llevará a cabo en un lugar seguro fuera de la vía."
+  },
+  {
+    "n": 33,
+    "tipo": "imagen",
+    "titulo": "Auxilio",
+    "texto": "Si por accidente, avería, malestar físico de sus ocupantes u otra emergencia, se tuviera que inmovilizar un vehículo en una autopista o autovía y fuera necesario solicitar auxilio, se utilizará el poste de socorro más próximo.\n\nSi la vía no estuviera dotada de este servicio, podrá requerirse el auxilio de otros usuarios, sin que ninguno de los ocupantes del vehículo pueda transitar por la calzada.\n\nEnhorabuena, has superado el 80% del tema\n\nOk"
+  },
+  {
+    "n": 34,
+    "tipo": "imagen",
+    "titulo": "Retirada del vehículo",
+    "texto": "La retirada de las vías y, en su caso, el traslado de un vehículo accidentado o averiado solo deberá realizarse por otro específicamente destinado al fin del servicio de auxilio en vía pública e inscrito en el Registro Estatal de Auxilio en Vías Públicas, salvo cuando por causas excepcionales, en función de la masa o dimensiones del vehículo, sea preciso utilizar otro tipo de vehículo."
+  },
+  {
+    "n": 35,
+    "tipo": "imagen",
+    "titulo": "El tema 11 ha finalizado.\n\nA continuación, vamos a realizar un resumen.",
+    "texto": null
+  },
+  {
+    "n": 36,
+    "tipo": "imagen",
+    "titulo": "Apagado del motor. Apertura de puertas",
+    "texto": "Cuando prevea que su vehículo va a quedar detenido dentro de un túnel más de dos minutos, el conductor debe parar el motor y conservar encendidas las luces de posición.\n\nAl cargar combustible en el depósito de un vehículo se debe parar el motor, y apagar las luces, la radio y el teléfono móvil.\n\nLos ocupantes de un vehículo deben descender del mismo por el lado más próximo al borde de la vía, si es posible, y siempre con el vehículo inmovilizado."
+  },
+  {
+    "n": 37,
+    "tipo": "imagen",
+    "titulo": "Colocación del vehículo y precauciones en la inmovilización",
+    "texto": "En vías urbanas, los vehículos se estacionarán paralelamente al borde de la calzada.\n\nCuando no sea posible situar el vehículo de forma paralela al borde derecho, se podrá estacionar de otra manera si las características de la vía u otras circunstancias lo permiten.\n\nAl estacionar un vehículo, antes de abandonarlo se debe parar el motor y accionar el freno de mano.\n\nCuando se estacione en una pendiente, además de parar el motor y accionar el freno de estacionamiento, se debe dejar colocada la marcha atrás, en pendientes descendentes, y la primera velocidad en las ascendentes."
+  },
+  {
+    "n": 38,
+    "tipo": "imagen",
+    "titulo": "Estacionamiento en vías urbanas",
+    "texto": "En vías urbanas de doble sentido de circulación, se permite parar y estacionar solamente en el lado derecho de la calzada, mientras que en las vías de sentido único se permite parar y estacionar también en el lado izquierdo."
+  },
+  {
+    "n": 39,
+    "tipo": "imagen",
+    "titulo": "Curvas y cambios de rasante de reducida visibilidad",
+    "texto": "Entre otros casos, queda prohibido parar y estacionar en curvas y cambios de rasante de reducida visibilidad, y donde se ocasione riesgo u obstáculo a la circulación."
+  },
+  {
+    "n": 40,
+    "tipo": "imagen",
+    "titulo": "Ejemplos de paradas y/o estacionamientos prohibidos",
+    "texto": "En las zonas señalizadas para carga y descarga está prohibido estacionar, pero no parar.\n\nComo norma general, no está permitido estacionar una motocicleta, ni otro tipo de vehículos encima de las aceras.\n\nDelante de los vados correctamente señalizados queda prohibido estacionar.\n\nEn doble fila, siempre que no se obstaculice la circulación, está permitido realizar una parada, mientras que el estacionamiento está siempre prohibido."
+  },
+  {
+    "n": 41,
+    "tipo": "imagen",
+    "titulo": "Muchas gracias por tu atención.\n\nA continuación puedes hacer el test de repaso de este tema.",
+    "texto": null
+  }
+]

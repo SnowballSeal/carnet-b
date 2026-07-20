@@ -1,0 +1,69 @@
+# Publica la web en GitHub Pages: compila web/ y añade el dataset como
+# archivos estáticos bajo data/ (en local lo sirve el servidor de Vite).
+name: Publicar en GitHub Pages
+
+on:
+  push:
+    branches: [master, main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - name: Compilar la web
+        working-directory: web
+        run: |
+          npm ci
+          npm run gen
+          npm run build
+      - name: Generar la copia local descargable
+        # El ZIP se genera en caliente por el propio servidor de Vite
+        # (web/scripts/copia-local.ts); GitHub Pages no tiene servidor, así
+        # que aquí se levanta el preview una vez, se descarga el ZIP que
+        # produce y se deja como archivo estático junto al resto del sitio.
+        working-directory: web
+        run: |
+          npm run preview -- --port 4173 --strictPort &
+          server_pid=$!
+          for i in $(seq 1 30); do
+            curl -sf http://localhost:4173/descargar/disponible >/dev/null && break
+            sleep 1
+          done
+          mkdir -p dist/descargar
+          curl -sf http://localhost:4173/descargar/carnet-b-local.zip -o dist/descargar/carnet-b-local.zip
+          : > dist/descargar/disponible
+          kill "$server_pid"
+      - name: Añadir el dataset a la web compilada
+        run: |
+          mkdir web/dist/data
+          cp -r dataset/tests dataset/temario web/dist/data/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

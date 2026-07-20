@@ -1,0 +1,697 @@
+{
+  "categoria_id": 1,
+  "test_id": 25,
+  "nombre": "Test de examen 25",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Si los paneles de mensaje variable indican que los turismos con distintivo ambiental B pueden circular por un carril VAO, ¿qué ocupación mínima debe tener el vehículo?",
+      "imagen": "examen-25_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Dos ocupantes, incluido el conductor."
+        },
+        {
+          "letra": "B",
+          "texto": "Un ocupante."
+        },
+        {
+          "letra": "C",
+          "texto": "Dos ocupantes, sin incluir al conductor."
+        }
+      ],
+      "ayuda": "Las indicaciones de los paneles de mensaje variable prevalecen sobre las normas generales.\n\nSi en los paneles de mensaje variable se indica que los turismos con un determinado distintivo ambiental pueden circular por un carril VAO, dichos vehículos podrán hacerlo independientemente del número de ocupantes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Las estadísticas muestran que, después de un accidente, la mayoría de las muertes suceden... ",
+      "imagen": "examen-25_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en la primera hora después del accidente, la llamada “hora de oro”."
+        },
+        {
+          "letra": "B",
+          "texto": "en el acto, inmediatamente después del accidente."
+        },
+        {
+          "letra": "C",
+          "texto": "pasados unos días."
+        }
+      ],
+      "ayuda": "El concepto de hora de oro corresponde a la primera (o incluso segunda) hora tras el accidente. Durante este período es cuando se produce el mayor porcentaje de fallecimientos, aproximadamente un 75% de los casos, y se deben generalmente a obstrucción de la vía aérea o a pérdidas de sangre. Muchos de estos fallecimientos se pueden evitar si la atención se realiza de forma rápida y adecuada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Esta señal advierte de...",
+      "imagen": "examen-25_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un peligro porque la vía desemboca en un muelle o en una corriente de agua."
+        },
+        {
+          "letra": "B",
+          "texto": "un puente móvil. "
+        },
+        {
+          "letra": "C",
+          "texto": "un peligro por desbordamiento de un río. "
+        }
+      ],
+      "ayuda": "P-27 Muelle: Peligro debido a que la vía desemboca en un muelle o en una corriente de agua.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "En vías fuera de poblado que no dispongan de espacio especialmente reservado para ellos, a los peatones, ¿les está permitido circular por su derecha?",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, los peatones siempre circularán por su derecha en este tipo de vías."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo excepcionalmente si existen razones de mayor seguridad."
+        }
+      ],
+      "ayuda": "Fuera de poblado, como norma general, la circulación de peatones será por la izquierda.\n\nNo obstante, la circulación de peatones se hará por la derecha cuando concurran circunstancias que así lo justifiquen por razones de mayor seguridad.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 5,
+      "enunciado": "¿Puede la Autoridad Municipal de una ciudad, aumentar la velocidad de una autopista o autovía urbana?",
+      "imagen": "examen-25_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, puede aumentarse, como máximo, en 20 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, mediante la señalización específica correspondiente."
+        },
+        {
+          "letra": "C",
+          "texto": "No, solo puede disminuir la velocidad mínima obligatoria."
+        }
+      ],
+      "ayuda": "El límite genérico de velocidad en autopistas y autovías que transcurren dentro de poblado será de 80 km/h, no obstante podrá ser ampliado por acuerdo de la Autoridad Municipal y el titular de la vía, previa señalización específica, sin rebasar en ningún caso los límites genéricos establecidos para dichas vías fuera de poblado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 6,
+      "enunciado": "Según la Organización Mundial de la Salud, la depresión afecta a más de 300 millones de personas. Si sufrimos un trastorno depresivo debemos saber que...",
+      "imagen": "examen-25_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los medicamentos para su tratamiento pueden producir alteraciones que afectan a la conducción."
+        },
+        {
+          "letra": "B",
+          "texto": "esta enfermedad no permite obtener en ningún caso el permiso de conducción de la clase B."
+        },
+        {
+          "letra": "C",
+          "texto": "esta enfermedad no altera las capacidades para conducir con seguridad."
+        }
+      ],
+      "ayuda": "La depresión es un trastorno mental cada vez más frecuente en nuestra sociedad, que afecta a gran parte de la misma. Incide directamente sobre el estado anímico de las personas ocasionando tristeza, apatía y falta de energía vital, entre otros sentimientos negativos.\n\nLos conductores que padezcan depresión deben extremar la precaución, ya que los medicamentos para su tratamiento pueden producir alteraciones que afectan a la capacidad para conducir con seguridad.\n\n\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "Esta señal prohíbe circular sin mantener con el vehículo precedente una separación igual o mayor a la indicada en la señal. Dicha separación... ",
+      "imagen": "examen-25_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "podrá reducirse para adelantar."
+        },
+        {
+          "letra": "B",
+          "texto": "podrá reducirse para adelantar solo en calzadas con un carril para cada sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "no podrá reducirse en ningún caso."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen, prohíbe circular sin mantener con el vehículo precedente una separación igual o mayor a la indicada en la señal, excepto para adelantar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "Si conduce y consume antihistamínicos para tratar una alergia respiratoria, es conveniente... ",
+      "imagen": "examen-25_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "utilizar antihistamínicos no sedantes, que no producen somnolencia."
+        },
+        {
+          "letra": "B",
+          "texto": "viajar al atardecer o en la madrugada, porque hay menos polen en el aire."
+        },
+        {
+          "letra": "C",
+          "texto": "tomar alguna bebida alcohólica para evitar la aparición de sueño."
+        }
+      ],
+      "ayuda": "El consumo de medicamentos puede reducir la capacidad para conducir con seguridad. En el caso de los antihistamínicos, es mejor utilizar aquellos no sedantes, ya que son más seguros y no suelen producir somnelencia.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "En una carretera convencional sin separación física de los dos sentidos de circulación, un turismo, ¿puede circular a velocidad superior a 90 km/h?",
+      "imagen": "examen-25_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, puede circular a una velocidad máxima de 100 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, puede circular a una velocidad máxima de 120 km/h para adelantar."
+        }
+      ],
+      "ayuda": "La velocidad máxima fijada con carácter general para turismos que circulen por una carretera convencional es de 90 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 10,
+      "enunciado": "Los vehículos no pueden estacionarse más que en los lugares designados por señales o por marcas en aquellas zonas de circulación que se encuentran afectadas por la señal de...",
+      "imagen": "examen-25_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Zona de estancia y juego."
+        },
+        {
+          "letra": "B",
+          "texto": "Fin de zona de estancia y juego."
+        },
+        {
+          "letra": "C",
+          "texto": "Zona peatonal."
+        }
+      ],
+      "ayuda": "En las zonas de estancia y juego debidamente señalizas con la señal S-28, solo se puede estacionar en los lugares designados por señales o marcas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "En los semáforos reservados para tranvías, autobuses y otros, una franja blanca vertical iluminada fija...\n",
+      "imagen": "examen-25_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "permite el paso de frente."
+        },
+        {
+          "letra": "B",
+          "texto": "prohíbe el paso en las mismas condiciones que una luz roja no intermitente."
+        },
+        {
+          "letra": "C",
+          "texto": "indica que los vehículos a los que va dirigida, deben detenerse en las mismas condiciones que si se tratara de una luz amarilla fija."
+        }
+      ],
+      "ayuda": "Semáforo para tranvías y autobuses de lineas regulares.\nUna franja blanca vertical iluminada  permite el paso de frente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 12,
+      "enunciado": "Los turismos que arrastren un remolque ligero, ¿están obligados a llevar entre sus accesorios un equipo homologado de extinción de incendios? ",
+      "imagen": "examen-25_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo cuando circulen por vías interurbanas."
+        }
+      ],
+      "ayuda": "Además de la dotación obligatoria que deben llevar los turismos, si arrastran un remolque deben llevar además un equipo homologado de extinción de incendios.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 13,
+      "enunciado": "En un túnel con un solo carril para cada sentido, ¿está permitido el adelantamiento?",
+      "imagen": "examen-25_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí."
+        },
+        {
+          "letra": "C",
+          "texto": "Solo si la calzada dispone de arcén practicable."
+        }
+      ],
+      "ayuda": "Entre otros casos, queda prohibido adelantar en los túneles y pasos inferiores de doble sentido de circulación, salvo que exista más de un carril para el mismo sentido y no se invada el sentido contrario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 14,
+      "enunciado": "¿Cada cuánto tiempo es recomendable revisar el estado de los amortiguadores? ",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Al menos una vez al año."
+        },
+        {
+          "letra": "B",
+          "texto": "Cada cinco años aproximadamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Cada tres años aproximadamente."
+        }
+      ],
+      "ayuda": "Se recomienda revisar el estado de los amortiguadores, al menos una vez al año.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 15,
+      "enunciado": "¿Es recomendable regular el reposacabezas del vehículo a la altura de cada ocupante? ",
+      "imagen": "examen-25_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No es necesario, es solo un elemento de confort."
+        },
+        {
+          "letra": "B",
+          "texto": "Solo es necesario regular el reposacabezas del conductor."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, es un elemento de seguridad que puede evitar lesiones cervicales."
+        }
+      ],
+      "ayuda": "El reposacabezas es un dispositivo de seguridad pasiva que evita lesiones en el cuello y en las vértebras o, al menos, reduce su gravedad en caso de que se produzca un alcance. Por ello,  es recomendable regularlo a la altura de la cabeza, tanto el del conductor como el de los pasajeros.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 16,
+      "enunciado": "¿Cuál es la velocidad máxima a la que le está permitido circular por una autovía con una autocaravana de MMA inferior a 3.500 kg?",
+      "imagen": "examen-25_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "120 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "90 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "100 km/h."
+        }
+      ],
+      "ayuda": "En autopistas y autovías, la velocidad máxima fijada con carácter general para autocaravanas de masa máxima autorizada igual o inferior a 3.500 kg es 120 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 17,
+      "enunciado": "Salvo que exista señal que lo prohíba, por los arcenes de las autovías se permite circular... ",
+      "imagen": "examen-25_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a peatones."
+        },
+        {
+          "letra": "B",
+          "texto": "a vehículos de tracción animal."
+        },
+        {
+          "letra": "C",
+          "texto": "a conductores de bicicletas mayores de 14 años."
+        }
+      ],
+      "ayuda": "Salvo prohibición expresa, por las autovías podrán circular, solo por el arcén, los conductores de bicicletas mayores de 14 años.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "Los conos de la fotografía indican que se ha habilitado... ",
+      "imagen": "examen-25_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un carril reversible."
+        },
+        {
+          "letra": "B",
+          "texto": "un carril VAO."
+        },
+        {
+          "letra": "C",
+          "texto": "un carril adicional circunstancial."
+        }
+      ],
+      "ayuda": "Los conos que se observan en la fotografía, delimitan un carril adicional circunstancial.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "¿Cuál de los siguientes vehículos se considera un automóvil? ",
+      "imagen": null,
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Tractocarro."
+        },
+        {
+          "letra": "B",
+          "texto": "Vehículo mixto adaptable."
+        },
+        {
+          "letra": "C",
+          "texto": "Tractor agrícola."
+        }
+      ],
+      "ayuda": "De los vehículos citados en las distintas respuestas, el único que tiene la consideración de automóvil, desde el punto de vista reglamentario, es el vehículo mixto adaptable. \n\nEl tractocarro y el tractor agrícola, tienen la consideración de vehículos de motor pero se clasifican dentro del concepto de vehículos especiales.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "Esta señal prohíbe...",
+      "imagen": "examen-25_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "el estacionamiento entre la 1 y las 15 horas."
+        },
+        {
+          "letra": "B",
+          "texto": "el estacionamiento desde las 9 horas del día 1 hasta las 9 horas del día 16."
+        },
+        {
+          "letra": "C",
+          "texto": "la parada los días indicados en la señal."
+        }
+      ],
+      "ayuda": "Esta señal prohíbe el estacionamiento en el lado de la calzada en que esté situada, desde las 9 horas del día 1 hasta las 9 horas del día 16.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 21,
+      "enunciado": "¿Es importante no superar los límites de velocidad en poblado?",
+      "imagen": "examen-25_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en caso de accidente, el peatón tiene más posibilidades de sobrevivir."
+        },
+        {
+          "letra": "B",
+          "texto": "No, sobre todo en calles y avenidas amplias."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solo para evitar una sanción por exceso de velocidad."
+        }
+      ],
+      "ayuda": "En poblado es muy importante no superar las velocidades máximas fijadas. Por ejemplo, a más de 50 km/h, en caso de atropello a un peatón, aumenta la probabilidad de que este muera hasta en un 50%. ",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 22,
+      "enunciado": "La distancia de frenado es el espacio recorrido desde que el conductor...",
+      "imagen": "examen-25_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "ve el obstáculo hasta que se detiene el vehículo."
+        },
+        {
+          "letra": "B",
+          "texto": "ve el obstáculo hasta que acciona el freno."
+        },
+        {
+          "letra": "C",
+          "texto": "acciona el freno hasta que el vehículo se detiene."
+        }
+      ],
+      "ayuda": "La distancia de frenado es la distancia en metros que recorre el vehículo desde que el conductor empieza a frenar hasta que el vehículo queda detenido totalmente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "Este panel informa de la distancia entre la señal y un tramo autorizado para hacer cambios de sentido... ",
+      "imagen": "examen-25_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "a diferente nivel."
+        },
+        {
+          "letra": "B",
+          "texto": "al mismo nivel."
+        },
+        {
+          "letra": "C",
+          "texto": "y cambios de dirección."
+        }
+      ],
+      "ayuda": "Señal de cambio de sentido al mismo nivel\nIndica la proximidad de un lugar en el que se puede efectuar un cambio de sentido al mismo nivel.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "El sistema de lavaparabrisas del vehículo, ¿necesita mantenimiento?",
+      "imagen": "examen-25_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, vigilar el nivel del circuito de refrigeración, de donde toma el agua."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, vigilar el nivel de líquido lavaparabrisas."
+        }
+      ],
+      "ayuda": "Se debe comprobar con frecuencia el nivel del depósito de lavaparabrisas y rellenarlo cuando sea necesario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "Esta señal indica que se acerca a un cruce...",
+      "imagen": "examen-25_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "con una vía estrecha."
+        },
+        {
+          "letra": "B",
+          "texto": "sin preferencia de paso."
+        },
+        {
+          "letra": "C",
+          "texto": "con preferencia de paso."
+        }
+      ],
+      "ayuda": "Señal de intersección con prioridad\nIndica peligro por la proximidad de una intersección con una vía, cuyos usuarios deben ceder el paso.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "Entre la dotación obligatoria que debe llevar un turismo, ¿se encuentra un extintor? ",
+      "imagen": "examen-25_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, cuando arrastre un remolque."
+        },
+        {
+          "letra": "B",
+          "texto": "No, en ningún caso."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, pero solamente cuando circule por vías fuera de poblado."
+        }
+      ],
+      "ayuda": "Los turismos no están obligados a llevar extintores, salvo que arrastren un remolque, en cuyo caso deberán llevar un equipo homologado de extinción de incendios, además de su dotación obligatoria.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿Es necesario que un turismo con remolque, lleve una rueda de repuesto del remolque?",
+      "imagen": "examen-25_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        },
+        {
+          "letra": "C",
+          "texto": "Sí, cuando el remolque no es ligero."
+        }
+      ],
+      "ayuda": "Un turismo con remolque no está obligado a llevar una rueda de repuesto para éste.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "Esta señal, a la entrada de una calzada, obliga a circular por ella a... ",
+      "imagen": "examen-25_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "motocicletas y ciclomotores."
+        },
+        {
+          "letra": "B",
+          "texto": "motocicletas de dos ruedas y vehículos de tres ruedas asimilados a motocicletas."
+        },
+        {
+          "letra": "C",
+          "texto": "todos los vehículos de dos ruedas."
+        }
+      ],
+      "ayuda": "La señal que se observa en la imagen indica calzada obligatoria para motocicletas de dos ruedas y vehículos de tres ruedas asimilados a motocicletas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 29,
+      "enunciado": "¿Es recomendable realizar un mantenimiento frecuente del sistema de alumbrado del vehículo?",
+      "imagen": "examen-25_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque circular con una iluminación deficiente incrementa la fatiga visual del conductor y el riesgo de accidente."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, por lo que es obligatorio realizar revisiones mensuales."
+        },
+        {
+          "letra": "C",
+          "texto": "No, solamente cuando tenga que someterse a la inspección técnica reglamentaria."
+        }
+      ],
+      "ayuda": "Se recomienda realizar un mantenimiento con frecuencia del sistema de alumbrado del vehículo, ya que una iluminación deficiente puede incrementar la fatiga visual del conductor y el riesgo de sufrir accidentes.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "Esta señal prohíbe el paso a...",
+      "imagen": "examen-25_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "todos los vehículos o conjuntos de vehículos cuya longitud máxima, incluida la carga, supere la indicada en la señal."
+        },
+        {
+          "letra": "B",
+          "texto": "todos lo vehículos, excepto vehículos articulados y conjuntos de vehículos, cuya longitud máxima, incluida la carga, supere la indicada en la señal."
+        },
+        {
+          "letra": "C",
+          "texto": "vehículos o conjuntos de vehículos destinados a transportes de mercancías, exclusivamente, cuya longitud máxima, incluida la carga, supere la indicada en la señal."
+        }
+      ],
+      "ayuda": "Esta señal prohíbe el paso a los vehículos o conjuntos de vehículos cuya longitud máxima, incluida la carga, supere la indicada.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    }
+  ]
+}

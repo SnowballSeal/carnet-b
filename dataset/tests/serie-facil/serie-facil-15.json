@@ -1,0 +1,637 @@
+{
+  "categoria_id": 2,
+  "test_id": 15,
+  "nombre": "Serie fácil 15",
+  "preguntas": [
+    {
+      "numero": 1,
+      "enunciado": "Si conduce una motocicleta, ¿qué separación lateral debe mantener al cruzarse con otro vehículo?",
+      "imagen": "serie-facil-15_images/1.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Una distancia menor de 1,50 metros fuera de poblado."
+        },
+        {
+          "letra": "B",
+          "texto": "La necesaria para realizar el cruce con seguridad."
+        }
+      ],
+      "ayuda": "La distancia de seguridad que debe guardar cualquier conductor al cruzarse con otro vehículo, debe ser la necesaria para realizar el cruce con seguridad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 2,
+      "enunciado": "Mirarse en el espejo retrovisor mientras se conduce, ¿puede aumentar el riesgo de accidente?",
+      "imagen": "serie-facil-15_images/2.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, porque el tiempo que se mira al espejo no se presta atención a la conducción."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, pero solamente de noche."
+        },
+        {
+          "letra": "C",
+          "texto": "No, porque es posible mirarse al espejo y conducir a la vez."
+        }
+      ],
+      "ayuda": "Al mirarse por el espejo retrovisor mientras se conduce, se deja de prestar atención a la conducción con el consiguiente riesgo de sufrir un accidente.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 3,
+      "enunciado": "Un vehículo estacionado en el arcén de una travesía insuficientemente iluminada...",
+      "imagen": "serie-facil-15_images/3.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "está obligado a tener encendidas las luces de posición, que podrá sustituir por las de estacionamiento."
+        },
+        {
+          "letra": "B",
+          "texto": "no está obligado a tener encendida ninguna luz."
+        }
+      ],
+      "ayuda": "Al estacionar en una travesía insuficientemente iluminada, se deben dejar encendidas las luces de posición, las cuales podrán sustituirse por las de estacionamiento cuando el vehículo esté estacionado en línea.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 4,
+      "enunciado": "Esta señal indica...",
+      "imagen": "serie-facil-15_images/4.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la situación de una zona de escape acondicionada para que pueda detener el vehículo en caso de fallo del sistema de frenado."
+        },
+        {
+          "letra": "B",
+          "texto": "la proximidad de una zona en la que puede inmovilizar el vehículo para realizar algún descanso."
+        }
+      ],
+      "ayuda": "Esta señal indica la situación de una zona de escape acondicionada para que pueda detener el vehículo en caso de fallo del sistema de frenado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 5,
+      "enunciado": "Si debido a una avería, un turismo circula a velocidad anormalmente reducida, sin interrumpir la circulación, ¿por dónde debe circular?",
+      "imagen": "serie-facil-15_images/5.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Por la parte derecha de la calzada sin invadir el arcén."
+        },
+        {
+          "letra": "B",
+          "texto": "Por el arcén, obligatoriamente."
+        }
+      ],
+      "ayuda": "Si debido a una avería circula con su turismo a velocidad anormalmente reducida sin perturbar gravemente la circulación, hay que circular por la parte derecha de la calzada sin invadir el arcén.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 6,
+      "enunciado": "En esta travesía insuficientemente iluminada deberá llevar encendido...",
+      "imagen": "serie-facil-15_images/6.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El alumbrado de posición y el de corto alcance o cruce."
+        },
+        {
+          "letra": "B",
+          "texto": "Solamente el alumbrado de posición."
+        }
+      ],
+      "ayuda": "En travesías suficientemente o insuficientemente iluminadas se deben llevar encendidas las luces de posición y cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 7,
+      "enunciado": "¿Qué debe hacer un conductor si ha sido deslumbrado?",
+      "imagen": "serie-facil-15_images/7.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Reducir la velocidad, incluso hasta llegar a detenerse totalmente, si fuera necesario."
+        },
+        {
+          "letra": "B",
+          "texto": "Encender el alumbrado de largo alcance."
+        }
+      ],
+      "ayuda": "Si el conductor es deslumbrado por las luces de largo alcance de otro vehículo, debe moderar la velocidad y si fuera preciso detener el vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 8,
+      "enunciado": "La reanimación de un accidentado, ¿cuánto tiempo debe durar?",
+      "imagen": "serie-facil-15_images/8.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Hasta que se recupere o llegue la ayuda sanitaria."
+        },
+        {
+          "letra": "B",
+          "texto": "Si después de 2 minutos no se ha recuperado es mejor dejarlo."
+        },
+        {
+          "letra": "C",
+          "texto": "5 minutos como máximo."
+        }
+      ],
+      "ayuda": "La reanimación de un accidentado, debe durar hasta que se recupere el accidentado o llegue la ayuda sanitaria.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 9,
+      "enunciado": "Circula por una vía urbana cerca de un ciclista, ¿qué debe tener en cuenta?",
+      "imagen": "serie-facil-15_images/9.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Que el ciclista no debe circular por la calzada."
+        },
+        {
+          "letra": "B",
+          "texto": "Que la bicicleta es un vehículo frágil y vulnerable."
+        },
+        {
+          "letra": "C",
+          "texto": "Que debe adelantar muy rápido al ciclista."
+        }
+      ],
+      "ayuda": "Al circular próximos a ciclistas tenemos que tener cuidado, ya que las bicicletas son vehículos muy frágiles y vulnerables.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 10,
+      "enunciado": "Los conductores jóvenes suelen tener más accidentes...",
+      "imagen": "serie-facil-15_images/10.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "por un comportamiento exhibicionista cuando van en grupo."
+        },
+        {
+          "letra": "B",
+          "texto": "por desconocimiento de las normas."
+        }
+      ],
+      "ayuda": "Los conductores jóvenes suelen tener más accidentes por su comportamiento exhibicionista cuando van en grupo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 11,
+      "enunciado": "Si en una vía interurbana un ciclomotor de dos ruedas quiere girar a la izquierda y no hay carril acondicionado para ello:",
+      "imagen": "serie-facil-15_images/11.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "no puede realizar el giro."
+        },
+        {
+          "letra": "B",
+          "texto": "debe situarse a la derecha, e iniciarlo fuera de la calzada siempre que sea posible."
+        }
+      ],
+      "ayuda": "En vías interurbanas los conductores de ciclomotores de dos ruedas cuando pretendan girar a la izquierda, deben utilizar el carril acondicionado para ello, pero si no existe, se colocarán a la derecha, fuera de la calzada si es posible, e iniciarlo desde ese lugar.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 12,
+      "enunciado": "En una autopista conduciendo un camión de 3.500 kg de M.M.A., ¿qué distancia es obligatorio dejar con el vehículo que va delante?",
+      "imagen": "serie-facil-15_images/12.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "La distancia de seguridad suficiente para no colisionar."
+        },
+        {
+          "letra": "B",
+          "texto": "100 metros."
+        }
+      ],
+      "ayuda": "Si conduce un camión por una autopista, debe dejar una distancia de seguridad con el vehículo que va delante que permita detener el vehículo sin colisionar con él.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 13,
+      "enunciado": "¿Qué alumbrado llevará encendido una motocicleta durante el día?",
+      "imagen": "serie-facil-15_images/13.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El de posición o el de corto alcance."
+        },
+        {
+          "letra": "B",
+          "texto": "El de corto alcance o cruce."
+        },
+        {
+          "letra": "C",
+          "texto": "Ninguno."
+        }
+      ],
+      "ayuda": "Durante el día, las motocicletas llevarán encendidas las luces de corto alcance o cruce.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 14,
+      "enunciado": "La velocidad máxima con carácter general, para un vehículo especial es de...",
+      "imagen": "serie-facil-15_images/14.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "60 kilómetros hora."
+        },
+        {
+          "letra": "B",
+          "texto": "40 kilómetros hora."
+        }
+      ],
+      "ayuda": "Como norma general, la velocidad máxima permitida para un vehículo especial es de 40 kilómetros por hora.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 15,
+      "enunciado": "Esta señal indica peligro por la proximidad de un tramo...",
+      "imagen": "serie-facil-15_images/15.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "en el que frecuentemente existe congestión del tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "donde es obligatorio guardar la distancia de seguridad."
+        }
+      ],
+      "ayuda": "Esta señal indica peligro por la proximidad de un tramo en el que la circulación se encuentra detenida o dificultada por congestión del tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 16,
+      "enunciado": "La probabilidad de que un accidente de tráfico sea mortal es mucho mayor en...",
+      "imagen": "serie-facil-15_images/16.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "un turismo que en un vehículo de dos ruedas."
+        },
+        {
+          "letra": "B",
+          "texto": "los vehículos de cuatro ruedas que en los vehículos de dos ruedas."
+        },
+        {
+          "letra": "C",
+          "texto": "un vehículo de dos ruedas que un turismo."
+        }
+      ],
+      "ayuda": "La probabilidad de que un accidente de tráfico sea mortal, es mucho mayor en un vehículo de dos ruedas que un turismo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 17,
+      "enunciado": "¿Está prohibida la parada en las intersecciones y sus proximidades de las vías interurbanas?",
+      "imagen": "serie-facil-15_images/17.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí, en cualquier vía."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, cuando se genere peligro por falta de visibilidad."
+        },
+        {
+          "letra": "C",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Queda prohibido parar en las intersecciones y en sus proximidades si se genera peligro por falta de visibilidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 18,
+      "enunciado": "¿Es obligatorio que las obras que dificulten la circulación estén señalizadas?",
+      "imagen": "serie-facil-15_images/18.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sólo de día."
+        },
+        {
+          "letra": "B",
+          "texto": "Tanto de día como de noche."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo de noche."
+        }
+      ],
+      "ayuda": "Las obras que dificulten de cualquier modo la circulación vial, deben estar señalizadas tanto de día como de noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 19,
+      "enunciado": "Entre los principales gastos sanitarios provocados por los accidentes de tráfico están...",
+      "imagen": "serie-facil-15_images/19.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "los medicamentos."
+        },
+        {
+          "letra": "B",
+          "texto": "los de rehabilitación y adaptaciones para las personas accidentadas."
+        },
+        {
+          "letra": "C",
+          "texto": "los antidepresivos."
+        }
+      ],
+      "ayuda": "Entre los principales gastos sanitarios provocados por los accidentes de tráfico están, los de rehabilitación y adaptaciones para las personas accidentadas.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 20,
+      "enunciado": "En una vía en la que se ha habilitado un carril adicional circunstancial, ¿qué vehículos están obligados a llevar encendida, al menos, la luz de cruce?",
+      "imagen": "serie-facil-15_images/20.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Todos."
+        },
+        {
+          "letra": "B",
+          "texto": "Sólo los vehículos que circulen por los arcenes."
+        }
+      ],
+      "ayuda": "Todos los vehículos que circulen por una vía en la que se ha instalado un carril adicional circunstancial, deben llevar encendidas al menos, las luces de cruce o corto alcance tanto de día como de noche.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 21,
+      "enunciado": "Necesita hacer una parada en una calle estrecha. ¿Puede ocupar parte de la acera con su vehículo?",
+      "imagen": "serie-facil-15_images/21.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Sí."
+        },
+        {
+          "letra": "B",
+          "texto": "No."
+        }
+      ],
+      "ayuda": "Entre otros casos queda prohibido parar y estacionar sobre las aceras.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 22,
+      "enunciado": "Arrancar el motor sin acelerar, ¿evita un consumo de combustible innecesario?",
+      "imagen": "serie-facil-15_images/22.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "No, se debe acelerar para arrancar."
+        },
+        {
+          "letra": "B",
+          "texto": "Sí, en los vehículos actuales no es necesario pisar el acelerador para arrancar."
+        },
+        {
+          "letra": "C",
+          "texto": "No, además no es posible arrancar sin acelerar."
+        }
+      ],
+      "ayuda": "En los vehículos actuales no es necesario pisar el acelerador para arrancar el motor, de esta manera se evita un consumo de carburante innecesario.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 23,
+      "enunciado": "La distancia de seguridad con el vehículo que circula delante depende de...",
+      "imagen": "serie-facil-15_images/23.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "la densidad del tráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "la velocidad y las condiciones de adherencia y de frenado."
+        },
+        {
+          "letra": "C",
+          "texto": "el tipo de vehículo que circula delante."
+        }
+      ],
+      "ayuda": "La distancia de seguridad que hay que mantener con el vehículo que va delante, dependerá de la velocidad y de las condiciones de adherencia y frenado.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 24,
+      "enunciado": "¿Qué indica esta señal?",
+      "imagen": "serie-facil-15_images/24.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Pavimento deslizante."
+        },
+        {
+          "letra": "B",
+          "texto": "Desprendimientos."
+        },
+        {
+          "letra": "C",
+          "texto": "Visibilidad reducida."
+        }
+      ],
+      "ayuda": "Esta señal indica peligro por la proximidad de un tramo en que la circulación se ve dificultada por una pérdida notable de visibilidad debida a niebla, lluvia, nieve, humos, etc.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "C",
+      "es_correcta": false
+    },
+    {
+      "numero": 25,
+      "enunciado": "¿Qué personas tienen menos control sobre la sensación del sueño y sobre sus efectos negativos?",
+      "imagen": "serie-facil-15_images/25.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "Los jóvenes."
+        },
+        {
+          "letra": "B",
+          "texto": "Los mayores."
+        }
+      ],
+      "ayuda": "Las personas mayores tienen menos control sobre la sensación de sueño y sobre sus efectos negativos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 26,
+      "enunciado": "¿Qué tipo de averías suelen producir más accidentes de tráfico?",
+      "imagen": "serie-facil-15_images/26.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "El fallo de los neumáticos."
+        },
+        {
+          "letra": "B",
+          "texto": "El fallo de la dirección."
+        }
+      ],
+      "ayuda": "El mal estado de los neumáticos suelen producir más accidentes de tráfico.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 27,
+      "enunciado": "¿De cuántos puntos dispone un conductor novel?",
+      "imagen": "serie-facil-15_images/27.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "De 16 puntos."
+        },
+        {
+          "letra": "B",
+          "texto": "De 8 puntos."
+        },
+        {
+          "letra": "C",
+          "texto": "De 12 puntos."
+        }
+      ],
+      "ayuda": "La asignación inicial de puntos, para conductores que obtienen por primera vez un permiso, o que lo recuperan después de haberlo perdido por la pérdida total de puntos, será de 8 puntos.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    },
+    {
+      "numero": 28,
+      "enunciado": "¿Cuál es la velocidad máxima a la que puede circular un ciclomotor?",
+      "imagen": "serie-facil-15_images/28.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "45 kilómetros por hora."
+        },
+        {
+          "letra": "B",
+          "texto": "45 kilómetros por hora, pudiendo superarla en 20 km/h para adelantar."
+        },
+        {
+          "letra": "C",
+          "texto": "70 kilómetros por hora."
+        }
+      ],
+      "ayuda": "La velocidad máxima fijada con carácter general para ciclomotores de dos, tres o cuatro ruedas, es de 45 kilómetros por hora. Este límite de velocidad, no puede ser rebasado por estos vehículos en ningún caso.\n",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 29,
+      "enunciado": "Al aproximarse a un paso para peatones no regulado por semáforos, se debe...",
+      "imagen": "serie-facil-15_images/29.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "moderar la velocidad."
+        },
+        {
+          "letra": "B",
+          "texto": "detener siempre el vehículo."
+        },
+        {
+          "letra": "C",
+          "texto": "cruzarlo rápidamente cuando no haya peatones."
+        }
+      ],
+      "ayuda": "El conductor de un vehículo que se aproxime a un paso de peatones no regulado por semáforo o agente, deberá moderar su velocidad.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "A",
+      "es_correcta": true
+    },
+    {
+      "numero": 30,
+      "enunciado": "¿En qué asiento debe viajar un niño en un vehículo mixto?",
+      "imagen": "serie-facil-15_images/30.webp",
+      "opciones": [
+        {
+          "letra": "A",
+          "texto": "En este tipo de vehículos no puede viajar un niño."
+        },
+        {
+          "letra": "B",
+          "texto": "En los asientos traseros, utilizando un dispositivo de retención."
+        },
+        {
+          "letra": "C",
+          "texto": "Sólo en los asientos traseros utilizando el cinturón de seguridad para adultos."
+        }
+      ],
+      "ayuda": "Como norma general, los menores de edad de estatura igual o inferior a 135 centímetros deberán utilizar sistemas de retención infantil y situarse en los asientos traseros del vehículo.",
+      "respuesta_seleccionada": "A",
+      "respuesta_correcta": "B",
+      "es_correcta": false
+    }
+  ]
+}
